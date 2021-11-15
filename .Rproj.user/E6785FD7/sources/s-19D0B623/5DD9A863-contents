@@ -9,7 +9,7 @@ knitr::include_graphics("image/TRL_cropped.jpg")
 
 Darüber hinaus bewerten wir die Bereitschaft einer bestimmten Technologie, in der Gesellschaft akzeptiert zu werden, und wie gut sie zum Gemeinwohl beiträgt, indem wir die **Skala der gesellschaftlichen Bereitschaft** verwenden (McCulloch, 2019):
 
-```{r, echo=FALSE, , out.width="80%", , fig.cap="Skala für die gesellschaftliche Bereitschaft."}
+```{r, echo=FALSE, , out.width="80%", , fig.cap="Skala fuer die gesellschaftliche Bereitschaft."}
 knitr::include_graphics("image/SRL_cropped.jpg")
 ```
 
