@@ -3,13 +3,13 @@
 Diese Arbeit sammelt und definiert wesentliche Konzepte im Zusammenhang mit der Automatisierung und Digitalisierung des Verkehrssystems zusammen mit der Beschreibung ihrer Auswirkungen, sowohl negativ als auch positiv auf **individueller**, **systemischer** und **wirtschaftlicher Ebene**. Dieser Knowledge pool wird durch die Tatsache angetrieben, dass Automatisierung und Digitalisierung schnell voranschreiten, wenn auch nicht gleichmäßig in allen Bereichen im Verkehrskontext. Um das Spektrum der Möglichkeiten zu verstehen, die sie mit sich bringen, ist es daher notwendig, die Schlüsselkonzepte zu erklären, ihren Entwicklungsstand und ihre derzeitige Marktdurchdringung aufzuzeigen und schließlich ihre Auswirkungen auf verschiedenen Ebenen zu bewerten. Angesichts dieses Ansatzes enthält jedes Thema die folgenden **Definition** des Phänomens, 
 **Wichtige Interessensgruppen**, die für die jeweilige technologische Entwicklung verantwortlich und von ihr betroffen sind. Dann folgen zwei Unterabschnitte zum **aktuellen Stand der Forschung und Praxis**. Der erste Abschnitt fasst die neuesten Forschungsergebnisse zu einem bestimmten Thema zusammen, während der zweite Abschnitt den aktuellen Stand der Umsetzung einer bestimmten Technologie in der realen Welt erläutert. Der Abschnitt "**Relevante Initiativen in Österreich**" beschreibt die führenden Initiativen zu einem bestimmten Thema und das Potenzial für österreichische Akteure. Darüber hinaus bieten wir eine zusammenfassende Tabelle über die Auswirkungen des Konzepts auf ausgewählte **Ziele für nachhaltige Entwicklung** (SDGs). Um ein objektives Maß für den Entwicklungsstand der Technologie in den einzelnen Themenbereichen zu erhalten, haben wir außerdem die sogenannte **Technology Readiness Scale** (Williamson & Beasley, 2011) wie unten beschrieben, integriert:<br/>
 
-```{r, echo=FALSE, , out.width="90%", fig.cap="Skala der technologischen Bereitschaft"}
+```{r, echo=FALSE, , out.width="80%", fig.cap="Skala der technologischen Bereitschaft."}
 knitr::include_graphics("image/TRL_cropped.jpg")
 ```
 
 Darüber hinaus bewerten wir die Bereitschaft einer bestimmten Technologie, in der Gesellschaft akzeptiert zu werden, und wie gut sie zum Gemeinwohl beiträgt, indem wir die **Skala der gesellschaftlichen Bereitschaft** verwenden (McCulloch, 2019):
 
-```{r, echo=FALSE, , out.width="90%", , fig.cap="Skala fuer die gesellschaftliche Bereitschaft"}
+```{r, echo=FALSE, , out.width="80%", , fig.cap="Skala für die gesellschaftliche Bereitschaft."}
 knitr::include_graphics("image/SRL_cropped.jpg")
 ```
 
