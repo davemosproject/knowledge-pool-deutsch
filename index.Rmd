@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Pool"
-author: 'DAVeMoS team, Institut für Verkehrswesen (IVe), Universität für Bodenkultur Wiena'
+author: 'DAVeMoS team, Institut für Verkehrswesen (IVe), Universität für Bodenkultur Wien'
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -30,6 +30,8 @@ Die Autoren freuen sich über Feedback, Fragen und Beiträge der Leser. Für wei
 knitr::include_graphics("image/cc.png")
 ```
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. <br/>
+
+The authors assume no responsibility or liability for any errors or omissions in the content of this work. The information contained in the knowledge pool is for general information purposes only.
 
 **Inhaltsverzeichnis**
 
