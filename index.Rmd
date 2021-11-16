@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Pool"
-author: 'DAVeMoS team, Institute for Transport Studies (IVe), University of Natural Resources and Life Sciences in Vienna'
+author: 'DAVeMoS team, Institut für Verkehrswesen (IVe), Universität für Bodenkultur Wiena'
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -11,4 +11,192 @@ github-repo: rstudio/bookdown-demo
 description: "This is a work-in-progress knowledge pool of the systemic impact of transport digitalisation and automation."
 ---
 
-# Willkommen
+# Willkommen {-}
+
+```{r, echo=FALSE, out.width="40%"}
+knitr::include_graphics("image/davemos_logo.png")
+```
+
+Der Knowledge Pool ist eine sich ständig weiterentwickelnde Datenbank, die Teil des [DAVeMoS](https://www.davemos.online/){target="_blank"} Projekts ist. Sie zielt darauf ab, Konzepte und Belege für die systemischen Auswirkungen der Digitalisierung und Automatisierung des Verkehrs zu sammeln. Er ist ein Gemeinschaftswerk der DAVeMoS-Teammitglieder, die mit ihrem Fachwissen, ihren Ideen und Verbesserungsvorschlägen zu Inhalt und Design beigetragen haben:
+
+- Dr. Msc. MA (Hons) Martyna Bogacz
+- B.Sc. Veronika Hebenstreit
+- B.Sc. Gregor Husner
+- Univ. Prof. Dr. Yusak Susilo
+
+Die Autoren freuen sich über Feedback, Fragen und Beiträge der Leser. Für weitere Eingaben wenden Sie sich bitte an die korrespondierende Autorin Martyna Bogacz unter der folgenden E-Mail-Adresse: davemos.library@boku.ac.at. <br/>
+
+```{r, echo=FALSE, , out.width="10%"}
+knitr::include_graphics("image/cc.png")
+```
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. <br/>
+
+**Inhaltsverzeichnis**
+
+1. [Einleitung](#intro)
+2. [Physische Straßeninfrastruktur](#infrastructure)
+    - [Gesonderte Fahrspuren für vernetzte und automatisierte Fahrzeuge (connected and automated vehicles - CAV)](#dedicated_lanes)  
+    - [Operative Gestaltungsbereiche](#ODD)  
+    - [Informationssystem für Bahnübergänge](#rail_crossing_info_system)  
+    - [Elektrisches Straßensystem (Electric road system - ERS)](#ers)  
+    - [Fahrspuren für Fahrzeuge mit hoher Auslastung (high-occupancy vehicle - HOV)](#high_occupancy)  
+    - [Prioritätssysteme für den öffentlichen Verkehr](#public_trans_priority)  
+    - [Transformation des öffentlichen Raums und digitale Lösungen](#transformation_public_space)  
+3. [Verwaltung der Straßenverkehrsinfrastruktur](#highway)
+    - [Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur](#uav)  
+    - [Elektrische Ladestationen](#charging_station)  
+4. [Traffic management](#traffic)
+    - [Staugebühren (Congestion charging)](#congestion_charging)  
+    - [Platooning](#platooning)  
+    - [Verkehrsinformationen und -überwachung in Echtzeit](#traffic_info_monitoring)  
+    - [Kooperativ - intelligentes Verkehrssystem (Cooperative - intelligent transport system)](#cits)  
+    - [Dynamische Routenführung](#dynamic_route)  
+    - [Variable Geschwindigkeitsbegrenzungen und dynamisches Beschilderungssystem](#variable_speed)  
+    - [Intelligente Verkehrssignalsteuerung](#adaptive_traffic_control)  
+    - [Flottenmanagement für Personentransport und Gütertransport](#p_g_fleet_management)  
+    - [Verwaltung des städtischen Zugangs (Urban Access Management)](#urban_access)  
+5. [Digitale Straßeninfrastruktur und Konnektivität](#digital)
+    - [V2X (Vehicle to everything / Fahrzeug-zu-Alles) Kommunikation](#v2x)  
+    - [Unterstützungsgrad der Infrastruktur für automatisiertes Fahren (ISAD - Infrastructure support for automated driving)](#infrast_support_level)  
+6. [Fahrgastinformationssystem](#passenger)
+    - [Digitale Fahrplanauskunft](#djp)  
+    - [Multimodale Informationen und Routenplanung](#info_and_route_planning)  
+7. [Multimodales integriertes System](#multimodal)
+    - [Lösungen für die erste und letzte Meile](#flms)  
+    - [Fahrpreise für den öffentlichen Personennahverkehr](#dist_time_fares)  
+    - [Mobilität als Dienstleistung - Mobility as a service (Maas)](#maas)  
+    - [Park and ride](#p_r)  
+    - [Kontaktlose Karten für öffentliche Verkehrsmittel](#contactless_cards)  
+    - [Informationen und Unterstützung für Menschen mit besonderen Bedürfnissen](#special_needs)  
+    - [Mobilitätszentren - Mobility hubs](#mobility_hubs)  
+    - [Schienenverkehrstelematik für Passagiere und Güterverkehr](#rail_telematics)  
+8. [Automatisiertes Fahren](#connected)
+    - [Automatisierte PKWs](#av) 
+    - [Parkinfrastruktur für automatisierte Fahrzeuge](#parking_av)
+    - [Automatisierter Straßengüterverkehr](#automated_road_freight)
+    - [Automatischer Zugbetrieb](#automatic_train)  
+9. [Bordtechnologie für vernetzte und automatisierte Fahrzeuge](#onboard)
+    - [Fortschrittliche Fahrerassistenzsysteme (Advanced driver assistance system - ADAS)](#adas)  
+    - [Einparkhilfe-System](#parking_assistance)  
+    - [Spurhalte-Assistent](#lane_keeping)  
+    - [Digitale Landkarten](#digital_maps)  
+    - [Electronic horizon](#ehorizon)  
+    - [Automatischer Notruf](#ecall)  
+10. [Güterverkehr und gewerblicher Transport](#freight)
+    - [Lokalisierung und Nachverfolgbarkeit von Waren](#dangerous_goods)  
+    - [Intermodaler Güterverkehr](#intermodal_freight)  
+    - [Städtische Lieferungen](#urban_delivery)  
+    - [Intelligentes LKW-Parken](#intelligent_truck_park)  
+    - [Intelligente Lieferflächenbuchung](#space_book)  
+    - [Lieferdrohnen](#delivery_drone)  
+    - [Elektrofahrzeug-Lieferflotten](#electric_delivery_fleets)  
+    - [Multimodale Verkehrsmanagementsysteme](#mtms)  
+    - [Güterverkehrsknotenpunkte](#freight_hubs)  
+11. [Fahrzeuge der kollektiven Mobilität](#collective)
+    - [Bedarfsgesteuerte Verkehrssysteme (DRT – Demand Responsive Transit)](#drt)  
+    - [Personenschnellverkehr (PRT - Personal Rapid Transit)](#prt)  
+    - [Busschnellverkehr (BRT - Bus rapid transit)](#brt)  
+    - [Stadtbahnverkehr (LRT - Light Rail Transit)](#lrt)  
+12. [Big data](#big)
+    - [Drahtlose Kommunikationssysteme](#wireless_com)  
+    - [Big data Lebenszyklus](#bd_life)
+    - [Big-Data-Tools für die Kartierung und Vorhersage des Reiseverhaltens](#bd_tool_maping)  
+13. [Gemeinschaftliche Mobilität - Shared mobility](#shared)
+    - [Car sharing](#car_sharing)  
+    - [(E)-Fahrrad-Sharing](#bike_sharing)  
+    - [E-Kick-Scooter](#scooters)  
+    - [Fahrgemeinschaften (Ride-sharing)](#ride_hailing)  
+    - [Passagierdrohnen](#passenger_drones)
+14. [Alternative Energieträger](#alternative)
+    - [Wasserstoff-Brennstoffzelle](#FCEV)  
+    - [Batterieelektrisch](#bev)  
+    - [Plugin-Hybridfahrzeuge](#plugin_hybrid)  
+15. [Referenzen](#reference)
+
+Der Knowledge Pool wurde zusammengestellt am:
+
+```{r, echo=FALSE}
+format(Sys.time(),'%d %B %Y')
+```
+
+# Inhaltsverzeichnis{-}
+
+1. [Einleitung](#intro)
+2. [Physische Straßeninfrastruktur](#infrastructure)
+    - [Gesonderte Fahrspuren für vernetzte und automatisierte Fahrzeuge (connected and automated vehicles - CAV)](#dedicated_lanes)  
+    - [Operative Gestaltungsbereiche](#ODD)  
+    - [Informationssystem für Bahnübergänge](#rail_crossing_info_system)  
+    - [Elektrisches Straßensystem (Electric road system - ERS)](#ers)  
+    - [Fahrspuren für Fahrzeuge mit hoher Auslastung (high-occupancy vehicle - HOV)](#high_occupancy)  
+    - [Prioritätssysteme für den öffentlichen Verkehr](#public_trans_priority)  
+    - [Transformation des öffentlichen Raums und digitale Lösungen](#transformation_public_space)  
+3. [Verwaltung der Straßenverkehrsinfrastruktur](#highway)
+    - [Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur](#uav)  
+    - [Elektrische Ladestationen](#charging_station)  
+4. [Traffic management](#traffic)
+    - [Staugebühren (Congestion charging)](#congestion_charging)  
+    - [Platooning](#platooning)  
+    - [Verkehrsinformationen und -überwachung in Echtzeit](#traffic_info_monitoring)  
+    - [Kooperativ - intelligentes Verkehrssystem (Cooperative - intelligent transport system)](#cits)  
+    - [Dynamische Routenführung](#dynamic_route)  
+    - [Variable Geschwindigkeitsbegrenzungen und dynamisches Beschilderungssystem](#variable_speed)  
+    - [Intelligente Verkehrssignalsteuerung](#adaptive_traffic_control)  
+    - [Flottenmanagement für Personentransport und Gütertransport](#p_g_fleet_management)  
+    - [Verwaltung des städtischen Zugangs (Urban Access Management)](#urban_access)  
+5. [Digitale Straßeninfrastruktur und Konnektivität](#digital)
+    - [V2X (Vehicle to everything / Fahrzeug-zu-Alles) Kommunikation](#v2x)  
+    - [Unterstützungsgrad der Infrastruktur für automatisiertes Fahren (ISAD - Infrastructure support for automated driving)](#infrast_support_level)  
+6. [Fahrgastinformationssystem](#passenger)
+    - [Digitale Fahrplanauskunft](#djp)  
+    - [Multimodale Informationen und Routenplanung](#info_and_route_planning)  
+7. [Multimodales integriertes System](#multimodal)
+    - [Lösungen für die erste und letzte Meile](#flms)  
+    - [Fahrpreise für den öffentlichen Personennahverkehr](#dist_time_fares)  
+    - [Mobilität als Dienstleistung - Mobility as a service (Maas)](#maas)  
+    - [Park and ride](#p_r)  
+    - [Kontaktlose Karten für öffentliche Verkehrsmittel](#contactless_cards)  
+    - [Informationen und Unterstützung für Menschen mit besonderen Bedürfnissen](#special_needs)  
+    - [Mobilitätszentren - Mobility hubs](#mobility_hubs)  
+    - [Schienenverkehrstelematik für Passagiere und Güterverkehr](#rail_telematics)  
+8. [Automatisiertes Fahren](#connected)
+    - [Automatisierte PKWs](#av) 
+    - [Parkinfrastruktur für automatisierte Fahrzeuge](#parking_av)
+    - [Automatisierter Straßengüterverkehr](#automated_road_freight)
+    - [Automatischer Zugbetrieb](#automatic_train)  
+9. [Bordtechnologie für vernetzte und automatisierte Fahrzeuge](#onboard)
+    - [Fortschrittliche Fahrerassistenzsysteme (Advanced driver assistance system - ADAS)](#adas)  
+    - [Einparkhilfe-System](#parking_assistance)  
+    - [Spurhalte-Assistent](#lane_keeping)  
+    - [Digitale Landkarten](#digital_maps)  
+    - [Electronic horizon](#ehorizon)  
+    - [Automatischer Notruf](#ecall)  
+10. [Güterverkehr und gewerblicher Transport](#freight)
+    - [Lokalisierung und Nachverfolgbarkeit von Waren](#dangerous_goods)  
+    - [Intermodaler Güterverkehr](#intermodal_freight)  
+    - [Städtische Lieferungen](#urban_delivery)  
+    - [Intelligentes LKW-Parken](#intelligent_truck_park)  
+    - [Intelligente Lieferflächenbuchung](#space_book)  
+    - [Lieferdrohnen](#delivery_drone)  
+    - [Elektrofahrzeug-Lieferflotten](#electric_delivery_fleets)  
+    - [Multimodale Verkehrsmanagementsysteme](#mtms)  
+    - [Güterverkehrsknotenpunkte](#freight_hubs)  
+11. [Fahrzeuge der kollektiven Mobilität](#collective)
+    - [Bedarfsgesteuerte Verkehrssysteme (DRT – Demand Responsive Transit)](#drt)  
+    - [Personenschnellverkehr (PRT - Personal Rapid Transit)](#prt)  
+    - [Busschnellverkehr (BRT - Bus rapid transit)](#brt)  
+    - [Stadtbahnverkehr (LRT - Light Rail Transit)](#lrt)  
+12. [Big data](#big)
+    - [Drahtlose Kommunikationssysteme](#wireless_com)  
+    - [Big data Lebenszyklus](#bd_life)
+    - [Big-Data-Tools für die Kartierung und Vorhersage des Reiseverhaltens](#bd_tool_maping)  
+13. [Gemeinschaftliche Mobilität - Shared mobility](#shared)
+    - [Car sharing](#car_sharing)  
+    - [(E)-Fahrrad-Sharing](#bike_sharing)  
+    - [E-Kick-Scooter](#scooters)  
+    - [Fahrgemeinschaften (Ride-sharing)](#ride_hailing)  
+    - [Passagierdrohnen](#passenger_drones)
+14. [Alternative Energieträger](#alternative)
+    - [Wasserstoff-Brennstoffzelle](#FCEV)  
+    - [Batterieelektrisch](#bev)  
+    - [Plugin-Hybridfahrzeuge](#plugin_hybrid)  
+15. [Referenzen](#reference)

@@ -37,7 +37,7 @@
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
   pdftitle={Knowledge Pool},
-  pdfauthor={DAVeMoS team, Institute for Transport Studies (IVe), University of Natural Resources and Life Sciences in Vienna},
+  pdfauthor={DAVeMoS team, Institut für Verkehrswesen (IVe), Universität für Bodenkultur Wiena},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
@@ -79,8 +79,8 @@
 \bibliographystyle{apalike}
 
 \title{Knowledge Pool}
-\author{DAVeMoS team, Institute for Transport Studies (IVe), University of Natural Resources and Life Sciences in Vienna}
-\date{2021-11-15}
+\author{DAVeMoS team, Institut für Verkehrswesen (IVe), Universität für Bodenkultur Wiena}
+\date{2021-11-16}
 
 \begin{document}
 \maketitle
@@ -90,7 +90,471 @@
 \tableofcontents
 }
 \hypertarget{willkommen}{%
-\chapter{Willkommen}\label{willkommen}}
+\chapter*{Willkommen}\label{willkommen}}
+\addcontentsline{toc}{chapter}{Willkommen}
+
+\includegraphics[width=0.4\linewidth]{image/davemos_logo}
+
+Der Knowledge Pool ist eine sich ständig weiterentwickelnde Datenbank, die Teil des \href{https://www.davemos.online/}{DAVeMoS} Projekts ist. Sie zielt darauf ab, Konzepte und Belege für die systemischen Auswirkungen der Digitalisierung und Automatisierung des Verkehrs zu sammeln. Er ist ein Gemeinschaftswerk der DAVeMoS-Teammitglieder, die mit ihrem Fachwissen, ihren Ideen und Verbesserungsvorschlägen zu Inhalt und Design beigetragen haben:
+
+\begin{itemize}
+\tightlist
+\item
+  Dr.~Msc. MA (Hons) Martyna Bogacz
+\item
+  B.Sc. Veronika Hebenstreit
+\item
+  B.Sc. Gregor Husner
+\item
+  Univ. Prof.~Dr.~Yusak Susilo
+\end{itemize}
+
+Die Autoren freuen sich über Feedback, Fragen und Beiträge der Leser. Für weitere Eingaben wenden Sie sich bitte an die korrespondierende Autorin Martyna Bogacz unter der folgenden E-Mail-Adresse: \href{mailto:davemos.library@boku.ac.at}{\nolinkurl{davemos.library@boku.ac.at}}.
+
+\includegraphics[width=0.1\linewidth]{image/cc}
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+\textbf{Inhaltsverzeichnis}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \protect\hyperlink{intro}{Einleitung}
+\item
+  \protect\hyperlink{infrastructure}{Physische Straßeninfrastruktur}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{dedicated_lanes}{Gesonderte Fahrspuren für vernetzte und automatisierte Fahrzeuge (connected and automated vehicles - CAV)}\\
+  \item
+    \protect\hyperlink{ODD}{Operative Gestaltungsbereiche}\\
+  \item
+    \protect\hyperlink{rail_crossing_info_system}{Informationssystem für Bahnübergänge}\\
+  \item
+    \protect\hyperlink{ers}{Elektrisches Straßensystem (Electric road system - ERS)}\\
+  \item
+    \protect\hyperlink{high_occupancy}{Fahrspuren für Fahrzeuge mit hoher Auslastung (high-occupancy vehicle - HOV)}\\
+  \item
+    \protect\hyperlink{public_trans_priority}{Prioritätssysteme für den öffentlichen Verkehr}\\
+  \item
+    \protect\hyperlink{transformation_public_space}{Transformation des öffentlichen Raums und digitale Lösungen}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{highway}{Verwaltung der Straßenverkehrsinfrastruktur}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{uav}{Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur}\\
+  \item
+    \protect\hyperlink{charging_station}{Elektrische Ladestationen}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{traffic}{Traffic management}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{congestion_charging}{Staugebühren (Congestion charging)}\\
+  \item
+    \protect\hyperlink{platooning}{Platooning}\\
+  \item
+    \protect\hyperlink{traffic_info_monitoring}{Verkehrsinformationen und -überwachung in Echtzeit}\\
+  \item
+    \protect\hyperlink{cits}{Kooperativ - intelligentes Verkehrssystem (Cooperative - intelligent transport system)}\\
+  \item
+    \protect\hyperlink{dynamic_route}{Dynamische Routenführung}\\
+  \item
+    \protect\hyperlink{variable_speed}{Variable Geschwindigkeitsbegrenzungen und dynamisches Beschilderungssystem}\\
+  \item
+    \protect\hyperlink{adaptive_traffic_control}{Intelligente Verkehrssignalsteuerung}\\
+  \item
+    \protect\hyperlink{p_g_fleet_management}{Flottenmanagement für Personentransport und Gütertransport}\\
+  \item
+    \protect\hyperlink{urban_access}{Verwaltung des städtischen Zugangs (Urban Access Management)}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{digital}{Digitale Straßeninfrastruktur und Konnektivität}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{v2x}{V2X (Vehicle to everything / Fahrzeug-zu-Alles) Kommunikation}\\
+  \item
+    \protect\hyperlink{infrast_support_level}{Unterstützungsgrad der Infrastruktur für automatisiertes Fahren (ISAD - Infrastructure support for automated driving)}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{passenger}{Fahrgastinformationssystem}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{djp}{Digitale Fahrplanauskunft}\\
+  \item
+    \protect\hyperlink{info_and_route_planning}{Multimodale Informationen und Routenplanung}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{multimodal}{Multimodales integriertes System}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{flms}{Lösungen für die erste und letzte Meile}\\
+  \item
+    \protect\hyperlink{dist_time_fares}{Fahrpreise für den öffentlichen Personennahverkehr}\\
+  \item
+    \protect\hyperlink{maas}{Mobilität als Dienstleistung - Mobility as a service (Maas)}\\
+  \item
+    \protect\hyperlink{p_r}{Park and ride}\\
+  \item
+    \protect\hyperlink{contactless_cards}{Kontaktlose Karten für öffentliche Verkehrsmittel}\\
+  \item
+    \protect\hyperlink{special_needs}{Informationen und Unterstützung für Menschen mit besonderen Bedürfnissen}\\
+  \item
+    \protect\hyperlink{mobility_hubs}{Mobilitätszentren - Mobility hubs}\\
+  \item
+    \protect\hyperlink{rail_telematics}{Schienenverkehrstelematik für Passagiere und Güterverkehr}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{connected}{Automatisiertes Fahren}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{av}{Automatisierte PKWs}
+  \item
+    \protect\hyperlink{parking_av}{Parkinfrastruktur für automatisierte Fahrzeuge}
+  \item
+    \protect\hyperlink{automated_road_freight}{Automatisierter Straßengüterverkehr}
+  \item
+    \protect\hyperlink{automatic_train}{Automatischer Zugbetrieb}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{onboard}{Bordtechnologie für vernetzte und automatisierte Fahrzeuge}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{adas}{Fortschrittliche Fahrerassistenzsysteme (Advanced driver assistance system - ADAS)}\\
+  \item
+    \protect\hyperlink{parking_assistance}{Einparkhilfe-System}\\
+  \item
+    \protect\hyperlink{lane_keeping}{Spurhalte-Assistent}\\
+  \item
+    \protect\hyperlink{digital_maps}{Digitale Landkarten}\\
+  \item
+    \protect\hyperlink{ehorizon}{Electronic horizon}\\
+  \item
+    \protect\hyperlink{ecall}{Automatischer Notruf}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{freight}{Güterverkehr und gewerblicher Transport}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{dangerous_goods}{Lokalisierung und Nachverfolgbarkeit von Waren}\\
+  \item
+    \protect\hyperlink{intermodal_freight}{Intermodaler Güterverkehr}\\
+  \item
+    \protect\hyperlink{urban_delivery}{Städtische Lieferungen}\\
+  \item
+    \protect\hyperlink{intelligent_truck_park}{Intelligentes LKW-Parken}\\
+  \item
+    \protect\hyperlink{space_book}{Intelligente Lieferflächenbuchung}\\
+  \item
+    \protect\hyperlink{delivery_drone}{Lieferdrohnen}\\
+  \item
+    \protect\hyperlink{electric_delivery_fleets}{Elektrofahrzeug-Lieferflotten}\\
+  \item
+    \protect\hyperlink{mtms}{Multimodale Verkehrsmanagementsysteme}\\
+  \item
+    \protect\hyperlink{freight_hubs}{Güterverkehrsknotenpunkte}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{collective}{Fahrzeuge der kollektiven Mobilität}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{drt}{Bedarfsgesteuerte Verkehrssysteme (DRT -- Demand Responsive Transit)}\\
+  \item
+    \protect\hyperlink{prt}{Personenschnellverkehr (PRT - Personal Rapid Transit)}\\
+  \item
+    \protect\hyperlink{brt}{Busschnellverkehr (BRT - Bus rapid transit)}\\
+  \item
+    \protect\hyperlink{lrt}{Stadtbahnverkehr (LRT - Light Rail Transit)}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{big}{Big data}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{wireless_com}{Drahtlose Kommunikationssysteme}\\
+  \item
+    \protect\hyperlink{bd_life}{Big data Lebenszyklus}
+  \item
+    \protect\hyperlink{bd_tool_maping}{Big-Data-Tools für die Kartierung und Vorhersage des Reiseverhaltens}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{shared}{Gemeinschaftliche Mobilität - Shared mobility}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{car_sharing}{Car sharing}\\
+  \item
+    \protect\hyperlink{bike_sharing}{(E)-Fahrrad-Sharing}\\
+  \item
+    \protect\hyperlink{scooters}{E-Kick-Scooter}\\
+  \item
+    \protect\hyperlink{ride_hailing}{Fahrgemeinschaften (Ride-sharing)}\\
+  \item
+    \protect\hyperlink{passenger_drones}{Passagierdrohnen}
+  \end{itemize}
+\item
+  \protect\hyperlink{alternative}{Alternative Energieträger}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{FCEV}{Wasserstoff-Brennstoffzelle}\\
+  \item
+    \protect\hyperlink{bev}{Batterieelektrisch}\\
+  \item
+    \protect\hyperlink{plugin_hybrid}{Plugin-Hybridfahrzeuge}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{reference}{Referenzen}
+\end{enumerate}
+
+Der Knowledge Pool wurde zusammengestellt am:
+
+\begin{verbatim}
+## [1] "16 November 2021"
+\end{verbatim}
+
+\hypertarget{inhaltsverzeichnis}{%
+\chapter*{Inhaltsverzeichnis}\label{inhaltsverzeichnis}}
+\addcontentsline{toc}{chapter}{Inhaltsverzeichnis}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \protect\hyperlink{intro}{Einleitung}
+\item
+  \protect\hyperlink{infrastructure}{Physische Straßeninfrastruktur}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{dedicated_lanes}{Gesonderte Fahrspuren für vernetzte und automatisierte Fahrzeuge (connected and automated vehicles - CAV)}\\
+  \item
+    \protect\hyperlink{ODD}{Operative Gestaltungsbereiche}\\
+  \item
+    \protect\hyperlink{rail_crossing_info_system}{Informationssystem für Bahnübergänge}\\
+  \item
+    \protect\hyperlink{ers}{Elektrisches Straßensystem (Electric road system - ERS)}\\
+  \item
+    \protect\hyperlink{high_occupancy}{Fahrspuren für Fahrzeuge mit hoher Auslastung (high-occupancy vehicle - HOV)}\\
+  \item
+    \protect\hyperlink{public_trans_priority}{Prioritätssysteme für den öffentlichen Verkehr}\\
+  \item
+    \protect\hyperlink{transformation_public_space}{Transformation des öffentlichen Raums und digitale Lösungen}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{highway}{Verwaltung der Straßenverkehrsinfrastruktur}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{uav}{Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur}\\
+  \item
+    \protect\hyperlink{charging_station}{Elektrische Ladestationen}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{traffic}{Traffic management}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{congestion_charging}{Staugebühren (Congestion charging)}\\
+  \item
+    \protect\hyperlink{platooning}{Platooning}\\
+  \item
+    \protect\hyperlink{traffic_info_monitoring}{Verkehrsinformationen und -überwachung in Echtzeit}\\
+  \item
+    \protect\hyperlink{cits}{Kooperativ - intelligentes Verkehrssystem (Cooperative - intelligent transport system)}\\
+  \item
+    \protect\hyperlink{dynamic_route}{Dynamische Routenführung}\\
+  \item
+    \protect\hyperlink{variable_speed}{Variable Geschwindigkeitsbegrenzungen und dynamisches Beschilderungssystem}\\
+  \item
+    \protect\hyperlink{adaptive_traffic_control}{Intelligente Verkehrssignalsteuerung}\\
+  \item
+    \protect\hyperlink{p_g_fleet_management}{Flottenmanagement für Personentransport und Gütertransport}\\
+  \item
+    \protect\hyperlink{urban_access}{Verwaltung des städtischen Zugangs (Urban Access Management)}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{digital}{Digitale Straßeninfrastruktur und Konnektivität}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{v2x}{V2X (Vehicle to everything / Fahrzeug-zu-Alles) Kommunikation}\\
+  \item
+    \protect\hyperlink{infrast_support_level}{Unterstützungsgrad der Infrastruktur für automatisiertes Fahren (ISAD - Infrastructure support for automated driving)}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{passenger}{Fahrgastinformationssystem}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{djp}{Digitale Fahrplanauskunft}\\
+  \item
+    \protect\hyperlink{info_and_route_planning}{Multimodale Informationen und Routenplanung}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{multimodal}{Multimodales integriertes System}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{flms}{Lösungen für die erste und letzte Meile}\\
+  \item
+    \protect\hyperlink{dist_time_fares}{Fahrpreise für den öffentlichen Personennahverkehr}\\
+  \item
+    \protect\hyperlink{maas}{Mobilität als Dienstleistung - Mobility as a service (Maas)}\\
+  \item
+    \protect\hyperlink{p_r}{Park and ride}\\
+  \item
+    \protect\hyperlink{contactless_cards}{Kontaktlose Karten für öffentliche Verkehrsmittel}\\
+  \item
+    \protect\hyperlink{special_needs}{Informationen und Unterstützung für Menschen mit besonderen Bedürfnissen}\\
+  \item
+    \protect\hyperlink{mobility_hubs}{Mobilitätszentren - Mobility hubs}\\
+  \item
+    \protect\hyperlink{rail_telematics}{Schienenverkehrstelematik für Passagiere und Güterverkehr}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{connected}{Automatisiertes Fahren}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{av}{Automatisierte PKWs}
+  \item
+    \protect\hyperlink{parking_av}{Parkinfrastruktur für automatisierte Fahrzeuge}
+  \item
+    \protect\hyperlink{automated_road_freight}{Automatisierter Straßengüterverkehr}
+  \item
+    \protect\hyperlink{automatic_train}{Automatischer Zugbetrieb}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{onboard}{Bordtechnologie für vernetzte und automatisierte Fahrzeuge}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{adas}{Fortschrittliche Fahrerassistenzsysteme (Advanced driver assistance system - ADAS)}\\
+  \item
+    \protect\hyperlink{parking_assistance}{Einparkhilfe-System}\\
+  \item
+    \protect\hyperlink{lane_keeping}{Spurhalte-Assistent}\\
+  \item
+    \protect\hyperlink{digital_maps}{Digitale Landkarten}\\
+  \item
+    \protect\hyperlink{ehorizon}{Electronic horizon}\\
+  \item
+    \protect\hyperlink{ecall}{Automatischer Notruf}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{freight}{Güterverkehr und gewerblicher Transport}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{dangerous_goods}{Lokalisierung und Nachverfolgbarkeit von Waren}\\
+  \item
+    \protect\hyperlink{intermodal_freight}{Intermodaler Güterverkehr}\\
+  \item
+    \protect\hyperlink{urban_delivery}{Städtische Lieferungen}\\
+  \item
+    \protect\hyperlink{intelligent_truck_park}{Intelligentes LKW-Parken}\\
+  \item
+    \protect\hyperlink{space_book}{Intelligente Lieferflächenbuchung}\\
+  \item
+    \protect\hyperlink{delivery_drone}{Lieferdrohnen}\\
+  \item
+    \protect\hyperlink{electric_delivery_fleets}{Elektrofahrzeug-Lieferflotten}\\
+  \item
+    \protect\hyperlink{mtms}{Multimodale Verkehrsmanagementsysteme}\\
+  \item
+    \protect\hyperlink{freight_hubs}{Güterverkehrsknotenpunkte}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{collective}{Fahrzeuge der kollektiven Mobilität}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{drt}{Bedarfsgesteuerte Verkehrssysteme (DRT -- Demand Responsive Transit)}\\
+  \item
+    \protect\hyperlink{prt}{Personenschnellverkehr (PRT - Personal Rapid Transit)}\\
+  \item
+    \protect\hyperlink{brt}{Busschnellverkehr (BRT - Bus rapid transit)}\\
+  \item
+    \protect\hyperlink{lrt}{Stadtbahnverkehr (LRT - Light Rail Transit)}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{big}{Big data}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{wireless_com}{Drahtlose Kommunikationssysteme}\\
+  \item
+    \protect\hyperlink{bd_life}{Big data Lebenszyklus}
+  \item
+    \protect\hyperlink{bd_tool_maping}{Big-Data-Tools für die Kartierung und Vorhersage des Reiseverhaltens}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{shared}{Gemeinschaftliche Mobilität - Shared mobility}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{car_sharing}{Car sharing}\\
+  \item
+    \protect\hyperlink{bike_sharing}{(E)-Fahrrad-Sharing}\\
+  \item
+    \protect\hyperlink{scooters}{E-Kick-Scooter}\\
+  \item
+    \protect\hyperlink{ride_hailing}{Fahrgemeinschaften (Ride-sharing)}\\
+  \item
+    \protect\hyperlink{passenger_drones}{Passagierdrohnen}
+  \end{itemize}
+\item
+  \protect\hyperlink{alternative}{Alternative Energieträger}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \protect\hyperlink{FCEV}{Wasserstoff-Brennstoffzelle}\\
+  \item
+    \protect\hyperlink{bev}{Batterieelektrisch}\\
+  \item
+    \protect\hyperlink{plugin_hybrid}{Plugin-Hybridfahrzeuge}\\
+  \end{itemize}
+\item
+  \protect\hyperlink{reference}{Referenzen}
+\end{enumerate}
 
 \hypertarget{intro}{%
 \chapter{Einleitung}\label{intro}}
@@ -99,13 +563,13 @@ Diese Arbeit sammelt und definiert wesentliche Konzepte im Zusammenhang mit der 
 \textbf{Wichtige Interessensgruppen}, die für die jeweilige technologische Entwicklung verantwortlich und von ihr betroffen sind. Dann folgen zwei Unterabschnitte zum \textbf{aktuellen Stand der Forschung und Praxis}. Der erste Abschnitt fasst die neuesten Forschungsergebnisse zu einem bestimmten Thema zusammen, während der zweite Abschnitt den aktuellen Stand der Umsetzung einer bestimmten Technologie in der realen Welt erläutert. Der Abschnitt ``\textbf{Relevante Initiativen in Österreich}'' beschreibt die führenden Initiativen zu einem bestimmten Thema und das Potenzial für österreichische Akteure. Darüber hinaus bieten wir eine zusammenfassende Tabelle über die Auswirkungen des Konzepts auf ausgewählte \textbf{Ziele für nachhaltige Entwicklung} (SDGs). Um ein objektives Maß für den Entwicklungsstand der Technologie in den einzelnen Themenbereichen zu erhalten, haben wir außerdem die sogenannte \textbf{Technology Readiness Scale} (Williamson \& Beasley, 2011) wie unten beschrieben, integriert:
 
 \begin{figure}
-\includegraphics[width=0.8\linewidth]{image/TRL_cropped} \caption{Skala der technologischen Bereitschaft.}\label{fig:unnamed-chunk-1}
+\includegraphics[width=0.8\linewidth]{image/TRL_cropped} \caption{Skala der technologischen Bereitschaft.}\label{fig:unnamed-chunk-4}
 \end{figure}
 
 Darüber hinaus bewerten wir die Bereitschaft einer bestimmten Technologie, in der Gesellschaft akzeptiert zu werden, und wie gut sie zum Gemeinwohl beiträgt, indem wir die \textbf{Skala der gesellschaftlichen Bereitschaft} verwenden (McCulloch, 2019):
 
 \begin{figure}
-\includegraphics[width=0.8\linewidth]{image/SRL_cropped} \caption{Skala fuer die gesellschaftliche Bereitschaft.}\label{fig:unnamed-chunk-2}
+\includegraphics[width=0.8\linewidth]{image/SRL_cropped} \caption{Skala fuer die gesellschaftliche Bereitschaft.}\label{fig:unnamed-chunk-5}
 \end{figure}
 
 Abschließend finden Sie eine Liste \textbf{offener Fragen} und \textbf{Links zu weiteren Quellen} zu diesem Thema.
