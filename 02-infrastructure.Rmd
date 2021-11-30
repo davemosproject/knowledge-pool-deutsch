@@ -26,7 +26,7 @@ Derzeit plant der Bundesstaat Michigan zusammen mit mehreren privaten Partnern, 
 - [tugraz.at](https://www.tugraz.at/fileadmin/user_upload/Institute/IHF/Projekte/ENABLE-S3_SummaryofResults_May2019.pdf "tugraz.at") 
 - [ait.ac.at](https://www.ait.ac.at/themen/verkehrssicherheit-und-unfallforschung/projects/via-autonom/ "ait.ac.at") 
 
-### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs){-}
 
 ```{r table1, echo=FALSE, results='asis'}
 cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
@@ -174,8 +174,7 @@ cat('|TRL| SRL|
 - Lee, C., Nayeer, N., Garcia, D., Agrawal, A. and Liu, B., 2020. Identifying the Operational Design Domain for an Automated Driving System through Assessed Risk. 2020 IEEE Intelligent Vehicles Symposium (IV).
 - Waymo. 2019. Waymo.  Available at: <https://waymo.com/> [Accessed: 2 August 2021].
 
-## Informationssystem für Bahnübergänge
-{#rail_crossing_info_system}
+## Informationssystem für Bahnübergänge {#rail_crossing_info_system}
 
 ### Synonyme {-}
 *Bahnübergänge (rail level crossings - RLX), erhöhte Bahnübergänge (raised level crossings - RC), Bahnübergangshinderniserkennung (Level Crossing Obstacle Detection - LOD), Bahnübergang (level crossing - LC)*
