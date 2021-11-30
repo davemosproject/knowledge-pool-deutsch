@@ -1,0 +1,163 @@
+# Verwaltung der Straßenverkehrsinfrastruktur {#highway}
+
+## Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur{#uav}
+
+### Synonyme {-}
+*Drohnen, ferngesteuerte Fahrzeuge, ferngesteuerte Flugzeuge, Unmanned Aerial Vehicles (UAV)*
+
+### Definition {-}
+Unbemannte Luftfahrzeuge (Unmanned Aerial Vehicles - UAVs), gemeinhin als Drohnen bekannt, sind vielversprechende Technologien, die bei der Inspektion und Datenerfassung für die Instandhaltung und Verwaltung von Infrastrukturen eingesetzt werden können. Dazu gehören zum Beispiel die Erkennung von Verschleiß, die Überwachung des Fortschritts auf einer Autobahnbaustelle oder die Analyse des Verkehrs (Frederiksen et al., 2019). UAVs verfügen in der Regel über eine tragbare Kontrollstation für den menschlichen Bediener, und nach den geltenden Rechtsvorschriften ist ihr Einsatz in städtischen Gebieten auf Flüge innerhalb der Sichtlinie (visual line of sight - VLOS) beschränkt. UAVs verfügen in der Regel über verschiedene Sensoren und Aufzeichnungsgeräte, darunter Video-, Fern- und Nahinfrarot-, Radar- oder Laser-Entfernungsmesser sowie spezielle Kommunikationsgeräte (Shaghlil & Khalafallah, 2018). Die meisten von ihnen können Echtzeitdaten zwischen dem UAV und der Kontrollstation übertragen. Darüber hinaus verfügen einige von ihnen über zusätzliche Onboard-Datenspeicherfunktionen für eine verbesserte Datenerfassung (Shaghlil & Khalafallah, 2018). Der Einsatz von Drohnen für infrastrukturbezogene Aufgaben führt nicht nur zu Zeit-, Arbeits- und Kosteneinsparungen, sondern ermöglicht auch eine Verringerung der Risiken, wenn gefährliche Tätigkeiten, die normalerweise von Menschen ausgeführt werden, durch Drohnen ersetzt werden können. Schließlich werden auch die Umweltauswirkungen verringert, wenn Drohnen, die erheblich weniger CO~2~ produzieren, anstelle der derzeit eingesetzten Hubschrauber eingesetzt werden. Dennoch kann der Einsatz von Drohnen als Instrument zur Inspektion von Infrastrukturen auch gewisse Herausforderungen in Bezug auf die derzeitige Technologie, den rechtlichen Rahmen, den Schutz der Privatsphäre und die gesellschaftliche Akzeptanz mit sich bringen.
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Direkte Nutzer:innen der Straßen und Begünstigte, die von der Erbringung von Verkehrsdienstleistungen betroffen sind
+- **Verantwortliche**: Staatliche Stellen, die für die Planung, Durchführung und Finanzierung von Instandhaltungsmaßnahmen zuständig sind, Bürger:innen, Auftragnehmer:innen und Unterauftragnehmer:innen, Privatunternehmen und Hersteller 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Aktuelle Forschungsanstrengungen und auf Feldversuchen basierende Studien sprechen für den Einsatz von UAVs zur Brückeninspektion und -überwachung. In einer früheren Studie wurde ein Konzeptnachweis für den Einsatz von UAVs für Brücken- und Hochmastleuchten vorgelegt. Es wurden mehrere Experimente unter kontrollierten Bedingungen durchgeführt, um das Verhalten von UAVs in Abhängigkeit von den Windverhältnissen zu testen. Außerdem wurde die Bildqualität in verschiedenen Flugszenarien, bei schlechten Lichtverhältnissen, in verschiedenen Höhen und mit unterschiedlicher Nutzlast untersucht (Otero et al., 2015). Insgesamt sprechen die Ergebnisse für den Einsatz von Drohnen bei Infrastrukturinspektionen, nicht nur im Hinblick auf die Einsparung menschlicher Arbeitskraft, sondern auch auf die Erkennung von Schäden. Die Vorteile des Drohneneinsatzes wurden auch im Hinblick auf eine geringere Verkehrskontrolle und einen geringeren Einsatz von Inspektionsfahrzeugen unter Brücken nachgewiesen (Zink und Lovelace, 2015). Andererseits wurde festgestellt, dass der Mangel an spezifischen Fähigkeiten der Drohnenbediener den effizienten Einsatz von Drohnen für große Brücken behindert (Wu et al., 2018). Darüber hinaus bremsen auch einige technologische Barrieren die Popularität von Drohnen bei der Infrastrukturinspektion, wobei die durchschnittliche Flugzeit der Drohne angesichts ihrer Akkulaufzeit etwa 30 Minuten beträgt. Daher zielt die aktuelle Forschung darauf ab, die Energieeffizienz durch den Einsatz von Pfadplanung und Algorithmen zur Minimierung des Energieverbrauchs bei gleichzeitiger Maximierung der Abdeckung für die Verkehrsüberwachung zu erhöhen (Outay et al., 2020).
+
+
+### Aktueller Stand der praktischen Umsetzung{-}
+Die derzeitige Nutzung von Drohnen wird von nationalen und internationalen Regierungen weltweit stark reguliert, wobei die größte Einschränkung darin besteht, dass die Drohnen in der VLOS-Position des Fluglotsen bleiben müssen. Darüber hinaus legen die Regulierungsbehörden verschiedene Spezifikationen in Bezug auf physische Aspekte der Drohnen wie Gewicht oder Sensoren, Schulungsanforderungen für Betreiber und Drohnen, Vorschriften für die Datenerfassung und den Betrieb selbst wie Flugdauer, Flughöhe usw. vor. (FAA, 2016; Outay at al., 2020). Alle diese Faktoren schränken die schnelle und breite Anwendung von Drohnen in verschiedenen Bereichen erheblich ein. Daher versuchen die Behörden, Vorschriften zu erlassen, um die Bedenken der Bürger:innen in Bezug auf Sicherheit, Privatsphäre und Lärm zu zerstreuen. Gegenwärtig werden Drohnen in der Öl- und Gasindustrie eingesetzt, um lokale Erhebungen in Offshore-Anlagen durchzuführen (Unternehmen, 2016). Im Verkehrssektor hat das dänische Unternehmen Dronops nach einer Sicherheitsüberprüfung von der dänischen Straßenverkehrsbehörde die Genehmigung erhalten, entlang einer Autobahn zu fliegen, um den Verkehr zu überwachen, wobei die Drohne Daten von mehreren Sensoren sowie Videoaufnahmen liefert. Derzeit kann die Drohne nur bei guten Wetterbedingungen fliegen und ist per Kabel mit ihrer Stromquelle am Boden verbunden, um eine kontinuierliche Überwachung in 120 m Höhe den ganzen Tag lang zu ermöglichen. Wichtig ist, dass die ausgegebenen Daten von der dänischen Straßenverkehrsbehörde und der Gemeindeverwaltung verwendet werden (Frederiksen et al., 2019).
+
+### Relevante Initiativen in Österreich{-}
+
+- [smartcity.wien](https://smartcity.wien.gv.at/site/en/smart-inspection/) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs){-}
+
+```{r table5, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Verringerung des Risikos fuer Arbeitnehmer|**+**|Gesundheit und Wohlbefinden (*3*)|Outay et al., 2020|
+|Systemisch|Erhoehung der Verkehrssicherheit|          **+**|Gesundheit und Wohlbefinden (*3*)|Outay et al., 2020|
+|Systemisch|Verringerte Emissionsrate|         **+**|Oekologische Nachhaltigkeit  (*7,12,13,15*)|Outay et al., 2020|
+|Systemisch|Schaffung von Arbeitsplaetzen|          **+**|Nachhaltige wirtschaftliche Entwicklung  (*8,11*)|Jenkins & Vasigh, 2013|
+|Systemisch|Schnellere Innovation der Strasseninfrastruktur|          **+**|Innovation und Infrastruktur (*9*)|Fan & Saadeghvaziri, 2019|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table6, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|3-4|5-7|')
+```
+
+### Offene Fragen{-}
+1. Welche Faktoren beeinflussen die gesellschaftliche Akzeptanz von Drohnen?
+2. Welche Maßnahmen müssen von den politischen Entscheidungsträger:innenn ergriffen werden, um Cyberangriffe auf ein Minimum zu reduzieren?
+3. Welche Aspekte müssen von den Regierungen vor der Integration weiterer Sensoren zur Aufzeichnung anderer relevanter Daten sowie der Integration von Videodaten mit anderen Geodaten berücksichtigt werden?
+
+### Weitere links {-}
+
+- [rolandberger](https://www.rolandberger.com/en/Insights/Publications/Drones-The-future-of-asset-inspection.html) 
+
+### Referenzen{-}
+- FAA News, 2016, Summary of Small Unmanned Aircraft Rule (Part 107), Federal Aviation Authority, Washington DC, 20591, Accessed on May 2020, https://www.faa.gov/uas/media/Part_107_Summary.pdf.
+- Fan, J., & Saadeghvaziri, M. A. (2019). Applications of Drones in Infrastructures: Challenges and Opportunities. International Journal of Mechanical and Mechatronics Engineering, 13(10), 649-655.
+- Frederiksen, M. H., Mouridsen, O. A. V., & Knudsen, M. P. (2019). Drones for inspection of infrastructure: Barriers, opportunities and successful uses.
+- Jenkins, D., & Vasigh, B. (2013). The economic impact of unmanned aircraft systems integration in the United States. Association for Unmanned Vehicle Systems International (AUVSI).
+- Otero, L.D., Gagliardo, N., Dalli, D., Huang, W.-H., Cosentino, P. (2015). Proof of concept for using unmanned aerial vehicles for high mast pole and bridge inspections (No. BDV28-977-02). Florida. Dept. of Transportation. Research Center.
+- Outay, F., Mengash, H. A., & Adnan, M. (2020). Applications of unmanned aerial vehicle (UAV) in road safety, traffic and highway infrastructure management: Recent advances and challenges. Transportation research. Part A, Policy and practice, 141, 116-129. https://doi.org/10.1016/j.tra.2020.09.018
+- Shaghlil, N., & Khalafallah, A. (2018). Automating highway infrastructure maintenance using unmanned aerial vehicles. In Construction Research Congress (2-4).
+- Undertaking, S. J. (2016). European drones outlook study. Unlocking the Value for Europe.
+- Wu, W., Qurishee, M. A., Owino, J., Fomunung, I., Onyango, M., Atolagbe, B. (2018). Coupling deep learning and UAV for infrastructure condition assessment automation. In: 2018 IEEE International Smart Cities Conference (ISC2). IEEE, pp. 1-7.
+- Zink, J. and Lovelace, B., 2015. Unmanned aerial vehicle bridge inspection demonstration project. Research Project. Final Report, 40. Accessed in Nov 2020
+
+
+## Elektrische Ladestationen {#charging_station}
+
+### Synonyme {-}
+*Ladestation für Elektrofahrzeuge (EV – electric vehicle), EV-Ladestation, elektrische Ladestation, Ladepunkt, elektronische Ladestation (ECS - electronic charging station), Versorgungseinrichtung für Elektrofahrzeuge (EVSE - electric vehicle supply equipment)*
+
+### Definition {-}
+Heutzutage nimmt die Nutzung von Elektrofahrzeugen kontinuierlich zu. Daher ist es nicht verwunderlich, dass sowohl Regierungen als auch private Unternehmen ein starkes Interesse am Ausbau der Ladeinfrastruktur für Elektrofahrzeuge haben, um eine ununterbrochene Fahrt zu gewährleisten und die Akzeptanz der Verbraucher:innen zu fördern. Es gibt drei Haupttypen von Ladestationen, abhängig von der Ausgangsleistung (gemessen in Kilowatt (kW)) und der daraus resultierenden Ladegeschwindigkeit. Diese sind:
+
+- **High-Power Charging (Rapid)**
+
+Sie sind die schnellste Art, ein Elektroauto aufzuladen, und werden daher am häufigsten in der Nähe von Hauptverkehrsstraßen und an Autobahnraststätten aufgestellt. Sie verfügen über ein fest verlegtes Kabel und eine hohe Leistung in Form von Gleichstrom (DC) oder Wechselstrom (AC). Fahrzeuge können in etwa 20 Minuten bis zu 80% aufgeladen werden, aber im Durchschnitt dauert es etwa eine Stunde für ein neues Elektrofahrzeug. DC-Schnellladegeräte verwenden entweder [CHAdeMO](https://chademo.com/) - oder CCS-Ladestandards. Dies sind die beiden derzeit am häufigsten verwendeten Typen. Sie bieten eine Leistung von 50 kW. Ein neuerer Typ sind Ultra *Rapid DC-Ladegeräte*, die eine Leistung von mindestens 100 kW haben. Außerdem bieten *AC-Schnellladegeräte* eine Leistung von 43 kW und verwenden den [Typ 2](https://www.mobilityhouse.com/int_en/knowledge-center/charging-cable-and-plug-types#:~:text=Type%202%20plug,-The%20triple%2Dphase&text=In%20private%20spaces%2C%20charging%20power,with%20a%20type%202%20socket.) Ladestandard. Ein spezielles Netz von Ladegeräten schließlich sind die *Supercharger von Tesla*, die speziell für Tesla-Fahrzeuge hergestellt werden. Dennoch verwenden viele Tesla-Fahrer:innen Adapter, die es ihnen ermöglichen, weit verbreitete generische Ladegeräte zu nutzen (Lilly, 2020).
+
+- **Schnellladung (Fast)**
+
+Schnellladestationen bieten in der Regel eine AC-Ladung mit einer Ausgangsleistung von 7 kW oder 22 kW. Es gibt jedoch auch Stationen, die 25-kW-Gleichstromladegeräte mit CHAdeMO- oder CCS-Ladestandards verwenden. Die Ladezeiten liegen zwischen 1 und 6 Stunden, abhängig von der im Fahrzeug installierten Batterie. Schnellladestationen befinden sich in der Regel auf Parkplätzen, in Supermärkten oder Freizeitzentren, wo die Autos wahrscheinlich eine Stunde oder länger abgestellt werden. Schnellladestationen können sowohl angebunden als auch nicht angebunden sein (Lilly, 2020).
+
+- **Langsam**
+
+Die Leistung von Langsamladegeräten variiert zwischen 2,3 kW und 6 kW und dauert zwischen 6 und 12 Stunden. Die meisten Langsamladegeräte sind kabellos, d. h. Fahrer:innen müssen ein eigenes Kabel mitbringen, um das Elektrofahrzeug mit der Ladestation zu verbinden. Sie werden in der Regel zum Aufladen zu Hause über Nacht, aber auch am Arbeitsplatz und an öffentlichen Ladestationen verwendet. Aufgrund der längeren Ladezeiten im Vergleich zu Schnellladegeräten sind langsame öffentliche Ladepunkte weniger verbreitet und können ältere Geräte sein. 
+
+Die hohen Investitionskosten (einschließlich Grunderwerb, Installation, Betrieb und Wartung) und die geringe Rentabilität (die stark von ihrer Nutzung abhängt) gelten jedoch als Haupthindernisse für eine schnellere Entwicklung von Ladestationen (Lilly, 2020).
+
+
+### Wichtige Interessensgruppen{-}
+
+- **Betroffene**: EV-Fahrer:innen
+- **Verantwortliche**: Nationale Unternehmen und Regierungen, internationale Öl- und Gasunternehmen, Automobilunternehmen, Start-ups im Bereich der grünen Energie, Verkehrsbehörden
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Ladestationen für Elektrofahrzeuge sind inzwischen eine gut etablierte Technologie für sich. Daher konzentriert sich die aktuelle Forschung auf die Erforschung ihres Potenzials in Kombination mit anderen neuen Technologien. Lokhandwala & Cai (2020) beispielsweise verwenden Taxis in New York City als Fallstudie, um mögliche Wechselwirkungen zwischen Ladeinfrastruktur für Elektrofahrzeuge, Ride Sharing (RS) und automatisierten Fahrzeugen (AV) zu untersuchen. Zu diesem Zweck vergleichen sie die optimalen Ausbaupläne für die Ladeinfrastruktur für drei Fälle: ein Nicht-AV-RS-Szenario (Gegenwart), ein AV-RS-Szenario (Zukunft) und einen Mischfall. Die Simulation der Studie zeigt, dass im AV-RS-Fall die Nutzung der Ladestationen stärker über den Tag verteilt ist als im Nicht-AV-RS-Fall, wo die Nachfrage und die Warteschlangen morgens am größten sind. In Bezug auf das Dienstleistungsniveau zeigt sich, dass im Nicht-AV-RS-Szenario das Dienstleistungsniveau infolge der Einführung von E-Fahrzeugen unverändert blieb, während es im AV-RS-Fall um 2% sank. Schließlich zeigt die Studie, dass EV-Taxis in beiden Szenarien eine Reduzierung der CO~2~-Emissionen erwarten lassen.<br/>
+
+Darüber hinaus konzentriert sich ein großer Teil der Forschung auf die Optimierung der Standorte von Ladestationen für verschiedene Fahrzeugtypen wie Taxis (Zhang et al., 2019), Busse (Uslu & Kaya, 2021; Wu et al., 2021; He et al., 2019) und private E-Fahrzeuge (Pan et al., 2020) unter Berücksichtigung verschiedener Faktoren, wie z.B. der sozialen Akzeptanz, der Akzeptanz von E-Fahrzeugen, der Nachfrageschwankungen, der Länge der Fahrten (Anjos et al., 2020) und der Art der Straßeninfrastruktur, einschließlich Autobahnen (Napoli et al., 2020) und städtischer Netze (Ji et al., 2020).<br/>
+
+Schließlich befasst sich ein wichtiger Teil der Forschung mit der Rolle der Ladestationsinfrastruktur bei der Einführung und Nutzung von Elektrofahrzeugen, die als Lösung zur Verringerung von Treibhausgasemissionen und Luftverschmutzung angesehen werden (Philipsen et al., 2019; Bonges et al., 2016). Die Studie von Melliger et al. (2018) untersuchte beispielsweise, wie der Ausbau des Ladestationsnetzes dem Phänomen der sogenannten *"Reichweitenangst"* bei E-Fahrzeugkäufer:innen entgegenwirken kann, das mit der Kapazität der E-Fahrzeugbatterie und der Verfügbarkeit von Ladestationen entlang der Routen zusammenhängt (Melliger et al., 2018).
+ 
+
+### Aktueller Stand der praktischen Umsetzung{-}
+Laut dem Global EV outlook 2020 (IEA, 2020) erreichte die Anzahl der weltweiten Ladestationen im Jahr 2019 7,3 Millionen Ladegeräte. Davon sind 6,5 Millionen langsame und normale Ladestationen, die in Haushalten, Wohn- und Bürogebäuden installiert sind, während der Rest öffentlich zugängliche Ladestationen sind (Thananusak et al., 2021).<br/>
+
+Es hat sich gezeigt, dass ein dichteres Netz von Ladestationen ein wichtiger Faktor ist, um die Reichweitenangst der Nutzer:innen von Elektrofahrzeugen zu verringern (Philipsen et al., 2019). Daher ist es nicht verwunderlich, dass die Politik vieler Länder in Europa und darüber hinaus Ziele für den Bau von Ladestationen für Elektrofahrzeuge gesetzt hat, um deren Verbreitung zu fördern. So hat Frankreich beispielsweise das sogenannte [Gesetz zur Energiewende für grünes Wachstum (LTECV)](https://www.iea.org/policies/8737-law-on-energy-transition-for-green-growth-ltecv) eingeführt, das den Bau von 7 Millionen Ladestationen bis 2030 vorsieht (Thananusak et al., 2021). In der Schweiz empfahl das Bundesamt für Straßen (ASTRA) die Installation von Schnellladestationen an allen wichtigen Autobahnraststätten (Melliger et al., 2018). In Bezug auf die EU-weite Gesetzgebung verpflichtet die*[Richtlinie 2014/94/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0094&from=en) über den Aufbau einer Infrastruktur für das Aufladen und Betanken mit alternativen Kraftstoffen* (bekannt als Alternative Fuels Infrastructure Directive (AFI)) die EU-Mitgliedsstaaten dazu, eine angemessene Anzahl von öffentlich zugänglichen Ladepunkten bereitzustellen.<br/><br/>
+Im österreichischen Kontext hat die Studie von Baresch & Moser (2019) gezeigt, dass 88% der E-Fahrzeugnutzer ihr Auto zu Hause aufladen und nur 1,5% - 1,7% öffentliche Stationen nutzen. Dies hat einen erheblichen Einfluss auf die Rentabilität der öffentlichen Ladestationen. Um dieses Problem zu lindern, können Regierungen nachfragefördernde oder technologiefördernde Maßnahmen ergreifen. Die nachfragefördernden Lösungen basieren auf der Ausweitung der Märkte für Innovationen, um die Nachfrage zu steigern und die Gewinne aus dem Geschäft mit Ladestationen zu erhöhen. Dazu gehören z. B. die Sensibilisierung der Verbraucher:innen, Rabatte und Steuergutschriften. Auf der anderen Seite zielen die Technologie-Push-Lösungen darauf ab, die Kosten für innovative Lösungen durch Finanzierung und Subventionen für F&E im privaten Sektor zu senken (Thananusak et al., 2021).
+Interessanterweise fand zwischen 2007 und 2013 das erste transnationale Elektromobilitätsprojekt zwischen Wien und Bratislava statt. Es zielte darauf ab, die Funktionsfähigkeit einer grenzüberschreitenden Initiative zu demonstrieren. Zu diesem Zweck wurde eine Reihe von Ladestationen an öffentlichen und halböffentlichen Orten errichtet, damit Nutzer:innen von Elektrofahrzeugen ihre Fahrzeuge auf beiden Seiten der Grenze aufladen können. Das Projekt zeigte die Benutzerfreundlichkeit von Elektrofahrzeugen im täglichen Verkehr und die grenzüberschreitende Verfügbarkeit von Dienstleistungen, unabhängig vom Wohnsitzland des E-Mobilitätskunden (Verbund, 2011).
+
+### Relevante Initiativen in Österreich {-}
+- [ieahev.org](http://www.ieahev.org/by-country/austria-charging-infrastructure/)
+- [ev-charging.com](https://ev-charging.com/at/en/elektrotankstellen)
+- [smatrics.com](https://smatrics.com/en/charging-network)
+- [chargemap.com](https://chargemap.com/cities/wien-AT)
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs){-}
+
+```{r table84, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Beitrag zur Emissionsminderung (durch EVs)|**+**|Oekologische Nachhaltigkeit  (*7,12,13,15*)|Thananusak et al., 2021|
+|Systemisch|Mehr oeffentliche Mittel fuer Ladestationen, aber hohe Einstiegshuerden fuer Investoren|**~**|Innovation und Infrastruktur (*9*)|Thananusak et al., 2021|
+|Systemisch|Foerderung der Zusammenarbeit zwischen verschiedenen Interessengruppen (z. B. Industrie und Regierungen) und Laendern|**+**|Partnerschaften und Kooperationen (*17*)|Thananusak et al., 2021|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table85, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|6-8|')
+```
+
+### Offene Fragen{-}
+1. Was sind nachfragefördernde und technologiefördernde Maßnahmen zur Steigerung der Investitionen in Ladestationen? Wie hoch ist ihre relative Wirksamkeit?
+2. Welcher Anteil der Autofahrten kann mit den derzeit (2021) verfügbaren BEVs und der aktuellen Ladeinfrastruktur erfolgreich bewältigt werden?
+3. Welche Bedürfnisse haben die österreichischen Autofahrer:innen in Bezug auf die Reichweite?
+
+### Weitere links {-}
+
+- [plugshare.com](https://www.plugshare.com/en) 
+- [dekra-product-safety.com](https://www.dekra-product-safety.com/en/ev-charging-station-technology) 
+
+### Referenzen {-}
+- Anjos, M. F., Gendron, B., & Joyce-Moniz, M. (2020). Increasing electric vehicle adoption through the optimal deployment of fast-charging stations for local and long-distance travel. European Journal of Operational Research, 285(1), 263-278.
+- Bonges III, H. A., & Lusk, A. C. (2016). Addressing electric vehicle (EV) sales and range anxiety through parking layout, policy and regulation. Transportation Research Part A: Policy and Practice, 83, 63-73.
+- He, Y., Song, Z., & Liu, Z. (2019). Fast-charging station deployment for battery electric bus systems considering electricity demand charges. Sustainable Cities and Society, 48, 101530.
+- IEA. (2020). Global EV Outlook 2020; IEA: Paris, France. p. 276.
+- Ji, D., Lv, M., Yang, J., & Yi, W. (2020). Optimizing the Locations and Sizes of Solar Assisted Electric Vehicle Charging Stations in an Urban Area. IEEE Access, 8, 112772-112782.
+- Lilly, C., (2020). EV Charging connectors - Electric car charging speeds.  Zap-Map. Available at: <https://www.zap-map.com/charge-points/connectors-speeds/#:~:text=There%20are%20three%20main%20types,measured%20in%20kilowatts%20(kW).> [Accessed: 26 March 2021].
+- Lokhandwala, M., & Cai, H. (2020). Siting charging stations for electric vehicle adoption in shared autonomous fleets. Transportation Research Part D: Transport and Environment, 80, 102231.
+- Melliger, M. A., van Vliet, O. P., & Liimatainen, H. (2018). Anxiety vs reality - Sufficiency of battery electric vehicle range in Switzerland and Finland. Transportation Research Part D: Transport and Environment, 65, 101-115.
+- Napoli, G., Polimeni, A., Micari, S., Andaloro, L., & Antonucci, V. (2020). Optimal allocation of electric vehicle charging stations in a highway network: Part 1. Methodology and test application. Journal of Energy Storage, 27, 101102.
+- Pan, L., Yao, E., Yang, Y., & Zhang, R. (2020). A location model for electric vehicle (EV) public charging stations based on drivers’ existing activities. Sustainable Cities and Society, 59, 102192.
+- Philipsen, R., Brell, T., Biermann, H., & Ziefle, M. (2019). Under Pressure-Users’ Perception of Range Stress in the Context of Charging and Traditional Refueling. World Electric Vehicle Journal, 10(3), 50.
+- Thananusak, T., Punnakitikashem, P., Tanthasith, S., & Kongarchapatara, B. (2021). The Development of Electric Vehicle Charging Stations in Thailand: Policies, Players, and Key Issues (2015-2020). World Electric Vehicle Journal, 12(1), 2.
+- Uslu, T., & Kaya, O. (2021). Location and capacity decisions for electric bus charging stations considering waiting times. Transportation Research Part D: Transport and Environment, 90, 102645.
+- Verbund.com (2011). Europe Premiere: Unlimited Electric Mobility - VERBUND.  Verbund.com. Available at: <https://www.verbund.com/en-de/about-verbund/news-press/press-releases/2011/03/04/unlimited-electric-mobility> [Accessed: 26 March 2021].
+- Wu, X., Feng, Q., Bai, C., Lai, C. S., Jia, Y., & Lai, L. L. (2021). A novel fast-charging stations locational planning model for electric bus transit system. Energy, 120106.
+- Zhang, S., Wang, H., Zhang, Y. F., & Li, Y. Z. (2019). A novel two-stage location model of charging station considering dynamic distribution of electric taxis. Sustainable Cities and Society, 51, 101752.

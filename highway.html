@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>3 Verwaltung der Straßenverkehrsinfrastruktur | Knowledge Pool</title>
+  <meta name="description" content="Hierbei handelt es sich um einen work-in-progress Knowledge Pool zu den systemischen Auswirkungen der Digitalisierung und Automatisierung des Verkehrs." />
+  <meta name="generator" content="bookdown 0.24.3 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="3 Verwaltung der Straßenverkehrsinfrastruktur | Knowledge Pool" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Hierbei handelt es sich um einen work-in-progress Knowledge Pool zu den systemischen Auswirkungen der Digitalisierung und Automatisierung des Verkehrs." />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="3 Verwaltung der Straßenverkehrsinfrastruktur | Knowledge Pool" />
+  
+  <meta name="twitter:description" content="Hierbei handelt es sich um einen work-in-progress Knowledge Pool zu den systemischen Auswirkungen der Digitalisierung und Automatisierung des Verkehrs." />
+  
+
+<meta name="author" content="DAVeMoS team, Institut für Verkehrswesen (IVe), Universität für Bodenkultur Wien" />
+
+
+<meta name="date" content="2021-11-30" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="infrastructure.html"/>
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Knowledge Pool</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Willkommen</a></li>
+<li class="chapter" data-level="" data-path="inhaltsverzeichnis.html"><a href="inhaltsverzeichnis.html"><i class="fa fa-check"></i>Inhaltsverzeichnis</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Einleitung</a></li>
+<li class="chapter" data-level="2" data-path="infrastructure.html"><a href="infrastructure.html"><i class="fa fa-check"></i><b>2</b> Physische Straßeninfrastruktur</a><ul>
+<li class="chapter" data-level="2.1" data-path="infrastructure.html"><a href="infrastructure.html#dedicated_lanes"><i class="fa fa-check"></i><b>2.1</b> Gesonderte Fahrspuren für vernetzte und automatisierte Fahrzeuge</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#synonyme"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#stand-der-technologischen-und-der-gesellschaftlichen-bereitschaft"><i class="fa fa-check"></i>Stand der Technologischen und der Gesellschaftlichen Bereitschaft</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#weitere-links"><i class="fa fa-check"></i>Weitere links</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="2.2" data-path="infrastructure.html"><a href="infrastructure.html#ODD"><i class="fa fa-check"></i><b>2.2</b> Operative Gestaltungsbereiche (Operational design domains)</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#synonyme-1"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition-1"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen-1"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung-1"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung-1"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich-1"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-1"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#stand-der-technologiebereitschaft-und-gesellschaftlicher-bereitschaftsgrad"><i class="fa fa-check"></i>Stand der Technologiebereitschaft und Gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen-1"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen-1"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="2.3" data-path="infrastructure.html"><a href="infrastructure.html#informationssystem-für-bahnübergänge"><i class="fa fa-check"></i><b>2.3</b> Informationssystem für Bahnübergänge</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#synonyme-2"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition-2"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen-2"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung-2"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung-2"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich-2"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-2"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#technologie--und-gesellschaftlicher-bereitschaftsgrad"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen-2"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#weitere-links-1"><i class="fa fa-check"></i>Weitere Links</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen-2"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="2.4" data-path="infrastructure.html"><a href="infrastructure.html#ers"><i class="fa fa-check"></i><b>2.4</b> Elektrisches Straßensystem (Electric road system - ERS)</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#synonyme-3"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition-3"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen-3"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung-3"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung-3"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich-3"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-3"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#technologie--und-gesellschaftlicher-bereitschaftsgrad-1"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen-3"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#weitere-links-2"><i class="fa fa-check"></i>Weitere links</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen-3"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="2.5" data-path="infrastructure.html"><a href="infrastructure.html#high_occupancy"><i class="fa fa-check"></i><b>2.5</b> Fahrspuren für Fahrzeuge mit hohem Besetzungsgrad (high-occupancy vehicle - HOV)</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#synonyme-4"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition-4"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen-4"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung-4"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung-4"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich-4"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-4"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#technologie--und-gesellschaftlicher-bereitschaftsgrad-2"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen-4"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#weitere-links-3"><i class="fa fa-check"></i>Weitere links</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen-4"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="2.6" data-path="infrastructure.html"><a href="infrastructure.html#public_trans_priority"><i class="fa fa-check"></i><b>2.6</b> Prioritätssysteme für den öffentlichen Verkehr</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#synonyme-5"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition-5"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen-5"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung-5"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung-5"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich-5"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-5"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#technologie--und-gesellschaftlicher-bereitschaftsgrad-3"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen-5"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen-5"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="2.7" data-path="infrastructure.html"><a href="infrastructure.html#transformation_public_space"><i class="fa fa-check"></i><b>2.7</b> Transformation des öffentlichen Raums und digitale Lösungen</a><ul>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#definition-6"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#wichtige-interessensgruppen-6"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-wissenschaft-und-forschung-6"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#aktueller-stand-der-praktischen-umsetzung-6"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#relevante-initiativen-in-österreich-6"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-6"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#technologie--und-gesellschaftlicher-bereitschaftsgrad-4"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#offene-fragen-6"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#weitere-links-4"><i class="fa fa-check"></i>Weitere links</a></li>
+<li class="chapter" data-level="" data-path="infrastructure.html"><a href="infrastructure.html#referenzen-6"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="highway.html"><a href="highway.html"><i class="fa fa-check"></i><b>3</b> Verwaltung der Straßenverkehrsinfrastruktur</a><ul>
+<li class="chapter" data-level="3.1" data-path="highway.html"><a href="highway.html#uav"><i class="fa fa-check"></i><b>3.1</b> Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur</a><ul>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#synonyme-6"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#definition-7"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#wichtige-interessensgruppen-7"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#aktueller-stand-der-wissenschaft-und-forschung-7"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#aktueller-stand-der-praktischen-umsetzung-7"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#relevante-initiativen-in-österreich-7"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-7"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#technologie--und-gesellschaftlicher-bereitschaftsgrad-5"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#offene-fragen-7"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#weitere-links-5"><i class="fa fa-check"></i>Weitere links</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#referenzen-7"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+<li class="chapter" data-level="3.2" data-path="highway.html"><a href="highway.html#charging_station"><i class="fa fa-check"></i><b>3.2</b> Elektrische Ladestationen</a><ul>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#synonyme-7"><i class="fa fa-check"></i>Synonyme</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#definition-8"><i class="fa fa-check"></i>Definition</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#wichtige-interessensgruppen-8"><i class="fa fa-check"></i>Wichtige Interessensgruppen</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#aktueller-stand-der-wissenschaft-und-forschung-8"><i class="fa fa-check"></i>Aktueller Stand der Wissenschaft und Forschung</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#aktueller-stand-der-praktischen-umsetzung-8"><i class="fa fa-check"></i>Aktueller Stand der praktischen Umsetzung</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#relevante-initiativen-in-österreich-8"><i class="fa fa-check"></i>Relevante Initiativen in Österreich</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-8"><i class="fa fa-check"></i>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#technologie--und-gesellschaftlicher-bereitschaftsgrad-6"><i class="fa fa-check"></i>Technologie- und gesellschaftlicher Bereitschaftsgrad</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#offene-fragen-8"><i class="fa fa-check"></i>Offene Fragen</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#weitere-links-6"><i class="fa fa-check"></i>Weitere links</a></li>
+<li class="chapter" data-level="" data-path="highway.html"><a href="highway.html#referenzen-8"><i class="fa fa-check"></i>Referenzen</a></li>
+</ul></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://davemosproject.github.io/knowledge-pool-deutsch/" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Knowledge Pool</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="highway" class="section level1">
+<h1><span class="header-section-number">3</span> Verwaltung der Straßenverkehrsinfrastruktur</h1>
+<div id="uav" class="section level2">
+<h2><span class="header-section-number">3.1</span> Unbemannte Luftfahrzeuge für die Instandhaltung der Infrastruktur</h2>
+<div id="synonyme-6" class="section level3 unnumbered">
+<h3>Synonyme</h3>
+<p><em>Drohnen, ferngesteuerte Fahrzeuge, ferngesteuerte Flugzeuge, Unmanned Aerial Vehicles (UAV)</em></p>
+</div>
+<div id="definition-7" class="section level3 unnumbered">
+<h3>Definition</h3>
+<p>Unbemannte Luftfahrzeuge (Unmanned Aerial Vehicles - UAVs), gemeinhin als Drohnen bekannt, sind vielversprechende Technologien, die bei der Inspektion und Datenerfassung für die Instandhaltung und Verwaltung von Infrastrukturen eingesetzt werden können. Dazu gehören zum Beispiel die Erkennung von Verschleiß, die Überwachung des Fortschritts auf einer Autobahnbaustelle oder die Analyse des Verkehrs (Frederiksen et al., 2019). UAVs verfügen in der Regel über eine tragbare Kontrollstation für den menschlichen Bediener, und nach den geltenden Rechtsvorschriften ist ihr Einsatz in städtischen Gebieten auf Flüge innerhalb der Sichtlinie (visual line of sight - VLOS) beschränkt. UAVs verfügen in der Regel über verschiedene Sensoren und Aufzeichnungsgeräte, darunter Video-, Fern- und Nahinfrarot-, Radar- oder Laser-Entfernungsmesser sowie spezielle Kommunikationsgeräte (Shaghlil &amp; Khalafallah, 2018). Die meisten von ihnen können Echtzeitdaten zwischen dem UAV und der Kontrollstation übertragen. Darüber hinaus verfügen einige von ihnen über zusätzliche Onboard-Datenspeicherfunktionen für eine verbesserte Datenerfassung (Shaghlil &amp; Khalafallah, 2018). Der Einsatz von Drohnen für infrastrukturbezogene Aufgaben führt nicht nur zu Zeit-, Arbeits- und Kosteneinsparungen, sondern ermöglicht auch eine Verringerung der Risiken, wenn gefährliche Tätigkeiten, die normalerweise von Menschen ausgeführt werden, durch Drohnen ersetzt werden können. Schließlich werden auch die Umweltauswirkungen verringert, wenn Drohnen, die erheblich weniger CO<sub>2</sub> produzieren, anstelle der derzeit eingesetzten Hubschrauber eingesetzt werden. Dennoch kann der Einsatz von Drohnen als Instrument zur Inspektion von Infrastrukturen auch gewisse Herausforderungen in Bezug auf die derzeitige Technologie, den rechtlichen Rahmen, den Schutz der Privatsphäre und die gesellschaftliche Akzeptanz mit sich bringen.</p>
+</div>
+<div id="wichtige-interessensgruppen-7" class="section level3 unnumbered">
+<h3>Wichtige Interessensgruppen</h3>
+<ul>
+<li><strong>Betroffene</strong>: Direkte Nutzer:innen der Straßen und Begünstigte, die von der Erbringung von Verkehrsdienstleistungen betroffen sind</li>
+<li><strong>Verantwortliche</strong>: Staatliche Stellen, die für die Planung, Durchführung und Finanzierung von Instandhaltungsmaßnahmen zuständig sind, Bürger:innen, Auftragnehmer:innen und Unterauftragnehmer:innen, Privatunternehmen und Hersteller</li>
+</ul>
+</div>
+<div id="aktueller-stand-der-wissenschaft-und-forschung-7" class="section level3 unnumbered">
+<h3>Aktueller Stand der Wissenschaft und Forschung</h3>
+<p>Aktuelle Forschungsanstrengungen und auf Feldversuchen basierende Studien sprechen für den Einsatz von UAVs zur Brückeninspektion und -überwachung. In einer früheren Studie wurde ein Konzeptnachweis für den Einsatz von UAVs für Brücken- und Hochmastleuchten vorgelegt. Es wurden mehrere Experimente unter kontrollierten Bedingungen durchgeführt, um das Verhalten von UAVs in Abhängigkeit von den Windverhältnissen zu testen. Außerdem wurde die Bildqualität in verschiedenen Flugszenarien, bei schlechten Lichtverhältnissen, in verschiedenen Höhen und mit unterschiedlicher Nutzlast untersucht (Otero et al., 2015). Insgesamt sprechen die Ergebnisse für den Einsatz von Drohnen bei Infrastrukturinspektionen, nicht nur im Hinblick auf die Einsparung menschlicher Arbeitskraft, sondern auch auf die Erkennung von Schäden. Die Vorteile des Drohneneinsatzes wurden auch im Hinblick auf eine geringere Verkehrskontrolle und einen geringeren Einsatz von Inspektionsfahrzeugen unter Brücken nachgewiesen (Zink und Lovelace, 2015). Andererseits wurde festgestellt, dass der Mangel an spezifischen Fähigkeiten der Drohnenbediener den effizienten Einsatz von Drohnen für große Brücken behindert (Wu et al., 2018). Darüber hinaus bremsen auch einige technologische Barrieren die Popularität von Drohnen bei der Infrastrukturinspektion, wobei die durchschnittliche Flugzeit der Drohne angesichts ihrer Akkulaufzeit etwa 30 Minuten beträgt. Daher zielt die aktuelle Forschung darauf ab, die Energieeffizienz durch den Einsatz von Pfadplanung und Algorithmen zur Minimierung des Energieverbrauchs bei gleichzeitiger Maximierung der Abdeckung für die Verkehrsüberwachung zu erhöhen (Outay et al., 2020).</p>
+</div>
+<div id="aktueller-stand-der-praktischen-umsetzung-7" class="section level3 unnumbered">
+<h3>Aktueller Stand der praktischen Umsetzung</h3>
+<p>Die derzeitige Nutzung von Drohnen wird von nationalen und internationalen Regierungen weltweit stark reguliert, wobei die größte Einschränkung darin besteht, dass die Drohnen in der VLOS-Position des Fluglotsen bleiben müssen. Darüber hinaus legen die Regulierungsbehörden verschiedene Spezifikationen in Bezug auf physische Aspekte der Drohnen wie Gewicht oder Sensoren, Schulungsanforderungen für Betreiber und Drohnen, Vorschriften für die Datenerfassung und den Betrieb selbst wie Flugdauer, Flughöhe usw. vor. (FAA, 2016; Outay at al., 2020). Alle diese Faktoren schränken die schnelle und breite Anwendung von Drohnen in verschiedenen Bereichen erheblich ein. Daher versuchen die Behörden, Vorschriften zu erlassen, um die Bedenken der Bürger:innen in Bezug auf Sicherheit, Privatsphäre und Lärm zu zerstreuen. Gegenwärtig werden Drohnen in der Öl- und Gasindustrie eingesetzt, um lokale Erhebungen in Offshore-Anlagen durchzuführen (Unternehmen, 2016). Im Verkehrssektor hat das dänische Unternehmen Dronops nach einer Sicherheitsüberprüfung von der dänischen Straßenverkehrsbehörde die Genehmigung erhalten, entlang einer Autobahn zu fliegen, um den Verkehr zu überwachen, wobei die Drohne Daten von mehreren Sensoren sowie Videoaufnahmen liefert. Derzeit kann die Drohne nur bei guten Wetterbedingungen fliegen und ist per Kabel mit ihrer Stromquelle am Boden verbunden, um eine kontinuierliche Überwachung in 120 m Höhe den ganzen Tag lang zu ermöglichen. Wichtig ist, dass die ausgegebenen Daten von der dänischen Straßenverkehrsbehörde und der Gemeindeverwaltung verwendet werden (Frederiksen et al., 2019).</p>
+</div>
+<div id="relevante-initiativen-in-österreich-7" class="section level3 unnumbered">
+<h3>Relevante Initiativen in Österreich</h3>
+<ul>
+<li><a href="https://smartcity.wien.gv.at/site/en/smart-inspection/">smartcity.wien</a></li>
+</ul>
+</div>
+<div id="auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-7" class="section level3 unnumbered">
+<h3>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</h3>
+<table>
+<colgroup>
+<col width="20%" />
+<col width="18%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Ebene der Auswirkungen</th>
+<th align="center">Indikator</th>
+<th align="center">Richtung der Auswirkungen</th>
+<th align="center">Beschreibung des Ziels &amp; SDG</th>
+<th align="center">Quelle</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Individuell</td>
+<td align="center">Verringerung des Risikos fuer Arbeitnehmer</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Gesundheit und Wohlbefinden (<em>3</em>)</td>
+<td align="center">Outay et al., 2020</td>
+</tr>
+<tr class="even">
+<td align="center">Systemisch</td>
+<td align="center">Erhoehung der Verkehrssicherheit</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Gesundheit und Wohlbefinden (<em>3</em>)</td>
+<td align="center">Outay et al., 2020</td>
+</tr>
+<tr class="odd">
+<td align="center">Systemisch</td>
+<td align="center">Verringerte Emissionsrate</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Oekologische Nachhaltigkeit (<em>7,12,13,15</em>)</td>
+<td align="center">Outay et al., 2020</td>
+</tr>
+<tr class="even">
+<td align="center">Systemisch</td>
+<td align="center">Schaffung von Arbeitsplaetzen</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Nachhaltige wirtschaftliche Entwicklung (<em>8,11</em>)</td>
+<td align="center">Jenkins &amp; Vasigh, 2013</td>
+</tr>
+<tr class="odd">
+<td align="center">Systemisch</td>
+<td align="center">Schnellere Innovation der Strasseninfrastruktur</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Innovation und Infrastruktur (<em>9</em>)</td>
+<td align="center">Fan &amp; Saadeghvaziri, 2019</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="technologie--und-gesellschaftlicher-bereitschaftsgrad-5" class="section level3 unnumbered">
+<h3>Technologie- und gesellschaftlicher Bereitschaftsgrad</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Stand der Technologiebereitschaft</th>
+<th align="center">Gesellschaftlicher Bereitschaftsgrad</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">3-4</td>
+<td align="center">5-7</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="offene-fragen-7" class="section level3 unnumbered">
+<h3>Offene Fragen</h3>
+<ol style="list-style-type: decimal">
+<li>Welche Faktoren beeinflussen die gesellschaftliche Akzeptanz von Drohnen?</li>
+<li>Welche Maßnahmen müssen von den politischen Entscheidungsträger:innenn ergriffen werden, um Cyberangriffe auf ein Minimum zu reduzieren?</li>
+<li>Welche Aspekte müssen von den Regierungen vor der Integration weiterer Sensoren zur Aufzeichnung anderer relevanter Daten sowie der Integration von Videodaten mit anderen Geodaten berücksichtigt werden?</li>
+</ol>
+</div>
+<div id="weitere-links-5" class="section level3 unnumbered">
+<h3>Weitere links</h3>
+<ul>
+<li><a href="https://www.rolandberger.com/en/Insights/Publications/Drones-The-future-of-asset-inspection.html">rolandberger</a></li>
+</ul>
+</div>
+<div id="referenzen-7" class="section level3 unnumbered">
+<h3>Referenzen</h3>
+<ul>
+<li>FAA News, 2016, Summary of Small Unmanned Aircraft Rule (Part 107), Federal Aviation Authority, Washington DC, 20591, Accessed on May 2020, <a href="https://www.faa.gov/uas/media/Part_107_Summary.pdf" class="uri">https://www.faa.gov/uas/media/Part_107_Summary.pdf</a>.</li>
+<li>Fan, J., &amp; Saadeghvaziri, M. A. (2019). Applications of Drones in Infrastructures: Challenges and Opportunities. International Journal of Mechanical and Mechatronics Engineering, 13(10), 649-655.</li>
+<li>Frederiksen, M. H., Mouridsen, O. A. V., &amp; Knudsen, M. P. (2019). Drones for inspection of infrastructure: Barriers, opportunities and successful uses.</li>
+<li>Jenkins, D., &amp; Vasigh, B. (2013). The economic impact of unmanned aircraft systems integration in the United States. Association for Unmanned Vehicle Systems International (AUVSI).</li>
+<li>Otero, L.D., Gagliardo, N., Dalli, D., Huang, W.-H., Cosentino, P. (2015). Proof of concept for using unmanned aerial vehicles for high mast pole and bridge inspections (No. BDV28-977-02). Florida. Dept. of Transportation. Research Center.</li>
+<li>Outay, F., Mengash, H. A., &amp; Adnan, M. (2020). Applications of unmanned aerial vehicle (UAV) in road safety, traffic and highway infrastructure management: Recent advances and challenges. Transportation research. Part A, Policy and practice, 141, 116-129. <a href="https://doi.org/10.1016/j.tra.2020.09.018" class="uri">https://doi.org/10.1016/j.tra.2020.09.018</a></li>
+<li>Shaghlil, N., &amp; Khalafallah, A. (2018). Automating highway infrastructure maintenance using unmanned aerial vehicles. In Construction Research Congress (2-4).</li>
+<li>Undertaking, S. J. (2016). European drones outlook study. Unlocking the Value for Europe.</li>
+<li>Wu, W., Qurishee, M. A., Owino, J., Fomunung, I., Onyango, M., Atolagbe, B. (2018). Coupling deep learning and UAV for infrastructure condition assessment automation. In: 2018 IEEE International Smart Cities Conference (ISC2). IEEE, pp. 1-7.</li>
+<li>Zink, J. and Lovelace, B., 2015. Unmanned aerial vehicle bridge inspection demonstration project. Research Project. Final Report, 40. Accessed in Nov 2020</li>
+</ul>
+</div>
+</div>
+<div id="charging_station" class="section level2">
+<h2><span class="header-section-number">3.2</span> Elektrische Ladestationen</h2>
+<div id="synonyme-7" class="section level3 unnumbered">
+<h3>Synonyme</h3>
+<p><em>Ladestation für Elektrofahrzeuge (EV – electric vehicle), EV-Ladestation, elektrische Ladestation, Ladepunkt, elektronische Ladestation (ECS - electronic charging station), Versorgungseinrichtung für Elektrofahrzeuge (EVSE - electric vehicle supply equipment)</em></p>
+</div>
+<div id="definition-8" class="section level3 unnumbered">
+<h3>Definition</h3>
+<p>Heutzutage nimmt die Nutzung von Elektrofahrzeugen kontinuierlich zu. Daher ist es nicht verwunderlich, dass sowohl Regierungen als auch private Unternehmen ein starkes Interesse am Ausbau der Ladeinfrastruktur für Elektrofahrzeuge haben, um eine ununterbrochene Fahrt zu gewährleisten und die Akzeptanz der Verbraucher:innen zu fördern. Es gibt drei Haupttypen von Ladestationen, abhängig von der Ausgangsleistung (gemessen in Kilowatt (kW)) und der daraus resultierenden Ladegeschwindigkeit. Diese sind:</p>
+<ul>
+<li><strong>High-Power Charging (Rapid)</strong></li>
+</ul>
+<p>Sie sind die schnellste Art, ein Elektroauto aufzuladen, und werden daher am häufigsten in der Nähe von Hauptverkehrsstraßen und an Autobahnraststätten aufgestellt. Sie verfügen über ein fest verlegtes Kabel und eine hohe Leistung in Form von Gleichstrom (DC) oder Wechselstrom (AC). Fahrzeuge können in etwa 20 Minuten bis zu 80% aufgeladen werden, aber im Durchschnitt dauert es etwa eine Stunde für ein neues Elektrofahrzeug. DC-Schnellladegeräte verwenden entweder <a href="https://chademo.com/">CHAdeMO</a> - oder CCS-Ladestandards. Dies sind die beiden derzeit am häufigsten verwendeten Typen. Sie bieten eine Leistung von 50 kW. Ein neuerer Typ sind Ultra <em>Rapid DC-Ladegeräte</em>, die eine Leistung von mindestens 100 kW haben. Außerdem bieten <em>AC-Schnellladegeräte</em> eine Leistung von 43 kW und verwenden den <a href="https://www.mobilityhouse.com/int_en/knowledge-center/charging-cable-and-plug-types#:~:text=Type%202%20plug,-The%20triple%2Dphase&amp;text=In%20private%20spaces%2C%20charging%20power,with%20a%20type%202%20socket.">Typ 2</a> Ladestandard. Ein spezielles Netz von Ladegeräten schließlich sind die <em>Supercharger von Tesla</em>, die speziell für Tesla-Fahrzeuge hergestellt werden. Dennoch verwenden viele Tesla-Fahrer:innen Adapter, die es ihnen ermöglichen, weit verbreitete generische Ladegeräte zu nutzen (Lilly, 2020).</p>
+<ul>
+<li><strong>Schnellladung (Fast)</strong></li>
+</ul>
+<p>Schnellladestationen bieten in der Regel eine AC-Ladung mit einer Ausgangsleistung von 7 kW oder 22 kW. Es gibt jedoch auch Stationen, die 25-kW-Gleichstromladegeräte mit CHAdeMO- oder CCS-Ladestandards verwenden. Die Ladezeiten liegen zwischen 1 und 6 Stunden, abhängig von der im Fahrzeug installierten Batterie. Schnellladestationen befinden sich in der Regel auf Parkplätzen, in Supermärkten oder Freizeitzentren, wo die Autos wahrscheinlich eine Stunde oder länger abgestellt werden. Schnellladestationen können sowohl angebunden als auch nicht angebunden sein (Lilly, 2020).</p>
+<ul>
+<li><strong>Langsam</strong></li>
+</ul>
+<p>Die Leistung von Langsamladegeräten variiert zwischen 2,3 kW und 6 kW und dauert zwischen 6 und 12 Stunden. Die meisten Langsamladegeräte sind kabellos, d. h. Fahrer:innen müssen ein eigenes Kabel mitbringen, um das Elektrofahrzeug mit der Ladestation zu verbinden. Sie werden in der Regel zum Aufladen zu Hause über Nacht, aber auch am Arbeitsplatz und an öffentlichen Ladestationen verwendet. Aufgrund der längeren Ladezeiten im Vergleich zu Schnellladegeräten sind langsame öffentliche Ladepunkte weniger verbreitet und können ältere Geräte sein.</p>
+<p>Die hohen Investitionskosten (einschließlich Grunderwerb, Installation, Betrieb und Wartung) und die geringe Rentabilität (die stark von ihrer Nutzung abhängt) gelten jedoch als Haupthindernisse für eine schnellere Entwicklung von Ladestationen (Lilly, 2020).</p>
+</div>
+<div id="wichtige-interessensgruppen-8" class="section level3 unnumbered">
+<h3>Wichtige Interessensgruppen</h3>
+<ul>
+<li><strong>Betroffene</strong>: EV-Fahrer:innen</li>
+<li><strong>Verantwortliche</strong>: Nationale Unternehmen und Regierungen, internationale Öl- und Gasunternehmen, Automobilunternehmen, Start-ups im Bereich der grünen Energie, Verkehrsbehörden</li>
+</ul>
+</div>
+<div id="aktueller-stand-der-wissenschaft-und-forschung-8" class="section level3 unnumbered">
+<h3>Aktueller Stand der Wissenschaft und Forschung</h3>
+<p>Ladestationen für Elektrofahrzeuge sind inzwischen eine gut etablierte Technologie für sich. Daher konzentriert sich die aktuelle Forschung auf die Erforschung ihres Potenzials in Kombination mit anderen neuen Technologien. Lokhandwala &amp; Cai (2020) beispielsweise verwenden Taxis in New York City als Fallstudie, um mögliche Wechselwirkungen zwischen Ladeinfrastruktur für Elektrofahrzeuge, Ride Sharing (RS) und automatisierten Fahrzeugen (AV) zu untersuchen. Zu diesem Zweck vergleichen sie die optimalen Ausbaupläne für die Ladeinfrastruktur für drei Fälle: ein Nicht-AV-RS-Szenario (Gegenwart), ein AV-RS-Szenario (Zukunft) und einen Mischfall. Die Simulation der Studie zeigt, dass im AV-RS-Fall die Nutzung der Ladestationen stärker über den Tag verteilt ist als im Nicht-AV-RS-Fall, wo die Nachfrage und die Warteschlangen morgens am größten sind. In Bezug auf das Dienstleistungsniveau zeigt sich, dass im Nicht-AV-RS-Szenario das Dienstleistungsniveau infolge der Einführung von E-Fahrzeugen unverändert blieb, während es im AV-RS-Fall um 2% sank. Schließlich zeigt die Studie, dass EV-Taxis in beiden Szenarien eine Reduzierung der CO<sub>2</sub>-Emissionen erwarten lassen.<br/></p>
+<p>Darüber hinaus konzentriert sich ein großer Teil der Forschung auf die Optimierung der Standorte von Ladestationen für verschiedene Fahrzeugtypen wie Taxis (Zhang et al., 2019), Busse (Uslu &amp; Kaya, 2021; Wu et al., 2021; He et al., 2019) und private E-Fahrzeuge (Pan et al., 2020) unter Berücksichtigung verschiedener Faktoren, wie z.B. der sozialen Akzeptanz, der Akzeptanz von E-Fahrzeugen, der Nachfrageschwankungen, der Länge der Fahrten (Anjos et al., 2020) und der Art der Straßeninfrastruktur, einschließlich Autobahnen (Napoli et al., 2020) und städtischer Netze (Ji et al., 2020).<br/></p>
+<p>Schließlich befasst sich ein wichtiger Teil der Forschung mit der Rolle der Ladestationsinfrastruktur bei der Einführung und Nutzung von Elektrofahrzeugen, die als Lösung zur Verringerung von Treibhausgasemissionen und Luftverschmutzung angesehen werden (Philipsen et al., 2019; Bonges et al., 2016). Die Studie von Melliger et al. (2018) untersuchte beispielsweise, wie der Ausbau des Ladestationsnetzes dem Phänomen der sogenannten <em>“Reichweitenangst”</em> bei E-Fahrzeugkäufer:innen entgegenwirken kann, das mit der Kapazität der E-Fahrzeugbatterie und der Verfügbarkeit von Ladestationen entlang der Routen zusammenhängt (Melliger et al., 2018).</p>
+</div>
+<div id="aktueller-stand-der-praktischen-umsetzung-8" class="section level3 unnumbered">
+<h3>Aktueller Stand der praktischen Umsetzung</h3>
+<p>Laut dem Global EV outlook 2020 (IEA, 2020) erreichte die Anzahl der weltweiten Ladestationen im Jahr 2019 7,3 Millionen Ladegeräte. Davon sind 6,5 Millionen langsame und normale Ladestationen, die in Haushalten, Wohn- und Bürogebäuden installiert sind, während der Rest öffentlich zugängliche Ladestationen sind (Thananusak et al., 2021).<br/></p>
+<p>Es hat sich gezeigt, dass ein dichteres Netz von Ladestationen ein wichtiger Faktor ist, um die Reichweitenangst der Nutzer:innen von Elektrofahrzeugen zu verringern (Philipsen et al., 2019). Daher ist es nicht verwunderlich, dass die Politik vieler Länder in Europa und darüber hinaus Ziele für den Bau von Ladestationen für Elektrofahrzeuge gesetzt hat, um deren Verbreitung zu fördern. So hat Frankreich beispielsweise das sogenannte <a href="https://www.iea.org/policies/8737-law-on-energy-transition-for-green-growth-ltecv">Gesetz zur Energiewende für grünes Wachstum (LTECV)</a> eingeführt, das den Bau von 7 Millionen Ladestationen bis 2030 vorsieht (Thananusak et al., 2021). In der Schweiz empfahl das Bundesamt für Straßen (ASTRA) die Installation von Schnellladestationen an allen wichtigen Autobahnraststätten (Melliger et al., 2018). In Bezug auf die EU-weite Gesetzgebung verpflichtet die<em><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0094&amp;from=en">Richtlinie 2014/94/EU</a> über den Aufbau einer Infrastruktur für das Aufladen und Betanken mit alternativen Kraftstoffen</em> (bekannt als Alternative Fuels Infrastructure Directive (AFI)) die EU-Mitgliedsstaaten dazu, eine angemessene Anzahl von öffentlich zugänglichen Ladepunkten bereitzustellen.<br/><br/>
+Im österreichischen Kontext hat die Studie von Baresch &amp; Moser (2019) gezeigt, dass 88% der E-Fahrzeugnutzer ihr Auto zu Hause aufladen und nur 1,5% - 1,7% öffentliche Stationen nutzen. Dies hat einen erheblichen Einfluss auf die Rentabilität der öffentlichen Ladestationen. Um dieses Problem zu lindern, können Regierungen nachfragefördernde oder technologiefördernde Maßnahmen ergreifen. Die nachfragefördernden Lösungen basieren auf der Ausweitung der Märkte für Innovationen, um die Nachfrage zu steigern und die Gewinne aus dem Geschäft mit Ladestationen zu erhöhen. Dazu gehören z. B. die Sensibilisierung der Verbraucher:innen, Rabatte und Steuergutschriften. Auf der anderen Seite zielen die Technologie-Push-Lösungen darauf ab, die Kosten für innovative Lösungen durch Finanzierung und Subventionen für F&amp;E im privaten Sektor zu senken (Thananusak et al., 2021).
+Interessanterweise fand zwischen 2007 und 2013 das erste transnationale Elektromobilitätsprojekt zwischen Wien und Bratislava statt. Es zielte darauf ab, die Funktionsfähigkeit einer grenzüberschreitenden Initiative zu demonstrieren. Zu diesem Zweck wurde eine Reihe von Ladestationen an öffentlichen und halböffentlichen Orten errichtet, damit Nutzer:innen von Elektrofahrzeugen ihre Fahrzeuge auf beiden Seiten der Grenze aufladen können. Das Projekt zeigte die Benutzerfreundlichkeit von Elektrofahrzeugen im täglichen Verkehr und die grenzüberschreitende Verfügbarkeit von Dienstleistungen, unabhängig vom Wohnsitzland des E-Mobilitätskunden (Verbund, 2011).</p>
+</div>
+<div id="relevante-initiativen-in-österreich-8" class="section level3 unnumbered">
+<h3>Relevante Initiativen in Österreich</h3>
+<ul>
+<li><a href="http://www.ieahev.org/by-country/austria-charging-infrastructure/">ieahev.org</a></li>
+<li><a href="https://ev-charging.com/at/en/elektrotankstellen">ev-charging.com</a></li>
+<li><a href="https://smatrics.com/en/charging-network">smatrics.com</a></li>
+<li><a href="https://chargemap.com/cities/wien-AT">chargemap.com</a></li>
+</ul>
+</div>
+<div id="auswirkungen-in-bezug-auf-die-ziele-für-nachhaltige-entwicklung-sdgs-8" class="section level3 unnumbered">
+<h3>Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs)</h3>
+<table>
+<colgroup>
+<col width="20%" />
+<col width="18%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Ebene der Auswirkungen</th>
+<th align="center">Indikator</th>
+<th align="center">Richtung der Auswirkungen</th>
+<th align="center">Beschreibung des Ziels &amp; SDG</th>
+<th align="center">Quelle</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Systemisch</td>
+<td align="center">Beitrag zur Emissionsminderung (durch EVs)</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Oekologische Nachhaltigkeit (<em>7,12,13,15</em>)</td>
+<td align="center">Thananusak et al., 2021</td>
+</tr>
+<tr class="even">
+<td align="center">Systemisch</td>
+<td align="center">Mehr oeffentliche Mittel fuer Ladestationen, aber hohe Einstiegshuerden fuer Investoren</td>
+<td align="center"><strong>~</strong></td>
+<td align="center">Innovation und Infrastruktur (<em>9</em>)</td>
+<td align="center">Thananusak et al., 2021</td>
+</tr>
+<tr class="odd">
+<td align="center">Systemisch</td>
+<td align="center">Foerderung der Zusammenarbeit zwischen verschiedenen Interessengruppen (z. B. Industrie und Regierungen) und Laendern</td>
+<td align="center"><strong>+</strong></td>
+<td align="center">Partnerschaften und Kooperationen (<em>17</em>)</td>
+<td align="center">Thananusak et al., 2021</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="technologie--und-gesellschaftlicher-bereitschaftsgrad-6" class="section level3 unnumbered">
+<h3>Technologie- und gesellschaftlicher Bereitschaftsgrad</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Stand der Technologiebereitschaft</th>
+<th align="center">Gesellschaftlicher Bereitschaftsgrad</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">8-9</td>
+<td align="center">6-8</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="offene-fragen-8" class="section level3 unnumbered">
+<h3>Offene Fragen</h3>
+<ol style="list-style-type: decimal">
+<li>Was sind nachfragefördernde und technologiefördernde Maßnahmen zur Steigerung der Investitionen in Ladestationen? Wie hoch ist ihre relative Wirksamkeit?</li>
+<li>Welcher Anteil der Autofahrten kann mit den derzeit (2021) verfügbaren BEVs und der aktuellen Ladeinfrastruktur erfolgreich bewältigt werden?</li>
+<li>Welche Bedürfnisse haben die österreichischen Autofahrer:innen in Bezug auf die Reichweite?</li>
+</ol>
+</div>
+<div id="weitere-links-6" class="section level3 unnumbered">
+<h3>Weitere links</h3>
+<ul>
+<li><a href="https://www.plugshare.com/en">plugshare.com</a></li>
+<li><a href="https://www.dekra-product-safety.com/en/ev-charging-station-technology">dekra-product-safety.com</a></li>
+</ul>
+</div>
+<div id="referenzen-8" class="section level3 unnumbered">
+<h3>Referenzen</h3>
+<ul>
+<li>Anjos, M. F., Gendron, B., &amp; Joyce-Moniz, M. (2020). Increasing electric vehicle adoption through the optimal deployment of fast-charging stations for local and long-distance travel. European Journal of Operational Research, 285(1), 263-278.</li>
+<li>Bonges III, H. A., &amp; Lusk, A. C. (2016). Addressing electric vehicle (EV) sales and range anxiety through parking layout, policy and regulation. Transportation Research Part A: Policy and Practice, 83, 63-73.</li>
+<li>He, Y., Song, Z., &amp; Liu, Z. (2019). Fast-charging station deployment for battery electric bus systems considering electricity demand charges. Sustainable Cities and Society, 48, 101530.</li>
+<li>IEA. (2020). Global EV Outlook 2020; IEA: Paris, France. p. 276.</li>
+<li>Ji, D., Lv, M., Yang, J., &amp; Yi, W. (2020). Optimizing the Locations and Sizes of Solar Assisted Electric Vehicle Charging Stations in an Urban Area. IEEE Access, 8, 112772-112782.</li>
+<li>Lilly, C., (2020). EV Charging connectors - Electric car charging speeds. Zap-Map. Available at: <a href="https://www.zap-map.com/charge-points/connectors-speeds/#:~:text=There%20are%20three%20main%20types,measured%20in%20kilowatts%20(kW)." class="uri">https://www.zap-map.com/charge-points/connectors-speeds/#:~:text=There%20are%20three%20main%20types,measured%20in%20kilowatts%20(kW).</a> [Accessed: 26 March 2021].</li>
+<li>Lokhandwala, M., &amp; Cai, H. (2020). Siting charging stations for electric vehicle adoption in shared autonomous fleets. Transportation Research Part D: Transport and Environment, 80, 102231.</li>
+<li>Melliger, M. A., van Vliet, O. P., &amp; Liimatainen, H. (2018). Anxiety vs reality - Sufficiency of battery electric vehicle range in Switzerland and Finland. Transportation Research Part D: Transport and Environment, 65, 101-115.</li>
+<li>Napoli, G., Polimeni, A., Micari, S., Andaloro, L., &amp; Antonucci, V. (2020). Optimal allocation of electric vehicle charging stations in a highway network: Part 1. Methodology and test application. Journal of Energy Storage, 27, 101102.</li>
+<li>Pan, L., Yao, E., Yang, Y., &amp; Zhang, R. (2020). A location model for electric vehicle (EV) public charging stations based on drivers’ existing activities. Sustainable Cities and Society, 59, 102192.</li>
+<li>Philipsen, R., Brell, T., Biermann, H., &amp; Ziefle, M. (2019). Under Pressure-Users’ Perception of Range Stress in the Context of Charging and Traditional Refueling. World Electric Vehicle Journal, 10(3), 50.</li>
+<li>Thananusak, T., Punnakitikashem, P., Tanthasith, S., &amp; Kongarchapatara, B. (2021). The Development of Electric Vehicle Charging Stations in Thailand: Policies, Players, and Key Issues (2015-2020). World Electric Vehicle Journal, 12(1), 2.</li>
+<li>Uslu, T., &amp; Kaya, O. (2021). Location and capacity decisions for electric bus charging stations considering waiting times. Transportation Research Part D: Transport and Environment, 90, 102645.</li>
+<li>Verbund.com (2011). Europe Premiere: Unlimited Electric Mobility - VERBUND. Verbund.com. Available at: <a href="https://www.verbund.com/en-de/about-verbund/news-press/press-releases/2011/03/04/unlimited-electric-mobility" class="uri">https://www.verbund.com/en-de/about-verbund/news-press/press-releases/2011/03/04/unlimited-electric-mobility</a> [Accessed: 26 March 2021].</li>
+<li>Wu, X., Feng, Q., Bai, C., Lai, C. S., Jia, Y., &amp; Lai, L. L. (2021). A novel fast-charging stations locational planning model for electric bus transit system. Energy, 120106.</li>
+<li>Zhang, S., Wang, H., Zhang, Y. F., &amp; Li, Y. Z. (2019). A novel two-stage location model of charging station considering dynamic distribution of electric taxis. Sustainable Cities and Society, 51, 101752.</li>
+</ul>
+
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="infrastructure.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": false,
+"twitter": false,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": false
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": null,
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+},
+"toolbar": null,
+"position": "fixed",
+"info": false
+});
+});
+</script>
+
+</body>
+
+</html>
