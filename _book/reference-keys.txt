@@ -1,3 +1,14 @@
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
 intro
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+fig:unnamed-chunk-7
+infrastructure
+dedicated_lanes
+ODD
+informationssystem-für-bahnübergänge
+ers
+high_occupancy
+public_trans_priority
+transformation_public_space

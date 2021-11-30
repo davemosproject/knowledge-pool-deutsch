@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
-description: "This is a work-in-progress knowledge pool of the systemic impact of transport digitalisation and automation."
+description: "Hierbei handelt es sich um einen work-in-progress Knowledge Pool zu den systemischen Auswirkungen der Digitalisierung und Automatisierung des Verkehrs."
 ---
 
 # Willkommen {-}
@@ -29,9 +29,9 @@ Die Autoren freuen sich über Feedback, Fragen und Beiträge der Leser. Für wei
 ```{r, echo=FALSE, , out.width="10%"}
 knitr::include_graphics("image/cc.png")
 ```
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. <br/>
+Dieses Werk ist lizenziert unter einer Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.<br/>
 
-The authors assume no responsibility or liability for any errors or omissions in the content of this work. The information contained in the knowledge pool is for general information purposes only.
+Die Autoren übernehmen keine Verantwortung oder Haftung für etwaige Fehler oder Unvollständigkeiten im Inhalt dieses Werkes. Die im Knowledge Pool enthaltenen Informationen dienen lediglich der allgemeinen Information.
 
 **Inhaltsverzeichnis**
 
