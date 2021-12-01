@@ -25,8 +25,6 @@ variable_speed
 adaptive_traffic_control
 p_g_fleet_management
 urban_access
-fig:unnamed-chunk-1
-fig:unnamed-chunk-2
 digital
 v2x
 infrast_support_level
