@@ -1,0 +1,247 @@
+# Digitale Straßeninfrastruktur und Konnektivität {#digital}
+
+## V2X (Vehicle to everything / Fahrzeug-zu-Alles) Kommunikation {#v2x}
+
+### Synonyme {-}
+*Connected Vehicle (CV), Connected Vehicle technologies (CVT), Vehicle-to-x (car and infrastructure) (C2x/V2x), Cooperative Intelligent Transport Systems (C-ITS), Cellular-V2X technology (C-V2X)*
+
+### Definition {-}
+Im Rahmen intelligenter Verkehrssysteme (IVS) wurden in den letzten Jahren verschiedene Technologien für vernetzte Fahrzeuge (CV) entwickelt, die durch kooperative Situationserkennung und Gefahrenvermeidung zu sichereren Straßen beitragen sollen. Es wurden zwei Hauptkommunikationsarten vorgeschlagen: Fahrzeug-zu-Fahrzeug- (V2V) und Fahrzeug-zu-Infrastruktur- (V2I) Kommunikation (Outay et al., 2019). C2X (car to everything) oder im weiteren Sinne V2X (vehicle to everything) ist die neue Technologie, die sowohl die Kommunikation zwischen Fahrzeugen (car-to-car) als auch den Informationsaustausch mit der Infrastruktur (car-to-infrastructure) ermöglicht (ADAC, 2021). <br/><br/>
+V2V bietet Vorteile in Bezug auf die Sicherheit, da es Unfälle verhindern kann, indem es einem Fahrzeug ermöglicht, in Echtzeit Informationen über Geschwindigkeit, Standort und Richtung mit anderen Fahrzeugen in der Umgebung auszutauschen. Zusätzlich zu ihren Sicherheitsanwendungen können V2V- und V2I-Kommunikation potenziell dazu beitragen, den Kraftstoffverbrauch und die Emissionen zu senken, da übermäßige Schadstoffemissionen häufig mit starkem Bremsen, wechselnden Fahrgeschwindigkeiten und Beschleunigen/Verzögern, insbesondere an signalisierten Kreuzungen, verbunden sind. Im Zusammenhang mit intelligenten Städten erforschen viele Forscher:innen den möglichen Einsatz vernetzter Fahrzeuge zur Unterstützung einer umweltfreundlichen Fahrweise durch die Verringerung der CO~2~ Dies wird häufig durch Fahrzeug-zu-Fahrzeug (V2V) und Fahrzeug-zu-Infrastruktur (V2I) Interkonnektivität erreicht, um Fahrzeuggeschwindigkeiten zu harmonisieren, indem der Verkehrsfluss aufrechterhalten und unnötige Stopps und Starts reduziert werden (Outay et al., 2019).<br/><br/>
+Was die für V2X verwendete Kommunikationstechnologie betrifft, so wurde laut Dey et al. (2016) Dedicated Short Range Communication (DSRC) als primäre Option für CVT-Sicherheitsanwendungen angesehen. Die Verwendung anderer Funktechnologien wie Wi-Fi, LTE oder WiMAX ermöglicht jedoch eine Kommunikation mit größerer Reichweite und bietet höhere Durchsatzanforderungen, die von DSRC allein nicht unterstützt werden könnten. Darüber hinaus kann durch den Einsatz anderer Funktechnologien der Bedarf an kostspieliger DSRC-Infrastruktur verringert werden.
+
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Autofahrer:innen, Versicherungen
+- **Verantwortliche**: Nationale Regierungen, Privatunternehmen, Autohersteller, Infrastrukturbetreiber
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Viele Forschungsarbeiten befassen sich mit der technischen Leistungsfähigkeit dieser Technologie, dem Vergleich von V2V mit V2I und der Vermischung von V2V-Fahrzeugen mit nicht mit V2V ausgestatteten Fahrzeugen. Im Jahr 2019 ist die Idee, V2V- und V2I-Kommunikation zu einem hybriden V2X-Warnsystem zu kombinieren, bereits Realität geworden (Outay et al., 2019).<br/><br/>
+Darüber hinaus wird an einem Vergleich der verfügbaren Kommunikationstechnologien geforscht, um die schnellste, effizienteste und fehlerfreiste Lösung zu finden. Derzeit werden zwei Möglichkeiten für die Car2X-Kommunikation diskutiert. Zum einen die IEEE 802.11p Dedicated Short Range Communication (DSRC) und zum anderen die Cellular-V2X-Technologie (C-V2X). Erstere basiert auf dem IEEE 802.11 WiFi-Standard, während C-V2X auf 4G LTE basiert, mit einer Roadmap in Richtung 5G C-V-to-X. Während China und die USA vor allem auf C-V2X setzen, ist Europa noch unentschieden, ob die Vernetzung im Auto über pWLAN oder über C-V2X erfolgen soll. Dies führt zu einem internationalen Sprachenwirrwarr. Dies kann dazu führen, dass die Fahrzeuge nicht fehlerfrei kommunizieren können, weil sie unterschiedliche Sprachen verwenden (Köllner, 2020).<br/><br/>
+IEEE 802.11p ist technisch sehr fortschrittlich und arbeitet mit minimalen Latenzen. Der Vorteil der 5GAA-Technologie liegt jedoch darin, dass 5G in naher Zukunft weltweit in großem Umfang eingeführt werden soll und der schnelle Mobilfunkstandard ohnehin im Auto zu finden sein wird, und sei es nur, um die riesigen Datenmengen zu übertragen, die beim automatisierten Fahren anfallen. Zudem müssen in einem dichten 5G-Netz weitaus weniger der für die direkte Kommunikation benötigten 5,9-GHz-Geräte in die Infrastruktur integriert werden als bei der 802.11p-Lösung. Ein Teil der Aufgaben dieser Geräte wird dann vom 5G-Netz übernommen (Knecht, 2018).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Bislang ist C2X nur bei wenigen Herstellern erhältlich. Nur Ford-Modelle, der Volkswagen Golf 8 und alle Volvo-Modelle haben C2X immer serienmäßig an Bord. Dies ist aus Sicht des Verbraucherschutzes wünschenswert, denn je mehr Autos mit C2X ausgestattet sind, desto genauer kann dieses System Unfälle verhindern. Auch hier gilt, dass nur Golf- und Volvo-Modelle C2X nach dem Kauf kostenlos haben. Alle anderen Hersteller verlangen nach ein bis drei Jahren Geld für C2X. Außerdem ist C2X nie allein erhältlich, sondern nur im Paket mit anderen Connect-Diensten, die nicht unbedingt etwas mit Verkehrssicherheit zu tun haben (ADAC, 2021).<br/><br/>
+Bei der V2V-Kommunikation sind einige wichtige technische Besonderheiten zu beachten:
+- Die Zeit, die eine Warnung braucht, um ein anderes Auto zu erreichen. Diese variiert stark zwischen den Herstellern und reicht von 0,1 Sekunden bis zu 2 Minuten - wobei der letztgenannte Wert für viele Situationen (z.B. Stauende hinter einer Kurve) viel zu langsam ist.
+- Verschiedene Übertragungstechniken verhindern derzeit, dass sich die Fahrzeuge aller Hersteller gegenseitig warnen können.
+- Bei vielen Herstellern können Warnungen nicht weitergegeben werden, wenn sich das Fahrzeug in einer Funklochzone befindet.
+- Die Anzahl der Gefahrensituationen, vor denen gewarnt wird, variiert von Hersteller zu Hersteller.
+In der nachstehenden Tabelle wird verglichen, wie sich die Warnvorgaben von drei Autoherstellern unterscheiden:
+
+```{r table46, echo=FALSE, results='asis'}
+cat('|Audi|Ford|Mercedes|
+|:----:|:----:|:----:|
+|defekte Fahrzeuge|defekte Fahrzeuge|Pannen|
+|Unfaelle|Allgemeine Verkehrswarnung|Unfaelle|
+|Ende eines Staus|Ende eines Staus|-|
+|Nebel, Glatteis|gefaehrliche Strassenverhaeltnisse (Glatteis, starker Regen, Oel usw.)|Starker Regen, Nebel, Seitenwind und vereiste Strassen|
+|Online-Informationen zu Verkehrszeichen|-|eingeschaltete Warnblinkanlage|
+|-|-|zusaetzliche Gefahren, die Fahrer:innen manuell ueber das Navigationsmenue melden|
+|Anzeige der Wahrscheinlichkeit von freien Parkplaetzen entlang von Strassen inkl. Zusatzinformationen wie Preise|-|-|
+|Geschwindigkeitsempfehlung zum Erreichen der naechsten Ampel in einer Gruenphase|-|-|
+|-|Baustellen|-|
+|-|Gegenstaende, Tiere, Menschen im Strassenverkehr|-|
+|-|Geisterfahrer|-|')
+```
+
+Darüber hinaus gibt der ADAC folgende Empfehlungen an die Hersteller (ADAC, 2021):
+- Die Hersteller sollten sich schnell auf eine Übertragungstechnik einigen
+- C2X sollte schnell zur Serienausstattung werden
+- Sicherheitsrelevante C2X-Funktionen sollten keine Folgekosten verursachen
+In Europa wird derzeit eine Basis für kooperative Systeme geschaffen. Die Verfahren zur Erprobung unter realen Verkehrsbedingungen werden definiert und zwischen den beteiligten Partnern abgestimmt. Ein großer Teil der technischen Lösungen für die Datenkommunikation ist standardisiert. Die nicht-technischen Aspekte (z.B. Organisationsstrukturen, Sicherheitskonzept) werden derzeit zur Vorbereitung der Markteinführung in einer öffentlich-privaten Partnerschaft erarbeitet.<br/><br/>
+Auf dieser Basis starten deutsche, niederländische und österreichische Straßenbetreiber gemeinsam mit Partnern aus der Industrie die schrittweise Einführung kooperativer Systeme in Europa im Rahmen des C-ITS Korridors von Rotterdam bis Frankfurt am Main und Wien (Cooperative ITS Corridor, n.d.). <br/><br/>
+In Österreich hat die ASFINAG nun mit der Vergabe eines umfangreichen Rahmenvertrages als erster Infrastrukturanbieter in Europa einen weiteren Meilenstein in der Vernetzung von Fahrzeugen und Straßen erreicht. Das Gesamtvolumen des Rahmenvertrages beträgt 14,5 Millionen Euro. Damit kann in den kommenden Jahren das gesamte Autobahnnetz in Österreich mit C-ITS ausgestattet werden. 525 so genannte Road Units sowie eine Leitstelle gehören zu den Geräten, die ab November 2020 schrittweise auf den Autobahnen installiert werden. Die ersten C-ITS Dienste zur Gefahrenwarnung werden voraussichtlich innerhalb der nächsten 16 Monate in Betrieb gehen. Der weitere Ausbau wird sich auf die Unterstützung des automatisierten Fahrens und des vernetzten Verkehrsmanagements konzentrieren. Die C-ITS-Ausrüstung ist Teil der Digitalisierung der Straßeninfrastruktur und wird aus Mitteln des Klima- und Energiefonds und der EU finanziert (Mo?nik, 2020).
+
+### Relevante Initiativen in Österreich {-}
+
+- [infothek.bmk.gv.at](https://infothek.bmk.gv.at/fahrer-assistenzsysteme-verkehrssicherheit-vernetzung/) 
+- [c-its-korridor.de](https://c-its-korridor.de/?menuId=1&sp=en) 
+- [asfinag.at](https://www.asfinag.at/ueber-uns/newsroom/pressemeldungen/2020/wlan-ausbau-cooperative-intelligent-transport-systems/) 
+- [kununu.com](https://www.kununu.com/de/automotive-safety-technologies/news/car2x-projekt-in-oesterreich-praesentiert) 
+- [hitech.at](https://www.hitech.at/mobilitaet/wohin-geht-die-fahrt) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs){-}
+
+```{r table44, echo=FALSE, results='asis'}
+cat('| Impact level| Indicator|Impact direction| Goal description and number|Source|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Verbesserung der Verkehrssicherheit|**+**|Gesundheit und Wohlbefinden (*3*)|Filippi et al., 2016|
+|Individuell|V2X-Kommunikation ist fuer den Endnutzer kostenlos|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Hainen et al., 2019|
+|Systemisch|Verringerung der Emissionen|**+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Outay et al., 2019|
+|Systemisch|Erhoehte Effizienz der Verkehrssysteme|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Filippi et al., 2016|')
+```
+
+### Technology and societal readiness level {-}
+
+```{r table45, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|6-8|5-7|')
+```
+
+### Offene Fragen{-}
+1. Welche Kombination der verschiedenen Kommunikationsmöglichkeiten ist die beste?
+2. Welche Kommunikationstechnologie ist für Europa am besten geeignet?
+3. Kümmern sich die Infrastrukturbetreiber bereits darum, Daten international kompatibel zu machen, damit Autos damit kommunizieren können?
+
+
+### Weitere links {-}
+
+- [c-its-korridor.de](https://c-its-korridor.de/?menuId=1&sp=en) 
+- [nhtsa.gov](https://www.nhtsa.gov/technology-innovation/vehicle-vehicle-communication) 
+
+### Referenzen {-}
+- ADAC. (2021). Welche Hersteller bieten bereits C2X an? Datenquelle Original-Rückmeldungen.
+- Cooperative ITS Corridor. (n.d.). Cooperative ITS Corridor. Available at: https://c-its-korridor.de/?menuId=1&sp=de [Accessed: 18 February 2021]
+- Dey, K. C., Rayamajhi, A., Chowdhury, M., Bhavsar, P., & Martin, J. (2016). Vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication in a heterogeneous wireless network - Performance evaluation. Transportation Research Part C: Emerging Technologies, 68, 168-184. https://doi.org/10.1016/j.trc.2016.03.008
+- Filippi, A., Moerman, K., Daalderop, G., Alexander, P. D., Schober, F., & Pfliegl, W. (2016). Ready to roll: Why 802.11p beats LTE and 5G for V2x. 1-14.Available at:  https://www.siemens.com/content/dam/webassetpool/mam/tag-siemens-com/smdb/mobility/road/connected-mobility-solutions/documents/its-g5-ready-to-roll-en.pdf [Accessed: 30 September 2021]
+- Hainen, A., Mulligan, B., Deetlefs, J., Mulligan, I., & Ashley, P. (2019). Co-Deployment of DSRC Radio and Cellular Connected Vehicle Technology in Tuscaloosa, AL and Northport, AL. 1-9.
+- Knecht, J. (2018). C-V2X Europapremiere: Wie Autos sprechen â€“ mit wem auch immer | AUTO MOTOR UND SPORT. https://www.auto-motor-und-sport.de/technik/vernetzung-cv2x-car-to-car-europapremiere/
+- Köllner, C. (2020, March 24). Car-to-X | Fahrzeugvernetzung per C-V2X oder pWLAN? | springerprofessional.de. https://www.springerprofessional.de/car-to-x/automatisiertes-fahren/fahrzeugvernetzung-per-c-v2x-oder-pwlan-/17822610
+- Močnik, W. (2020, October 20). ASFINAG startet als erster Autobahnbetreiber Europas Vernetzung von Straße und Fahrzeug. Available at:  https://www.asfinag.at/ueber-uns/newsroom/pressemeldungen/2020/wlan-ausbau-cooperative-intelligent-transport-systems/ [Accessed: 20 Nov 2020].
+- Outay, F., Kamoun, F., Kaisser, F., Alterri, D., & Yasar, A. (2019). V2V and V2I communications for traffic safety and CO~2~ emission reduction: A performance evaluation. Procedia Computer Science, 151(2018), 353-360. https://doi.org/10.1016/j.procs.2019.04.049
+
+## Unterstützungsgrad der Infrastruktur für automatisiertes Fahren (ISAD - Infrastructure support for automated driving){#infrast_support_level}
+### Synonyme {-}
+*Vernetzte Fahrzeuge (CV - Connected Vehicle), Technologien für vernetzte Fahrzeuge (CVT - Connected Vehicle technologies), Fahrzeug-zu-X (Auto und Infrastruktur) (C2x/V2x), kooperative intelligente Verkehrssysteme (C-ITS - Cooperative Intelligent Transport Systems), Zellular-V2X-Technologie (C-V2X), Gesellschaft der Kraftfahrzeugingenieure (SAE - Society of Automotive Engineers), ISAD (Infrastructure support for automated driving)*
+
+### Definition {-}
+Automatisiertes Fahren bedeutet, dass die Steuerung eines Fahrzeugs schrittweise vom Menschen auf Computersysteme übergeht, einschließlich der Wahrnehmung der Umgebung. Das automatisierte Fahren erfordert bestimmte Voraussetzungen, die sich in folgende Bereiche gruppieren lassen (Erhart et al., 2020):
+- die Domäne der Fahrer:in-Maschine-Interaktion,
+- die Domäne der Fahrzeugfähigkeit,
+- der Bereich des Straßenbetreibers,
+- den Bereich der Gesetze und Vorschriften.
+Diese Bereiche wurden in den letzten Jahren ausführlicher beschrieben (Erhart et al., 2020):
+- die [SAE](https://www.sae.org/) Levels [SAE J3016_201806], die den Grad der Automatisierung und die damit verbundene Aufteilung der Entscheidungs- und Kontrollverantwortung zwischen Mensch und Maschine beschreiben.
+- die Operational Design Domains (ODDs), die sich mit den Umgebungsbedingungen befassen, unter denen die Maschinenfunktionen arbeiten
+- die ISAD-Klassifizierung beschreibt die Fähigkeit der Straßeninfrastruktur, zusätzliche Sensorinformationen für Fahrzeuge bereitzustellen (Carreras et al., 2018).<br/>
+
+Die Klassifizierung der ISAD-Stufen:<br/>
+
+- ISAD E
+Für die meisten der heutigen "konventionellen" Infrastrukturen sind in der Regel keine digitalen Infrastrukturdaten verfügbar. Das Fahrzeug muss sich ausschließlich auf die bordeigene Sensorik verlassen und verfügt über keine redundante zweite Informationsquelle. Darüber hinaus müssen Straßengeometrie und Verkehrszeichen vom automatisierten Fahrzeug selbständig erkannt werden.<br/>
+
+- ISAD D
+
+Auf dieser Stufe sind statische digitale Informationen in Form einer Kartenunterstützung für diesen Straßenabschnitt verfügbar. Kartenunterstützung bedeutet, dass der Infrastrukturanbieter, die Straßenbehörde oder eine andere zuständige Stelle digitale Kartendaten (einschließlich statischer Straßenschilder) bereitstellt, die durch physische Referenzpunkte ergänzt werden. Die automatisierten Fahrzeuge müssen jedoch weiterhin selbständig Ampeln, kurzfristige Baustellen und Wechselverkehrszeichen erkennen. Die bereitgestellten Daten müssen im Voraus bei dem jeweiligen Kartendienstanbieter angefordert und heruntergeladen werden.<br/>
+
+- ISAD C
+
+Auf der Stufe C müssen "dynamische digitale Informationen" in dem betreffenden Netz verfügbar sein. Dies bedeutet, dass Informationen von dynamischen Verkehrszeichen (z.B. variable Geschwindigkeitsbegrenzungen) und dynamische Informationen über Warnungen, Zwischenfälle und Wetterwarnungen verfügbar sind. Ein einschlägiges, in Europa weit verbreitetes Nachrichtenformat für solche dynamischen Informationen ist DATEXII.<br/>
+
+- ISAD B
+
+Die ISAD B-Klassifizierung erfordert die Fähigkeit zur "kooperativen Wahrnehmung", was bedeutet, dass die Infrastruktur in der Lage ist, mikroskopische Verkehrssituationen wahrzunehmen und auch mit den Fahrzeugen zu kommunizieren. Mikroskopische Verkehrsdaten können durch verschiedene Arten von Sensoren erfasst werden. Die Infrastruktur kann in Echtzeit reagieren und die Fahrzeuge über Verkehrssituationen informieren, z. B. über I2V-Kommunikation mit C-ITS-Nachrichten.
+
+- ISAD A
+
+Für die höchste Klassifizierung ISAD A muss die Infrastruktur in der Lage sein, Fahrzeugtrajektorien zu erkennen und einzelne AVs oder AV-Gruppen zu führen. Bei der Fahrt auf einer als ISAD A klassifizierten Straße werden automatisierte Fahrzeuge von der Infrastruktur gelenkt, um den Verkehrsfluss zu optimieren. Zu den entsprechenden Meldungen, die von der Infrastruktur gesendet werden, gehören z. B. Lücken- und Spurwechselhinweise zur Lenkung des automatisierten Verkehrs. Diese erweiterten Meldungen werden als C-ITS Tag 2 für automatisiertes Fahren bezeichnet.<br/>
+
+Die ISAD-Klassifizierungen sind jedoch zur Beschreibung von Straßen- oder Autobahnabschnitten gedacht, nicht für ganze Straßennetze. Dies ist jedoch gängige Praxis, da Verkehrsüberwachungssysteme wie Sensoren und Wechselverkehrszeichen (VMS) in der Regel auf Autobahnabschnitten eingesetzt werden, auf denen der Verkehr häufig an seine Grenzen stößt (z. B. in Staugebieten), während auf anderen Autobahnabschnitten keine festen Installationen von Verkehrsüberwachungssystemen erforderlich sind, da der Verkehrsfluss nur selten unterbrochen wird (Inframix, n.d.).<br/>
+
+Je nach dem Grad des automatisierten Fahrens wird es möglich sein, die Zahl der Unfälle weiter zu senken, denn bis zu 90 Prozent aller Verkehrsunfälle sind auf menschliches Versagen zurückzuführen. Dieser Prozess wird jedoch langwierig sein, da konventionelle und automatisierte Fahrzeuge noch viele Jahre im Mischverkehr fahren werden. Es muss verhindert werden, dass die technischen Systeme versagen oder Verkehrssituationen einfach falsch einschätzen (Rudschies & Kroher, 2021).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: "Fahrer:innen" von automatisierten Fahrzeugen
+- **Verantwortliche**: Nationale Regierungen, Privatunternehmen, Automobilhersteller, Infrastrukturbetreiber
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+
+*Lesbarkeit von Schildern*<br/>
+Es besteht Forschungsbedarf zur maschinellen Lesbarkeit von Verkehrszeichen und Fahrbahnmarkierungen. Es ist noch nicht klar, wie solche Schilder gestaltet werden sollen, wo sie aufgestellt werden können und unter welchen Randbedingungen (Wetter, Geschwindigkeit) sie erkannt werden können. Darüber hinaus besteht weiterer Forschungsbedarf bei Leitpfosten im Hinblick auf das Problem der Ortung des automatisierten Fahrzeugs durch veränderte Leitpfosten, z. B. bei unsichtbaren Fahrbahnmarkierungen. <br/>
+
+*Digitale Karten*<br/>
+Es besteht weiterer Forschungsbedarf bei der Implementierung einer digitalen Karte mit konsistenten, korrekten und zuverlässigen Kartendaten. Es muss ein einheitliches Verfahren entwickelt werden, um die Qualität des Inhalts einer digitalen Karte für den Einsatz beim automatisierten Fahren sicherzustellen. Insbesondere die notwendigen Schnittstellen und Standards einer digitalen Karte, ihre Kosten, Betreibermodelle etc. sind derzeit völlig offen. Bei der Implementierung einer hochgenauen, geschichteten digitalen Referenzkarte sollte ein besonderes Augenmerk auf deren Funktionssicherheit gelegt werden, da sie im sicherheitsrelevanten Bereich der automatisierten Fahrzeugsteuerung zum Einsatz kommt und somit ein integraler Bestandteil der Funktionssicherheit des automatisierten Fahrens ist. <br/>
+
+Darüber hinaus sollte untersucht werden, inwieweit die Informationen der Sensoren von automatisierten Fahrzeugen für diesen Zweck genutzt werden können und ob sie für die Straßenverkehrsbehörden nutzbar gemacht werden können. Außerdem besteht Forschungsbedarf bei der Durchführung regelmäßiger Straßenkontrollen. Denn wie diese Straßenkontrollen durchgeführt werden können und welche Daten zuverlässig erhoben und automatisch ausgewertet werden können, ist noch nicht erforscht (Heinrich, 2019).<br/>
+
+Es gibt mehrere Forschungsprojekte zu konkreten Anwendungsfällen mit einigen Annahmen zur Infrastruktur. Sie zielen darauf ab, Infrastrukturanforderungen und -auswirkungen für verschiedene Arten von CAVs zu definieren (Ulrich et al., 2020). <br/>
+
+Das österreichische Forschungsprojekt *"via-AUTONOM"* zielt beispielsweise darauf ab, eine Straßeninfrastruktur zu schaffen, die den Anforderungen von automatisierten Fahrzeugen und allen anderen Verkehrsteilnehmer:innen in Bezug auf Sicherheit, Effizienz und Komfort gerecht wird. Mit anderen Worten: Es wird die Übergangszeit untersucht, in der sowohl automatisierte Fahrzeuge als auch nicht-automatisierte Verkehrsteilnehmer:innen auf den Straßen präsent sind. Außerdem soll ermittelt werden, wo diese Maßnahmen umgesetzt werden müssen. Zu diesem Zweck entwickelt via-AUTONOM ein Risikomodell, das kritische Orte und Straßenabschnitte (z.B. Kreuzungen, Baustellenbereiche, Kurven mit eingeschränkter Sicht) für die zukünftige Durchdringung mit automatisierten Fahrzeugen identifiziert. Darauf aufbauend werden mit Hilfe von Simulationsmethoden die Wirksamkeit eines vordefinierten Sets von Infrastrukturmaßnahmen sowie die Auswirkungen unterschiedlicher Verfügbarkeit und Qualität verschiedener Datenquellen untersucht. Auf diese Weise können die Verkehrssicherheit und der Verkehrsfluss bewertet werden. Das Projekt konzentriert sich in erster Linie auf nicht-städtische Straßen, d.h. Autobahnen, Bundesstraßen und Landstraßen. Die Ergebnisse von via-AUTONOM umfassen eine Reihe von Empfehlungen für Infrastrukturmaßnahmen zur Unterstützung des automatisierten Fahrens, ein Verfahren zur Identifizierung kritischer Straßenabschnitte im österreichischen Straßennetz und eine konzeptionelle Architektur für die effiziente Nutzung von Daten aus Fahrzeugen, Infrastruktur und digitalen Karten (Saleh, n.d.).<br/>
+
+Die Infrastruktur hat das Potenzial, das automatisierte Fahren an ausgewählten Punkten oder in besonderen Situationen zu unterstützen, aber die Umsetzung einiger Maßnahmen ist sehr komplex. Auf der Ebene der technisch-gestalterischen Infrastrukturmaßnahmen ist eine grundlegende Maßnahme die frühzeitige Ankündigung besonderer Verkehrssituationen, die dem automatisiert fahrenden Fahrzeug eine größere Reaktionszeit ermöglicht. Bei kurzfristig auftretenden Szenarien (z.B. plötzliches Hindernis auf der Fahrbahn) können die konstruktiven Maßnahmen jedoch keine Unterstützung bieten.<br/>
+
+Verkehrs- und informationstechnischen Maßnahmen kann eine gewisse Flexibilität in Bezug auf dynamische Ausgangssituationen zugesprochen werden. Für den Berufspendler sind nur informationstechnische Maßnahmen wie [V2V](#v2x) oder V2I-Kommunikation geeignet. Damit könnten einerseits kurz- bis mittelfristige Änderungen der Verkehrssituation an das Fahrzeug übermittelt werden, andererseits könnte es zu Redundanzen in der Informationsübermittlung kommen. Für Autobahnfahrer:innen sind zusätzliche Maßnahmen auf der Ebene der Verkehrsinfrastruktur mit bestehender Technik möglich (z.B. Streckenbeeinflussungsanlagen, Kameraerkennung).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Alle aktuellen Verkehrsregelungen sind auf die Bedürfnisse menschlicher Verkehrsteilnehmer:innen ausgelegt und orientieren sich daher an den Möglichkeiten eines vom Menschen gesteuerten Fahrzeugs. Abweichende Anforderungen an die Infrastruktur aufgrund des automatisierten Fahrens wurden bisher kaum berücksichtigt. Dabei kann die Anpassung der Infrastruktur an das automatisierte Fahren einige Vorteile bringen. Die Integration des automatisierten Fahrens in das bestehende Mobilitätssystem kann nur dann erfolgreich sein, wenn die bestehende Straßeninfrastruktur weiterentwickelt wird und nicht zu lange dauert oder zu viel kostet. Außerdem ist es wichtig, einen europäischen oder globalen Standard einzuführen, damit die Kompatibilität der C-ITS auch länderübergreifend funktioniert. Dies wird, zumindest in Europa, bereits angestrebt (Heinrich, 2019). Grundsätzlich mögliche bzw. denkbare Maßnahmen können mit der folgenden Klassifizierung unterschieden werden (Heinrich, 2019):
+
+- Technische Gestaltung der Infrastruktur
+    - Linienmanagement
+    - bauliche Elemente
+- Verkehrsmanagement-Infrastruktur
+    - Bodenmarkierungen
+    - Beschilderung
+    - Verkehrsleitsysteme
+    - Lichtsignalanlagen
+- Informationstechnische Infrastruktur
+    - digitale Karten
+    - Fahrzeug-zu-X-Kommunikation
+
+(Heinrich, 2019) hat eine Liste von Szenarien und deren infrastrukturbezogenen Maßnahmen zusammengestellt. Die dort genannten Szenarien sind:
+
+- Infrastrukturmaßnahmen für die Autobahn
+    - Hindernis auf der eigenen Fahrspur
+    - Fehlender Standstreifen
+    - Vorübergehende Seitenstreifenfreigabe
+    - Baustelle auf der Richtungsfahrbahn
+- Infrastrukturmaßnahmen für den Berufspendler
+    - Fahren auf einer einspurigen Landstraße mit fehlender oder verdeckter Fahrbahnmarkierung
+    - Gemischter Verkehr mit hohen Geschwindigkeitsunterschieden
+    - Überholen auf einer einspurigen Straße
+    - Arbeitsplatz auf einer einspurigen Straße
+
+
+Darüber hinaus hat sich eine hochpräzise, schichtweise digitale Referenzkarte als eine zentrale und vielversprechende Maßnahme herausgestellt, die das automatisierte Fahren in den meisten Szenarien unterstützen kann. [Digitale Karten](#digital_maps) sind die Grundlage jeder Navigation und der Lage aller denkbaren verkehrstechnischen Einrichtungen. Obwohl mit dem World Geodetic System 1984 (WGS 84) seit einiger Zeit ein geodätisches Bezugssystem als einheitliche Grundlage für Positionsangaben auf der Erde zur Verfügung steht, gibt es noch keinen darauf basierenden einheitlichen Kartenstandard. Dies liegt vor allem an den unterschiedlichen Anforderungen und Anwendungen seitens der Straßenbauverwaltungen oder der Automobilindustrie. Der NDS-Standard soll hier in Zukunft eine Lösung bieten. Mit Hilfe einer genauen Karte können sowohl langfristige Situationen als auch mittel- und kurzfristige Veränderungen der Verkehrssituation abgebildet werden. Grundvoraussetzung für eine solche Referenzkarte ist die Verfügbarkeit, Aktualität und Qualität der temporären Informationen. Dies bedeutet zum einen, dass die Ereignisse unmittelbar nach ihrem Auftreten auf der Karte lokalisiert werden können und zum anderen, dass ein automatisiertes Fahrzeug diese Informationen ohne Verzögerung empfangen und verarbeiten kann (Heinrich, 2019).
+
+### Relevante Initiativen in Österreich {-}
+The government programme 2017-2022 in Austria has set the goal of becoming a pioneering country and thus also a research, development and production location for automated driving in close cooperation with the automotive industry and research. In particular, the ministry will continue to promote test tracks and related research projects.
+
+- [Bmk.at](https://www.bmk.gv.at/themen/mobilitaet/alternative_verkehrskonzepte/automatisiertesFahren/aktionsplan.html)
+
+Since the beginning of 2018, ASFINAG has been able to transmit standardised, harmonised C-ITS Day 1 messages on the test route. In May 2019, selected Day 2 messages for automated driving were sent for the first time. These messages aimed to assist vehicles in specific traffic situations by providing speed, lane and vehicle gap recommendations as well as cooperative perception.
+
+- [ISAD](https://www.researchgate.net/publication/339339109_Infrastructure_support_for_automated_driving_Further_enhancements_on_the_ISAD_classes_in_Austria)
+
+Austrian road operator ASFINAG is testing mixed traffic scenarios to cope with the development of automated driving. On the A2 motorway near the city of Graz a twenty-kilometre test site called "ALP.Lab" was set up. The aim of this test site is to provide a complete package of physical and digital infrastructure for the validation of automated driving functions and to test new traffic management strategies for cooperative and networked automated vehicles.  
+
+- [C-ITS](https://www.researchgate.net/publication/339353309_Road_infrastructure_support_levels_for_automated_driving)
+
+ASFINAG was the first motorway operator in Europe to launch the networking of road and vehicle. This includes the installation of 525 WLAN road units (RSU) and a control centre.
+
+- [Asfinag.at](https://www.asfinag.at/ueber-uns/newsroom/pressemeldungen/2020/wlan-ausbau-cooperative-intelligent-transport-systems/)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r , echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Potenzial zur Erhoehung der Verkehrssicherheit|**+**|Gesundheit und Wohlbefinden (*3*)|Rudschies & Kroher, 2021|
+|Systemisch|Kontinuierliche technologische Entwicklung|**+**|Innovation und Infrastruktur (*9*)|Saleh, P. (n.d.)|
+|Systemisch|Ziele zur Standardisierung der Kompatibilitaet von Systemen auf internationaler Ebene|**+**|Partnerschaften und Kooperationen (*17*)|Heinrich, 2019|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad{-}
+
+```{r, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|6-7|4-6|')
+```
+
+### Offene Fragen{-}
+1. Wie müssen Verkehrsschilder und Fahrbahnmarkierungen gestaltet sein, damit sie von einem automatisierten Fahrzeug möglichst gut erkannt werden?
+2. Wie kann man die Erkennung bestimmter Fahrbahnmarkierungen oder Verkehrsschilder angehen, die abgenutzt oder mit Graffiti oder Schmutz bedeckt sind und daher von einem automatisierten Auto nicht mehr gelesen werden können?
+
+### Referenzen {-}
+
+- Carreras, A., Daura, X., Erhart, J., & Ruehrup, S. (2018). Road infrastructure support levels for automated driving.
+- Erhart, J., Harrer, M., Rührup, S., Seebacher, S., & Wimmer, Y. (2020). Infrastructure support for automated driving: Further enhancements on the ISAD classes in Austria. Proceedings of 8th Transport Research Arena TRA 2020, 43(0). https://www.researchgate.net/publication/339339109
+- Heinrich, T. (2019). Infrastrukturbedarf automatisierten Fahrens - Grundlagenprojekt.
+- Inframix. (n.d.). Infrastructure Categorization - Inframix EU Project. Available at: https://www.inframix.eu/infrastructure-categorization/ [Accessed: 21 June 2021]
+- Rudschies, W., & Kroher, T. (2021, May 21). Autonomes Fahren: Der aktuelle Stand der Technik | ADAC. https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/technik-vernetzung/aktuelle-technik/
+- Saleh, P. (n.d.). via-AUTONOM Verkehrsinfrastruktur und Anforderungen für autonome Fahrzeuge - AIT Austrian Institute Of Technology. Available at: https://www.ait.ac.at/themen/verkehrssicherheit-und-unfallforschung/projects/via-autonom [Accessed: 21 June 2021]
+- Ulrich, S., Kulmala, R., Appel, K., Aiger, W., Tenttinen, M., Laitinen, J., & Deliverable, D. (2020). MANTRA: Making full use of Automation for National Transport and Road Authorities - NRA Core Business. D4.2 Consequences of automation functions to infrastructure

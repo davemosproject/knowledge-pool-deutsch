@@ -1,4 +1,4 @@
-# Traffic management {#traffic}
+# Verkehrsmanagement {#traffic}
 
 ## Staugebühren (Congestion charging) {#congestion_charging}
 
