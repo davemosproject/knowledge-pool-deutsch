@@ -28,3 +28,6 @@ urban_access
 digital
 v2x
 infrast_support_level
+passenger
+djp
+info_and_route_planning

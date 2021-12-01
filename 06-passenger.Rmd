@@ -1,0 +1,173 @@
+# Fahrgastinformationssystem {#passenger}
+
+## Digitale Fahrplanauskunft {#djp}
+### Synonyme {-}
+*Digital journey planner (DJP), Persönlicher Reiseplanerinnen (Personal travel planner)*
+
+### Definition {-}
+Digital Journey Planner (DJP) ist eine App, die auf der Grundlage der Präferenzen des Reisenden die schnellste und bequemste Route von Punkt A nach Punkt B empfehlen, einschließlich verschiedener Verkehrsmittel wie öffentliche Verkehrsmittel, Fahrrad, zu Fuß oder Carsharing. Die digitale Fahrplanauskunft bietet eine Vielzahl von Funktionen, wie z.B. individuelle oder kollektive Beförderung, geplante Zeit, Verfügbarkeit, Anzahl der Fahrgäste oder Länge der Route. Digitale Fahrplanauskunfts-Apps werden sowohl von öffentlichen Behörden als auch von privaten Akteuren entwickelt und gefördert, um die nachhaltige urbane Mobilität zu erhöhen und das Modell der "Smart City" in Metropolen zu intensivieren, mit dem Ziel, die Lebensqualität in den Städten zu verbessern. Es gibt einige weltweit verbreitete digitale Routen Planer wie  [*GoogleMaps.com*](https://www.google.com/maps) oder [*mylike*](https://mylike.io/personal-travel-planner/). Darüber hinaus ist es wichtig zu erwähnen, dass alle diese Apps auf der Grundlage von Datenimporten und Datenvalidierungen arbeiten, die in zwei Kategorien unterteilt werden können (Jakob et al., 2014):
+- Datenbanken mit Straßen, Fuß- und Radwegen, die gesammelt werden, um Routen auf sichere und effektive Weise zu planen, sowohl für Radfahrer:innen als auch für Autofahrer:innen und Fahrgäste im Allgemeinen;
+- Datenbanken mit Fahrplänen öffentlicher Verkehrsmittel und deren Haltestellen, die gesammelt werden, um Fahrten mit öffentlichen Verkehrsmitteln durchzuführen. 
+
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Nutzer:innen der digitalen Fahrplanauskunft, Reisende
+- **Verantwortliche**: Öffentliche Verkehrsbehörden, private Entwickler, Verkehrsdienstleister 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Erstens führten Liebig et al. (2014) eine Untersuchung durch, die darauf abzielte, ein System zu schaffen, das auf einer individuellen Reiseplanung unter Berücksichtigung des zukünftigen Verkehrs basiert. Die Daten wurden auf der Grundlage der in Echtzeit gemessenen Sensoren erfasst. Das System besteht aus drei Hauptelementen: einer interaktiven webbasierten Benutzeroberfläche, die der OpenTripPlanner-App ähnelt, einer Echtzeit-Backend-Engine, die Daten importiert, und einem dynamischen Verkehrsmodell, das den Verkehrsfluss schätzt. Dieser ReisePlaner wurde in einem realen Fall in Dublin, Irland, implementiert.
+Darüber hinaus ermittelten Shoshany-Tavory et al. (2014), wie die Übertragbarkeit von Reiseplanern durch die Multi-Attribute Tradespace Exploration (MATE)-Methode erhöht werden kann. Ziel der Untersuchung war es, zu zeigen, wie die Methodik für die Entwicklung von Journey Plannern genutzt werden kann. Die Forschung kam zu dem Schluss, dass MATE dazu verwendet werden kann, die Suche nach Lösungen für verschiedene Interessengruppen wie Behörden, private Entwickler und Fahrgäste zu vereinfachen (Shoshany-Tavory et al., 2014).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Heutzutage gibt es in den meisten europäischen Ländern Fahrplanauskunftsstellen. Sie unterscheiden sich voneinander in Bezug auf die Daten, die sie sammeln, und die Dienstleistungen, die sie anbieten. Ihr Hauptziel ist jedoch dasselbe, nämlich den Fahrgästen zuverlässige Informationen zur Verfügung zu stellen, um die Effizienz und Sicherheit der Reise zu erhöhen. Zu den Beispielen für Fahrplanauskunftssysteme auf der ganzen Welt gehören das niederländische [*9292*](https://9292.nl/en), das portugiesische [*transporlis*](https://www.transporlis.pt/Default.aspx?tabid=36) und das rumänische *tpltm*. Sie bieten den Nutzern ähnliche Funktionen, unterscheiden sich jedoch in der Spezifität der Daten. Zum Beispiel arbeiten einige von ihnen mit dem gesamten Land, während andere RoutenPlaner nur regionale Einrichtungen sind (?tef?nescu, et al., 2014). In Österreich zum Beispiel arbeitet AustriaTech derzeit an [*LinkingAlps*](https://www.austriatech.at/en/projects//showprojekt/38/LinkingAlps) einem transnationalen Reiseinformationsdienst für eine multimodale und umweltfreundliche Mobilität im Alpenraum.
+
+### Relevante Initiativen in Österreich {-}
+
+- [austriatech.at-1](https://www.austriatech.at/de/grenzueberschreitende-reiseplanung-auf-dem-vormarsch/) 
+- [austriatech.at-2](https://www.austriatech.at/en/projects//showprojekt/38/LinkingAlps) 
+- [LinkingAlps](https://www.alpine-space.eu/projects/linkingalps/en/home) 
+- [splitboarding.eu](https://www.splitboarding.eu/en/splitboard-routes/ski-route-planner) 
+- [transit.navitime.com](https://transit.navitime.com/en/at/) 
+- [its-viennaregion.at](https://www.its-viennaregion.at/en/products.html)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table74, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Bessere Zugaenglichkeit zu oeffentlichen Verkehrsmitteln|**+**|Gleichheit  *(5,10)* |Stefanescu et al., 2014|
+|Individuell|Zunehmende Nutzung der oeffentlichen Verkehrsmittel|**+**| Oekologische Nachhaltigkeit (*7,12,13,15*)|Stefanescu et al., 2014|
+|Systemisch|Weniger Emissionen, Verwendung von Papierkarten und Fahrkarten|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Stefanescu et al., 2014|
+|Systemisch|Digitalisierung der Verkehrsmittel |**+**|Innovation und Infrastruktur (*9*)|Liebig et al., 2017|
+|Systemisch|Zusammenarbeit zwischen privaten App-Entwicklern und dem oeffentlichen Verkehrssektor|**+**|Partnerschaften und Kooperationen (*17*)|Jakob et al., 2014; Shoshany-Tavory et al., 2014|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table75, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|7-9|')
+```
+
+### Offene Fragen {-}
+
+1. Wie kann die Genauigkeit der Ankunfts- und Abfahrtszeiten von öffentlichen Verkehrsmitteln in digitalen Fahrplanauskunftssystemen in Bezug auf die reale Situation unter Verwendung von Echtzeitdaten verbessert werden?
+2. Wie können verschiedene Datentypen in DJP implementiert werden, z. B. die Anzahl der Fahrgäste oder die Kosten der Fahrt, um die Reisequalität im öffentlichen Verkehr für die Fahrgäste zu verbessern?
+
+### Weitere links {-}
+
+- [opentransportdata.swiss](https://opentransportdata.swiss/en/cookbook/open-journey-planner-ojp/)
+- [Personalized Fully Multimodal Journey Planner](https://upcommons.upc.edu/bitstream/handle/2117/127282/FAIA263-1225%20%282%29.pdf?sequence=3&isAllowed=y)
+
+### Referenzen {-}
+- Amrani, A., Pasini, K., & Khouadjia, M. (2020, November). Enhance Journey Planner with Predictive Travel Information for Smart City Routing Services. In 2020 Forum on Integrated and Sustainable Transportation Systems (FISTS) (pp. 304-308). IEEE.
+- Borole, N., Rout, D., Goel, N., Vedagiri, P. and Mathew, T., (2013). Multimodal Public Transit Trip Planner with Real-time Transit Data. Procedia - Social and Behavioral Sciences,  104, pp.775-784. Available at: <https://reader.elsevier.com/reader/sd/pii/S1877042813045631?token=42DB6D6836ED2B503BB611823B60EDAC7087D7DA77A894C14E04BDBDE0AD81BAC6E335407F8059EC5DC8DC9DA0C7C345>.
+- Ştefănescu, P., Mocan, M., Ştefănescu, W. and Neculai, P., (2014). Trip Planners Used in Public Transportation. Case Study on the City of Timişoara. Procedia - Social and Behavioral Sciences,  124, pp.142-148. Available at: <https://reader.elsevier.com/reader/sd/pii/S1877042814020187?token=4E35403DB645FDA2D21DC662D8ADD8BBEA08E3794B321355E3DE9478F87F219256238D04D8D6AAF89E2ABEBFE1FBBDB5>.
+- Liebig, T., Piatkowski, N., Bockermann, C. and Morik, K., (2017). Dynamic route planning with real-time traffic predictions. Information Systems,  64, pp.258-265. Available at: <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.687&rep=rep1&type=pdf> [Accessed: 13 March 2021].
+- Jakob, M., Hrncir, J., Oliva, L., Ronzano, F., Zilecky, P. and Finnegan, J., 2014. Personalized Fully Multimodal Journey Planner. ECAI 2014,  Available at: <https://upcommons.upc.edu/bitstream/handle/2117/127282/FAIA263-1225%20%282%29.pdf?sequence=3&isAllowed=y> [Accessed: 13 March 2021].
+- Shoshany-Tavory, S., Gal-Tzur, A. and Eden, N., (2014). Incorporating Systems Engineering Methodologies to Increase the Transferability of Journey Planners. Transportation Research Procedia, 3, pp.631-640.
+- D. Puiu, S. Bischof, B. Serbanescu, S. Nechifor, J. Parreira and H. Schreiner, "A public transportation journey planner enabled by IoT data analytics," 2017 20th Conference on Innovations in Clouds, Internet and Networks (ICIN), Paris, France, 2017, pp. 355-359, doi: 10.1109/ICIN.2017.7899440.
+
+
+## Multimodale Informationen und Routenplanung {#info_and_route_planning}
+
+### Synonyms {-}
+*Multi-Modal Transport Information Services (MMTIS)*
+
+### Definition {-}
+Informationssysteme, die einen zuverlässigen, effizienten Betrieb und weithin zugängliche, genaue Fahrgastinformationen gewährleisten, sind für die Nutzung öffentlicher Verkehrsmittel unerlässlich. Diese Systeme werden für eine Reihe spezifischer Zwecke eingesetzt, z. B. für die Erstellung von Fahrplänen, die Verwaltung des Fuhrparks, die Ausstellung von Fahrscheinen und Quittungen und die Bereitstellung von Echtzeitinformationen über den Betrieb der Dienste (Europäische Kommission, n.d. b). Besonders wichtig ist dies für den multimodalen Verkehr, bei dem die Fahrgäste während einer einzigen Fahrt mehrere Verkehrsträger oder Systembetreiber nutzen. Daher ist es wichtig, genaue Informationen bereitzustellen, um ein reibungsloses Umsteigen zu gewährleisten und die Wartezeiten zu minimieren.<br/>
+Seit 2006 wurde in Europa das Transmodel (European Standard Public Transport Reference Data Model (EN 12896)) entwickelt. Es bietet einen Rahmen für die Definition und Vereinbarung von Datenmodellen, die den gesamten Bereich des öffentlichen Verkehrs abdecken. Die Norm erleichtert unter anderem die Interoperabilität zwischen den Informationsverarbeitungssystemen von Verkehrsbetrieben und -agenturen durch die Verwendung übereinstimmender Definitionen, Strukturen und Datenformate für die Komponentensysteme. Dadurch wird es für Betreiber, Behörden und Softwarelieferanten möglich, leichter in Richtung integrierter Systeme zusammenzuarbeiten. Darüber hinaus können zukünftige Systementwicklungen mit einem Minimum an Schwierigkeiten berücksichtigt werden (Europäische Kommission, n.d. b). Darüber hinaus eignet sich Transmodel besonders als *(1)* Spezifikation der "Informationsarchitektur" einer Organisation, *(2)* als Spezifikation einer Datenbank und *(3)* als Spezifikation einer Datenaustauschschnittstelle (Europäische Kommission, n.d. a) und war ein grundlegender Input für die Gestaltung der folgenden EU-Normen:
+
+
+- DVC (Data Communication on Vehicles);
+- IFOPT (Identifizierung von festen Objekten im öffentlichen Verkehr);
+- SIRI (Standard Interface for Real-Time Information);
+- DJP/OJP (Offene API für verteilte Fahrplanauskunft);
+- NeTEx (Austausch von Netzfahrplänen);
+- OpRa (Austausch von Betriebsrohdaten und Statistiken).
+Belgien, Dänemark, Finnland, Frankreich, Deutschland, Ungarn, Italien, die Niederlande, Norwegen, Spanien, Slowenien, Schweden, die Schweiz und das Vereinigte Königreich sind auf einer bestimmten Ebene an der Umsetzung von Transmodel beteiligt - Österreich bisher nicht (Europäische Kommission, n.d. c).<br/>
+
+Die *Delegierte Verordnung (EU) 2017/1926 der Kommission vom 31. Mai 2017 zur Ergänzung der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates im Hinblick auf die Erbringung von EU-weiten multimodalen Reiseinformationsdiensten* verpflichtete jeden EU-Mitgliedstaat unter anderem zur Einrichtung der Nationalen Zugangsstellen (NAP) bis zum 1. Dezember 2019 (Europäische Kommission, 2021a). Die NAPs sollten den Zugang, den einfachen Austausch und die Wiederverwendung von verkehrsbezogenen Daten erleichtern, um den Endnutzer:innen EU-weit interoperable Reise- und Verkehrsdienste anbieten zu können (Europäische Kommission, 2021b). In Österreich wird der NPA von [AustriaTech](https://www.mobilitydata.gv.at/) verwaltet. 
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Benutzer:innen öffentlicher Verkehrsmittel
+- **Verantwortliche**: Europäische Kommission, NPAs, Verkehrsdienstleister und Betreiber öffentlicher Verkehrsmittel, nationale Regierungen, IT-Systemanbieter 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Gegenwärtig zielt die Forschung auf die Verbesserung der Kompatibilität, Konnektivität und Flexibilität des Systems ab. Dinko et al. (2020) untersuchten beispielsweise, welche Echtzeitinformationen in Zukunft benötigt werden, um das System der Fahrplanauskunft belastbar und leicht an veränderte Bedürfnisse anzupassen, wobei sie die Veränderungen und Herausforderungen berücksichtigten, die die Anforderungen an den Verkehr nach einer Pandemie mit sich bringen werden. Chang et al. (2020) erforschten eine barrierefreie Indoor-Navigationsanwendung für Smartphones, die Informationen aus Grundrissen, Bluetooth-Beacons, Wi-Fi-/Zellular-Datenverbindungen, visuellen 2D/3D-Modellen und Benutzerpräferenzen kombiniert. Ziel war es, visuelles, akustisches und haptisches Feedback für die Nutzer:innen zu geben, um den optimalen Weg zu ihrem Ziel innerhalb eines Gebäudes zu finden. Darüber hinaus untersuchten Huang et al. (2018) die Ansätze, um statische (z. B. öffentliche Verkehrsmittel) und dynamische (z. B. Fahrgemeinschaften) Netzwerke besser miteinander zu verbinden, ohne die Flexibilität einzuschränken. Sie fanden heraus, dass ein verschmolzenes Netzwerk, das auf dem Konzept von Fahrzeitbereichen und Aktionspunkten basiert, eine multimodale Routenplanung ermöglichen könnte, die den Nutzer:innen Fahrten von einem Startpunkt zu einem Ziel mit verschiedenen Kombinationen von Verkehrsträgern ermöglicht. <br/>
+
+Darüber hinaus befasst sich die zusätzliche Forschung mit Mobility-as-a-Service-Lösungen (MaaS). Weitere Informationen finden Sie im Abschnitt [Mobilität als Dienstleistung (Maas)](#maas) dieser Arbeit.
+
+
+### Aktueller Stand der praktischen Umsetzung {-}
+*Verkehrsauskunft Österreich (VAO)*  ist eine bundesweite multimodale Routingplattform, die von österreichischen Verkehrsinfrastruktur-, Verkehrsmittel- und Verkehrsredaktionsbetreibern autorisiert und untereinander koordiniert wird. Es werden hochaktuelle Echtzeit-Routing-Informationen für die meisten Verkehrsmittel und deren Verknüpfungsmöglichkeiten bereitgestellt, wie z.B. Auto, öffentlicher Verkehr, Fahrrad, Bike & Ride, Park & Ride, Leihfahrräder, Carsharing, etc. Die Basis für die VAO ist die *Graph Integration Platform (GIP)*, ein routingfähiger und intermodaler Graph für das gesamte österreichische Verkehrsnetz und die Basemap, eine österreichweite, detaillierte administrative Karte, die auf den Geodaten der österreichischen Bundesländer und der GIP basiert (Verkehrsauskunft Österreich, n.d.).<br/>
+
+*Rome2rio* ist eine internationale Tür-zu-Tür-Reiseinformations- und Buchungsmaschine, die Informationen über Flüge, Züge, Busse, Fähren, Mitfahrgelegenheiten oder Mietwagen sowie geschätzte Preise, Reisedauer und Buchungsdetails bietet. Die Plattform nutzt Daten von über 5000 Unternehmen aus mehr als 160 Ländern (Rome2rio Pty Ltd, 2021a) und bietet eine einfache XML/JSON-Schnittstelle zur Integration von multimodalen Suchfunktionen in jede Website, App oder jeden Dienst (Rome2rio Pty Ltd, 2021b).<br/>
+
+Mit *Google Routs*, das in *Google Maps*, integriert ist, können Routen auch für Fahrten mit öffentlichen Verkehrsmitteln, Fahrrad und Auto sowie für Fahrten zu Fuß abgerufen werden. Anhand von Echtzeitinformationen über die Verkehrslage werden aktuelle oder zukünftige Reisezeiten ermittelt (Google, n.d.). Darüber hinaus kombiniert die Planungsfunktion für öffentliche Verkehrsmittel, *Google Transit* die neuesten Daten der Verkehrsbetriebe (die mit *Google Routs*) mit der Leistungsfähigkeit von *Google Maps*. Sie integriert Haltestellen-, Routen-, Fahrplan- und Tarifinformationen, um die Reiseplanung für die Nutzer:innen schnell und einfach zu gestalten. Für die Integration müssen die Verkehrsbetriebe einige grundlegende Anforderungen erfüllen, wie die Bereitstellung ihrer statischen und Echtzeitdaten im GTFS-Format (General Transit Feed Specification) (Google, 2021). <br/>
+
+Im Jahr 2020 schließlich brachte *Apple* eine neue Online-Karte auf den Markt, die Echtzeit-Verkehrsinformationen und Indoor-Karten für Flughäfen und Einkaufszentren enthält, allerdings noch nicht weltweit (Apple, 2020). 
+
+### Relevante Initiativen in Österreich {-}
+
+- [verkehrsauskunft.at](https://www.verkehrsauskunft.at/) 
+- [gip.gv.at](https://www.gip.gv.at/) 
+- [basemap.at](https://www.basemap.at/) 
+- [mobilitydata.gv.at](https://www.mobilitydata.gv.at/) 
+- [maps.google.com](http://maps.google.com/landing/transit/cities/index.html#Europe) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table40, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Bessere Zugaenglichkeit zur Mobilitaet|**+**|Gleichheit *(5,10)* |Dibbelt et al., 2017|
+|Individuell|Erleichterung der Nutzung oeffentlicher Verkehrsmittel, um die Nutzung dieser zu erhoehen|**+**| Oekologische Nachhaltigkeit (*7,12,13,15*)|European Commission, 2021a|
+|Systemisch|Diskriminierungsfreie und zugaengliche Daten| **+**|Gleichheit *(5,10)* |European Commission, 2021b |
+|Systemisch|Effizienteres Verkehrssystem|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|European Commission, 2021a|
+|Systemisch|Umsetzung von NAPs, Rahmen fuer die Definition und Vereinbarung von Datenmodellen |**+**|Innovation und Infrastruktur (*9*)|European Commission, 2021b; European Commission, n.d. b|
+|Systemisch|Zusammenarbeit von privatem und oeffentlichem Sektor & globale Partnerschaften|**+**|Partnerschaften und Kooperationen (*17*)|European Commission, n.d. b|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table41, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|3-7|3-7|')
+```
+
+### Offene Fragen {-}
+
+1. Wie können Bus- und Bahnreisen so bequem gebucht werden wie Flüge?
+2. Warum hat Österreich das Transmodel nicht umgesetzt? Was ist für eine Umsetzung notwendig?
+3. Welchen Einfluss hat multimodale Information und Routenplanung auf den Energieverbrauch?
+4. Welche Schlüsselfunktionen benötigen multimodale Reiseplanungs-Apps, um für Behinderte oder ältere Menschen zugänglich zu sein, und wie können sie so implementiert werden, dass sie für diese speziellen Gruppen inklusiv sind?
+ 
+### Weitere links {-}
+
+- [transmodel-cen.eu](http://www.transmodel-cen.eu/)
+- [trafi.com](https://www.trafi.com/)
+- [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R1926)
+- [ec.europa.eu](https://ec.europa.eu/transport/sites/transport/files/2020-02-implementation-handbook-delegated-reg20171926.pdf) 
+- [mobilitydata.gv.at](https://www.mobilitydata.gv.at/) 
+- [apple.com](https://www.apple.com/maps/) 
+- [maps.google.com](http://maps.google.com/landing/transit/cities/index.html#Europe) 
+
+### Referenzen {-}
+- Apple. (2020). Apple delivers a new redesigned Maps for all users in the United States - Apple. Available at: https://www.apple.com/newsroom/2020/01/apple-delivers-a-new-redesigned-maps-for-all-users-in-the-united-states/ [Accessed: 15 February 2021]
+- Chang, Y., Chen, J., Franklin, T., Zhang, L., Ruci, A., Tang, H., & Zhu, Z. (2020, August). Multimodal Information Integration for Indoor Navigation Using a Smartphone. In 2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI) (pp. 59-66). IEEE. 
+- Dibbelt, J., Konstantopoulos, C., Wagner, D., Gavalas, D., Kontogiannis, S., Zaroliagis, C., ... & Pantziou, G. (2017, July). Multimodal route and tour planning in urban environments. In 2017 IEEE Symposium on Computers and Communications (ISCC) (pp. 214-219). IEEE.
+- Dinko, A., Yatskiv, I., & Budilovich, E. (2020, October). Trip Planner Challenges in the Era of Fast Changing Requirements. In International Conference on Reliability and Statistics in Transportation and Communication (pp. 485-496). Springer, Cham.
+- European Commission. (n.d. a). Applicability of Transmodel - Transmodel. Available at: http://www.transmodel-cen.eu/overview/applicability-of-the-transmodel/ [Accessed: 8 February 2021]
+- European Commission. (n.d. b). Purpose of the Transmodel - Transmodel. Available at: http://www.transmodel-cen.eu/overview/purpose-of-the-transmodel/ [Accessed: 8 February 2021]
+- European Commission. (n.d. c). Transmodel countries - Transmodel. Available at: http://www.transmodel-cen.eu/implementations/countries/ [Accessed: 12 February 2021]
+- European Commission. (2021a). Multimodal Travel Information | Mobility and Transport. Available at: https://ec.europa.eu/transport/themes/its/road/action_plan/multimodal-travel-information_en [Accessed: 12 February 2021]
+- European Commission. (2021b). National Access Points | Mobility and Transport. Available at: https://ec.europa.eu/transport/themes/its/road/action_plan/nap_en [Accessed: 12 February 2021]
+- Google. (2021). Get started with Google Transit - Transit Partners Help. Available at: https://support.google.com/transitpartners/answer/1111481?hl=en&ref_topic=3521043 [Accessed: 8 February 2021]
+- Google. (n.d.). Routes & Directions  |  Google Maps Platform  |  Google Cloud. Available at: https://cloud.google.com/maps-platform/routes [Accessed: 12 February 2021]
+- Huang, H., Bucher, D., Kissling, J., Weibel, R., & Raubal, M. (2018). Multimodal route planning with public transport and carpooling. IEEE Transactions on Intelligent Transportation Systems, 20(9), 3513-3525.
+- Rome2rio Pty Ltd. (2021a). About Rome2rio - Rome2rio.Available at: https://www.rome2rio.com/about/ [Accessed: 12 February 2021]
+- Rome2rio Pty Ltd. (2021b). Rome2rio API - Rome2rio. Available at: https://www.rome2rio.com/documentation/ [Accessed: 12 February 2021]
+- Verkehrsauskunft Österreich. (n.d.). Verkehrsauskunft Österreich: VAO Heute. Available at: https://www.verkehrsauskunft.at/ [Accessed: 8 February 2021]
