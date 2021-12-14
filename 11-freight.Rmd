@@ -1,0 +1,871 @@
+# Güterverkehr und gewerblicher Transport {#freight}
+
+## Lokalisierung und Nachverfolgbarkeit von Waren {#dangerous_goods}
+
+### Synonyme{-}
+*Radio Frequency Identification (RFID)* 
+
+### Definition {-}
+Die aktuellen technologischen Entwicklungen bieten vielversprechende Möglichkeiten zur Bewältigung der verschiedenen Herausforderungen, mit denen die Hersteller im dynamischen Geschäftsumfeld von heute konfrontiert sind. Um die sich ständig ändernden Kundenanforderungen effektiv zu bewältigen, suchen Manager:innen nach Technologielösungen, wie z. B. Tracking- und Tracing-Technologien, um Planung, Kontrolle und Leistung zu verbessern (Kache & Seuring, 2017). Dieses verbesserte Serviceniveau führt zu einer höheren Kundenzufriedenheit und ist in einem so wettbewerbsintensiven Markt von entscheidender Bedeutung, da es "*das Kundenvertrauen erhöht, die Markenintegrität stärkt und die Kundentreue erhöht*" (Costa et al., 2013).<br/>
+
+Die Integration in bestehende Systeme und die Frage, ob die Kennzeichnung auf Artikel- oder Packungsebene erfolgen soll, bleibt eine Herausforderung. Vielleicht ist dies ein Grund, warum die Akzeptanz in einigen Segmenten des Einzelhandels, in denen Fertigwaren meist stückweise verkauft werden, am stärksten ist. Daher müssen die Herausforderungen bei der Einführung und Nutzung von Tracking- und Tracing-Technologien in anderen Industriezweigen genauer beleuchtet werden, wenn die potenziellen Vorteile voll ausgeschöpft werden sollen (Høyer et al., 2019). <br/>
+
+**Bestehende Technologien** <br/>
+Verschiedene Tracking- und Tracing-Systeme haben unterschiedliche Fähigkeiten und Funktionen, einige decken die gesamte Kette von Landwirt:innen bis zu Einzelhändlern ab, während andere Lösungen auf einen bestimmten Bereich beschränkt sind. Der Detailgrad der Informationen, die diese Technologien erfassen, ist unterschiedlich. Die folgenden Technologien wurden bei der Literaturrecherche gefunden und als gängig für die Rückverfolgung angesehen (Høyer et al., 2019).
+
+**Barcodes** <br/>
+Barcodes und Barcode-Scanner sind eine etablierte Technologie zur Identifizierung von Produkten. Die Barcodetechnologie wird oft als einfachere Form der Rückverfolgung angesehen, dennoch wird sie in der Industrie häufig bevorzugt, da sie einfacher zu implementieren ist und eine kostengünstigere Lösung darstellt, die dennoch Daten mit der erforderlichen Detailgenauigkeit erfasst (Høyer et al., 2019).
+
+**RFID** <br/>
+Die Radiofrequenz-Identifikationstechnologie (RFID) besteht aus zwei Komponenten: einer Antenne und dem Chip, der den elektronischen Produktcode enthält. Die Informationen können in Echtzeit über die gesamte Kette hinweg verfolgt werden. Mit dem Aufkommen der RFID-Technologie hat die Forschung bewiesen, dass sie die Bestandsverwaltung und das Lagermanagement verbessert hat (Lao et al., 2012). Die Einführung der RFID-Technologie führt auch zu einer Verringerung menschlicher Fehler, die ursprünglich durch die manuelle Dateneingabe verursacht wurden (RFID-Etiketten übertragen die Daten "von selbst", wodurch menschliche Fehler im Inventurprozess weitgehend ausgeschlossen werden (cwi-logistics, 2020)). Die signifikanten Vorteile werden vor allem von den Vertriebsunternehmen und den Einzelhändlern wahrgenommen (Høyer et al., 2019). So ist es bei RFID-Tags im Gegensatz zu Barcodes nicht erforderlich, dass sich ein Scanner in der gleichen Sichtlinie befindet. Dadurch entfällt die Notwendigkeit, jeden Karton manuell zu scannen, da die Artikel auch dann gescannt und katalogisiert werden können, wenn sie hinter anderen Waren versteckt sind (cwi-logistics, 2020). <br/>
+
+Aus technologischer Sicht sind RFID-Etiketten jedoch problematisch, vor allem weil es keine (globale) branchenweite Standardisierung gibt. Da RFID-Etiketten und ihre Systeme mit Funkfrequenzen arbeiten, können sie außerdem leicht gestört werden, was ihre Nutzbarkeit einschränkt. Bei RFID-Systemen kann es auch zu Signalproblemen kommen, z. B. zu Kollisionen, wenn sich die Signale von zwei oder mehr Lesegeräten überschneiden, oder zu Störungen durch Metall, Wasser oder andere Magnetfelder in der Umgebung. Die Einrichtung eines RFID-Systems ist zeitaufwändig und arbeitsintensiv. Unternehmen müssen verschiedene Hardware- und Etikettensysteme testen, um die beste Lösung zu finden. Dies kann Monate dauern. Neben den Kosten für das RFID-System selbst, z. B. für RFID-Etiketten und -Scanner, bedeutet ein höherer Zeit- und Arbeitsaufwand auch einen Anstieg der Kosten. Diese Art von Nachteilen werden häufig durch die Verwendung von Barcodes vermieden, weshalb diese für viele Unternehmen nach wie vor eine beliebte Wahl für die Datenerfassung und Bestandskontrolle darstellen (Jänisch, 2019). <br/>
+
+**Intelligente Verpackungssysteme und TTIs** <br/>
+Diese mit Zeit-Temperatur-Indikatoren (TTIs) ausgestatteten Verpackungssysteme können die Umgebung wahrnehmen und auf der Grundlage von Reizen erkennen, aufzeichnen, verfolgen und kommunizieren. Diese Funktionen helfen bei der Entscheidungsfindung in Bezug auf Haltbarkeit und Qualität, sie können bei Abweichungen warnen und sie unterstützen den Material- und Informationsfluss (Høyer et al., 2019).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Verbraucher:innen in Online-Shops, Spediteure, Versender
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, Privatunternehmen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die bei der Literaturrecherche festgestellten Herausforderungen im Zusammenhang mit Tracking- und Tracing-Technologien lassen sich in strategische Herausforderungen, technische Herausforderungen und Komfortherausforderungen einteilen (Vermesan & Friess, 2014).
+
+**Strategische Herausforderungen**<br/>
+
+- Implementierungskosten: Hohe Implementierungskosten sind nach wie vor eines der größten Hindernisse für die Einführung bestimmter Tracking- und Tracing-Technologien, wie z. B. RFID.
+- Geringes Bewusstsein für die Vorteile und fehlende Anreize: Es wird behauptet, dass es an Anreizen für die Einführung der Technologien und an Risiken bei der Anwendung neuer Technologien auf alte Verfahren mangelt. Diese können unvereinbar sein und zu erhöhten Kosten und Ineffizienzen führen.
+- Gemeinsame Nutzung von Informationen: Eine verbesserte Transparenz und Integration der Lieferkette kann sich erheblich positiv auf die gesamte Lieferkette auswirken, indem sie die Planungs-, Produktions- und Lieferleistung verbessert (Zhou & Benton, 2007). Mit dem Aufkommen von Big Data muss sichergestellt werden, dass große Datenmengen interpretierbar und für alle Partner zeitnah verfügbar sind (Morgan et al., 2018).
+- Koordinierung, Zusammenarbeit und Vertrauen: Eine Lieferkette kann potenziell aus mehreren Partnern bestehen, und es besteht immer das Risiko divergierender und nicht aufeinander abgestimmter Interessen, die die Qualität der geteilten Informationen beeinträchtigen können. Der strategische Wert einiger Informationen kann den freien Austausch von Informationen behindern (Aramyan et al., 2007). Es besteht die Tendenz, den Akt des Informationsaustauschs mit dem Verlust von Macht und Abhängigkeit zu verbinden (Soosay & Hyland, 2015).
+- Eingefahrene Geschäftspraktiken: Wenn nicht alle wichtigen Interessengruppen mit an Bord sind, kann dies dazu führen, dass die Technologie beispielsweise aufgrund hoher einmaliger Investitionen überhaupt nicht eingeführt wird.
+
+**Technische Herausforderungen**<br/>
+
+- Kollidierende Signale: Ein Risiko bei diesen Technologien besteht darin, dass sich Signale überschneiden können.
+- Umweltbedingte Störungen: Umweltfaktoren und Materialien mit hohem Wassergehalt beeinträchtigen die Leistung von Rückverfolgungstechnologien (Kumari et al., 2015). Diese Eigenschaften sind in der Lebensmittelversorgungskette von entscheidender Bedeutung, da Lebensmittel oft einen hohen Wassergehalt aufweisen, extremen Temperaturen ausgesetzt sind und dielektrische Eigenschaften haben, die die Signale stören können.
+- Suboptimales Ablesen: Zum einen können Fehler auftreten, zum anderen wird die Verpackung des Produkts und nicht das Produkt selbst erfasst.
+- Datenerfassung: Die Industrie hinkt im Vergleich zu den Forschungsarbeiten zur Digitalisierung der Lieferketten hinterher. Die Realität sieht so aus, dass manuelle und papierbasierte Vorgänge immer noch gängige Praxis sind, die erfassten Daten unstrukturiert sind und die erzeugten Datenmassen schwer zu handhaben sind, da die derzeitigen Erfassungssysteme begrenzt und nicht in der Lage sind, große Datenmengen zu verarbeiten (Høyer et al., 2019).
+
+**Herausforderungen bei der Bequemlichkeit**<br/>
+
+- Abfall und Recycling: Für das Recycling der RFID-Etiketten gibt es keine einfache Möglichkeit, außer sie aus jeder Box zu entfernen, bevor sie weggeworfen wird, und dann die Metallantenne einzuschmelzen, falls eine verwendet wird.
+- Mangelnde Fachkenntnisse: Möglicherweise wird das Potenzial in der Lieferkette durch eine unzureichende oder mangelhafte Schulung der Mitarbeiter:innen im Umgang mit der Tracking- und Tracing-Technologie eingeschränkt (Ruiz-Garcia & Lunadei, 2011).
+- Datenschutz und Sicherheit: Fragen des Datenschutzes hindern Unternehmen daran, die Möglichkeiten der Ortungstechnologien zu nutzen. Die Folgen sind gefälschte Strichcodes, Hackerangriffe, Industriespionage, unerwünschte Kundenverfolgung, Virenangriffe und böswillige Absichten.
+- Vorschriften und Normen: Mit zunehmender Transparenz steigt auch der Bedarf an Vorschriften und Rückverfolgbarkeitsstandards, wobei derzeit mehrere Standards nebeneinander bestehen (Kumari et al., 2015). Das Fehlen von Standards führt zu Systeminkompatibilitäten, die den Informationsaustausch erschweren.
+Vereinheitlichung und Standardisierung von Daten: Der Prozess der Datenerfassung und -übermittlung variiert zwischen den Partnern der Lieferkette. Diese Ungleichheit erschwert die Zusammenarbeit und führt zu größeren Inkompatibilitäten (Høyer et al., 2019).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Es besteht kein Zweifel, dass die Tracking- und Tracing-Technologie zu realeren und repräsentativeren Daten führt, die die Entscheidungsfindung verbessern und erleichtern. Einige Hersteller haben RFID-Pilotprojekte aufgrund der hohen Implementierungskosten und des mangelnden Nutzens aufgegeben, aber viele Hersteller sind nach wie vor daran interessiert, andere Lösungen zu erkunden, die die betriebliche Entscheidungsfindung unterstützen. Die physische Implementierung der Tracking- und Tracing-Technologie hat im Allgemeinen keine größeren Schwierigkeiten aufgeworfen, vielmehr scheint es sich um Aspekte zu handeln, die mit organisatorischen Fragen und der Sicherheit zusammenhängen (Høyer et al., 2019). <br/>
+
+Die Digital Container Shipping Association (DCSA), eine neutrale, gemeinnützige Gruppe, die von großen Reedereien gegründet wurde, um die Containerschifffahrt zu digitalisieren und zu standardisieren, hat bekannt gegeben, dass "*die meisten ihrer Mitgliedsreedereien die DCSA Track & Trace (T&T)-Standards übernommen haben und ihren Kunden derzeit oder in Kürze Zugang zu der standardbasierten API bieten*". 
+Der DCSA ist der Ansicht, dass dies eine bahnbrechende Entwicklung ist, die "*den Verladern eine rationalisierte Möglichkeit bietet, Echtzeitdaten über den Verbleib ihrer Container zu erhalten*". Die weit verbreitete Übernahme des DCSA-Standards wird die Branche in Bezug auf Echtzeit-Transparenz und Reaktionsfähigkeit voranbringen, was zu größerer Zuverlässigkeit und einem besseren Kundenerlebnis führt. <br/>
+Führungskräfte der weltweit führenden Reedereien MSC, ONE, CMA CGM, Yang Ming und Evergreen gaben Erklärungen ab, in denen sie die neuen T&T-Standards unterstützen. Alle Führungskräfte betonten die Notwendigkeit von Standards zur Unterstützung digitaler Initiativen, die über mehrere Schifffahrtsunternehmen hinweg arbeiten, und hoben die Bedeutung der Standardisierung für ihre Digitalisierungsinitiativen hervor. <br/>
+
+"*Wir sind sehr erfreut über die zunehmende Akzeptanz bei den Reedereien*", sagte Thomas Bagge, der CEO von DCSA. "*Die digitale Transformation der Containerschifffahrtsbranche und die daraus resultierenden Verbesserungen der Effizienz und des Kundenerlebnisses können jedoch nicht ohne eine noch breitere Einführung digitaler Standards erfolgen. Der DCSA konzentriert sich im Jahr 2021 darauf, die Akzeptanz bei allen Beteiligten zu fördern. Ohne Akzeptanz wird die Branche nicht von der digitalen Grundlage profitieren, die gerade geschaffen wird.*" (Avery, 2021). <br/>
+
+Was Kund:innen jetzt schon als Live-Tracking wahrnehmen, ist ein Tracking, das auf der Position der Lieferfahrer:innen basiert. Das Fahrzeug ist mit GPS ausgestattet, was bedeutet, dass die Position der Fahrer:innen verfolgt werden können, nicht aber die Pakete selbst. DPD nutzt dieses System bereits seit mehreren Jahren. Bei der Beförderung einer Sendung wird der Barcode auf dem Paket, der mit der Zustelladresse verknüpft ist, gescannt. Dadurch werden die aktuellen Sendungsdaten in eine Datenbank geladen. Auch Amazon bietet mit seinem eigenen Lieferdienst Amazon Logistics eine Echtzeitverfolgung an. Amazons Kartenverfolgungsdienst nutzt dafür eine eigene intelligente Routenplanung - technische Details werden jedoch nicht bekannt gegeben. Allerdings werden nicht alle Pakete über Amazon Logistics verschickt, zumal der Transportdienst noch nicht in allen Regionen verfügbar ist. Die Sendungsverfolgung in der Kartenansicht ist daher auch nicht überall verfügbar. <br/>
+
+Im Gegensatz zu Deutschland bietet DHL Österreich noch kein Live-Tracking an. Hier können Pakete noch konventionell durch das physische Scannen eines Barcodes paketweise an bestimmten Prozesspunkten verfolgt werden (Iosa, 2021).
+
+### Relevante Initiativen in Österreich {-}
+DPD and Amazon already offer live tracking in Austria. Real-time tracking is not yet offered by Austrian Post but is in the planning stage and is expected to become a focus in 2021. According to a company spokeswoman, the aim is not so much to track the delivery route online and live, but rather to continuously update the route and the time of delivery. In this way, the delivery window can be limited to the smallest possible range. At the moment, the tracking of consignments is still done with scan events, which update the status of the parcel with every scan.
+In addition, historical data is currently used to calculate the time window for delivery. Data from the past is compared to determine how long it took to reach an address during a particular tour. In this way, the time of delivery can be narrowed down to three hours (Iosa, 2021).
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table97, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Verbesserte Planung, Kontrolle und Leistung|**+**|Nachhaltige wirtschaftliche Entwicklung  (*8,11*)|Kache & Seuring, 2017|
+|Systemisch|Entwicklung von Kennzeichnungstechnologien|**+**|Innovation und Infrastruktur (*9*)|cwi-logistics, 2020|
+|Systemisch|Bemuehungen und Initiativen zur weltweiten Standardisierung|**+**|Partnerschaften und Kooperationen (*17*)|Avery, 2021|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table98, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|7-9|')
+```
+
+### Offene Fragen {-}
+1. Ist das Potenzial von RFID-Etiketten zur Verringerung des CO2-Fußabdrucks größer als der Abfall, den sie verursachen können?
+
+### Weitere links {-}
+
+- [cargomon.com-tracking](http://cargomon.com/index.php/language/en/cargoobserver-track/)
+- [cargomon.com-gps monitoring](http://cargomon.com/index.php/language/en/industry-sectors-for-montoring-gps/)
+- [imaginenext.ingrammicro.com](https://imaginenext.ingrammicro.com/iot/rfid-in-logistics)
+- [rand.org](https://www.rand.org/pubs/technical_reports/TR1283.html)
+
+
+### Referenzen {-}
+-	Aramyan, L. H., Oude Lansink, A. G. J. M., van der Vorst, J. G. A. J., & van Kooten, O. (2007). Performance measurement in agri‐food supply chains: a case study. Supply Chain Management: An International Journal, 12(4), 304–315. https://doi.org/10.1108/13598540710759826
+-	Avery, P. (2021, April 9). WorldCargo News - News - Majority of DCSA members adopt Track and Trace standards. https://www.worldcargonews.com/news/majority-of-dcsa-members-adopt-track-and-trace-standards-65996
+-	Costa, C., Antonucci, F., Pallottino, F., Aguzzi, J., Sarriá, D., & Menesatti, P. (2013). A Review on Agri-food Supply Chain Traceability by Means of RFID Technology. Food and Bioprocess Technology, 6(2), 353–366. https://doi.org/10.1007/s11947-012-0958-7
+-	cwi-logistics. (2020, January 13). How RFID Is Taking Warehousing to the Next Level | CWI Logistics. https://cwi-logistics.com/news/how-rfid-is-taking-warehousing-to-the-next-level/
+-	Høyer, M. R., Oluyisola, O. E., Strandhagen, J. O., & Semini, M. G. (2019). Exploring the challenges with applying tracking and tracing technology in the dairy industry. IFAC-PapersOnLine, 52(13), 1727–1732. https://doi.org/10.1016/j.ifacol.2019.11.450
+-	Iosa, A. (2021, January 9). Wie funktioniert Live-Tracking bei Paketen? https://futurezone.at/digital-life/wie-funktioniert-live-tracking-bei-paketen/401110917
+-	Jänisch, R. (2019, February 17). Was sind RFID-Tags? Funktionsweise, Einsatz und Nachteile. https://ioxlab.de/de/iot-tech-blog/was-sind-rfid-tags/#Einsatzgebiete_fuer_IOX_RFID
+-	Kache, F., & Seuring, S. (2017). Challenges and opportunities of digital information at the intersection of Big Data Analytics and supply chain management. International Journal of Operations & Production Management, 37(1), 10–36. https://doi.org/10.1108/IJOPM-02-2015-0078
+-	Kumari, L., Narsaiah, K., Grewal, M. K., & Anurag, R. K. (2015). Application of RFID in agri-food sector. Trends in Food Science and Technology, 43(2), 144–161. https://doi.org/10.1016/j.tifs.2015.02.005
+-	Lao, S. I., Choy, K. L., Ho, G. T. S., & Yam, R. C. M. (2012). An RFRS that combines RFID and CBR technologies. Industrial Management & Data Systems, 112(3), 385–404. https://doi.org/10.1108/02635571211210040
+-	Morgan, T. R., Richey Jr, R. G., & Ellinger, A. E. (2018). Supplier transparency: scale development and validation. The International Journal of Logistics Management, 29(3), 959–984. https://doi.org/10.1108/IJLM-01-2017-0018
+-	Ruiz-Garcia, L., & Lunadei, L. (2011). The role of RFID in agriculture: Applications, limitations and challenges. Computers and Electronics in Agriculture, 79(1), 42–50. https://doi.org/10.1016/j.compag.2011.08.010
+-	Soosay, C. A., & Hyland, P. (2015). A decade of supply chain collaboration and directions for future research. Supply Chain Management: An International Journal, 20(6), 613–630. https://doi.org/10.1108/SCM-06-2015-0217
+-	Vermesan, O., & Friess, P. (2014). Internet of Things - From Research and Innovation to Market Deployment. In River Publishers. https://doi.org/10.1007/978-3-642-24788-0_19
+-	Zhou, H., & Benton, W. C. (2007). Supply chain practice and information sharing. Journal of Operations Management, 25(6), 1348–1365. https://doi.org/10.1016/j.jom.2007.01.009
+
+## Intermodaler Güterverkehr {#intermodal_freight}
+
+### Synonyme{-}
+*unbegleiteter kombinierter Verkehr (UKV), intermodale Transporteinheit (ITE)* 
+
+### Definition {-}
+Intermodaler Güterverkehr bezeichnet die Beförderung von Gütern in einer intermodalen Transporteinheit (ITE) mit mindestens zwei verschiedenen Verkehrsträgern (z. B. Straße, Schiene, Binnenwasserstraße). ITEs sind Container oder Wechselbehälter, begleitete oder unbegleitete Straßengüterfahrzeuge und Anhänger von Straßengüterfahrzeugen. Das wesentliche Merkmal des intermodalen Verkehrs ist, dass beim Wechsel der Transporteinheit auf einen anderen Verkehrsträger kein Umschlag von Gütern stattfindet, d.h. es wird immer die gesamte ITE auf einen anderen Verkehrsträger verladen (Rudlof et al., 2018).<br/>
+
+Was die Vorteile betrifft, so ist der intermodale Güterverkehr von entscheidender Bedeutung für die Verringerung der Emissionen, da der Verkehr für fast ein Viertel der Treibhausgasemissionen der Europäischen Union verantwortlich ist, wovon 74 % auf den Straßenverkehr entfallen. Insbesondere der Güterverkehr auf der Straße ist eine wichtige Emissionsquelle, da schwere Nutzfahrzeuge für 6 % der Gesamtemissionen der Europäischen Union verantwortlich sind. Daher ist die Verringerung der mit dem Straßengüterverkehr verbundenen Kohlenstoffemissionen eine Priorität, um die aktuellen politischen Emissionsminderungsziele zu erreichen, z. B. die Verringerung der Treibhausgasemissionen um 80 % bis 2050 im Rahmen des Pariser Abkommens. Weitere mögliche Lösungen für dieses Problem sind technologische Verbesserungen, wie die Entwicklung effizienterer und nahezu emissionsfreier Motoren, sowie Verbesserungen des Managements, wie die Verkürzung und Optimierung der Transportentfernungen und die Verlagerung des Verkehrs von emissionsintensiven auf emissionsarme Fahrzeuge, z. B. von LKW auf Züge oder Schiffe (European Commission, no date). Dennoch wird der intermodale Güterverkehr häufig mit einer geringeren Geschwindigkeit, mangelnder Zuverlässigkeit und einem erhöhten Potenzial für Güterschäden in Verbindung gebracht.
+
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: LKW-Fahrer:innen, Frachtunternehmen, Eisenbahnunternehmen, Güterterminals, Straßenbenutzer:innen
+- **Verantwortliche**: Nationale Regierungen, internationale Behörden
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung konzentriert sich auf die ökologische Perspektive des intermodalen Verkehrs (Heinold & Meisel, 2020) sowie auf automatisierte intermodale Güterverkehrssysteme, die darauf abzielen, die Treibhausgasemissionen zu verringern, die Infrastruktur- und Logistikkosten zu minimieren und Verkehrsstaus zu reduzieren (Shin et al., 2018). Darüber hinaus befassen sich einige Arbeiten, z. B. Saeedi et al. (2019), mit der technischen Effizienz des intermodalen Verkehrs. 
+
+### Aktueller Stand der praktischen Umsetzung {-}
+In den letzten zwei Jahrzehnten hat die EU-Verkehrspolitik den intermodalen Güterverkehr (auf der Schiene oder auf Binnenwasserstraßen) gefördert. Im Jahr 2011 setzte sich die Europäische Kommission das Ziel, 30 % der über 300 km auf der Straße beförderten Güter auf andere Verkehrsträger wie die Schiene oder die Binnenschifffahrt zu verlagern bis 2030, und mehr als 50 % bis 2050. Trotz erheblicher Investitionen (rund 28 Mrd. EUR an Finanzmitteln für Schienenprojekte zwischen 2007 und 2013) und der vorrangigen Verlagerung des Güterverkehrs von der Straße auf den intermodalen Güterverkehr (IFT) hat die EU-Politik für den intermodalen Verkehr keine wesentlichen Verbesserungen erzielt (Europäischer Rechnungshof, 2016). Die Leistung einer IFT-Dienstleistung wird auf zwei Hauptfaktoren zurückgeführt: die Leistung der verschiedenen Teile der Lieferkette und die Zusammenarbeit und Harmonie zwischen diesen Teilen (Saeedi et al., 2019). <br/>
+
+Da diese besondere Art des Güterverkehrs in den letzten Jahren aus wirtschaftlicher und politischer Sicht zunehmend an Bedeutung gewonnen hat, hat Eurostat zu diesem Thema die Task Force "Intermodal Transport Statistics" eingerichtet. Die Task Force, an der auch Statistik Austria (STAT) beteiligt war, sollte evaluieren, wie aussagekräftige und qualitativ hochwertige Daten zum intermodalen Verkehr auf europäischer Ebene für den Straßen- und Schienenverkehr sowie für die Binnen- und Seeschifffahrt erhoben werden können, ohne die Mitgliedsstaaten der Europäischen Union zusätzlich zu belasten. Es wurde untersucht, ob in den einzelnen Ländern zusätzlich zu den bereits nach EU-Vorschriften zu erhebenden Daten über den intermodalen Verkehr Informationen zur Verfügung stehen, die ein besseres Bild des Verkehrs mit ITE vermitteln könnten. Die Auswertung ergab, dass Informationen über den intermodalen Verkehr in den einzelnen Ländern in sehr unterschiedlicher Form vorliegen. Mögliche Indikatoren können daher auf EU-Ebene nur in begrenzter Form zusammengestellt werden, da sie sich hinsichtlich der einzelnen Verkehrsträger unterscheiden und auch aus methodischen Gründen Unstimmigkeiten aufweisen. So gibt es beispielsweise Unterschiede bei den zu erhebenden Gewichten oder der Art und Größe der ITEs. Außerdem liegen weder Informationen über die Herkunfts- und Zielregionen der transportierten Container noch über die Transportketten vor. Dies liegt daran, dass die Transporte auf den einzelnen Verkehrsträgern als unabhängig voneinander betrachtet werden. Im Rahmen der Task Force stellte sich auch heraus, dass in Deutschland im Vergleich zu anderen Mitgliedstaaten die meisten Informationen über den intermodalen Verkehr auf nationaler Ebene verfügbar sind. Das Statistische Bundesamt in Deutschland (Destatis) erhebt Daten über die Beförderung von Gütern in Containern, Wechselbehältern, Straßengüterfahrzeugen und Anhängern von Straßengüterfahrzeugen auf Straßen, Schienen, Flüssen und Meeren. Für andere Länder ist eine der Grundannahmen, dass nur ein kleiner Teil des ITE mit Straßengüterfahrzeugen transportiert wird, hauptsächlich über kurze Strecken (Rudlof et al., 2018). <br/>
+
+Einige ausländische Entwicklungen im Bereich der Technologien für automatisierte Güterverkehrssysteme sind nach Fertigstellung ihrer Konzepte in den Pilotbetrieb gegangen. In anderen Fällen wurden weitere Entwicklungen aufgrund wirtschaftlicher Herausforderungen wie hoher Anfangsinvestitionen ausgesetzt. Im Falle des Fracht-Shuttle-System (FSS)  in den USA wurde ein unbemanntes automatisiertes Güterverkehrssystem entwickelt, das in Bezug auf seinen Entwicklungsfortschritt als das fortschrittlichste seiner Art gilt. Das System befindet sich derzeit im Testbetrieb, nachdem der Bau eines Prüfstandes mit einer 100 m langen Strecke abgeschlossen wurde. Insgesamt wird in den fortgeschrittenen Ländern davon ausgegangen, dass die Entwicklungen einen Punkt erreicht haben, an dem sie nach Abschluss der Konzeptphase den Validierungsprozessen für die Kommerzialisierung unterzogen werden können. Nach Abschluss der weiteren Tests wird mit der Markteinführung innerhalb der nächsten 3 bis 4 Jahre gerechnet (Shin etal., 2018).
+
+
+### Relevante Initiativen in Österreich {-}
+In Österreich gibt es ein spezielles Förderprogramm für den unbegleiteten kombinierten Verkehr (UKV) auf der Schiene, das zu einer Verlagerung des Güterverkehrs auf diesen Verkehrsträger beitragen soll. Für die Abwicklung dieser Förderungen ist im Auftrag des BMVIT die Schieneninfrastruktur Servicegesellschaft ([SCHIG](https://www.schig.com/)) zuständig.<br/>
+
+Eine Befragung der Terminals sowie die Analyse der SCHIG-Datensätze zum UKV-Förderprogramm haben gezeigt, dass in Österreich derzeit keine ergänzenden Daten zum intermodalen Verkehr vorliegen. Ohne neue und speziell konzipierte Erhebungen ist es derzeit nicht möglich, eine umfassende Statistik zum intermodalen Verkehr über alle Verkehrsträger hinweg zu erstellen, die vor allem auch Aussagen zu Transportketten ermöglichen würde. Eine Möglichkeit der Datenerhebung könnte z.B. darin bestehen, die Terminals, an denen intermodaler Verkehr stattfindet, zu verpflichten, Aufzeichnungen zu führen und diese der Statistik zur Verfügung zu stellen. Hierfür müssten allerdings erst die notwendigen rechtlichen Grundlagen geschaffen werden.<br/>
+
+Besondere Bedeutung hatte der intermodale Verkehr in Österreich im Jahr 2016 im Bereich des Schienengüterverkehrs mit einem Anteil von 22,3 %. Auf der Straße wurden dagegen nur 2,6 % des Transportvolumens in intermodalen Transporteinheiten befördert, und für den Verkehrsträger Binnenschifffahrt war der intermodale Verkehr ohne Bedeutung, da auf Binnenschiffen nur leere Container transportiert wurden (Rudlof et al., 2018).
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table76, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Potenzial zur Verringerung der Emissionen|**+**|Oekologische Nachhaltigkeit (*7,12-13,15*)|European Commission, n.d.|
+|Systemisch|Mangelnde Vereinheitlichung der Informationen ueber den intermodalen Verkehr in der EU|**~**|Partnerschaften und Kooperationen (*17*)|Rudlof et al., 2018|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table77, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|8-9|')
+```
+
+### Offene Fragen {-}
+1. Wie kann die Koordinierung zwischen Entscheidungsträger:innen auf mehreren Ebenen verbessert werden, um die intermodale Leistung effizienter zu gestalten?
+2. Angesichts der Tatsache, dass ein großer Teil der Gesamtkosten im intermodalen Güterverkehr auf den Transport von Gütern entfällt, stellt sich die Frage, wie dieser effizienter gestaltet werden kann.
+3. Wie kann eine Vereinheitlichung der Verfahren für die Sammlung, Speicherung und den Austausch von Informationen in den EU-Ländern erreicht werden?
+
+
+### Weitere links {-}
+
+- [eca.europa.eu](https://www.eca.europa.eu/en/Pages/DocItem.aspx?did=36398)
+- [transportgeography.org](https://transportgeography.org/contents/chapter5/intermodal-transportation-containerization/)
+
+### Referenzen {-}
+-	European Commission. (n.d.). Transport emissions | Climate Action. Available at: https://ec.europa.eu/clima/policies/transport_en [Accessed: 11 March 2021]
+-	European Court of Auditors. (2016). Rail freight transport in the EU: still not on the right track (Issue 08). https://doi.org/10.2865/53961
+-	Heinold, A., & Meisel, F. (2020). Emission limits and emission allocation schemes in intermodal freight transportation. Transportation Research Part E: Logistics and Transportation Review, 141, 101963. https://doi.org/10.1016/j.tre.2020.101963
+-	Rudlof, M., Karner, T., & Fleck, S. (2018). Intermodaler Verkehr in Österreich. 87–95.
+-	Saeedi, H., Behdani, B., Wiegmans, B., & Zuidwijk, R. (2019). Assessing the technical efficiency of intermodal freight transport chains using a modified network DEA approach. Transportation Research Part E: Logistics and Transportation Review, 126, 66–86. https://doi.org/10.1016/j.tre.2019.04.003
+-	Shin, S., Roh, H. S., & Hur, S. H. (2018). Technical Trends Related to Intermodal Automated Freight Transport Systems (AFTS) *. Asian Journal of Shipping and Logistics, 34(2), 161–169. https://doi.org/10.1016/j.ajsl.2018.06.013
+
+## Städtische Lieferungen {#urban_delivery}
+
+### Synonyme{-}
+*City-Logistik, Mikro-Hubs, Grätzl-Hubs, straßenbegleitende Ladezonen (OLZ - on street loading zones)*
+
+### Definition {-}
+Effiziente und zuverlässige Warenzustell- und -abholdienste sind für das Funktionieren der Unternehmen im Innenstadtbereich und den Konsum von Produkten und Dienstleistungen durch Einwohner:innen, Besucher:innen und Beschäftigte unerlässlich (Aljohani & Thompson, 2020). Begrenzter Raum, zunehmendes Verkehrsaufkommen und gleichzeitig stetig wachsende Nachfrage stellen jedoch eine zunehmende Herausforderung dar, insbesondere in den städtischen Gebieten. Hinzu kommt, dass der Güterverkehr aufgrund der hohen Achslasten die Straßen viel stärker verschleißt als der Personenverkehr und daher für die Straßenerhaltungsplanung kritisch ist (Forschungs-Informations-System für Mobilität und Verkehr (FIS), 2003). Das Konzept der City-Logistik zielt daher darauf ab, die städtische Infrastruktur zu entlasten und gleichzeitig die Qualität der Versorgung in der Stadt zu verbessern (Aljohani & Thompson, 2020). <br/>
+
+Es gibt zwei Hauptbereiche, die praktische und relevante Lösungen bieten könnten, um die Herausforderungen und die Effizienz des Güterverkehrs auf der letzten Meile im Stadtzentrum anzugehen: *(1)* Maßnahmen zur Steuerung der Frachtnachfrage (FDM) und *(2)* Verbesserung der Park- und Ladeinfrastruktur. Die Empfänger haben in der Regel mehr Marktmacht als Spediteure oder Verlader und können Zeitpunkt, Umfang und Häufigkeit von Lieferungen, die in der Regel während der Geschäftszeiten und zu Zeiten mit hohem Verkehrsaufkommen erfolgen, erheblich beeinflussen. Eine Maßnahme wäre, Lieferungen außerhalb der Geschäftszeiten zu forcieren, um die Lieferaktivitäten von Spediteuren und Versendern zu verändern (Holguín-Veras und Sánchez-Díaz, 2016). Die lokalen Behörden können Großempfänger und Gebäudemanager:innen im Stadtzentrum dazu verpflichten, ihre Lieferungen von mehreren Frachtunternehmen zu koordinieren und zu konsolidieren. Es sollten Studien zum Frachtverhalten durchgeführt werden, um das Interesse dieser Empfänger zu bewerten und festzustellen, welche politischen Hebel ihre Beteiligung beeinflussen könnten (Aljohani & Thompson, 2020).<br/>
+
+Die Forschung zeigt, dass sowohl Empfängerpreise als auch Anreize eine wichtige Rolle bei der Verringerung des Güterverkehrs spielen könnten, wobei Empfängerpreise wahrscheinlich auf wesentlich mehr politischen Widerstand stoßen als Anreize. Die politischen Entscheidungsträger:innen müssen pragmatische Entscheidungen treffen und ein Gleichgewicht zwischen wirtschaftlicher Optimalität und politischer Machbarkeit herstellen. Eine sorgfältige Auswahl von Empfängergebühren und Anreizen wird wahrscheinlich zu einer Situation führen, in der signifikante Verbesserungen der Nachhaltigkeit zu minimalen politischen Kosten erreicht werden können. Eine Weiterentwicklung des Economic Order Quantity (EOQ)-Modells zeigt, dass die Empfänger zur Gewinnmaximierung eine angemessene Aufteilung der Fläche zwischen umsatzfördernden Aktivitäten und Lagerbereichen vornehmen müssen. Der Druck, die Fläche für umsatzfördernde Aktivitäten zu maximieren, führt zu kleineren Lagerflächen und einer stärkeren Abhängigkeit von kleinen Bestellmengen und häufigen Lieferungen. Eine optimale Raumaufteilung und Bestellung führt zu Auftragsgrößen und Zykluszeiten, die 35 % geringer sind als im klassischen EOQ-Modell. Dies würde zu 50 % mehr Lieferfahrten führen. Die Anwendung einer optimalen Empfängergebühr - als Anreiz für die Empfänger, die erzeugten externen Effekte zu internalisieren - deutet darauf hin, dass eine Verringerung des Frachtaufkommens um etwa 10 % erreicht werden könnte (Holguín-Veras & Sánchez-Díaz, 2016). Die Ergebnisse legen nahe, dass der Rückgriff auf häufige Kleintransporte eine rationale Entscheidung in einem gewinnmaximierenden Umfeld ist. Ein negativer Effekt, der zu beachten ist, ist, dass Verkehrsmittelwahlstrategien, die die Annahme großer Sendungsgrößen erfordern, wie die Nutzung der Bahn, von den Empfängern abgelehnt werden können, da sie größere Lagerflächen voraussetzen. Im Gegensatz dazu können Verkehrsmittelwahlstrategien, die mit kleineren Sendungen funktionieren, wie z. B. die Nutzung von Elektrofahrrädern, von den Empfängern akzeptiert werden, solange sie die Logistikkosten nicht übermäßig erhöhen.<br/>
+
+Aljohani & Thompson (2020) argumentieren, dass die Vorschriften und Zuweisungen von Laderaum auf der Straße aktualisiert werden müssen, um den Herausforderungen Rechnung zu tragen, mit denen Spediteure im Stadtzentrum konfrontiert sind. Die lokalen Behörden könnten argumentieren, dass es im Stadtzentrum genügend Laderäume gibt. Sie werden jedoch nicht effizient verwaltet und verteilt, da illegale Nutzer:innen auf diesen Ladeflächen parken. Eine Politik für straßenbegleitende Ladezonen (OLZ) sollte die unterschiedlichen Parkanforderungen für die verschiedenen Klassen von Frachtfahrzeugen und die Teilbranchen der Empfänger berücksichtigen. Darüber hinaus kann es notwendig sein, einige OLZ an verkehrsreichen Standorten umzuwandeln, damit sie als vorübergehende Aufenthaltsbereiche für Frachtunternehmen dienen, insbesondere in dichten Einzelhandels- und Gewerbegebieten. Die lokalen Behörden sollten auch die Fortschritte bei den Internet-of-Things-Technologien (IoT), der Nummernschilderkennung und intelligenten Belegungsschildern nutzen, um die Buchung von OLZ zu ermöglichen und Buchungsdetails anzuzeigen (siehe [Delivery space booking](#space_book)). Diese anpassungsfähigen Anzeigen könnten als virtuelle On-Street-Ladezonen fungieren, die nur dann aktiv werden, wenn eine Buchung vorgenommen wird.<br/>
+
+Holguín-Veras & Sánchez-Díaz (2016) argumentieren in ihrem Beitrag, dass ihre Ergebnisse einmal mehr das Potenzial des Güternachfragemanagements verdeutlichen. Die Autor:innen sind der Ansicht, dass die Nutzung der Macht der Empfänger als Akteure des Wandels eine einzigartige Gelegenheit bietet, die wirtschaftliche Effizienz der städtischen Güterverkehrssysteme zu verbessern, die durch den Güterverkehr verursachten negativen externen Effekte zu verringern und sowohl die Lebensqualität als auch die Umweltgerechtigkeit zu verbessern.
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Kurier-Express-Paketdienste, Paketempfänger, Spediteure
+- **Verantwortliche**: Kurier-Express-Paketdienste, Logistikunternehmen, Stadtverwaltung, Fördermittelgeber, Bezirksämter, Handelskammer, Privatunternehmen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Holguín-Veras & Sánchez-Díaz (2016) verwendeten Umfragedaten in einer Fallstudie in New York City (NYC), um die potenzielle Verkehrsreduzierung abzuschätzen, die durch ein Programm zur empfängergeführten Konsolidierung (RLC - receiver-led consolidation) erreicht werden könnte. Receiver-Led Consolidation (RLC) bezeichnet eine Vielzahl von Maßnahmen, mit denen die Macht der Empfänger eingesetzt werden kann, um die Bündelung von Fracht über mehrere Lieferketten hinweg zu fördern (z. B. Verringerung der Anzahl der Sendungen, Reduzierung der Anzahl der Lieferanten, ...). Die Autoren schätzten ein Modell, um zu zeigen, dass die wichtigsten Faktoren, die diese Entscheidung bestimmen, der Industriesektor, die Fabrikfläche (ein Maß für die Größe) und die Anzahl der empfangenen Lieferungen sind. Die Branchen, die am häufigsten teilnehmen, sind der Einzelhandel, das Beherbergungsgewerbe und der Großhandel. Kleine Unternehmen sind tendenziell weniger an RLC interessiert. Die Analysen des Modells und des Frachtaufkommens zeigen, dass RLC zu einer Verringerung des gesamten Lieferverkehrs im Großraum NYC um 3,0 % bis 8,8 % und in Manhattan um 3,5 % bis 11,2 % führen könnte. Die Anwendung einer verhaltensbasierten Mikrosimulation auf Manhattan ergab, dass die Gesamteinsparungen für die Spediteure zwischen 376 906 $ und 1 186 128 $ pro Tag liegen könnten, was auf 4740 bis 15062 eingesparte Betriebsstunden zurückzuführen ist. In Bezug auf die zurückgelegten Fahrzeugmeilen (VMT) liegen die erwarteten Einsparungen zwischen 33445 und 104255 VMT pro Tag. Diese Schätzungen entsprechen einer Einsparung von ca. 65 $ an Betriebskosten, ca. 50 Minuten an eingesparter Reise- und Bearbeitungszeit und der Vermeidung von ca. 6 Meilen an Fahrten pro konsolidierter Lieferung. Neben den Einsparungen für die an RLC teilnehmenden Spediteure, dürfte die Verringerung des LKW-Verkehrs auch wirtschaftliche Vorteile mit sich bringen. Das Ausmaß dieser Einsparungen legt nahe, dass öffentliche Einrichtungen RLC-Programme als Teil ihrer Bemühungen um Nachhaltigkeit in Betracht ziehen sollten. Die Studie ergab auch, dass politische Maßnahmen in Form von Preisen und/oder Anreizen erforderlich sind, um die Empfänger zum Handeln zu bewegen. Andernfalls wird die Trägheit der Unternehmen und die natürliche Tendenz, sich nur dann zu ändern, wenn die Umstände es erzwingen, die Empfänger dazu bringen, den Status quo beizubehalten.<br/>
+
+Darüber hinaus wurde und wird zunehmend die Idee diskutiert, bestehende Stadt- und Vorortbahnnetze für die Verteilung und Auslieferung von Waren in Städten zu nutzen. Mehrere Fallstudien wurden auch in europäischen Städten wie Amsterdam, Dresden, Paris und Zürich durchgeführt. Marino et al. (2013) kamen zu dem Schluss, dass der städtische Güterverkehr auf der Schiene ein praktikables Konzept ist, da er mehrere Vorteile mit sich bringt, vor allem eine Verringerung der Verkehrsüberlastung, der Emissionen und des Verkehrs in den Städten. Allerdings hat sich das Konzept bisher nicht wirklich durchgesetzt. Ein Beispiel in Amsterdam zeigte, dass die Finanzierung eine Herausforderung sein kann, da es keinen klaren Konsens zwischen den beteiligten Parteien gab.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Um den [Aktionsplan Logistik 2030+](https://www.logistik2030.at/?page_id=2769) (Popp, et al., 2019), zu entwickeln, haben das Land Niederösterreich, die Stadt Wien und die Wirtschaftskammern Niederösterreich und Wien das Projekt "*Nachhaltige Logistik 2030+ Niederösterreich-Wien*" gestartet. Über einen Zeitraum von drei Jahren wurden mehr als 300 Entscheidungsträger:innen in einen mehrstufigen Prozess eingebunden, um die folgenden Projektziele zu erreichen: *(1)* Lösung von Nutzungskonflikten im fließenden und ruhenden Güterverkehr, *(2)* CO2-Einsparung, *(3)* Reduzierung des Verkehrsaufkommens ohne Leistungs- und Qualitätsverlust, *(4)* Entwicklung von Logistik- und Verkehrskonzepten und *(4)* Initiierung und Umsetzung von Pilotprojekten. Hierfür wurden acht Themencluster bearbeitet: 
+
+- Logistikflächen vorausschauend planen und sichern
+- Frachtkonsolidierung mit Hilfe neuer Geschäftsmodelle vorantreiben
+- Effiziente Lösungen für die Paketzustellung entwickeln und umsetzen
+- Nachhaltige Logistikkonzepte bei Unternehmen und Großprojekten unterstützen
+- Anreize für beschleunigte Flottenumrüstungen schaffen
+- Digitale Informationen und Dienste zur Effizienzsteigerung und Optimierung nutzen
+- Rahmenbedingungen für eine nachhaltige Entwicklung schaffen
+- Aktive Kommunikation von Logistikleistungen und -kosten
+Schließlich umfasst der Aktionsplan 35 Maßnahmen mit 133 Aktionen (ARGE L2030+, n.d. a). <br/>
+
+Im oben erwähnten Themencluster "*Lösungen für die Paketzustellung*" sind es folgende Maßnahmen: *(1)* Vermeiden von Nichtzustellungen: Vergebliche erste Zustellversuche sollten durch die Bereitstellung alternativer Adressen vermieden werden, *(2)* Nutzung von P&R-Anlagen und ÖPNV-Stationen als White-Label-B2C-Knoten, *(3)* Integration von "Grätzelboxen" (Mikrohubs mit Zusatzfunktionen) und von Boxenstandorten in Immobilien und aufgrund der Covid 19-Krise auch *(4)* die Zunahme der kontaktlosen Zustellung (Faast & Gregori, 2020).<br/>
+
+Darüber hinaus stellen Ladezonen einen zentralen Bestandteil der öffentlichen Logistikinfrastruktur dar, die für die Versorgung der Stadt mit Waren und Dienstleistungen unerlässlich ist. Um dem Mangel an dieser Infrastruktur entgegenzuwirken, der von Vertreter:innen der österreichischen Wirtschaft bei der Erstellung des Arbeitsprogramms L2030+ als großes Problem für die urbane Logistik identifiziert wurde, wurde das Projekt "*Ladezonenrechner*" gestartet. Der Ladezonenrechner soll aus einem GIS-Tool und einer empirischen Kennwertermittlung zur Abschätzung des Güterverkehrsaufkommens für ein Ladezonenmanagement bestehen. Basierend auf der im April 2020 abgeschlossenen Vorstudie der TU Wien zum Thema "*Abschätzung des Güterverkehrsaufkommens für ein Ladezonenmanagement*" sollen die Verfahrensschritte in einem digitalen GIS-Tool inklusive einer Kennwertmatrix für Wien umgesetzt werden. Im Rahmen der Vorstudie hat sich gezeigt, dass bei den Kennwerten des Güterverkehrs in der Literatur oft der Bezug zur Nutzung/Branche fehlt oder unzureichend ist. Aus diesem Grund soll in diesem Projekt ein standardisiertes Verfahren zur empirischen Ermittlung von Kennwerten inklusive einer exemplarischen Erhebung für eine Branche umgesetzt werden.<br/>
+
+Im Jahr 2017 wurde mit der LogPOINT Logistics Services GmbH und der Unterstützung der Wirtschaftskammer Wien an einem der letzten leistungsfähigen innerstädtischen Logistikstandorte in Wien ein City Hub mit dem Schwerpunkt E-Commerce realisiert. Das umfassende Dienstleistungsportfolio im Bereich E-Fulfillment bietet den Kund:innen eine breite Palette an Möglichkeiten, von logistischen Komplettleistungen bis hin zum Handling von Paketen. Die Pakete werden am Standort gebündelt und von da an mit Lastenfahrrädern und E-Fahrzeugen CO~2~-frei an B2B- und B2C-Adressen zugestellt. Das Pilotprojekt ermöglicht zum einen, dass die Paketflut in den Innenstadtbezirken auf Basis des Wechselbrückenumschlags direkt angeliefert, umgeschlagen und zugestellt werden kann. Andererseits bietet das im E-Fulfillment erfahrene Team des Unternehmens ein Full-Service-Produkt an, bei dem die Paketmengen direkt vor Ort produziert werden (ARGE L2030+, n.d. b).<br/>
+
+Paketkästen haben sich von ihrer singulären Verwendung als Paketzustellkasten weiterentwickelt. Neben der Parkzustellung können sie auch von Einzelhändlern für "*Click & Collect*", von lokalen Dienstleistern, von der Verwaltung für Dokumente und Ausweise, als C2C-Schließfächer, für X2B-Rücksendungen oder von X2C für eine Vielzahl von Anwendungen genutzt werden. X2C können verschiedene Nutzer:innen sein, wie z.B. "Willhaben"-Käufer:innen, Handelsvertreter:innen, Feinkost- und Weinhändler:innen, Handwerker:innen, Nutzer:innen der Airbnb-Plattform und so weiter (Faast & Gregori, 2020). 
+Derzeit hat jeder Kistenbetreiber seine eigene IT-Plattform, die er mit den IT-Systemen der KEP-Dienstleister und der Lieferanten/Einzelhändler verbindet. Ebenso verfügt jeder Boxenbetreiber über eine eigene Empfängerschnittstelle, die in der Regel über eine entsprechende App den Zugriff auf die Boxen ermöglicht. Im Prinzip sind alle notwendigen Funktionalitäten abgebildet, jedoch gibt es derzeit keine Standards und eine Interoperabilität zwischen den Systemen ist nicht möglich. Mittelfristig müssen daher entsprechende Standards oder eine übergeordnete Plattform entwickelt werden, die - analog zur Mobilfunktechnik - einen problemlosen Wechsel/Austausch zwischen den verschiedenen Plattformen ermöglichen (Faast & Gregori, 2020).
+
+### Relevante Initiativen in Österreich {-}
+
+- [logistik2030.at-1](https://www.logistik2030.at/?page_id=268) 
+- [infothek.bmk.gv.at](https://infothek.bmk.gv.at/gruene-stadtlogistik-post-testet-city-hubs-in-wien/) 
+- [logistik2030.at-2](https://www.logistik2030.at/?page_id=63) 
+- [remihub.at](https://www.remihub.at) 
+- [logpoint.at](https://logpoint.at/ueber-uns/gruene-logistikwelt-und-standorte/)
+- [wu.ac.at](https://www.wu.ac.at/scm/projekte/)
+- [post.at](https://www.post.at/p/c/vorzimmer-zustellung) 
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table113, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Kosteneinsparungen durch Effizienz|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Holguin-Veras & Sanchez-Diaz, 2016|
+|Systemisch|Geringere negative externe Effekte|**+**|Oekologische Nachhaltigkeit (*7,12-13,15*)|Holguin-Veras & Sanchez-Diaz, 2016
+|Systemisch|Wirtschaftliche Vorteile durch Verringerung des LKW-Verkehrs|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Holguin-Veras & Sanchez-Diaz, 2016|
+|Systemisch|Weniger Transporte auf der Schiene; mehr Transporte mit Lastenraedern und Elektroautos|**~**|Innovation und Infrastruktur (*9*)|Holguin-Veras & Sanchez-Diaz, 2016|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table114, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|4-7|4-6|')
+```
+
+### Offene Fragen {-}
+1. Wie können die unterschiedlichen IT-Plattformen der einzelnen Anbieter zusammengeführt werden?
+2. Wie können wir sicherstellen, dass Einrichtungen wie City Logisic Hubs, Paketkästen usw. für alle zugänglich sind? 
+
+### Weitere links {-}
+
+- [railfreight.com](https://www.railfreight.com/railfreight/2017/08/03/light-rail-network-used-for-freight-transport/?gdpr=accept )
+
+### Referenzen {-}
+-	Aljohani, K., & Thompson, R. G. (2020). Last mile delivery activities in the city centre–Insights into current practices and characteristics of delivery trips. Transportation Research Procedia, 46, 261-268.
+-	ARGE L2030+. (n.d. a). Aktionsplan – Logistik 2030+. Available at: https://www.logistik2030.at/?page_id=63 [Accessed: 29 April 2021]
+-	ARGE L2030+. (n.d. b). Pilotprojekte – Logistik 2030+. Central LogPOINT – DER Logistik HUB im Herzen von Wien. Available at: https://www.logistik2030.at/?page_id=268 [Accessed: 29 April 2021]
+-	Faast, A., & Gregori, G. (2020). NACHHALTIGE LOGISTIK 2030+ NIEDERÖSTERREICH WIEN Pilotprojekt Evaluierung von großteils betreiberunabhängigen Paketboxensystemen in Niederösterreich und Wien.
+-	Forschungs-Informations-System für Mobilität und Verkehr (FIS). (2003, April 8). Infrastrukturschäden durch den Straßengüterverkehr. https://www.forschungsinformationssystem.de/servlet/is/39816/
+-	Holguín-Veras, J., & Sánchez-Díaz, I. (2016). Freight demand management and the potential of receiver-led consolidation programs. Transportation Research Part A: Policy and Practice, 84, 109-130.
+-	Marinov, M., Giubilei, F., Gerhardt, M., Özkan, T., Stergiou, E., Papadopol, M., & Cabecinha, L. (2013). Urban freight movement by rail. Journal of Transport Literature, 7(3), 87-116.
+-	Popp, C., Winkler, A., Hahn, E., & Faast, A. (2019). Nachhaltige Logistik 2030+ Niederösterreich-Wien Aktionsplan.
+-	van Leijen, M. (2017, August 3). Light rail network used for freight transport | RailFreight.com. Available at: https://www.railfreight.com/railfreight/2017/08/03/light-rail-network-used-for-freight-transport/?gdpr=accept&gdpr=deny [Accessed: 30 September 2021]
+
+## Intelligentes LKW-Parken {#intelligent_truck_park}
+
+### Synonyme{-}
+*Informationen zum LKW-Parken (ITP - Information on Truck Parking), Intelligent Truck Parking (ITP)*
+
+### Definition {-}
+Heutzutage ist ein erheblicher Anstieg des Verkehrsaufkommens zu verzeichnen, insbesondere im internationalen Straßengüterverkehr. Insbesondere mit der Erweiterung der EU-Mitgliedsstaaten hat die gegenseitige Abhängigkeit der Mitgliedsstaaten sowie das Verhältnis des Warenaustauschs und damit der Bedarf an Transportdienstleistungen zugenommen (Gnap & Kubíková, 2020). Infolgedessen führen die höhere Anzahl von Fahrzeugen und der damit verbundene Verkehr zu Schwierigkeiten bei der Einhaltung von Fristen für das Be- und Entladen von Gütern sowie zu der Verpflichtung, vorgeschriebene Sicherheitspausen und Ruhezeiten einzulegen. Außerdem verschärft sich das Problem des Mangels an Parkplätzen entlang der Strecke für den Schwerlastverkehr, was sich negativ auf die Logistik auswirkt und einen Anstieg der Logistikkosten erwarten lässt (Lozia & Kulma, 2014). <br/><br/>
+Daher ist die Europäische Union bestrebt, die Entwicklung des transeuropäischen Verkehrsnetzes (TEN-V) durch Strukturfonds zu unterstützen. Das TEN-V-Netz soll die Mitgliedsstaaten von Ost nach West und von Nord nach Süd verbinden. Leider liegt die Rate des Straßenbaus in einigen Ländern weit unter der Wachstumsrate der Verkehrsdienstleistungen. Die Abschaffung der Ruhezeiten in den Fahrzeugen und andere bevorstehende Änderungen des so genannten "Straßenpakets" werden den Bedarf an mehr Parkplätzen und entsprechender Ausrüstung für die Fahrer:innen erhöhen, insbesondere auf Autobahnen. Diese Tatsache wird sich erheblich auf den Druck auf Fahrzeugparkplätze auswirken, wenn die vorgeschriebene Höchstlenkzeit eingehalten wird und die Notwendigkeit besteht, ein Fahrzeug anzuhalten und eine Sicherheitspause oder eine tägliche/wöchentliche Ruhezeit einzulegen (Carrese et al., 2014). Darüber hinaus besteht ein eindeutiger Bedarf an Lade- und Betankungsstationen für alternative Kraftstoffe an Rastplätzen, um einen reibungslosen Transit von Fahrzeugen mit alternativen Kraftstoffen zu gewährleisten. Diese sollten im Einklang mit der Umsetzung der [Richtlinie 2014/94/EU](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32014L0094) des Europäischen Parlaments stehen. <br/><br/>
+Um diese Probleme anzugehen, wurde ein Intelligent Truck Parking (ITP) entwickelt, ein Dienst für intelligente Verkehrssysteme, der sich mit der Verwaltung von Informationen im Zusammenhang mit LKW-Parkvorgängen befasst. ITP sammelt Daten über Parkeinrichtungen (Dienste und Verfügbarkeit), verarbeitet die Daten, z. B. den Belegungsgrad, und übermittelt die Informationen an die Fahrer:innen (in Echtzeit), um ihnen den Zugang zu einer solchen Einrichtung zu erleichtern. ITP ermöglicht eine effiziente Parkraumbewirtschaftung und kann die Bedürfnisse der Verkehrsakteure durch die Bereitstellung von Informationen über verfügbare Parkplätze und zusätzliche Dienstleistungen verbessern (Sochor & Mbiydzenyuy, 2013). <br/><br/>
+Gute Beispiele für die effiziente Nutzung von Informationssystemen finden sich in Deutschland und Österreich. Diese Systeme bieten als Teil der intelligenten Verkehrssysteme Dienste an, die den Autofahrer:innen den Verkehr erleichtern, z. B. die Suche nach freien Parkplätzen an Rastplätzen entlang von Autobahnen und Schnellstraßen (Gnap & Kubíková, 2020).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: LKW-Fahrer:innen, Transportunternehmen, Spediteure, Verlader und Versicherungen
+- **Verantwortliche**: Nationale Regierungen, Speditionsunternehmen, internationale Behörden (z. B. EU)
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+In der Literatur finden sich meist regionale Pläne für bestimmte Gebiete in einem bestimmten Land. Zum Beispiel Carrese et al. (2014) für die Region Lazio in Italien und Gnap & Kubíková (2020) für die Slowakische Republik. Es werden jedoch auch Sicherheitsaspekte hervorgehoben, wie z. B. ein Klassifizierungsschema von Parkplätzen für LKW im Fernverkehr. Auch hier sind die Daten auf eine bestimmte Region (Peel Region in Ontario, Kanada) beschränkt, aber es wurden Anstrengungen unternommen, ein allgemein anwendbares Schema zu entwickeln (Nevland et al., 2020).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Eine gemeinsame europäische Parkstrategie wurde 2014 von der europäischen Organisation SETPOS im Rahmen des [SETPOS]( https://ec.europa.eu/transport/sites/transport/files/modes/road/parking/doc/2010_04_28_setpos_project_handbook.pdf) Projekts entwickelt. Das Projekt hatte vier Ziele:
+
+- Die Bewertung und Validierung der Anforderungen von Interessengruppen, d.h. Fahrer:innen, Disponenten, Spediteuren, Rastplatzbetreibern, Versicherungen, Behörden und Verladern;
+- Die Formulierung gemeinsamer Standards für sichere Parkplätze;
+- die Einrichtung einer Reihe von Pilot-Parkplätzen in grenzüberschreitenden Regionen zur Validierung und Demonstration der Standards;
+- die Einrichtung einer Informations-, Orientierungs- und Reservierungsplattform für alle Arten von LKW-Parkplätzen.
+
+Das [LABEL]( https://ec.europa.eu/transport/sites/transport/files/modes/road/parking/doc/handbook_for_labelling.pdf )-Projekt, das auf SETPOS folgt, zielt darauf ab, die Sicherheits- und Qualitätsstandards für LKW-Parkplätze in Europa zu erhöhen (Carrese et al., 2014):
+
+- Einführung eines europäischen Standard-Zertifizierungssystems für LKW-Parkplätze;
+- die Entwicklung einer Online-Datenbank für Nutzer:innen, um zertifizierten Standorten finanzielle Vorteile zu bieten.
+
+Jeden Tag werden auf dem transeuropäischen Straßennetz, dem Rückgrat der EU-Wirtschaft, Waren im Wert von Milliarden Euro transportiert. Trotz der erfolgreichen Leistung des Sektors hinsichtlich des Volumens ist er mit einer Reihe von Problemen konfrontiert, darunter Fahrer:innenmangel, Fachkräftemangel, alternde Arbeitskräfte und Herausforderungen in Bezug auf Sicherheit und Konnektivität. Im Güterkraftverkehrsgewerbe ist die Frachtausrüstung ein häufiges Ziel organisierter krimineller Gruppen. Infolgedessen verursachen Ladungsdiebstähle und das illegale Betreten von Lastwagen erhebliche finanzielle und rufschädigende Verluste für die Betreiber der Lieferkette. <br/><br/>
+
+Derzeit mangelt es an Einrichtungen, die ein sicheres Abstellen von LKW ermöglichen und auch ein Mindestmaß an Dienstleistungen für das soziale Wohlergehen der Fahrer:innen bieten. Durch die Einrichtung eines dichteren Netzes von sicheren LKW-Parkplätzen mit einer klaren Definition der Sicherheitsstufen können diese Probleme gemeinsam angegangen werden. Fahrer:innen, Transportunternehmen, Spediteure, Verlader und Versicherungen sowie die Gesellschaft als Ganzes werden von einem ausreichenden Angebot dieser Einrichtungen profitieren, da Fahrer:innen, Ladung und Transportausrüstung geschützt werden. Darüber hinaus ist die Straßenverkehrssicherheit durch ausgeruhte Fahrer:innen ein weiterer Bereich, in dem solche Einrichtungen einen erheblichen positiven Einfluss haben können. In diesem Zusammenhang führte die Europäische Kommission eine Studie über sichere Parkplätze für LKW durch, die im Dezember 2018 abgeschlossen wurde. Die wichtigsten Ergebnisse dieser Studie zeigen, dass ein Bedarf besteht (van Weenen et al., 2019):
+
+- Einen gemeinsamen Standard und ein Bewertungssystem für Sicherheit und Service;
+- Audit-Verantwortlichkeiten und -Leitlinien zur Gewährleistung der Zuverlässigkeit;
+- Umfassende Karten, die zeigen, wo SSTPAs benötigt werden;
+- Empfehlungen für die Grundlage einer gemeinsamen Anwendungsprogrammschnittstelle (API) für den Austausch von dynamischen Daten zwischen SSTPAs und Informationsplattformen;
+- Handbücher zur Unterstützung bei der Erstellung von Geschäftsplänen für die Einrichtung von SSTPAs
+
+Eine Lückenanalyse zum Vergleich von Nachfrage und Angebot an sicheren LKW-Parkplätzen auf europäischer Ebene und im Detail entlang des Kernnetzes ergab eine Reihe von Problemen (van Weenen et al., 2019):
+
+- Der Gesamtbedarf an Nachtparkplätzen beträgt 400.000 LKW-Parkplätze pro Nacht;
+- Nur 300.000 LKW-Parkplätze sind verfügbar, was ein Defizit von etwa 100.000 zusätzlichen Plätzen bedeutet;
+- Das Defizit an zertifizierten sicheren Parkplätzen ist viel größer, da in einigen Ländern nur 7.000 Plätze zur Verfügung stehen. In einigen Ländern und auf bestimmten Korridoren können sich Autofahrer:innen nicht auf die Verfügbarkeit von zertifizierten sicheren Parkplätzen verlassen;
+- Das derzeitige Angebot an nicht gesicherten Parkplätzen ist gleichmäßiger über das Netz verteilt. Diese Plätze sind jedoch nicht zertifiziert und bieten den Fahrer:innen keine garantierten Dienstleistungen.
+
+Truck Parking Europe hilft Transportunternehmen, die Sicherheit von Fahrer:innen und Fracht zu gewährleisten. Inspektionsberichte geben Auskunft über die Sicherheitsmerkmale von LKW-Parkplätzen. Diese Prüfberichte helfen Sicherheits- und Planungsmanager:innen, sichere Parkplätze in ganz Europa zu genehmigen (in Übereinstimmung mit dem von der EU geschaffenen standardisierten Sicherheitsrahmen). Sie geben einen detaillierten Überblick über die Einrichtungen, die jeder LKW-Parkplatz bietet (Truck Parking Europe, n.d.).
+
+### Relevante Initiativen in Österreich {-}
+
+- [truckparkingeurope-austria](https://www.truckparkingeurope.com/secure-truck-parking-overview/austria/) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table70, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Erhoehung der Sicherheit der Fahrer:innen|**+**|Gesundheit und Wohlbefinden (*3*)|van Weenen et al., 2019|
+|Systemisch|Geringere Verluste durch Ladungsdiebstaehle|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|van Weenen et al., 2019|
+|Systemisch|Zusaetzliche Konzentration auf die Infrastruktur fuer alternative Kraftstoffe|**+**|Innovation und Infrastruktur (*9*)|Gnap & Kubikova, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table71, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|7-9|')
+```
+
+### Offene Fragen {-}
+1. Wie kann das Interesse von privaten und öffentlichen Autobahngesellschaften geweckt werden, um die Bereitstellung von Daten und die Aufrüstung von Parkplätzen für die Sicherheit und Reservierung zu erleichtern und den Bau von Infrastrukturen zur Erfassung dynamischer Daten zu fördern?
+2. Welche Software-Infrastruktur ist erforderlich, um aktuelle Informationen über die Belegung und Reservierung von LKW-Parkplätzen im Fahrzeug zu ermöglichen?
+
+
+### Weitere links {-}
+
+- [truckparkingeurope.com-1](https://www.truckparkingeurope.com/secure-truck-parking-overview/)
+- [truckparkingeurope.com-2](https://www.truckparkingeurope.com/how-do-i-reserve-a-secure-truck-parking-spot/)
+- [ec.europa.eu-1](https://ec.europa.eu/transport/themes/its/road/action_plan/intelligent-truck-parking_en)
+- [ec.europa.eu-2](https://ec.europa.eu/transport/sites/transport/files/modes/road/parking/doc/2010_04_28_setpos_project_handbook.pdf) 
+- [ec.europa.eu-3](https://ec.europa.eu/transport/sites/transport/files/2019-study-on-safe-and-secure-parking-places-for-trucks.pdf) 
+- [tis-gdv.de](https://www.tis-gdv.de/tis_e/bedingungen/parken/lpp-htm/)
+- [unece.org](https://unece.org/DAM/trans/doc/2008/sc1/ECE-TRANS-SC1-103-pres01e.pdf)
+
+
+### Referenzen {-}
+-	Carrese, S., Mantovani, S., & Nigro, M. (2014). A security plan procedure for Heavy Goods Vehicles parking areas: An application to the Lazio Region (Italy). Transportation Research Part E: Logistics and Transportation Review, 65(1), 35–49. https://doi.org/10.1016/j.tre.2013.12.011
+-	Gnap, J., & Kubíková, S. S. (2020). Possible Effects of Lacking Parking Areas for Road Freight Transport on Logistics and Transport Safety. Transportation Research Procedia, 44(2019), 53–60. https://doi.org/10.1016/j.trpro.2020.02.009
+-	Lozia, Z., & Kulma, J. (2014). Simulation method of comparative evaluation of the agility of a passenger car when moving ‘forwards’ and ‘backwards’. Archiwum Motoryzacji, 64, 49–64, 149.
+-	Nevland, E. A., Gingerich, K., & Park, P. Y. (2020). A data-driven systematic approach for identifying and classifying long-haul truck parking locations. Transport Policy, 96, 48–59. https://doi.org/10.1016/j.tranpol.2020.04.003
+-	Sochor, J., & Mbiydzenyuy, G. (2013). Assessing the benefits of intelligent truck parking. International Journal of Intelligent Transportation Systems Research, 11(2), 43-53.
+-	Truck Parking Europe. (n.d.). Audit reports on secure truck parking locations - Truck Parking Europe. Available at: https://www.truckparkingeurope.com/2020/03/11/audit-reports-on-secure-truck-parking-locations/ [Accessed: 3 March 2021]
+-	van Weenen, R. de L., Newton, S., Menist, M., Maas, F., Penasse, D., Nielsen, M., Halatsis, A., Männistö, T., Stamos, I., & Ruschin, P. P. (2019). Study on Safe and Secure Parking Places for Trucks (Issue February).
+
+## Intelligente Lieferflächenbuchung {#space_book} 
+
+### Synonyme{-}
+*straßenbegleitende Ladezonen (OLZ - on-street loading zones), Güterverkehrsaufkommen (FTG - Freight Trip Generation), Be- und Entladezonen (L/U - loading/unloading zones), Bordsteinmanagement, intelligente Ladezonen, digitale Ladezonen*
+
+### Definition {-}
+In städtischen Gebieten erzeugen Warenlieferungen für gewerbliche und private Kund:innen einen riesigen Strom von Fahrzeugen, die von kleinen Lieferwagen (für Expresslieferungen) bis zu Lastwagen (für Lieferungen an größere Geschäfte) reichen. Die Lieferdienste nehmen aufgrund einer Reihe von Faktoren wie Just-in-Time-Management, der Entwicklung des elektronischen Geschäftsverkehrs und dem Aufkommen neuer Verhaltensweisen der Kund:innen, z. B. Hauslieferungen, Fahrdienste und Lieferfächer, zu (Patier et al., 2014). Bei der innerstädtischen Auslieferung müssen die Lieferfahrzeuge in der Regel vorübergehend am Straßenrand anhalten, damit die Fahrer:innen den letzten Teil der Lieferung zu Fuß erledigen können. Die Stopps finden in ausgewiesenen Bereichen statt, die als Be-/Entladezonen (L/U) bezeichnet werden und jeweils über eine bestimmte Anzahl von verfügbaren Parkplätzen verfügen. Die Verteilerunternehmen sehen sich in den L/U-Zonen häufig mit Engpässen konfrontiert, die auf verschiedene Faktoren zurückzuführen sind, wie z. B. zeitliche oder räumliche Spitzen bei der Liefernachfrage, systembedingte Probleme bei der Zuweisung von L/U-Zonen (z. B. Knappheit) oder eine schlechte Platzierung der Parkplätze (Mor et al., 2020). All dies erschwert den Warenverkehr in den Stadtzentren, was sich negativ auf den Fahrzeugverkehr und den öffentlichen Verkehr auswirkt, indem es beispielsweise zu Staus führt. In europäischen Städten (insbesondere in Frankreich) wird ein erheblicher Anteil an doppelt geparkten Lieferwagen (Lieferwagen, die auf der Straße parallel zu geparkten Autos geparkt sind) beobachtet. Ein solches Verhalten führt zu Staus, Umweltverschmutzung und Konflikten zwischen den Verkehrsteilnehmer:innen. In diesem Zusammenhang wurden spezielle Bereiche, so genannte "Lieferzonen", eingerichtet, um die Arbeit der Lieferfahrer:innen zu verbessern und Staus zu verringern. Dennoch parken die Lieferfahrer:innen weiterhin in zweiter Reihe, da die Lieferzonen regelmäßig von unbefugten Fahrzeugen (Einzelwagen) belegt werden (Patier et al., 2014).
+
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Fahrer:innen von Lieferwagen in städtischen Gebieten, Autofahrer:innen, Straßen- und/oder Gehwegbenutzer:innen in Städten, Empfänger von Paketen/Waren
+- **Verantwortliche**: Nationale Regierungen, lokale Regierungen, Verkehrsbehörden, Lieferunternehmen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Mehrere Arbeiten befassen sich mit dem Problem der Dimensionierung und Lokalisierung von L/U-Zonen in einem städtischen Umfeld. Muñuzuri et al. (2017) stellen mehrere alternative Ansätze zur Schätzung des Bedarfs an Ladezonen vor. Pinto et al. (2019) schlagen vor, die Anzahl und den Standort von L/U-Bereichen anhand eines "Deckungsprinzips" zu bestimmen, das auf der längsten Entfernung basiert, die ein Zusteller bereit ist, zu Fuß zurückzulegen, und die Anzahl der Stellplätze in jedem Bereich auf der Grundlage der Nachfrage festzulegen. Die Auswirkungen der Verfügbarkeit von Parkplätzen auf die Kosten und den Betrieb von Nutzfahrzeugen werden in (Dezi et al., 2010) untersucht.<br/><br/>
+Mor et al. (2020) kommen zu dem Schluss, dass es unwahrscheinlich ist, dass das Doppelparken in städtischen Gebieten verschwindet, es sei denn, es werden mehr spezielle L/U-Parkplätze zu Spitzenzeiten zur Verfügung gestellt. Der Mangel an verfügbaren Parkplätzen für Nutzfahrzeuge wiederum wird nicht nur durch eine unterdimensionierte Infrastruktur verursacht, sondern oft auch durch den Missbrauch reservierter Plätze durch Privatfahrzeuge (Aiura & Taniguchi, 2005; Pinto et al., 2019).<br/><br/>
+In Nourinejad et al. (2014) wird eine Parkplatzwahlsimulation für die Untersuchung von LKW-Parkstrategien vorgestellt, die verschiedene Dimensionen der Parkaktivität wie Fußweg, Stauauswirkungen und Parkplatzsuchzeiten erfasst. Zur Validierung des Modells werden zwei Szenarien auf der Grundlage des Gebiets von Toronto vorgestellt. Die Frage der Preisgestaltung für L/U-Parkplätze wurde in der Literatur ebenfalls behandelt. Ein auktionsbasierter Ansatz für die Zuweisung von Zeitfenstern in einem einzigen Gebiet mit mehreren Parkplätzen wird in Betracht gezogen, um die Leistung eines Bewirtschaftungssystems zu optimieren und gleichzeitig eine faire Zuweisung von L/U-Zonen zu gewährleisten (Nourinejad et al., 2014). Bei der Suche nach der bestmöglichen Zuteilung werden die Zeitpräferenzen und die Servicedauer der Buchungsanfragen berücksichtigt.<br/><br/>
+Als Nächstes wird ein Größenproblem unter Berücksichtigung des L/U-Bereichsmanagements betrachtet. Für dieses Problem wird ein zweiphasiger Algorithmus vorgeschlagen (Letnik et al., 2018). In der ersten Phase wird die Lage der L/U-Bereiche basierend auf der Lage der Warenempfänger optimiert. In der zweiten Phase optimiert der Algorithmus die Lieferungen von außerhalb der Stadt zu den L/U-Gebieten. Die L/U-Bereiche werden den Fahrzeugen zugewiesen, und wenn keine verfügbar sind, werden die Fahrzeuge in eine Warteschlange gestellt. Die Vorteile eines Buchungssystems für L/U-Bereiche werden für den Fall der Winchester High Street bewertet (McLeod & Cherrett, 2011). Es wird davon ausgegangen, dass jedes Fahrzeug von einem der acht möglichen Einstiegspunkte ankommt und in einem L/U-Bereich hält, mit der Möglichkeit, in einen anderen Bereich umzusteigen, wenn der gewünschte Bereich nicht verfügbar ist. Es wird auch ein Kontrollsystem vorgestellt, mit dem betriebliche Probleme wie zu früh oder zu spät eintreffende Fahrzeuge gelöst werden können.<br/><br/>
+Die Verwaltung von L/U-Bereichen durch ein Buchungssystem würde die Einbeziehung aller Beteiligten (Kund:innen, Händler, Stadtverwaltung, Verkehrspolizei) und deren Einverständnis voraussetzen, dass es im Interesse aller liegt, dass das System gut funktioniert, da es weniger Unannehmlichkeiten sowohl in Bezug auf Lieferverzögerungen als auch auf den Verkehrsfluss mit sich bringt. In der Anfangsphase der Umsetzung müsste die Verkehrspolizei das neue System überwachen und jeden Händler, der mit einem nicht zugelassenen Fahrzeug oder ohne Zulassung kommt, über die neuen Regeln für die Nutzung der L/U-Zonen aufklären. Informationen für die Beteiligten könnten über das Internet (und möglicherweise in einigen Besprechungen) zur Verfügung gestellt werden, um einige Statistiken über die Annahme des Systems, die Belegung der Lieferpositionen über die Tageszeiten und Wochentage hinweg auszutauschen und die Probleme, die jede Kategorie bei der Nutzung des Systems hat, zu überprüfen und Abhilfemaßnahmen zu untersuchen (Mor et al., 2020).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+In verschiedenen Städten auf der ganzen Welt werden Anstrengungen unternommen, um ein Managementsystem für L/U-Flächen einzuführen. Im Rahmen des DUM (Distribución Urbana de Mercancías) in Barcelona werden die Händler beispielsweise aufgefordert, sich bei jedem L/U-Betrieb per SMS oder App in einem Smartphone ein- und auszuchecken, aber im September 2020 konnte noch keine Reservierung vorgenommen werden (Mor et al., 2020). Unternehmen wie *Smart Parking Systems*, *Coord*, *ParkUnload* und *Cleverciti* bieten Lösungen für die Buchung von Lieferzonen an. Es werden jedoch immer noch viele verschiedene Begriffe verwendet, wie "Bordsteinmanagement", "intelligente Ladezonen" oder "digitale Ladezonen".<br/><br/>
+Im Jahr 2010 wurde Treviso mit dem Titel "First European Smart City" ausgezeichnet. Dank der Smart-Parking-Anwendungen konnte die Stadt ihre Einnahmen aus den gebührenpflichtigen städtischen Parkplätzen erheblich steigern, die wirtschaftliche Verfügbarkeit verbessern und den Verkehr und die Umweltverschmutzung im historischen Zentrum reduzieren. Die Parkraumbewirtschaftung in der Stadtverwaltung von Treviso war bereits 2009 in einer ausgezeichneten Situation und wurde von einer äußerst aufmerksamen Mobilitätsabteilung überwacht und betreut. Das eigentliche Problem der Gemeinde war also nicht der wirtschaftliche Aspekt, sondern vor allem das hohe Verkehrsaufkommen und die knappe Verfügbarkeit von Parkplätzen in einigen Bereichen der Stadt. Aus diesem Grund wurde es als sinnvoll erachtet, die städtische Mobilität im Zusammenhang mit dem Parken durch den Einsatz von Smart-Parking-Technologie zu beeinflussen. Seit 2010 hat Treviso daher gemeinsam mit Intercomp diesen technologischen Weg eingeschlagen und Smart Parking Systems® im historischen Zentrum installiert, mit dem langfristigen Ziel, die Mobilität, die Luftqualität und den Service für die Bürger:innen zu verbessern (Smart Parking Systems®, ohne Datum).<br/><br/>
+Im September 2020 startete die Stadt Omaha (USA) ihr Smart Zone Pilotprojekt mit *Coord* in fünf Smart Zones. Insgesamt ist die Einführung gut verlaufen, auch wenn die Stadt und die Fuhrparks noch lernen müssen, wie sie Informationen verbreiten können. Die Fuhrparks haben das Konzept gut angenommen, insbesondere weil sie für die Nutzung der Smart Zones nicht bezahlen müssen. Es wird erwartet, dass die Stadt eine Gebühr einführen wird, sobald mehr Daten gesammelt wurden und das Konzept sich stärker etabliert hat (Brown, 2020).
+
+### Relevante Initiativen in Österreich {-}
+In Wien wurden im Rahmen eines Projekts mehr als 2600 Ladezonen mittels Geodaten erfasst und verortet. Diese Daten sind nun über die App *Ladezonen in Wien* verfügbar. Eine Buchung oder Abfrage der aktuellen Auslastung ist noch nicht möglich. Das Projekt *i-Ladezone* wurde erstmals 2010 von der FFG Österreich erwähnt. Im Jahr 2012 wurde das Projekt *i-Ladezone - Intelligent Loading Zone Routing and Management* erneut erwähnt, allerdings nur um die illegale Belegung von Ladezonen zu erkennen und zu erfassen (Stocker, 2012). Im Jahr 2016 wurde das Projekt *Urban Loading* beim VCÖ-Mobilitätspreis eingereicht. Aus technischer Sicht wurden Reservierung/Buchung, Information der Verkehrsteilnehmer:innen und Kontrolle/Enforcement berücksichtigt (VCÖ, 2016). Es wurden keine weiteren Informationen über dieses Projekt gefunden.
+
+- [ots.at](https://www.ots.at/presseaussendung/OTS_20150123_OTS0044/simple-stressfreie-ladezonensuche-wk-wien-praesentiert-neue-app) 
+- [wko.at-1](https://www.wko.at/service/verkehr-betriebsstandort/Ladezonen-Nutzung.html) 
+- [wko.at-2](https://www.wko.at/service/w/verkehr-betriebsstandort/ladezone-wien-app.html) 
+- [oeamtc.at](https://www2.ffg.at/verkehr/projekte.php?id=805&lang=de&browse=programm) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table82, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Staus, Umweltverschmutzung und Konflikte zwischen Verkehrsteilnehmer:innenn koennen verringert werden|**+**|Gesundheit und Wohlbefinden (*3*)|Patier et al., 2014; Alho et al., 2018; Mor et al., 2020|
+|Systemisch|Digitalisierte Loesung fuer Belegung und Verfuegbarkeitsstatus|**+**|Innovation und Infrastruktur (*9*)|Smart Parking Systems, n.d.|
+|Systemisch|L/U-Buchungssysteme erfordern das Engagement aller Beteiligten|          **+**|Partnerschaften und Kooperationen (*17*)|Mor et al., 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table83, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|5-8|')
+```
+
+### Offene Fragen {-}
+1. Wie kann die Informationsverbreitung verbessert und die Einbeziehung aller Beteiligten in die Entwicklung eines effizienten L/U-Buchungssystems ermöglicht werden?
+2. Welche Lösungen gibt es für die Durchsetzung der Rechtsvorschriften jenseits von Verkehrsbeamten?
+
+### Weitere links {-}
+
+- [areaverda.cat](https://www.areaverda.cat/index.php/es)
+- [smartparkingsystems.com](https://smartparkingsystems.com/en/loading-parking-bay-management/)
+- [smartloadingzone.com](https://www.smartloadingzone.com/en_us/)
+- [coord.com](https://www.coord.com/blog/comparing-loading-zones)
+
+### Referenzen {-}
+-	Aiura, N., & Taniguchi, E. (2005). PLANNING ON-STREET LOADING-UNLOADING SPACES CONSIDERING THE BEHAVIOUR OF PICKUP-DELIVERY VEHICLES. Journal of the Eastern Asia Society for Transportation Studies, 6, 2963–2974. https://doi.org/10.11175/easts.6.2963
+-	Alho, A. R., de Abreu e Silva, J., de Sousa, J. P., & Blanco, E. (2018). Improving mobility by optimizing the number, location and usage of loading/unloading bays for urban freight vehicles. Transportation Research Part D: Transport and Environment, 61, 3–18. https://doi.org/10.1016/j.trd.2017.05.014
+-	Brown, C. (2020, October 13). Should Delivery Fleets Pay to Park in Loading Zones? - Smart Cities - Fleet Forward. https://www.fleetforward.com/10127896/should-delivery-fleets-pay-to-park-in-loading-zones
+-	Dezi, G., Dondi, G., & Sangiorgi, C. (2010). Urban freight transport in Bologna: Planning commercial vehicle loading/unloading zones. Procedia - Social and Behavioral Sciences, 2(3), 5990–6001. https://doi.org/10.1016/j.sbspro.2010.04.013
+-	Letnik, T., Farina, A., Mencinger, M., Lupi, M., & Božičnik, S. (2018). Dynamic management of loading bays for energy efficient urban freight deliveries. Energy, 159, 916–928. https://doi.org/10.1016/j.energy.2018.06.125
+-	McLeod, F., & Cherrett, T. (2011). Loading bay booking and control for urban freight. International Journal of Logistics Research and Applications, 14(6), 385–397. https://doi.org/10.1080/13675567.2011.641525
+-	Mor, A., Speranza, M. G., & Viegas, J. M. (2020). Efficient loading and unloading operations via a booking system. Transportation Research Part E: Logistics and Transportation Review, 141, 102040. https://doi.org/10.1016/j.tre.2020.102040
+-	Muñuzuri, J., Cuberos, M., Abaurrea, F., & Escudero, A. (2017). Improving the design of urban loading zone systems. Journal of Transport Geography, 59, 1–13. https://doi.org/10.1016/j.jtrangeo.2017.01.004
+-	Nourinejad, M., Wenneman, A., Habib, K. N., & Roorda, M. J. (2014). Truck parking in urban areas: Application of choice modelling within traffic microsimulation. Transportation Research Part A: Policy and Practice, 64, 54–64. https://doi.org/10.1016/j.tra.2014.03.006
+-	Patier, D., David, B., Chalon, R., & Deslandres, V. (2014). A New Concept for Urban Logistics Delivery Area Booking. Procedia - Social and Behavioral Sciences, 125, 99–110. https://doi.org/10.1016/j.sbspro.2014.01.1459
+-	Pinto, R., Lagorio, A., & Golini, R. (2019). The location and sizing of urban freight loading/unloading lay-by areas. International Journal of Production Research, 57(1), 83–99. https://doi.org/10.1080/00207543.2018.1461269
+-	Smart Parking Systems®. (n.d.). The economic benefits of Smart Parking Systems® > Smart Parking Systems - Intercomp Innovation. Available at: https://smartparkingsystems.com/en/the-economic-benefits-of-smart-parking-systems/ [Accessed: 21 March 2021]
+-	Stocker, G. (2012, November). Snizek+Partner Verkehrsplanungs GmbH - iLadezone - Intelligentes Ladezonenrouting und Management. https://www.snizek.at/go/de/projects/simulationen/94-iladezonen-intelligentes-ladezonenrouting-und-management
+-	VCÖ. (2016). Urban Loading - VCÖ Vorbildhafte Mobilitätsprojekte. https://mobilitaetsprojekte.vcoe.at/urban-loading
+
+
+
+## Lieferdrohnen {#delivery_drone}
+
+### Synonyme {-}
+*urbane Luftmobilität (UAM - urban air mobility), vertikales Starten und Landen (VTOL - vertical take-off and landing), unbemannte Luftfahrzeuge (UAVs - unmanned aerial vehicles), unbemanntes Verkehrsmanagement (UTM Unmanned Traffic Management)/U-Space*
+
+### Definition {-}
+In den letzten Jahren sind das Online-Shopping und die Nachfrage nach Lieferungen am selben Tag exponentiell gestiegen, da immer mehr Menschen den Online-Einkauf dem stationären Kauf vorziehen (Di Puglia Pugliese et al., 2020). Gleichzeitig ist die letzte Meile der teuerste Prozess in der Distributionslogistik, der zwischen 13 % und 73 % der gesamten Distributionskosten ausmacht. Infolgedessen steigt der Druck auf effizientere Lösungen in diesem Bereich. Die Antwort auf dieses Problem könnten Drohnen oder unbemannte Luftfahrzeuge (UAVs) sein. Drohnen vereinen drei Schlüsselprinzipien der technologischen Moderne: Datenverarbeitung, Autonomie und grenzenlose Mobilität. Fähigkeiten, die bisher nur vom Militär genutzt werden konnten, werden für einen Großteil der Bevölkerung zugänglich. Die Einsatzmöglichkeiten von Drohnen reichen von Überwachungs- und Aufklärungsmissionen bis hin zu neuartigen Formen der Logistik und des Personentransports. Die kommerzielle Nutzung von Drohnen ist mit enormen wirtschaftlichen Chancen verbunden. Auch wenn Drohnen als Überwachungs- und Aufklärungsgeräte bei Sicherheitsdiensten, in der Geodäsie oder in der Landwirtschaft bereits weit verbreitet sind, steht ihr Einsatz als Transportmittel noch am Anfang. Lieferdrohnen sind derzeit in der Lage, Gewichte von bis zu 2-3 kg zu heben und Flugaufgaben im urbanen Raum zu erfüllen (Kellermann et al., 2020).<br/>
+Die Europäische Kommission schätzt die wirtschaftlichen Auswirkungen des breiteren Einsatzes von Drohnen bis 2035 auf 10 Milliarden Euro jährlich und rechnet mit der Schaffung von mehr als 100 000 direkten Arbeitsplätzen. Unter Berücksichtigung der indirekten makroökonomischen Auswirkungen in den mit Drohnen verbundenen Branchen rechnet die Kommission sogar mit 250.000 bis 400.000 zusätzlichen Arbeitsplätzen (SESAR, 2016).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Mobile Bürger:innen, Lieferfirmen und LKW-Fahrer:innen, Kund:innen von Online-Shops
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, private Unternehmen, Online-Shops
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Aktuelle Forschungen zeigen, dass Drohnen Lärm, Staus und CO~2~-Emissionen in städtischen Gebieten reduzieren können. Mehrere Studien haben gezeigt, dass der Einsatz Drohnen in Logistikprozessen die Vorlaufzeit (definiert als die Latenzzeit zwischen dem Beginn und dem Abschluss des Prozesses), die Zeitspanne und die Transportkosten des Lieferprozesses reduzieren kann (Di Puglia Pugliese et al., 2020; Wang et al., 2017; Di Puglia Pugliese & Guerriero, 2017). Wichtig ist jedoch auch, dass Drohnen eine geringere Kapazität und Arbeitszeit (geringe Flugdauer) haben als klassische Fahrzeuge. Neben all den Vorteilen, die Drohnen bringen können, gibt es auch einige potenzielle Nachteile, die mit einem verstärkten Einsatz von Drohnen verbunden sind. Dazu gehören unter anderem Sicherheitsfragen, Kollisionen in der Luft, Abstürze, Fehlfunktionen von Software- und Hardwarekomponenten, Missbrauch von Drohnen für kriminelle Zwecke, Gefahren für die Tierwelt und Verletzungen der Privatsphäre (Kellermann et al., 2020). Eine Medienanalyse zum Thema Drohnen für den Paket- und Personentransport fand folgende thematische Schwerpunkte in relevanter Literatur (siehe Tabelle unten, Kellermann et al., (2020)): 
+
+```{r table29, echo=FALSE, results='asis', fig.cap="Adapted from Kellermann, Biehle and Fischer, 2020"}
+cat('| Themen| Prozentsatz|Anzahl der Studien|
+|:------------:|:-----------:|:------------:|
+|Allgemeine Erhebungen  |   18.9%  |  21   |
+|Logistik (allgemein)  |  18.0%   |  20   |
+|Einstellungs- und Akzeptanzforschung    | 13.5%    |  15   |
+|Recht und Vorschriften    | 11.7%    |   13  |
+|Ethik und Technologiebewertung    | 10.8%    |  12   |
+|Bewertung der Nachhaltigkeit    | 8.1%    |  9   |
+|Stadt- und Verkehrsplanung    |  7.2%   |  8   |
+|Politische Agenda/Strategien    |  6.3%   |   7  |
+|Personenbefoerderung   |  2.7%   |  3   |
+|Humanitaere Logistik    |2.7%     |   3  |') 
+```
+
+Die Untersuchung schlägt zwei Ansätze für die Einbeziehung von Drohnen in den Lieferprozess vor, entweder als alleinige Lieferoption oder als Unterstützungssystem für LKW. Die Berechnungsergebnisse zeigen einen Nachteil des ausschließlichen Einsatzes von Drohnen im Zustellprozess gegenüber der Kombinationsvariante. Insgesamt ist das Fahrzeug-Routing, das eine Kombination aus LKW und Drohnen verwendet, das Transportsystem, das den besten Kompromiss zwischen Transportkosten, CO~2~-Emissionen und Staus bietet (Di Puglia Pugliese et al., 2020). Mit zwei Drohnen pro Liefertransporter kann beispielsweise die Lieferzeit im besten Fall um 75 % reduziert werden (Wang et al., 2017). <br/> 
+
+In der aktuellen Forschung wird auch das Potenzial von Drohnen für Lebensmittellieferdienste aufgrund von COVID-19 untersucht (Kim et al., 2021). Eine Studie zur wahlmodellbasierten Analyse der Verbraucherpräferenz für einen Drohnenlieferdienst kommt zu folgendem Schluss (Kim, 2020):
+
+- Der Drohnenlieferdienst konkurriert mit dem LKW-Lieferdienst für Kleidung und Medikamente und mit dem Motorradlieferdienst für dringende Dokumente.
+- Die Präferenzen potenzieller Kund:innen für den Drohnenlieferdienst hängen vom Preis und der Art der Waren ab.
+- Bei teuren Gütern sind die Verbraucher:innen besorgt über die Zuverlässigkeit des Drohnenlieferdienstes.
+- Bei allen Modellen ist zu beobachten, dass junge Menschen sich eher für den Drohnenlieferdienst entscheiden als ältere Menschen.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Mehrere große Unternehmen wie *Amazon* (Amazon.com, 2021), *DHL* (Di Puglia Pugliese et al., 2020), *UBER* , *Wing* (Bonnington, 2012), *UPS* (UPS, 2021) und einige mehr haben begonnen, Lieferdrohnen für die Paketzustellung einzusetzen. Regierungen und Experten befürchten jedoch den Missbrauch von Drohnen. Insbesondere, nachdem sich ihre Bedenken durch den Vorfall am Londoner Flughafen bewahrheitet haben (Keane, 2018). Um sich vor Missbrauch zu schützen, wird international an einer digitalen Remote-ID gearbeitet, damit die Drohnenbetreiber immer der Drohne zugeordnet werden können (Boyle, 2020). <br/> <br/>
+In den USA hat die Federal Aviation Administration (FAA) Drohnenflüge erlaubt, solange sich die Drohne in der Sichtlinie des Betreibers befindet. Die Unternehmen arbeiten jedoch an der Entwicklung von Drohnen, die ohne diese Anforderung fliegen können (Fox Rubin, 2019). Außerdem führt UPS bereits Drohnenlieferungen zwischen dem Hauptkrankenhauscampus von WakeMed in Raleigh, North Carolina, und dem benachbarten Laborzentrum durch, um Laborproben hin und her zu schicken. Das Unternehmen plant auch Flüge zwischen Krankenhäusern, um einen leichteren Zugang zu lebensrettenden Medikamenten wie Gegengiften zu ermöglichen (Fox Rubin, 2019). Die Tatsache, dass sich die ersten Drohnenexperimente auf Business-to-Business-Lieferungen im Gesundheitswesen konzentriert haben, ist kein Zufall. Erstens sind in diesem Bereich Finanzmittel vorhanden, und zweitens kann die Geschwindigkeit der Drohnen in diesem Bereich erhebliche Vorteile bringen (Marshall, 2020).<br/> <br/>
+Amazon kündigte bereits 2013 an, dass es innerhalb von Jahren mit der Auslieferung mit Drohnen beginnen würde, und 2019 kündigte es neben der Enthüllung seiner neuen Drohne an, dass es "innerhalb von Monaten" mit der Drohnenlieferung beginnen würde (Kolodny & Feiner, 2019). Dennoch wird derzeit behauptet, dass es trotz all der Testflüge und Ankündigungen noch mehrere Jahre dauern wird, bis eine Drohne ausliefern kann (Marshall, 2020).
+
+### Relevante Initiativen in Österreich {-}
+Eines der europäischen Amazon-Drohnenentwicklungszentren ist in Österreich angesiedelt (Marshall, 2020). Außerdem trat am 31. Dezember 2020 in der EU ein neues Drohnengesetz in Kraft, um die Vorschriften zu vereinheitlichen. Dieses schreibt eine CE-Kennzeichnung auf der Drohne und eine Drohnenlizenz für Drohnen mit einem Gewicht von 250 g oder mehr vor.
+
+- [www.oesterreich.gv.at-1](https://www.oesterreich.gv.at/themen/dokumente_und_recht/Drohnen.html) 
+- [www.oesterreich.gv.at-2](https://www.oesterreich.gv.at/themen/dokumente_und_recht/Drohnen/Drohnenfuehrerschein.html) 
+- [www.oesterreich.gv.at-3](https://www.oesterreich.gv.at/themen/dokumente_und_recht/Drohnen/EU-Regelungen-f%C3%BCr-Drohnen-im-%C3%9Cberblick.html) 
+- [oeamtc.at](https://www.oeamtc.at/thema/drohnen/drohnen-info-app-26853120) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table30, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Schnellere Bereitstellung von zeitkritischen Waren (z. B. Arzneimittel)|**+**|Gesundheit und Wohlbefinden (*3*)|Fox Rubin, 2019|
+|Individuell|Drohnenlieferungen ohne zusaetzliche Kosten|          **+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Amazon.com, 2021|
+|Individuell|Neue Lieferoptionen verfuegbar|          **+**|Innovation und Infrastruktur (*9*)|Kim, 2020; Amazon.com, 2021|
+|Systemisch|Moegliche Unfaelle und Missbrauch wird erwartet|**-**|Gesundheit und Wohlbefinden (*3*)|Keane, 2018|
+|Systemisch|Verkuerzte Zeit fuer die Abwicklung von Logistikprozessen|          **+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Wang et al., 2017|
+|Systemisch|EU-weit einheitliche Drohnengesetze  |          **+**|Partnerschaften und Kooperationen (*17*)|EASA, 2021|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table31, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|5-8|3-5|')
+```
+
+### Offene Fragen {-}
+1. Werden private Unternehmen zusammenarbeiten und ihre Technologien gemeinsam nutzen?
+2. Welche weiteren Anwendungsbereiche wird es geben?
+3. Welches sind die thematischen Entwicklungsschwerpunkte der nächsten Jahre?
+4. Werden Frachtdrohnen automatisch mit anderen Drohnen wie Überwachungs-, Geodäsie- und Landwirtschaftsdrohnen kommunizieren?
+
+### Weitere links {-}
+
+- [easa.europa.eu](https://www.easa.europa.eu/sites/default/files/dfu/Easy%20Access%20Rules%20for%20Unmanned%20Aircraft%20Systems%20(Regulations%20(EU)%202019-947%20and%20(EU)%202019-945).pdf) 
+
+### Referenzen {-}
+- Amazon.com: Prime Air. (n.d.). Available at: https://www.amazon.com/Amazon-Prime-Air/b?ie=UTF8&node=8037720011 [Accessed: 27 January 2021]
+-	Bonnington, C. (2012, March 23). Tacocopter: The Coolest Airborne Taco Delivery System That’s Completely Fake | WIRED. https://www.wired.com/2012/03/qa-with-tacocopter/
+-	Boyle, A. (2020, May 6). Amazon and T-Mobile will take part in FAA’s Remote ID program for drones - GeekWire. https://www.geekwire.com/2020/amazon-t-mobile-will-take-part-faas-remote-id-drone-monitoring-program/
+-	Di Puglia Pugliese, L., & Guerriero, F. (2017). Last-Mile Deliveries by Using Drones and Classical Vehicles. In A. Sforza & C. Sterle (Eds.), Optimization and Decision Science: Methodologies and Applications (pp. 557–565). Springer International Publishing.
+-	Di Puglia Pugliese, L., Guerriero, F., & Macrina, G. (2020). Using drones for parcels delivery process. Procedia Manufacturing, 42, 488–497. https://doi.org/10.1016/j.promfg.2020.02.043
+- EASA (2021). Easy Access Rules for Unmanned Aircraft Systems (Regulations (EU) 2019/947 and (EU) 2019/945) Available at: https://www.easa.europa.eu/sites/default/files/dfu/Easy%20Access%20Rules%20for%20Unmanned%20Aircraft%20Systems%20(Regulations%20(EU)%202019-947%20and%20(EU)%202019-945).pdf. (Accessed: 08 February 2021)
+-	Fox Rubin, B. (2019). UPS drone delivers medicine from CVS straight to customers’ homes. https://www.cnet.com/news/ups-drone-deliver-medicine-from-cvs-straight-to-customers-homes/
+-	Keane, S. (2018). London’s Gatwick Airport closes again after drones force 33-hour shutdown. https://www.cnet.com/news/airport-suspends-all-flights-after-drones-get-too-close-to-airfield/
+-	Kellermann, R., Biehle, T., & Fischer, L. (2020). Drones for parcel and passenger transportation: A literature review. Transportation Research Interdisciplinary Perspectives, 4, 100088. https://doi.org/10.1016/j.trip.2019.100088
+-	Kim, J. J., Kim, I., & Hwang, J. (2021). A change of perceived innovativeness for contactless food delivery services using drones after the outbreak of COVID-19. International Journal of Hospitality Management, 93(June 2020), 102758. https://doi.org/10.1016/j.ijhm.2020.102758
+-	Kim, S. H. (2020). Choice model based analysis of consumer preference for drone delivery service. Journal of Air Transport Management, 84(September 2019), 101785. https://doi.org/10.1016/j.jairtraman.2020.101785
+-	Kolodny, L., & Feiner, L. (2019, June 5). Amazon debuts its new delivery drone. https://www.cnbc.com/2019/06/05/amazon-debuts-its-new-delivery-drone.html
+-	Marshall, A. (2020, May 8). No, Amazon Won’t Deliver You a Burrito by Drone Anytime Soon | WIRED. https://www.wired.com/story/amazon-wont-deliver-burrito-drone-soon/
+-	SESAR. (2016). European Drones Outlook Study. In Single European Sky ATM Research (Issue November). https://doi.org/10.2829/219851
+-	UPS. (n.d.). UPS Drone Delivery Service | UPS - United States. Available at: https://www.ups.com/us/en/services/shipping-services/flight-forward-drones.page [Accessed: 4 February 2021]
+-	Wang, X., Poikonen, S., & Golden, B. (2017). The vehicle routing problem with drones: several worst-case results. Optimization Letters, 11(4), 679–697. https://doi.org/10.1007/s11590-016-1035-3
+
+
+## Elektrofahrzeug-Lieferflotten {#electric_delivery_fleets}
+
+### Synonyme {-}
+*Elektrisches Nutzfahrzeug (ECV - Electric commercial vehicle)*
+
+### Definition {-}
+Die meisten der derzeitigen konventionellen Verkehrsmittel sind in hohem Maße von fossilen Brennstoffen abhängig, was zu einem Anstieg der Treibhausgasemissionen führt. Obwohl es umweltfreundliche Verkehrsalternativen gibt, ist ihre Zahl immer noch begrenzt, insbesondere in Entwicklungsländern. Daher müssen die Regierungen, Behörden und Organisationen Vorkehrungen treffen, um die Verwendung dieser Kraftstoffe zu reduzieren oder die Emissionen zu begrenzen. Im Jahr 2011 veröffentlichte die Europäische Kommission einen Gesetzesentwurf zum Thema Verkehr, in dem sie ihre Ziele für ein wettbewerbsfähiges und effizientes Energiesystem definiert, indem sie bis 2030 einen emissionsfreien städtischen Güterverkehr anstrebt. Demnach ist es das Ziel der Europäischen Kommission, den Einsatz konventionell angetriebener Fahrzeuge im städtischen Güterverkehr mittelfristig zu halbieren und bis 2030 auslaufen zu lassen. Die Einführung von E-Fahrzeugen in kommerziellen Flotten ist wichtig, da der Straßenverkehr den größten Anteil am gesamten inländischen Güterverkehr ausmacht, während E-Fahrzeuge derzeit hauptsächlich in Mitfahrzentralen und im öffentlichen Verkehr eingesetzt werden (Bac & Erdem, 2021). <br/>
+
+Ab November 2020 wird jeder zehnte in Europa verkaufte Neuwagen ein reines Elektro- oder Plug-in-Hybridfahrzeug sein, um den Meilenstein von einer Million verkaufter Elektrofahrzeuge zu erreichen. Dies ist ein entscheidender Wendepunkt auf dem Weg zur Erreichung von 30-40 % EV-Verkaufsvolumen bis 2030, wodurch Europas Kohlenstoffreduktionsziele in Reichweite rücken. Die Vorteile für die Umwelt sind der größte Gewinn. <br/>
+
+In zwanzig ausführlichen Interviews mit Führungskräften aus einer Vielzahl von Branchen wurde ein überwältigender Optimismus in Bezug auf die Elektrifizierung ihrer Flotte festgestellt. Ein Energieversorgungsunternehmen plant beispielsweise, seine gesamte gewerbliche Flotte von 10.000 Fahrzeugen bis 2026 zu elektrifizieren. Ein Batteriehersteller tätigt erhebliche Investitionen, um eine Produktionsstätte für kohlenstoffarme Lithium-Ionen-Batterien in Europa zu errichten. Darüber hinaus verfolgen die Stromnetzbetreiber das Ziel, durch den Einsatz intelligenter Lade- und Vehicle-to-Grid-Technologien einen Mehrwert für die Elektrifizierung des Massenverkehrs zu schaffen (Colle et al., 2020).<br/>
+
+Allerdings gibt es viele Faktoren wie die begrenzte Reichweite dieser Fahrzeuge, lange Ladezeiten und die geringe Verfügbarkeit von Ladestationen (weitere Details zu [electric charging stations](#charging_station)) die die Vorteile von E-Fahrzeugen in der industriellen und gewerblichen Logistik schmälern. Eine effektive Planung der Routen und Ladezeiten von E-Fahrzeugen ist für die Zukunft des Logistiksektors von entscheidender Bedeutung (Bac & Erdem, 2021).
+
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Berufskraftfahrer:innen, Frachtindustrie
+- **Verantwortliche**: Internationale, nationale und lokale Behörden, öffentliche und private Verkehrsunternehmen, Automobilhersteller
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Neuere Studien zu ECVs lassen sich in zwei Ströme unterteilen, die sich auf *(i)* aggregierte Kostenanalysen mit TCO-Berechnungen zur Untersuchung der Wettbewerbsfähigkeit von ECVs und *(ii)* Modelle zur Entscheidungsunterstützung sowohl für die integrierte Netzgestaltung als auch für den Flottenbetrieb auf der Grundlage von Location-Routing-Problemen (LRP) und Vehicle-Routing-Problemen (VRP) konzentrieren (Schiffer et al., 2021).
+
+- Aggregierte Kostenanalysen
+
+Um die Wettbewerbsfähigkeit von ECVs zu bewerten, werden häufig aggregierte TCO-Berechnungen durchgeführt, um die Lebenszykluskosten von ECVs und ICEVs zu vergleichen. Die Analysen von Davis & Figliozzi (2013), Lee et al. (2013) und Taefi et al. (2017) kommen zu dem Schluss, dass ECVs mit zunehmender Fahrleistung wettbewerbsfähiger werden. Darüber hinaus erhöhen Merkmale bestimmter Fahrmuster wie häufige Stopps, Staus, Motorleerlauf und niedrige Geschwindigkeit die Wettbewerbsfähigkeit von ECVs (Schiffer et al., 2021).
+
+- Fahrzeugrouting und Probleme bei der Standortwahl
+
+Die Hauptprobleme, mit denen die Flotten konfrontiert sind, sind die Optimierung des Ladeplans für Elektrofahrzeuge und das Routingproblem. Für diese Probleme wird ein Routingproblem für Elektrofahrzeuge mit Zeitfenstern (EVRPTW) vorgeschlagen, das eine Erweiterung des bekannten Fahrzeug-Routingproblems (VRP) ist (Bac & Erdem, 2021). Ein weiteres Problem im Zusammenhang mit Elektrofahrzeugen ist die Wahl des Standorts von Ladestationen. In der Literatur gibt es eine Reihe von Studien, die verschiedene Ansätze wie multikriterielle Entscheidungsmodelle (Feng et al., 2021; Wang et al., 2020) oder Anwendungen genetischer Algorithmen (GA) vorschlagen (Pan et al., 2020). Darüber hinaus untersuchten Sachan et al. (2020) in diesem Zusammenhang verschiedene Ladeinfrastrukturen, die in traditionelle Ladeinfrastrukturen, Schnellladestationen und Batteriewechselstationen unterteilt wurden.<br/>
+
+Die Optimierung des Ladens von Elektrofahrzeugen zur Minimierung der marginalen THG-Emissionen bei der Stromerzeugung wird ebenfalls untersucht (Tu et al., 2020). Ein hoher Verbreitungsgrad von Elektrofahrzeugen und das nächtliche Aufladen können potenziell zu periodischen Engpässen bei der Stromnachfrage (Shaukat et al., 2018) und hohen Grenzemissionen bei der Stromerzeugung führen. Eine optimale räumlich-zeitliche Verteilung der EV-Ladeaktivitäten sollte ein umweltfreundlicheres Laden ermöglichen. Der optimale Ladeplan kann mit Hilfe eines intelligenten Netzes und der Fahrzeug-zu-Netz-Kommunikation weiter verbessert werden.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+In Europa verteilen sich etwa 75 % der Flottenfahrzeuge auf sieben Schlüsselindustrien (Colle et al., 2020):
+
+- Großhandel und Einzelhandel
+- Öffentliche Verwaltung und Verteidigung
+- Verarbeitendes Gewerbe
+- Baugewerbe
+- Verkehr einschließlich Taxis, Busse und Reisebusse
+- Logistik
+- Fahrzeugvermietung und -leasing
+
+Mit derzeit 63 Millionen Fahrzeugen macht der Fuhrpark (gewerblich genutzte Fahrzeuge) 20 % aller Fahrzeuge in Europa aus. Flottenfahrzeuge legen mehr als 40 % der gesamten Fahrzeugkilometer in Europa zurück und sind für die Hälfte der Gesamtemissionen des Straßenverkehrs verantwortlich. Sechs von zehn in Europa verkauften Autos sind Firmenwagen, und im Jahr 2019 waren 96 % der neu zugelassenen Firmenwagen Benzin- oder Dieselfahrzeuge. Firmenwagen legen im Durchschnitt 2,25 Mal mehr Kilometer zurück als Privatfahrzeuge und tragen damit überproportional zu den Emissionen bei. Es wird prognostiziert, dass die gesamte elektrifizierte Flotte bis 2030 um das 24-fache ansteigen wird. Nationale und lokale staatliche Anreize, die Möglichkeit, Rabatte bei Fahrzeugverträgen auszuhandeln, und die Vorhersehbarkeit der Routen machen die Elektrifizierung der Flotte immer beliebter (Colle et al., 2020).<br/>
+
+Alle großen Lieferunternehmen beginnen damit, ihre gasbetriebenen Flotten durch Elektro- oder emissionsarme Fahrzeuge zu ersetzen, was die Gewinne steigert und gleichzeitig den Klimawandel und die Umweltverschmutzung in den Städten bekämpft. UPS hat 10.000 elektrische Zustellfahrzeuge in Auftrag gegeben. Amazon kauft 100.000 von dem Start-up-Unternehmen *Rivian*. DHL sagt, dass ein Fünftel seiner Flotte aus emissionsfreien Fahrzeugen besteht, und es sollen noch mehr werden. FedEx hat sich gerade verpflichtet, 100 % seiner Abhol- und Zustellflotte durch batteriebetriebene Fahrzeuge bis 2040 zu ersetzen (Domonoske, 2021).<br/>
+
+Einer der Gründe, warum Lieferflotten zunehmend in Elektro- oder emissionsfreie Fahrzeuge investieren, sind die zunehmenden staatlichen Auflagen zur Emissionsreduzierung. Die Vorschriften können in Zukunft noch strenger werden (Hughes, 2020). In Europa planen 24 Städte mit insgesamt mehr als 62 Millionen Einwohner:innen, Fahrzeuge mit Verbrennungsmotoren (ICE) bis 2030 durch eine Kombination aus Vorschriften und Anreizen vollständig aus dem Stadtgebiet zu verbannen (Behrmann, 2019). Um die steigende Nachfrage zu decken, müssen jedoch mehr Ladestationen gebaut werden. Es gibt bereits etwa 285.800 Ladestationen in Europa (Statista, 2021). Dennoch tendieren die Betreiber von Logistikflotten bislang dazu, öffentliche Ladeinfrastruktur nicht in ihre Planungen einzubeziehen, um Betriebsstörungen zu vermeiden, die im Falle von blockierten Stationen oder Vandalismus auftreten können (Schiffer et al., 2021).<br/>
+
+Derzeit machen Elektroautos, darunter Firmenwagen, Poolfahrzeuge, Mietwagen, Ride-Hailing-Fahrzeuge und Taxis, mehr als die Hälfte (59 %) der gesamten Elektrofahrzeugflotte aus. Das Segment der leichten Nutzfahrzeuge (LCV) oder Transporter, zu denen Fahrzeuge für die letzte Meile sowie Liefer- und Servicefahrzeuge gehören, macht 38 % aus. Der Rest entfällt auf schwere Nutzfahrzeuge (HDV - heavy-duty vehicles) und Busse. Es wird erwartet, dass das Bussegment am schnellsten elektrifiziert wird (42 % der gesamten Busflotte werden bis 2030 elektrifiziert sein). Das Pkw-Segment folgt mit 17,5 % bis 2030, was auf eine Verlagerung der Firmenwagenpolitik hin zu Elektrofahrzeugen und eine größere Fahrzeugauswahl hindeutet. Mehr als 12 % des Transportersegments werden bis 2030 elektrisch angetrieben sein, im Vergleich zu nur 2 % der Großraumlimousinen. Elektro-HDVs werden vorerst auf Fahrzeuge unter 7,5 Tonnen und spezielle Dienstfahrzeuge wie Müllabfuhr- und Straßenkehrfahrzeuge beschränkt sein (Colle et al., 2020).
+
+### Relevante Initiativen in Österreich {-}
+Die Österreichische Post hat sich zum Ziel gesetzt, bis 2030 ausschließlich 100% Elektrofahrzeuge einzusetzen, ein Prozess, der 2011 eingeleitet wurde. Bereits heute betreibt die Österreichische Post die größte E-Fahrzeugflotte in Österreich und verfügt über ein umfassendes Ladenetz (Uyttebroeck, 2021). Die Verpflichtung zur Umstellung ihrer Flotten wurde formalisiert, als die beiden Konzerne EV100 beitraten, einer Initiative, die darauf abzielt, Flotten zu ermutigen und zu unterstützen, ihre Flotten bis 2030 auf Elektrofahrzeuge umzustellen (Field, 2019).
+
+- [theclimategroup.org](https://www.theclimategroup.org/ev100)
+- [cleantechnica.com](https://cleantechnica.com/2019/04/27/the-swiss-austrian-post-announce-commitment-to-100-evs-by-2030/)
+- [beoe.at](https://www.beoe.at/about-us/)
+- [ots.at](https://www.ots.at/pressemappe/17440/bundesverband-elektromobilitaet-oesterreich-beoe)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table91, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Geringere Schadstoff- und Laermemissionen|**+**|Gesundheit und Wohlbefinden (*3*)|Bundesministerium fuer Umwelt, 2019|
+|Systemisch|Geringeres Gesamtniveau der Emissionen|**+**|Oekologische Nachhaltigkeit *(7,12-13,15)*|Fritz et al., 2018|
+|Systemisch|Sehr begrenzter Einsatz in grossen Nutzfahrzeugen|**~**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Colle et al., 2020|
+|Systemisch|Die Initiative fuer Elektrofahrzeuge beschleunigt die Einfuehrung und Annahme von Elektrofahrzeugen weltweit|          **+**|Partnerschaften und Kooperationen (*17*)|IEA, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table92, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|8-9|')
+```
+
+### Offene Fragen {-}
+1. Könnten Batteriewechselstationen eine Rolle in der Logistik der Elektromobilität von Städten spielen?
+
+### Referenzen {-}
+-	Bac, U., & Erdem, M. (2021). Optimization of electric vehicle recharge schedule and routing problem with time windows and partial recharge: A comparative study for an urban logistics fleet. Sustainable Cities and Society, 102883. https://doi.org/10.1016/j.scs.2021.102883
+-	Behrmann, E. (2019, July 26). A Dead End for Fossil Fuel in Europe’s City Centers - Bloomberg. https://www.bloomberg.com/news/articles/2019-07-26/a-dead-end-for-fossil-fuel-in-europe-s-city-centers
+-	Bundesministerium für Umwelt, N. und nukleare S. (BMU). (2019). Wie umweltfreundlich sind Elektroautos? 1–20. www.bmu.de
+-	Colle, S., Miller, R., Mortier, T., Coltelli, M., Horstead, A., Ruby, K., & Georgiev, P. (2020). Accelerating fleet electrification in Europe When does reinventing the wheel make perfect sense ?
+-	Davis, B. A., & Figliozzi, M. A. (2013). A methodology to evaluate the competitiveness of electric delivery trucks. Transportation Research Part E: Logistics and Transportation Review, 49(1), 8–23. https://doi.org/10.1016/j.tre.2012.07.003
+-	Domonoske, C. (2021, March 17). From Amazon To FedEx, The Delivery Truck Is Going Electric. https://text.npr.org/976152350
+-	Feng, J., Xu, S. X., & Li, M. (2021). A novel multi-criteria decision-making method for selecting the site of an electric-vehicle charging station from a sustainable perspective. Sustainable Cities and Society, 65, 102623. https://doi.org/10.1016/j.scs.2020.102623
+-	Field, K. (2019, April 27). The Swiss & Austrian Post Announce Commitment To 100% EVs By 2030. https://cleantechnica.com/2019/04/27/the-swiss-austrian-post-announce-commitment-to-100-evs-by-2030/
+-	Fritz, D., Heinfellner, H., Lichtblau, G., Pölz, W., & Stranner, G. (2018). Update: Ökobilanz alternativer Antriebe. 1–16. https://umweltbundesamt.at/fileadmin/site/publikationen/DP152.pdf
+-	Hughes, M. (2020, December 5). Electric Delivery Fleet Trends: How Green Are Your Deliveries? | ChargePoint. https://www.chargepoint.com/blog/electric-delivery-fleet-trends-how-green-are-your-deliveries/
+-	IEA. (2020, October 26). Electric Vehicles Initiative – Programmes and partnerships - IEA. https://www.iea.org/areas-of-work/programmes-and-partnerships/electric-vehicles-initiative
+-	Lee, D.-Y., Thomas, V. M., & Brown, M. A. (2013). Electric Urban Delivery Trucks: Energy Use, Greenhouse Gas Emissions, and Cost-Effectiveness. Environmental Science & Technology, 47(14), 8022–8030. https://doi.org/10.1021/es400179w
+-	Pan, L., Yao, E., Yang, Y., & Zhang, R. (2020). A location model for electric vehicle (EV) public charging stations based on drivers’ existing activities. Sustainable Cities and Society, 59, 102192. https://doi.org/10.1016/j.scs.2020.102192
+-	Sachan, S., Deb, S., & Singh, S. N. (2020). Different charging infrastructures along with smart charging strategies for electric vehicles. Sustainable Cities and Society, 60, 102238. https://doi.org/10.1016/j.scs.2020.102238
+-	Schiffer, M., Klein, P. S., Laporte, G., & Walther, G. (2021). Integrated planning for electric commercial vehicle fleets: A case study for retail mid-haul logistics networks. European Journal of Operational Research, 291(3), 944–960. https://doi.org/10.1016/j.ejor.2020.09.054
+-	Shaukat, N., Khan, B., Ali, S. M., Mehmood, C. A., Khan, J., Farid, U., Majid, M., Anwar, S. M., Jawad, M., & Ullah, Z. (2018). A survey on electric vehicle transportation within smart grid system. In Renewable and Sustainable Energy Reviews (Vol. 81, pp. 1329–1349). Elsevier Ltd. https://doi.org/10.1016/j.rser.2017.05.092
+-	Statista. (2021). • Europe: number of electric vehicle charging stations 2010-2020 | Statista. https://www.statista.com/statistics/955443/number-of-electric-vehicle-charging-stations-in-europe/
+-	Taefi, T. T., Stütz, S., & Fink, A. (2017). Assessing the cost-optimal mileage of medium-duty electric vehicles with a numeric simulation approach. Transportation Research Part D: Transport and Environment, 56, 271–285. https://doi.org/10.1016/j.trd.2017.08.015
+-	Tu, R., Gai, Y. (Jessie), Farooq, B., Posen, D., & Hatzopoulou, M. (2020). Electric vehicle charging optimization to minimize marginal greenhouse gas emissions from power generation. Applied Energy, 277, 115517. https://doi.org/10.1016/j.apenergy.2020.115517
+-	Uyttebroeck, B. (2021, March 21). The Mobility House to manage 100% EV fleet for Austrian Post | Fleet Europe. https://www.fleeteurope.com/en/new-energies/austria/features/mobility-house-manage-100-ev-fleet-austrian-post?a=BUY03&curl=1
+-	Wang, R., Li, X., Xu, C., & Li, F. (2020). Study on location decision framework of electric vehicle battery swapping station: Using a hybrid MCDM method. Sustainable Cities and Society, 61, 102149. https://doi.org/10.1016/j.scs.2020.102149
+
+
+
+## Multimodale Verkehrsmanagementsysteme {#mtms}
+### Synonyme {-}
+*multimodale Transportunternehmer (MTO), TMS, multimodale Transportmanagementsysteme (MTMS)*
+
+### Definition {-}
+Mit der Globalisierung von Produktion und Handel ist der Bedarf an physischer Bewegung von Gütern zusammen mit dem Bedarf an Informationsübermittlung exponentiell gestiegen (Beresford et al., 2021; Ding, 2020). Einerseits beobachten wir eine rasche Entwicklung des multimodalen Verkehrs, bei dem die Beförderung von Gütern mit zwei oder mehr verschiedenen Verkehrsträgern Teil des Vertrags ist. In solchen Fällen ist häufig der multimodale Transportunternehmer (MTO) für die Durchführung der gesamten Sendung vom Ausgangs- bis zum Zielort verantwortlich (Harris et al., 2015). Ziel des multimodalen Transports ist es, einen kontinuierlichen Warenfluss durch die gesamte Transportkette zu gewährleisten, um die Effizienz aus finanzieller und ökologischer Sicht zu steigern (Harris et al., 2015; SteadieSeifi et al., 2014). Es ist ein Schlüsselkonzept in Bezug auf Themen wie [intermodaler Güterverkehr](#intermodal_freight), [Verkehrsknotenpunkte ](#freight_hubs) oder [Lieferflotten](#electric_delivery_fleets). In der Regel kann die Transportkette in drei Arten/Phasen unterteilt werden:
+
+- Pre-haul: Erste Meile für die Abholung
+- Ferntransport: Beförderung von Containern von Tür zu Tür
+- End-haul: Letzte Meile für die Auslieferung
+
+Traditionell wurden die erste und die dritte Phase über das Binnenstraßennetz abgewickelt, während im Langstreckentransport verschiedene Verkehrsträger wie Straße, Schiene, Wasser und Luftverkehr kombiniert werden. Heutzutage ändert sich diese Situation, da in der ersten und dritten Phase immer mehr Multimodalität zu beobachten ist.<br/>
+
+Folglich wurden entlang der komplexen Liefernetzwerke Logistik- und Lieferkettenmanagementsysteme, so genannte multimodale Transportmanagementsysteme (MTMS), entwickelt, um diese zu unterstützen. Sie können als Software definiert werden, die sich mit der Planung und Ausführung der physischen Bewegung von Waren in der Lieferkette befasst (King, 2018). Solche integrierten Systeme erfordern Folgendes (Batarlien? 2011; Jaraš?nien? et al., 2016):
+
+- Integrität, um alle Dienstleistungspositionen der Logistik zu verbinden
+- Multifunktionalität und Kompatibilität, um eine Trennung der Sprach-, Text- und Videokommunikation zu verhindern
+- Flexibilität, um Möglichkeiten für die Implementierung von Lösungen für zentrale und individuelle Computer zu bieten
+- Betriebliche Effizienz, um wirtschaftliche Vorteile zu erzielen
+- Übertragbarkeit
+- Hohe Übertragungsrate
+Dank der oben genannten Merkmale kann das System mehrere wichtige Funktionen erfüllen, wie z. B. die Planung des Terminals und des Logistikzentrums, die Planung des Geräteeinsatzes und die Bearbeitung von Ladearbeiten. Darüber hinaus kann es für die Verwaltung von Containern und automatisierten Ausrüstungen, die Kontrolle und Durchführung notwendiger Änderungen sowie den Empfang von Informationen und statistischen Daten über den Betrieb von Ausrüstungen verwendet werden (Jaraš?nien? et al., 2016).<br/>
+
+Wichtig ist, dass die Literatur auch zeigt, dass der Begriff des multimodalen Verkehrsmanagementsystems auch das Verkehrsmanagement in Bezug auf Personenfahrten umfassen kann. Insbesondere die multimodalen Verkehrsknotenpunkte (MMTH – multimodal transportation hubs) bieten Raum für die Koordinierung und Integration verschiedener Verkehrsträger für Passagierzwecke, die dazu beitragen, Staus zu reduzieren, Reisezeiten zu verkürzen, die Umwelt zu verbessern und Reisen schneller und bequemer zu machen (Chuahan et al. 2020). Weitere Informationen über das Personenverkehrsmanagement finden Sie in den Abschnitten [Mobilitätszentren](#mobility_hubs) and [Fahrgastinformationssystem und Dynamische Routenführung](#info_and_route_planning).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: LKW-Fahrer:innen, Frachtunternehmen, Eisenbahnunternehmen, Frachtterminals, Spediteure, Passagiere
+- **Verantwortliche**: Logistikunternehmen, Kurierdienste, Zustelldienste, nationale Regierungen, internationale Behörden, öffentliche Verkehrsbehörden
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung im Bereich MTMS zielt auf die Entwicklung neuer Plattformen und Managementsysteme für den Informationsaustausch oder die Verbesserung der bestehenden Systeme ab. In der Studie von Ding (2020) wurde eine gemeinsame Plattform für den Informationsaustausch zwischen Hafen und Eisenbahn vorgeschlagen, um die Zusammenarbeit zwischen ihnen zu fördern. Der entwickelte Ansatz zielte darauf ab, die Abstimmung zwischen den Systemdiensten des multimodalen Verkehrs zu verbessern und eine integrierte Dienstleistung für die gesamte Transportkette zu erreichen. Außerdem entwickelten Niculescu und Minea (2016) eine Single-Window-Plattform zur Integration des Binnen- und Seeverkehrs mit anderen Verkehrsträgern. Die Plattform, das sogenannte National Single Window (NSW), basiert auf einem nationalen System, das als zentrale Anlaufstelle für die elektronische Übermittlung und den Austausch von frachtbezogenen Informationen zwischen verschiedenen Arten von Akteuren aus unterschiedlichen Verkehrsträgern dient. Die Autoren kommen zu dem Schluss, dass die Einführung einer solchen Plattform zwar große Vorteile für den europäischen Handel und Verkehr bringen könnte, aber für jedes europäische Land eine sehr komplexe Aufgabe darstellt. <br/>
+
+Ein anderer Forschungszweig befasst sich mit der Untersuchung von Faktoren, die die Leistung des MTMS beeinflussen. So untersuchten Chauhan et al. (2021) die Qualität multimodaler Verkehrsknotenpunkte durch Messung der Zufriedenheit der Nutzer:innen des öffentlichen Verkehrs. Die ermittelten Merkmale, die sich auf die Qualität von MMTH auswirken, waren Umsteigeumgebung und -einrichtungen, Sicherheit, Zugänglichkeit und Beschilderung, Komfort, Bequemlichkeit und Umweltqualität, Verkehrsmittel und Reiseinformationen sowie Personalmanagement und Fahrkartenverkauf.
+
+Schließlich wurden in einer Studie von Harris et al. (2015) die wichtigsten Herausforderungen im Zusammenhang mit der Einführung von Informations- und Kommunikationstechnologie (IKT) im Verkehrsmanagement ermittelt. Diese sind:
+
+- *Finanziell*: Einschließlich Implementierungs- und Wartungskosten
+- *Betriebsbezogen*: Einschließlich des Mangels an IKT-Fachleuten, des Mangels an Personal, das die neuen Anwendungen bedienen kann, sowie unzureichender IKT-orientierter Schulungs- und Ausbildungsaktivitäten
+- *Technologiebezogen*: Die Betreiber werden daran gehindert, IKT-Anwendungen in vollem Umfang zu nutzen, einschließlich Fragen der Interoperabilität von Systemen, IKT-Integration, Normung, Sicherheit und Datenschutz
+- *Politikbezogen*: Zum Beispiel das Fehlen standardisierter Schnittstellen und offener Kommunikationsmechanismen für die Einführung von IKT im multimodalen Verkehr zur Förderung und Unterstützung entsprechender Maßnahmen sowohl auf nationaler als auch auf EU-Ebene
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Es gibt mehrere Unternehmen, die Softwarepakete für Transportmanagementsysteme (TMS) anbieten, die je nach dem Marktsegment, auf das sie sich konzentrieren, eine breite Palette von Dienstleistungen bieten. [3Gtms](https://www.3gtms.com/), [Cloud Logistics](https://www.gocloudlogistics.com/) oder [Kuebix](https://www.kuebix.com/) zum Beispiel sind in den USA ansässige Unternehmen, die sich hauptsächlich auf kleine und mittlere Unternehmen und die Logistik von Dritten konzentrieren. Aufgrund ihrer Größe bieten sie noch keine Dienstleistungen für den internationalen Schienen-, Luft- oder Seeverkehr an. [JDA](https://jda.com/) hingegen ist der größte unabhängige Anbieter von Software für das Lieferkettenmanagement, der Lösungen für die globale Lieferkette anbietet. Das britische Unternehmen [BluJay](https://www.blujaysolutions.com/) bietet TMS- und TM-Dienste für mittlere und große Verlader auf nationaler und internationaler Ebene an. Das kanadische Unternehmen [Descartes](https://www.descartes.com/) bietet TMS-Dienste für alle Frachtarten auf nationaler und internationaler Ebene an. Darüber hinaus bietet [Oracle](https://www.oracle.com) eine Managementplattform für große Verlader und Drittlogistikunternehmen an, während die deutsche [SAP](https://www.sap.com) eine Plattform für das Lieferkettenmanagement und die integrierte Unternehmensplanung (ERP) entwickelt hat, die den Anforderungen der globalen Lieferkette gerecht wird (LaGore, 2020).
+
+### Relevante Initiativen in Österreich {-}
+
+- [Europa.eu](https://trimis.ec.europa.eu/project/operationalization-multimodality-passenger-transport-austria)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r , echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Schneller und bequemer Transport von Passagieren|          **+**|Gesundheit und Wohlbefinden (*3*)|Chuahan et al. 2020|
+|Systemisch|Mehr nachhaltiger Verkehr|**+**|Oekologische Nachhaltigkeit (*7,12-13,15*)|Harris et al., 2015|
+|Systemisch|Kontinuierliche Verbesserung von TMS-Loesungen|**+**|Innovation und Infrastruktur (*9*)|LaGore, 2020|
+|Systemisch|Collaboration among different modes|          **+**|Partnerschaften und Kooperationen (*17*)|SteadieSeifi et al., 2014|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|7-9|')
+```
+
+### Offene Fragen {-}
+
+1. Welches sind die größten Herausforderungen, denen sich die Frachtunternehmen bei der Einführung von MTMS gegenübersehen?
+2. Inwieweit behindert das Fehlen einer standardisierten Schnittstelle auf europäischer Ebene die Einführung von MTMS und wie kann dies behoben werden
+
+### Weitere links {-}
+- [Ecotransit.org](https://www.ecotransit.org/de/)
+
+
+### Referenzen {-}
+- Batarlienė, N. (2011). Informacinės transporto sistemos. Vilnius, Technika.
+- Beresford, A. K., Banomyong, R., & Pettit, S. (2021). A Critical Review of a Holistic Model Used for Assessing Multimodal Transport Systems. Logistics, 5(1), 11.
+- Chauhan, V., Gupta, A., & Parida, M. (2021). Demystifying service quality of Multimodal Transportation Hub (MMTH) through measuring users’ satisfaction of public transport. Transport Policy, 102, 47-60.
+- Ding, L. Multimodal transport information sharing platform with mixed time window constraints based on big data. J Cloud Comp 9, 11 (2020). https://doi.org/10.1186/s13677-020-0153-8
+- Harris, I., Wang, Y., & Wang, H. (2015). ICT in multimodal transport and technological trends: Unleashing potential for the future. International Journal of Production Economics, 159, 88-103.
+- Jarašūnienė, A., Batarlienė, N., & Vaičiūtė, K. (2016). Application and management of information technologies in multimodal transportation. Procedia Engineering, 134, 309-315.
+- King, A. (2018). Defining “Multimodal TMS”. Available at: https://www.3gtms.com/resources/blog/defining-multimodal-tms [Accessed: 11 August 2021]
+- LaGore, R. (2020) 2021 Best Transportation Management System (TMS) Software Packages. Available at: https://blog.intekfreight-logistics.com/best-transportation-management-software-tms [Accessed: 11 August 2021]
+- Niculescu, M. C., & Minea, M. (2016). Developing a single window integrated platform for multimodal transport management and logistics. Transportation Research Procedia, 14, 1453-1462.
+- SteadieSeifi, M., Dellaert, N. P., Nuijten, W., Van Woensel, T., & Raoufi, R. (2014). Multimodal freight transportation planning: A literature review. European journal of operational research, 233(1), 1-15.
+
+## Güterverkehrsknotenpunkte {#freight_hubs}
+
+### Synonyme {-}
+*Logistikknotenpunkte, Multimodale Verkehrsknotenpunkte*
+
+### Definition {-}
+In logistischen Netzen werden Logistikknotenpunkte im Allgemeinen als Knotenpunkte definiert und dienen in erster Linie als Umschlagplätze für Warenströme. Es finden also nicht nur Lagertätigkeiten statt, sondern auch Bestell-, Bündelungs- und Entbündelungsprozesse. Die Vielfalt der logistischen Knotenpunkte erschwert eine eindeutige Zuordnung zu einer bestimmten Art und Klasse. Eine vereinfachende Unterscheidung wird jedoch häufig auf der Grundlage einer räumlichen oder funktionalen Analyse vorgenommen. Ein Beispiel wäre eine räumliche Differenzierung z.B. nach der räumlichen Ebene (Mikro-, Meso-, Makroebene), nach der ein Transportlogistikknoten als Hub (Mikroebene) oder als Seehafen (Makroebene) definiert werden kann. Ein weiteres Beispiel wäre eine funktionale Unterscheidung, nach der Logistikknotenpunkte aus einzelnen Modulen (z. B. einer einzelnen Versandanlage) oder mehreren Modulen (intermodales Terminal mit Schienengüterverkehrszentrum und Spediteuren) bestehen können. Eine sehr einfache, aber grundlegende Differenzierung von Logistikhubs findet sich in der Unterteilung in Transportlogistikhubs und Distributionslogistikhubs, da sie sich in zahlreichen Merkmalen grundlegend unterscheiden (siehe Tabelle unten (Clausen & Thaller, 2013)) (Huber et al., 2015). <br/>
+
+```{r , echo=FALSE, results='asis'}
+cat('|Merkmale| Distributionslogistikzentrum|Transportlogistikhubs|
+|:----:|:----:|:----:|
+|Anzahl der Sender|wenige|viele|
+|Anzahl der Empfaenger|viele|viele|
+|Hauptfunktion|Lagerung, Konsolidierung, Verteilung, Verpackung, wertschoepfende Dienstleistungen|Umschlag, bestimmte Pufferfunktion|
+|Benutzer:in|ein oder eine bestimmte Anzahl von Nutzer:innen|viele unterschiedliche und wechselnde Kund:innen|
+|Bediener:in|eigene Rechnung oder Logistikdienstleister (3PL)|Logistikdienstleister, Spedition|
+|Ziel|Senke ist ungewiss*|Senke ist sicher**|
+|Beispiele|Vertriebs- und/oder Konsolidierungszentren, Lagerhaeuser|intermodale Gueterterminals, Standorte von Speditionen, Seehaefen, Binnenhaefen, Flughaefen|')
+```
+
+*Zu dem Zeitpunkt, zu dem die Waren im Logistikzentrum ankommen, ist der endgültige Bestimmungsort noch nicht festgelegt. Der endgültige Bestimmungsort wird erst während des Kommissioniervorgangs festgelegt.<br/>
+**Jede Sendung wird mit einem eindeutigen Bestimmungsort gekennzeichnet, bevor sie das Transportlogistikzentrum erreicht.<br/>
+
+Distributionslogistikzentren verfügen über Lagerhäuser, in denen Waren über einen längeren Zeitraum gelagert werden können. In der Regel kombinieren diese Arten von Hubs einige wenige Quellen mit vielen Senken. Ein Beispiel dafür sind Zentral- oder Regionallager - es gibt einige wenige Unternehmen, die Waren an das Lager liefern (Quellen), und viele Einzelpersonen und Unternehmen, die bei dem Lager bestellen (Senken). Transportlogistik-Hubs haben dagegen keine Lagerfunktion. Es kann zwar eine gewisse Pufferkapazität aufgrund des Umschlagsprozesses vorhanden sein, aber dieser Puffer ist ein Nebeneffekt der eigentlichen Hauptfunktion - dem Umschlag von Waren. Transportlogistik-Hubs verbinden in der Regel viele Quellen mit vielen Senken. Beispiele für diese Art von Knotenpunkten sind Speditionsstandorte, Terminals des kombinierten Verkehrs, Flughäfen und Bahnumschlagbahnhöfe. Die Unterteilung von Logistikknotenpunkten in Transportlogistikknotenpunkte und Distributionslogistikknotenpunkte ist für die Modellierung der Frachtnachfrage unerlässlich, da sich die angezogenen Güter und die an diesen Knotenpunkten durchgeführten Transporte erheblich unterscheiden (Huber et al., 2015).
+
+Intermodale Logistikknotenpunkte (siehe [Intermodal Freight](#intermodal_freight)) ziehen erhebliche Mengen verschiedener Verkehrsarten an. LKW liefern Waren an und holen sie ab, Container werden bewegt, Dienstleistungs- und Schwerlastfahrzeuge fahren durch, und manchmal kreuzen öffentliche Straßen das Gelände. Das organische Wachstum dieser Anlagen und die Vielzahl der beteiligten Parteien führen häufig zu einer ineffizienten und unzureichenden Verkehrsinfrastruktur, unnötigen negativen Umweltauswirkungen und hohen Kosten für die Beteiligten. Um die Infrastruktur und den Betrieb dieser Knotenpunkte zu optimieren, müssen viele Faktoren bekannt sein, was jedoch häufig nicht der Fall ist. Zu diesen Faktoren gehören die Anforderungen der Interessengruppen, die Betriebszeiten der Einrichtungen, die Ausgangs- und Zielorte der Fahrzeuge sowie die Routen und Geschwindigkeiten der Fahrzeuge (Ehrler & Wolfermann, 2012).<br/>
+
+Essaadi et al. (2016) zeigt, dass die Standortwahl von Logistikknotenpunkten eine strategische Entscheidung ist, die nach einer multikriteriellen Analyse getroffen wird und zunächst die Analyse quantitativer oder qualitativer Kriterien erfordert (z. B. Verfügbarkeit und Qualität der Infrastruktur, Konnektivität, Grundstückspreise, politische Stabilität, Umweltverschmutzung usw.). Diese können unabhängig oder teilweise widersprüchlich sein. Die Studie schlägt eine generische Strukturierung der Kriterien nach geografischer Ebene und nach Kategorie für die Standortwahl von Drehkreuzen vor, wobei die besondere Struktur der Standortwahl berücksichtigt wird, die in der Literatur nur selten zu finden ist: sequenzielle Bewertung (Wahl eines Landes, dann einer Region dieses Landes) oder gleichzeitige Bewertung (direkte Wahl eines Standortes unter mehreren Regionen, die zu verschiedenen Ländern gehören).
+
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Kurier-Express-Paketdienste, Paket-Empfänger, Spediteure
+- **Verantwortliche**: Kurier-Express-Paketdienste, Logistikunternehmen, Spediteure, Stadtverwaltung, Fördermittelgeber, Ministerien, Infrastrukturbetreiber, Handelskammer
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die wichtigsten Forschungsarbeiten im Bereich der Güterverkehrsknotenpunkte konzentrieren sich auf die Analyse der Umweltauswirkungen des Güterverkehrs und Vorschläge für nachhaltige Lösungen sowie auf die Untersuchung des Potenzials für Effizienzsteigerungen unter Berücksichtigung der Standorte und Nachfragemuster von Güterverkehrsknotenpunkten. <br/>
+
+Da beispielsweise emissionsfreie Fahrzeuge (ZEV) als Schlüsseltechnologien zur Verringerung der frachtbedingten Luftverschmutzung und der Treibhausgasemissionen gelten, fordert der kalifornische Aktionsplan für einen nachhaltigen Güterverkehr aus dem Jahr 2016 bis zum Jahr 2030 100.000 emissionsfreie, mit erneuerbaren Kraftstoffen betriebene Frachtfahrzeuge. Da jedoch die derzeitige Wasserstoffinfrastruktur in Kalifornien mit etwa 25 installierten Stationen spärlich ist, werden neue Infrastrukturstrategien für die Umsetzung von Wasserstoffanwendungen im Güterverkehr von entscheidender Bedeutung sein. Li et al. (2021) analysierten die Anforderungen an die Wasserstoffinfrastruktur mit dem Schwerpunkt auf Wasserstoff-Brennstoffzellen im Güterverkehr. Mithilfe eines auf Kalifornien zugeschnittenen EXCEL-basierten Szenariomodells wurde die Einführung und Nachfrage von Wasserstofffahrzeugen für den LKW-, Schienen-, Schiffs- und Luftverkehr für eine Reihe von Szenarien bis 2050 geschätzt. Die Ergebnisse zeigen, dass ZEVs sehr schnell wachsen müssen, um die staatlichen ZEV-Ziele für den Güterverkehr zu erreichen. Darüber hinaus scheinen batterieelektrische LKW (siehe Abschnitte [Elektrofahrzeug-Lieferflotten](#electric_delivery_fleets) und [Batterieelektrik](#bev)) einen Vorsprung bei der Kommerzialisierung zu haben, während FCEVs (siehe Abschnitt  [Wasserstoff-Brennstoffzellen](#FCEV)) auf der anderen Seite Vorteile haben, die sie auf bestimmten Märkten, z. B. im Fernverkehr, in eine bessere Position bringen. Bis 2030 werden täglich Hunderte von Tonnen Wasserstoff benötigt, um die in dieser Studie prognostizierten lokalen Wasserstoffflotten zu betreiben. Für den Langstrecken-LKW-Verkehr könnte für den Bundesstaat Kalifornien (USA) ein "Backbone"-Wasserstofftankstellennetz mit etwa 13 strategisch günstig gelegenen Tankstellen aufgebaut werden. Darüber hinaus gibt es ein Potenzial für Synergien zwischen der Betankungsinfrastruktur für lokale und Langstrecken-FCEVs. Diese Synergien können für die anfängliche Einführung von Wasserstofftankstellen für mittelschwere und schwere LKW von entscheidender Bedeutung sein, da viele Wasserstofftankstellen von Flotten aus mehr als einem Knotenpunkt gemeinsam genutzt werden können.<br/>
+
+Darüber hinaus untersuchten Markvica et al. (2019) die Machbarkeit eines "quattromodalen Güterverkehrsknotenpunkts", eines neuen Knotenpunktkonzepts mit vier Verkehrsträgern, in der Stadt Wien. Dabei beleuchteten sie die Stärken, Schwächen, Chancen und Risiken des Konzepts aus theoretischer und praktischer Sicht und identifizierten vier Optionen für die Schaffung eines quattromodalen Güterverkehrszentrums in Wien. Sie argumentieren, dass kosten- und effizienzbezogene Entscheidungskriterien für die Umsetzung ausschlaggebend sind und dass das Konzept in Bezug auf das Prestige und das Alleinstellungsmerkmal für die Region attraktiv ist, dass jedoch gleichzeitig weitere Untersuchungen in Bezug auf rechtliche Aspekte und Auswirkungen auf die Region erforderlich sind.<br/>
+
+Darüber hinaus hat sich gezeigt, dass in der Umgebung großer Güterverkehrsknotenpunkte wie Seehäfen die LKW-Ströme erhebliche Auswirkungen auf die Autobahnen und deren Verkehrsmanagement haben können. Nadi et al. (2021) haben daher ein Modell entwickelt, das kurzfristige Veränderungen des LKW-Aufkommens durch große Containerterminals in Seehäfen vorhersagt. Das Modell wurde im Rahmen einer Fallstudie für den Hafen von Rotterdam entwickelt, getestet und demonstriert. Es kann das ausgehende LKW-Aufkommen für die nächste Stunde mit einem hohen Maß an Genauigkeit vorhersagen.<br/>
+
+Andererseits hatte der Ausbruch von COVID-19 erhebliche Auswirkungen auf den weltweiten Güterverkehr, so dass diverse Anpassungen entlang der Logistikketten erforderlich waren. Daher untersuchten Huang et al. (2021) die räumlichen Muster des Frachtnachfragenetzwerks in sechs Provinzen Zentralchinas seit Beginn der COVID-19-Pandemie. Zu diesem Zweck wurden die Big Data der "Cart Search"-Nachfrageinformationen analysiert, die von kleinen und mittleren Frachtunternehmen auf einer Frachtinformationsplattform bereitgestellt wurden. Die Ergebnisse zeigen: 
+
+- den Engpass des unausgewogenen Frachtnachfragenetzes und die sekundären Engpässe
+- einen Kettenreaktionskreis des unausgewogenen Güterverkehrs
+- eine Long-Tail-Verteilung mit großer Reichweite und unausgewogener Verteilung
+- dass die Ein- und Ausfuhr von Gütern in verschiedenen Städten sehr unterschiedlich ist
+- dass die Verteilung unausgewogen war
+
+Aufbauend auf diesen Erkenntnissen schlagen Huang et al. (2021) Lösungen für den Fall von Ausbrüchen auf dem Güterverkehrsmarkt in sechs Provinzen Zentralchinas in der Zeit nach der Epidemie vor. Sie argumentieren, dass eine "Güterverkehrsallianz" genutzt werden kann, um die versteckten Gefahren des Ungleichgewichts im Güterverkehr zu bekämpfen und es kleinen und mittleren Güterverkehrsunternehmen in peripheren Städten zu ermöglichen, sich in der Zeit nach der Epidemie durchzusetzen und zu entwickeln.
+
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Aufgrund des rasanten Bevölkerungswachstums und des Verlustes von Gewerbeflächen in den Stadtzentren zugunsten von Wohngebieten muss die Sicherung und Steigerung der Nutzungseffizienz der verbleibenden Flächen für logistiknahe Tätigkeiten aktiv unterstützt werden. Daher wurde das Projekt "Screening Logistikflächen" unter der Federführung der Stadt Wien und des Landes Niederösterreich erfolgreich durchgeführt und abgeschlossen. Im Mittelpunkt stand die Ermittlung des Standort- und Flächenangebots für die Logistikbranche in diesen beiden Bundesländern. Es wurden Flächen ab ca. 1 ha (Wien) und 5 ha (Niederösterreich) betrachtet. Als Grundlage für die Arbeit wurden die vorhandenen Flächenkonzepte herangezogen, d.h. es wurden Gewerbeparks und Industriezonen im Detail untersucht. Alle relevanten Aspekte im Betrachtungsgebiet wurden untersucht, kategorisiert und mit konkreten Empfehlungen versehen. Es wurde festgestellt, dass derzeit sowohl quantitativ als auch qualitativ ausreichend Flächen zur Verfügung stehen, allerdings müssen nun Mechanismen gefunden werden, um die Flächen effektiv für gewerbliche Zwecke zu sichern. Seitens der Bundesländer fließen die Ergebnisse in die Prüfung möglicher Steuerungsinstrumente sowie in verschiedene Raumordnungsprogramme ein (ARGE L2030+, n.d.).<br/>
+
+2019 haben DHL Global Forwarding und DHL Freight ihre drei bisherigen Standorte am neuen DHL Campus Vienna International Airport zusammengelegt und damit Land-, Luft- und Seefracht an einem Ort vereint. Dies ermöglicht höhere Durchsatzraten beim Frachtaufkommen und einen noch besseren Service. Der DHL Campus Vienna Airport umfasst neben einer Bürofläche von rund 3.500 Quadratmetern zwei Frachtterminals mit insgesamt rund 12.000 Quadratmetern, die sich in 5.000 Quadratmeter Lager- und Umschlagsfläche für Luft- und Seefracht und rund 7.000 Quadratmeter für den Landverkehr aufteilen. Aufgrund seiner Größe fungiert er als strategisch wichtige Logistikdrehscheibe für Österreich und Osteuropa. Um der stetig wachsenden Nachfrage nach Logistik- und Transportdienstleistungen aus den Bereichen Life Science und Healthcare gerecht zu werden, wurden mit dem Neubau auch größere Kapazitäten für temperaturgeführte Güter geschaffen (DHL International GmbH, n.d.). 
+
+
+### Relevante Initiativen in Österreich {-}
+
+
+- [Infrastruktur.oebb.at](https://infrastruktur.oebb.at/en/partners/terminals/locations/terminal-wien-sued) 
+- [DHL-freight-connections.com](https://dhl-freight-connections.com/de/unternehmen/dhl-eroffnet-hochmodernes-logistikdrehkreuz-am-flughafen-wien/) 
+- [Logistik2030.at](https://www.logistik2030.at/?page_id=63) 
+- [Thinkportvienna.at](https://www.thinkportvienna.at/ueber-uns/projekte/) 
+- [Hafen-wien.com](https://www.hafen-wien.com/de/home) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r , echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Aenderung der Flaechennutzung, Erhoehung der Dichte und Erzeugung eines intensiveren Nah- und Fernverkehrs|          **-**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Rondinelli & Berry, 2000|
+|Systemisch|Neue Entwicklungen aufgrund neuartiger Fahrzeugtechnologien|**+**|Innovation und Infrastruktur (*9*)|Li et al., 2021|
+|Systemisch|Zusammenarbeit zwischen Interessengruppen und Staaten, um den groessten Nutzen fuer die Region zu erzielen|          **+**|Partnerschaften und Kooperationen (*17*)|ARGE L2030+, n.d.|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|5-8|6-9|')
+```
+
+### Offene Fragen {-}
+1. Welche zusätzlichen Anforderungen ergeben sich für Güterverkehrsknotenpunkte in Europa im Hinblick auf Elektromobilität und wasserstoffbetriebene LKW-Flotten?
+2. Wie kann die Effizienz durch die Kombination verschiedener Verkehrsträger gesteigert werden?
+3. Wie können die negativen externen Effekte von Güterverkehrszentren - wie Licht- und Lärmemissionen oder erhöhter Flächenverbrauch - minimiert und internalisiert werden?
+
+### Referenzen {-}
+-	ARGE L2030+. (n.d.). Pilotprojekte – Logistik 2030+. Central LogPOINT – DER Logistik HUB im Herzen von Wien. Available at: https://www.logistik2030.at/?page_id=268 [Accessed: 28 April 2021]
+-	Clausen, U., & Thaller, C. (Eds.). (2013). Wirtschaftsverkehr 2013: Datenerfassung und verkehrsträgerübergreifende Modellierung des Güterverkehrs als Entscheidungsgrundlage für die Verkehrspolitik. Springer-Verlag.
+-	DHL International GmbH. (n.d.). DHL eröffnet hochmodernen Logistik-Hub am Flughafen Wien - DHL Freight Connections. Available at: https://dhl-freight-connections.com/de/unternehmen/dhl-eroffnet-hochmodernes-logistikdrehkreuz-am-flughafen-wien/ [Accessed: 4 May 2021]
+-	Ehrler, V., & Wolfermann, A. (2012). Traffic at intermodal logistic hubs: shedding light on the blind spot. Transportation research record, 2288(1), 1-8.
+-	Essaadi, I., Grabot, B., & Fénies, P. (2016). Location of logistics hubs at national and subnational level with consideration of the structure of the location choice. IFAC-PapersOnLine, 49(31), 155-160.
+-	Huang, Y., Liu, R., Huang, S., Yang, G., Zhang, X., Qin, Y., ... & Huang, B. (2021). Imbalance and breakout in the post-epidemic era: Research into the spatial patterns of freight demand network in six provinces of central China. Plos one, 16(4), e0250375.
+-	Huber, S., Klauenberg, J., & Thaller, C. (2015). Consideration of transport logistics hubs in freight transport demand models. European Transport Research Review, 7(4), 1-14.
+-	Li, G., Ogden, J., & Miller, M. (2021). Hydrogen Infrastructure Requirements for Zero-Emission Freight Applications in California.
+-	Nadi, A., Sharma, S., Snelder, M., Bakri, T., van Lint, H., & Tavasszy, L. (2021). Short-term prediction of outbound truck traffic from the exchange of information in logistics hubs: A case study for the port of Rotterdam. Transportation Research Part C: Emerging Technologies, 127, 103111.
+-	Markvica, K., Prandtstetter, M., Zajicek, J., Heilmann, B., Lenz, G., Hauger, G., ... & Eitler, S. (2019). Implementing a quattromodal freight hub: an approach for the city of Vienna. European Transport Research Review, 11(1), 1-16.
+-	Rondinelli, D., & Berry, M. (2000). Multimodal transportation, logistics, and the environment: managing interactions in a global economy. European Management Journal, 18(4), 398-410.

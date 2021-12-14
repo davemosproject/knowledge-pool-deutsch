@@ -1,0 +1,486 @@
+# Bordtechnologie für vernetzte und automatisierte Fahrzeuge {#onboard}
+
+## Fortschrittliche Fahrerassistenzsysteme (Advanced driver assistance system - ADAS) {#adas}
+
+### Synonyme 
+
+*ADAS*
+
+### Definition {-}
+
+Fortgeschrittene Fahrerassistenzsysteme sind ein breites Spektrum von Technologien, die die Sicherheit des Fahrzeugs und den Fahrkomfort erhöhen, indem sie den Fahrer:innen helfen Unfälle zu verhindern (samsara.com, 2020). Sie können je nach ihrer Funktion in vier Kategorien unterteilt werden:
+
+- **Adaptiv**: Adaptive Systeme konzentrieren sich darauf, während der Fahrt kleine Anpassungen vorzunehmen, um die Sicherheit zu erhöhen, und zwar auf der Grundlage der Informationen aus der Umgebung. Beispiele für adaptive Systeme sind der [Spurhalteassistent und das Spurhaltewarnsystem](#lane_keeping)), der adaptive Tempomat (ACC), der die Geschwindigkeit des Fahrzeugs in Abhängigkeit vom Verhalten des vorausfahrenden Fahrzeugs anpasst, um den optimalen Abstand zu halten, die adaptive Lichtsteuerung (ALC), die die Straßenbeleuchtung je nach Wetter- und Straßenbedingungen anpasst, die Seitenwindstabilisierung, die intelligente Geschwindigkeitsanpassung (ISA) oder die elektronische Stabilitätskontrolle.
+- **Automatisch**: Automatisierte Systeme übernehmen die Kontrolle über das Fahrzeug bei einer drohenden Kollision, z. B. eine Notbremsung (AEB), wenn ein Hindernis erkannt wird. Zu den anderen automatischen Funktionen gehören automatisches Einparken, Tempomat oder Kollisionsvermeidungssystem. 
+- **Überwachung**: Überwachungssysteme bieten eine kontinuierliche Bewertung der Fahr- und Straßenbedingungen. Dies können z. B. Rückfahrkamera, Toter-Winkel-Überwachung, Verkehrszeichenerkennung, Müdigkeitserkennung, Kreuzungsassistent, Reifendruckkontrolle usw. sein.
+- **Warnung**: Warnsysteme unterstützen Fahrer:innen bei der Erkennung potenzieller Gefahren. Dazu gehören z. B. die Falschfahrwarnung, die Vorwärtskollisionswarnung oder die Spurverlassenswarnung. Wichtig ist, dass es je nach Automatisierungsgrad des Fahrzeugs unterschiedliche Stufen der ADAS-Unterstützung gibt. Derzeit unterscheidet die Society of Automotive Engineers [(SAE)](https://sae.org) 5 Stufen der Fahrautomatisierung, die zusammen mit den ADAS-Funktionen in Abbildung 9.1 dargestellt sind.
+
+```{r, echo=FALSE, , out.width="90%", fig.cap="Stufen der Fahrautomatisierung (Shuttleworth, 2019)"}
+knitr::include_graphics("image/adas_level.png")
+```
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Autofahrer:innen, Verkehrsteilnehmer:innen, Versicherungen
+- **Verantwortliche**: Autohersteller
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Wichtige Forschungsbereiche im Zusammenhang mit ADAS umfassen *(1)* die technische Verbesserung der Effizienz, Zuverlässigkeit und Funktionalität des Systems (z. B. Storsæter et al., 2021; Capodieci et al., 2021; Tsai et al., 2021; Tian e al., 2021) und *(2)* der menschliche Aspekt der Systemnutzung, bei dem es darum geht, *(a)* wie Informationen über die Fähigkeiten und Grenzen von ADAS vermittelt werden können, damit die Vorteile, die sich aus dem Einsatz in Fahrzeugen ergeben, nicht zunichte gemacht werden, und *(b)* wie die Leistung des Systems in einem bestimmten Kontext die Wahrnehmung des Systems durch Fahrer:innen beeinflusst.<br/>
+
+Diese auf den Menschen ausgerichtete Forschung konzentriert sich hauptsächlich auf die Erforschung des Bewusstseins von Fahrer:innen und Fahrzeugkäufer:innen, um die sichere Nutzung von ADAS zu fördern. Dies ist von entscheidender Bedeutung, da eine Studie von Harms et al. (2020) zeigte, dass viele Geschäftsfahrer:innen nicht wussten, mit welchen ADAS ihr Fahrzeug ausgestattet war, und dass der angegebene Besitz von ADAS (gemessen in einem Fragebogen mit Selbstauskunft) nicht mit dem tatsächlichen Besitz von ADAS übereinstimmte, was den Mangel an Wissen unter den Fahrer:innen belegt. Dies wiederum kann zu einer geringen sozialen Akzeptanz und Nutzbarkeit dieser Sicherheitssysteme in der Praxis führen. Außerdem zeigte eine niederländische Studie, dass Verkäufer:innen und Verbraucher:innen keine zentrale Datenbank für ADAS-Funktionen haben. Infolgedessen erhalten viele Verbraucher:innen keine Informationen über ADAS und/oder können sie am Verkaufsort nicht ausprobieren. Es wurde auch gezeigt, dass unabhängige Autohändler Schwierigkeiten haben, Informationen über ADAS zu erhalten (Boelhouwer et al., 2020). <br/>
+
+Im Hinblick auf die Auswirkungen des Kontexts auf die Wahrnehmung von ADAS durch Fahrer:innen zeigte die Studie von Orlovska (2020), dass der Fahrkontext die Nutzung von ADAS aufgrund seiner Leistung stark beeinflusst, was sich folglich auf das Vertrauen der Fahrer:innen und die Bereitschaft, das System langfristig zu nutzen, auswirken kann. Darüber hinaus wurde gezeigt, dass die Entscheidungen der Fahrer:innen über den Einsatz von ADAS während der Fahrt von den aktuellen Fahrbedingungen zum Zeitpunkt der Entscheidungsfindung beeinflusst werden. Diese Ergebnisse zeigen eine Verbindung zwischen dem Kontext, den Fahrer:innen und der Nutzung des ADAS-Systems. Darüber hinaus sind die Hauptergebnisse der Literatur zur Ablenkung der Fahrer:innen und zur Verhaltensanpassung im Zusammenhang mit ADAS, dass *(1)* Fahrer:innen ihr Engagement bei sekundären Aufgaben (sowie ihre Leistung bei diesen Aufgaben) erhöhen, wenn sie mit ADAS fahren, *(2)* das Situationsbewusstsein der Fahrer:innen bei der Nutzung von ADAS geringer ist, *(3)* die Nutzung von ADAS zu längeren Reaktionszeiten, einer größeren Variabilität beim Einhalten der Fahrspur und einer geringeren mentalen Arbeitsbelastung führt. Darüber hinaus wird behauptet, dass Fahrer:innen, die mit Automatisierungssystemen konfrontiert sind, die ihre Erwartungen übertreffen, dazu neigen, den Systemen zu vertrauen und sich ihrer Grenzen nicht bewusst zu sein. Das übermäßige Vertrauen in ADAS erhöht wiederum das Risiko von Kollisionen (Hungund et al., 2021). <br/>
+
+Darüber hinaus konzentriert sich ein besonderer Fall von ADAS-Forschung auf ältere Fahrer:innen (Chalkiadakis et al., 2020) und untersucht das Potenzial von ADAS bei der Linderung typischer Beeinträchtigungen wie vermindertes peripheres Sehen, nächtliche Sehprobleme, längere Reaktionszeiten, Fehleinschätzungen von Entfernung und Geschwindigkeit und selektive Aufmerksamkeit. Infolgedessen sind die folgenden Funktionalitäten relevant:
+
+- Erkennung des toten Winkels
+- Hinderniserkennungssystem
+- Kollisionswarnsystem
+- Navigation/Routenführung
+- Spurhaltesystem
+- Nachtsichtsystem
+- Fahrzeuginternes Beschilderungssystem
+- System zur Überwachung des Fahrzustandes
+- Stau- und Wetterwarnungen
+
+Darüber hinaus zeigte die Studie von Zahabi et al. (2021), dass ein auf Demonstrationen basierendes Training für ADAS für ältere Männer effektiver ist, während ein videobasiertes Training für ältere Frauen effektiver ist.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Es wird allgemein behauptet, dass wir in der Praxis derzeit die Automatisierungsstufe 2 (nach SAE-Klassifizierung, siehe Tabelle oben) erreicht haben, bei der das Fahrzeug zwar lenken und beschleunigen kann, aber immer noch nicht selbst fährt und Fahrer:innen die volle Verantwortung für das Fahrzeug tragen. Eine kürzlich von [Roland Berger]( https://www.rolandberger.com/en/Insights/Publications/Advanced-Driver-Assistance-Systems-A-ubiquitous-technology-for-the-future-of.html) durchgeführte Umfrage unter 80 globalen Herstellern, Automobilexperten, Zulieferern und 3.000 Fahrer:innen zeigt, dass 85 % der im Jahr 2025 weltweit produzierten Fahrzeuge mit mindestens Stufe 1 der Fahrautomatisierung ausgestattet sein werden. Gleichzeitig wird nicht damit gerechnet, dass bis dahin mehr als 1 % der Fahrzeuge mit der Automatisierungsstufe 4 oder 5 ausgestattet sein werden (Shirokinskiy et al., 2021). <br/>
+
+Darüber hinaus hat sich gezeigt, dass die derzeitige Pandemie die Gesamtentwicklung bei ADAS-Systemen verlangsamt und in einigen Fällen -17 % erreicht (Shirokinskiy et al., 2021). Eine weitere Herausforderung für die Industrie ist das Fehlen einer standardisierten Nomenklatur für ADAS-Funktionen, was einerseits die Verfolgung dieser Funktionen erschwert und andererseits das Verständnis der Fahrer:innen für die Funktionen erschwert. So ist beispielsweise die adaptive Geschwindigkeitsregelung (ACC) in Fahrzeugen von Fiat, Ford, Volkswagen und Peugeot als Adaptive Cruise Control, in Citroen und BMW als Intelligent Cruise Control und in Mercedes als DISTRONIC bekannt (Helman & Carsten, 2019). Im Mai 2020 gab die SAE eine [allgemeine ADAS-Terminologieempfehlung]( https://www.repairerdrivennews.com/2020/05/15/sae-international-endorses-generic-adas-terminology-recommendations/) heraus, um Standardisierungsprobleme zu lösen (Huetter, 2020).  
+
+### Relevante Initiativen in Österreich {-}
+
+- [Alp-lab](https://www.alp-lab.at/)
+- [Smartmicro.com](https://www.smartmicro.com/press-media/detail/smartmicro-sensors-deployed-in-austria)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table108, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|ADAS mildert die Auswirkungen altersbedingter Beeintraechtigungen|**+**|Gesundheit und Wohlbefinden (*3*)|Chalkiadakis et al., 2020|
+|Individuell|Erleichtert die Mobilitaet fuer aeltere Fahrer:innen|**+**|Gleichheit (*5,10*)|Chalkiadakis et al., 2020|
+|Systemisch|Erhoeht den Fahrkomfort, aber es gibt kaum eindeutige Beweise fuer die Auswirkungen auf die Sicherheit|**~**|Gesundheit und Wohlbefinden (*3*)|Sullivan et al., 2016|
+|Systemisch|Globale Trends in der ADAS-F&E|          **+**|Innovation und Infrastruktur (*9*)|Yochman, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table109, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|6-8|')
+```
+
+### Offene Fragen {-}
+1. Wie kann eine Standardisierung der ADAS-Nomenklatur gefördert und erreicht werden?
+2. Wie können die Auswirkungen der Verhaltensanpassung in größerem Umfang in die Gestaltung von ADAS einbezogen werden?
+
+### Weitere links
+
+- [ec.europa.eu](https://ec.europa.eu/transport/road_safety/sites/default/files/pdf/ersosynthesis2018-adas.pdf)
+- [aaafoundation.org](https://aaafoundation.org/wp-content/uploads/2017/12/BehavioralAdaptationADAS.pdf) 
+
+
+### Referenzen {-}
+-	Boelhouwer, A., Van den Beukel, A. P., Van der Voort, M. C., Hottentot, C., De Wit, R. Q., & Martens, M. H. (2020). How are car buyers and car sellers currently informed about ADAS? An investigation among drivers and car sellers in the Netherlands. Transportation Research Interdisciplinary Perspectives, 4, 100103.
+-	Capodieci, N., Cavicchioli, R., Muzzini, F., & Montagna, L. (2021). Improving emergency response in the era of ADAS vehicles in the Smart City. ICT Express.
+-	Chalkiadakis, C., Mitsakis, E., & Tzanis, D. (2020, September). Requirements for the development and implementation of ADAS and C-ITS services for older drivers. In 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC) (pp. 1-6). IEEE.
+-	Harms, I. M., Bingen, L., & Steffens, J. (2020). Addressing the awareness gap: A combined survey and vehicle registration analysis to assess car owners’ usage of ADAS in fleets. Transportation Research Part A: Policy and Practice, 134, 65-77.
+-	Helman, S. & Carsten, O. (2019) What does my car do? Available at: <https://www.pacts.org.uk/wp-content/uploads/What-does-my-car-do-2.1_.pdf> [Accessed: 31 May 2021].
+-	Huetter, J. (2020) SAE International endorses generic ADAS terminology recommendations. Available at < https://www.repairerdrivennews.com/2020/05/15/sae-international-endorses-generic-adas-terminology-recommendations/> Accessed: 31/05/2021
+-	Hungund, A. P., Pai, G., & Pradhan, A. K. (2021). Systematic Review of Research on Driver Distraction in the Context of Advanced Driver Assistance Systems. Transportation Research Record, 03611981211004129.
+-	Orlovska, J., Novakazi, F., Lars-Ola, B., Karlsson, M., Wickman, C., & Söderberg, R. (2020). Effects of the driving context on the usage of Automated Driver Assistance Systems (ADAS)-Naturalistic Driving Study for ADAS evaluation. Transportation research interdisciplinary perspectives, 4, 100093.
+-	Samsara.com (2020). Advanced Driver Assistance Systems (ADAS) for Commercial Fleets. Available at:< https://www.samsara.com/guides/adas> [Accessed: 28 April 2021]. 
+-	Shirokinskiy, K., Bernhart, W. and Keese, S., 2021. Advanced Driver-Assistance Systems: A ubiquitous technology for the future of vehicles.  Roland Berger. Available at: <https://www.rolandberger.com/en/Insights/Publications/Advanced-Driver-Assistance-Systems-A-ubiquitous-technology-for-the-future-of.html> [Accessed: 31 May 2021].
+-	Shuttleworth, J. (2019). SAE Standards News: J3016 automated-driving graphic update. Available at: <https://www.sae.org/news/2019/01/sae-updates-j3016-automated-driving-graphic> [Accessed: 28 April 2021].
+-	Storsæter, A. D., Pitera, K., & McCormack, E. (2021). Using ADAS to Future-Proof Roads—Comparison of Fog Line Detection from an In-Vehicle Camera and Mobile Retroreflectometer. Sensors, 21(5), 1737.
+-	Sullivan, J. M., Flannagan, M. J., Pradhan, A. K., & Bao, S. (2016). Literature review of behavioral adaptations to advanced driver assistance systems.
+-	Tian, J., Liu, S., Zhong, X., & Zeng, J. (2021). LSD-based adaptive lane detection and tracking for ADAS in structured road environment. Soft Computing, 25(7), 5709-5722.
+-	Tsai, W. C., Lai, J. S., Chen, K. C., M Shivanna, V., & Guo, J. I. (2021). A lightweight motional object behavior prediction system harnessing deep learning technology for embedded adas applications. Electronics, 10(6), 692.
+-	Yochman, F. (2020) Top automakers with highest ADAS and autonomous vehicles R&D spending. Available at: < https://m14intelligence.com/public/index.php/blog/34> [Accessed: 31 April 2021].
+-	Zahabi, M., Razak, A. M. A., Mehta, R. K., & Manser, M. (2021). Effect of advanced driver-assistance system trainings on driver workload, knowledge, and trust. Transportation research part F: traffic psychology and behaviour, 76, 309-320.
+
+
+## Einparkhilfe-System {#parking_assistance}
+
+### Definition {-}
+Heutzutage wird das Einparken von Autos zu einer immer schwierigeren Aufgabe, da die Fahrzeuge immer größer werden und die Sicht nach hinten und vorne immer schlechter wird. Außerdem nimmt die Zahl der Fahrzeuge auf der Straße weiter zu, was die Suche nach Parkplätzen erschwert. Um diese Herausforderung zu bewältigen, sind effiziente und fortschrittliche Einparktechniken erforderlich, die z. B. den richtigen Parkplatz finden und Autos effizient einparken (Khalid et al., 2021). <br/><br/>
+Während in den 1990er Jahren Einparkhilfesysteme nicht als notwendig erachtet wurden, sind Systeme, die den Einparkvorgang unterstützen, heute Standard in neuen Fahrzeugen und haben eine hohe Akzeptanzrate. Während Parkassistenzsysteme der ersten Generationen vor allem informativ waren, helfen diese Systeme heute bei der Suche nach einer geeigneten Parklücke und unterstützen die Lenkung während des Einparkmanövers. Zukünftige Systeme werden noch automatisierter werden, bis hin zu dem Punkt, dass sie ihren Parkplatz ohne menschliches Zutun finden (Automated Valet Parking) (Gotzig, 2016). <br/>
+
+Im Hinblick auf die Sicherheit können Parkassistenzsysteme Versicherungsschäden, die bei Einparkmanövern auftreten, um 30 % reduzieren (ADAC, 2020). Außerdem bieten sie mit dem Notbremsassistenten eine nützliche Anwendung, die Unfälle mit anderen Verkehrsteilnehmer:innen beim Rückwärtsfahren verhindert (ADAC, 2019). <br/>
+
+Moderne Einparkassistenten arbeiten mit zwei Sensorkonzepten: Ultraschallsensoren für den Nahbereich am Heck (oft schon als "Parkpiepser" eingebaut) und Radarsensoren mit größerer Reichweite seitlich im Stoßfänger (ADAC, 2019). Zusätzlich gibt es auch Neuerscheinungen mit 360°-Sicht um das Auto herum (Land Rover, ohne Datum; Mercedes-Benz, ohne Datum). Allerdings gibt es dazu derzeit noch keine Tests.
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Autofahrer:innen, Verkehrsteilnehmer:innen, Versicherungen
+- **Verantwortliche**: Autohersteller 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung im Bereich der bordeigenen Parksysteme wird fast ausschließlich von den Automobilherstellern betrieben. Die Forschung konzentriert sich eher auf größere Themen wie die Verfolgung des Standorts des Fahrzeugs, Platzbuchungssysteme mit Hilfe des Internet der Dinge und Staus, die durch *Parkkreuzungen* verursacht werden.<br/> <br/>
+Darüber hinaus werden Tests zur Verschmelzung von Notbremsassistent und Einparkassistent durchgeführt, um die Schwierigkeiten bei der Hinderniserkennung zu überwinden und die Kollisionsrate in dieser speziellen Situation zu verringern. Der ADAC hat die AEB-Systeme (Autonomated Emergency Braking) von Mercedes, Volvo, BMW, Seat und Skoda in drei Testszenarien getestet: *(1)* ein Fußgänger -Dummy steht hinter einem Auto oder geht vorbei, *(2)* ein Auto parkt in Fahrtrichtung und *(3)* Radfahrer sowie Autos fahren quer vorbei. <br/> <br/>
+BMW reagierte in allen Situationen am besten mit Radar und Ultraschall - mit einigen Aussetzern, vor allem bei sich bewegenden Fußgänger:innen oder Querverkehr. Der Mercedes hingegen nutzte seine seitlichen Radarsensoren nur zum Rückwärtsbremsen und erkannte daher stehende Fahrzeuge gar nicht. Das VW-System von Skoda und Seat verfügte zwar über Radar und Ultraschall, aber bewegte Fußgänger:innen wurden nur zufällig oder gar nicht erkannt.<br/><br/> 
+Insgesamt zeigten diese Tests, dass die automatisch bremsenden Einparkassistenten zwar viel Potenzial haben, aber noch lange nicht optimal sind. Selbst die Systeme der Spitzenreiter arbeiten noch nicht 100%ig zuverlässig. Aber auch die preiswerten Ultraschallsensoren können sehr effektiv sein und sogar Fußgängerkollisionen verhindern, wie der BMW im Test zeigte. Deshalb ist es wichtig, dass die Hersteller ihre Fahrzeuge serienmäßig mit einem wirksamen AEB-System ausstatten. Die notwendige Technik ist in den meisten Pkw bereits vorhanden, wobei die hinteren Ultraschallsensoren mit der Bremsfunktion verknüpft werden müssten (ADAC, 2019). 
+Die größten Schwierigkeiten treten bei der Fußgängererkennung auf, also in den Szenarien, in denen das Risiko von Personenschäden potenziell am höchsten ist. Einige der getesteten Fahrzeuge erkannten die Gefahrensituation zu spät oder gar nicht.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Fast 50 Prozent der Autos in Deutschland sind inzwischen mit Einparkhilfen ausgestattet. Dennoch zeigen die Ergebnisse einer Studie der HUK-Coburg, Deutschlands größter Kfz-Versicherung mit elf Millionen versicherten Autos, dass die Zahl der Blechschäden nicht zurückgegangen ist und die Schadenskosten sogar leicht gestiegen sind. Grund dafür ist die Beschädigung des teuren, im Stoßfänger integrierten Sensors der Park Distance Control (PDC), wenn das Fahrzeug beim Einparken auf ein Hindernis prallt (Focus Online, 2017).<br/> <br/>
+Im Jahr 2017 ereigneten sich in Österreich 570 Unfälle mit Personenschaden beim Rückwärtsfahren mit Pkw. Dabei gab es keine Todesopfer, aber rund 290 Personen wurden verletzt, 60 davon schwer. Hinzu kommt ein hoher Anteil an Sachschäden durch das Übersehen von Hindernissen (ÖAMTC, 2019).<br/> <br/>
+Unterschiedlichen Quellen zufolge sind zwischen 23% und 46% der Autos in Deutschland mit einem On-Board-Parkassistenten ausgestattet (Focus Online, 2017). Dagegen sind nur 13 % der Fahrzeuge mit einem Notbremsassistenten ausgestattet, der bei einer drohenden Kollision mit dem vorausfahrenden Fahrzeug automatisch bremst oder sogar Fußgänger:innen und Radfahrer:innen erkennt. Eine vom Deutschen Verkehrssicherheitsrat durchgeführte Umfrage unter 1.000 Befragten ergab, dass 85 % der Befragten den Notbremsassistenten als sehr nützlich und 65 % den Parkassistenten als sehr nützlich einstufen (Handelsblatt, 2016).<br/> <br/>
+Die derzeit fortschrittlichste Technologie in Bezug auf die Einparkhilfe bietet der Tesla S. Das System ist völlig automatisiert und ermöglicht es dem Auto, sich selbst aus einer engen Lücke herauszufahren, ohne dass Fahrer:innen eingreifen müssen. Es ist jedoch davon auszugehen, dass die Technologie auch von anderen Herstellern angeboten wird und sich in den kommenden Jahren rasch verbessern wird. Ein Grund dafür ist, dass Einparkassistenten mit Bremseingriff ab 2020 Teil des europäischen Fahrzeugtestprogramms Euro NCAP sein werden. In der Vergangenheit hat sich gezeigt, dass die Aufnahme von aktiven und passiven Pkw-Sicherheitssystemen in dieses Programm die Ausstattungsrate der Fahrzeuge rasch erhöht (ÖAMTC, 2019).
+
+ 
+### Relevante Initiativen in Österreich {-}
+
+- [oeamtc.at](https://www.oeamtc.at/tests/assistenzsystemtest/fuenf-parkassistenten-mit-notbremssystem-im-test-31717317) 
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table56, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Weniger Verkehrsunfaelle beim Parken|**+**|Gesundheit und Wohlbefinden (*3*)|ADAC, 2019|
+|Individuell|Hoehere Kosten im Falle einer Kollision|**-**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Focus Online, 2017|
+|Systemisch|Neue Konzepte getestet|          **+**|Innovation und Infrastruktur (*9*)|Euro NCAP, 2021|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table57, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|8-9|')
+```
+
+### Offene Fragen {-}
+1. Wie können die Akzeptanz und die Benutzerfreundlichkeit bei Fahrer:innen, insbesondere bei älteren Menschen, erhöht werden?
+2. Welche rechtlichen Auswirkungen hat die Nutzung des assistierten Parkens sowohl für die Fahrer:innen als auch für die Automobilhersteller?
+
+### Referenzen {-}
+- ADAC. (2019, May 14). Parkassistenten im Test: Noch nicht gut genug. https://presse.adac.de/meldungen/adac-ev/tests/parkassistent.html
+- ADAC. (2020, January 9). Fahrerassistenzsysteme im Überblick | ADAC. https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/assistenzsysteme/fahrerassistenzsysteme/
+- Euro NCAP. (2021). http://www.euroncap.com (Accessed: 26 February 2021)
+- Focus Online. (2017, April 27). Einparkhilfen bringen nichts - sondern verursachen mehr Schaden - FOCUS Online. https://www.focus.de/auto/news/untersuchung-der-huk-coburg-studie-einparkhilfe-hilft-nicht-sie-versucht-eher-mehr-schaden_id_7035248.html
+- Gotzig, H. (2016). Parking Assistance. In H. Winner, S. Hakuli, F. Lotz, & C. Singer (Eds.), Handbook of Driver Assistance Systems: Basic Information, Components and Systems for Active Safety and Comfort (pp. 1077–1092). Springer International Publishing. https://doi.org/10.1007/978-3-319-12352-3_45
+- Handelsblatt. (2016, April 8). Umfrage zu Assistenzsystemen : Einparkassistent nützlich, Notbremsassistent nützlicher. https://www.handelsblatt.com/auto/nachrichten/umfrage-zu-assistenzsystemen-einparkassistent-nuetzlich-notbremsassistent-nuetzlicher/13404708.html?ticket=ST-4955434-naHBLAxI66h66nbvrBXF-ap1
+- Khalid, M., Wang, K., Aslam, N., Cao, Y., Ahmad, N., & Khan, M. K. (2021). From smart parking towards autonomous valet parking: A survey, challenges and future Works. Journal of Network and Computer Applications, 175, 102935. https://doi.org/https://doi.org/10.1016/j.jnca.2020.102935
+- Land Rover. (n.d.). Parking Assistance | InControl | Land Rover UK. Available at: https://www.landrover.co.uk/incontrol/driver-safety-and-assistance/parking-assistance.html [Accessed: 25 February 2021]
+- Margreiter, M., Mayer, P., Alpas, M., & Vlahogianni, E. (2017). Driver’s Willingness to Use Parking Assistance Tools and their Expectations: A Case Study for the Cities of Munich and Athens. In 8th International Congress on Transportation Research.
+- Mercedes-Benz. (n.d.). Mercedes-Benz X-Klasse: Park-Paket mit 360°-Kamera. Available at: https://www.mercedes-benz.at/passengercars/mercedes-benz-cars/models/x-class/x-class-pickup/facts-and-lines/equipment-packages/360-camera.html [Accessed: 25 February 2021]
+- Tsugawa, S. (2006). Trends and issues in safe driver assistance systems: Driver acceptance and assistance for elderly drivers. IATSS research, 30(2), 6-18.
+- ÖAMTC. (2019, May 14). ÖAMTC: Fünf Parkassistenten mit Notbremssystem im Test (+ Fotos, + Grafik) | ÖAMTC, 14.05.2019. https://www.ots.at/presseaussendung/OTS_20190514_OTS0021/oeamtc-fuenf-parkassistenten-mit-notbremssystem-im-test-fotos-grafik
+
+## Spurhalte-Assistent {#lane_keeping}
+
+### Synonyme {-}
+*Spurhalte-Assistent (LKAS - Lane Keeping Assist System), Spurhalte-Assistent (LKA)*
+
+### Definition {-}
+Der Spurhalteassistent überwacht die Fahrbahnmarkierungen und verwendet in der Regel eine Kamera hinter der Windschutzscheibe, um das Fahrzeug in der Fahrspur zu halten und so die Fahrer:innen zu entlasten. Derzeit gibt es verschiedene Systeme, die nicht alle gleich sind (Autonationdrive, 2019): 
+
+- **Spurhalteassistent (Lane Departure Warning, LDW)**: Akustische oder visuelle Warnungen signalisieren den Fahrer:innen, dass sich das Fahrzeug den Fahrbahnmarkierungen nähert oder diese überqueren könnte.
+- **Road Departure Assist (RDA)**: Ein automatisches Lenksystem, das auch ein automatisches Bremssystem umfassen kann, hält das Fahrzeug auf der Fahrbahn.
+- **Spurhalte-Assistent (Lane Keeping Assist - LKA)**: Ein automatisches Lenksystem, das auch ein automatisches Bremssystem enthalten kann, hält das Fahrzeug in der Fahrspur.
+- **Spurführungsassistent (Lane Centering Assist - LCA)**: Ein automatisches Lenksystem, das auch ein automatisches Bremssystem umfassen kann, um das Fahrzeug in der Mitte der Fahrspur zu halten.
+
+Der Hauptunterschied zwischen diesen beiden Systemen besteht darin, dass der LDW die Fahrer:innen beim Überfahren der Fahrbahnmarkierung durch verschiedene sensorische Hinweise wie taktile, visuelle oder akustische Signale informiert, während der LKAS die Fahrer:innen durch die Anpassung der Lenkradbewegungen in Abhängigkeit vom Abstand zur Fahrbahnmarkierung auf beiden Seiten dabei unterstützt, in der Fahrspur zu bleiben. Die Systeme können reaktiv oder proaktiv arbeiten, d. h. das Fahrzeug wird reaktiv auf die Spur zurückgeführt, wenn es beginnt, die Fahrspur zu verlassen, bzw. proaktiv in der Mitte der Fahrspur gehalten. Es wird in der Regel von den Fahrer:innen aktiviert und funktioniert bei Geschwindigkeiten zwischen 65 km/h und 180 km/h und einem Radius von 230 m. Daher eignet es sich am besten für Autobahnen und Schnellstraßen, weniger jedoch für Stadt- oder Landstraßen. Auch wenn das LKAS aktiviert ist, bleiben Fahrer:innen für die Kontrolle des Fahrzeugs verantwortlich. Daher prüft LKAS ständig, welche Lenkbewegungen Fahrer:innen ausführen und sie die Hände am Lenkrad hatten. Stellt das System fest, dass Fahrer:innen nicht aktiv lenken, gibt es eine Warnung aus und schaltet sich ab. Auf diese Weise wird sichergestellt, dass Fahrer:innen stets die Kontrolle über das Fahrzeug behalten. Außerdem können Fahrer:innen das LKAS jederzeit außer Kraft setzen. So deaktiviert sich LKAS zum Beispiel automatisch beim Bremsen und beim absichtlichen Aufladen der Fahrspur durch den Einsatz von Blinkern (VDA, 2021). 
+
+
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Allgemeinheit, Autofahrer:innen, Straßeninfrastrukturunternehmen, Versicherungen
+- **Verantwortliche**: Automobilhersteller, Verkehrsbehörden, nationale Regierungen und internationale Einrichtungen (z. B. EU oder [UNECE](https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R079r4e.pdf))
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+In der aktuellen Forschung werden neue Ansätze für die Entwicklung von Spurhalteassistenten erforscht, wie etwa der Einsatz des globalen Satellitennavigationssystems (Tominaga et al., 2020), Deep Learning (Wang et al., 2020) oder neuronale Netztechniken (Yusuf et al., 2020). Darüber hinaus zielt sie auf die Validierung und Verbesserung von LKAS ab, indem sie die Auswirkungen des Systemdesigns (Lee et al., 2018) und unterschiedlicher Straßenbedingungen auf die Gesamtqualität der Spurhalteassistenz untersucht (Romano et al., 2020). Darüber hinaus wurde in einer Reihe von Studien das Potenzial der Einbeziehung von Fahrereigenschaften zur Entwicklung eines personalisierten Spurhalteassistenten untersucht. Eine weitere Studie von Weaver & Gonzalez (2020) konzentrierte sich auf den Einfluss von LKAS auf das Verhalten der Fahrer:innen und die Akzeptanz der LKAS-Technologie. Sie bestätigte nicht nur bestehende Erkenntnisse, dass mehr Erfahrung und Vertrautheit mit dem System die Akzeptanz und das Vertrauen erhöhen, sondern zeigte auch eine positive Reaktion von Personen, die noch keine Erfahrung mit LKAS hatten. 
+
+### Aktueller Stand der praktischen Umsetzung {-}
+In Europa ist die wichtigste Rechtsgrundlage für Spurhaltesysteme die [Verordnung (EU) 2019/2144]( https://op.europa.eu/en/publication-detail/-/publication/bfd5eba8-2058-11ea-95ab-01aa75ed71a1/language-en). die ihre Verwendung regelt. Daher bieten viele Autohersteller heute Fahrzeuge mit Spurhalteassistenten an, die zusammen mit anderen Systemen wie dem automatischen Tempomat oder der [Abstandsregelung](#distance_keeping) bereits ein hohes Maß an Automatisierung bieten. Einige der vielen Hersteller, die LKAS anbieten, sind [BOSCH]( https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/lane-keeping-assist/), [Honda](https://www.hondainfocenter.com/2021/CR-V/Feature-Guide/Interior-Features/Lane-Keeping-Assist-System-LKAS/), [Tesla]( https://www.tesla.com/de_DE/blog/more-advanced-safety-tesla-owners?redirect=no) oder [Ford](https://owner.ford.com/support/how-tos/safety/driver-assist-technology/driving/how-to-use-lane-keeping-system.html). <br/>
+
+In Bezug auf die Unfallverhütung hat der Spurhalteassistent ein enormes Potenzial, die Sicherheit im Straßenverkehr zu erhöhen, denn Daten der National Highway Traffic Safety Administration (NHTSA) aus dem Jahr 2011 zeigen, dass 53 % der Verkehrstoten auf ein Abkommen von der Fahrbahn zurückzuführen sind (Automotive World, 2013). Tatsächlich zeigen reale Daten aus Schweden, dass Unfälle, bei denen es zu einem Abkommen von der Fahrbahn kam, bei Fahrzeugen mit elektronischer Stabilitätskontrolle (ESC) um 40 % gegenüber 29 % bei Fahrzeugen ohne ESC reduziert wurden (Sternlung, 2018). <br/>
+
+Der größte Nachteil von Spurhaltesystemen ist die Tatsache, dass sie auf die visuelle Erkennung von aufgemalten Fahrbahnmarkierungen angewiesen sind, um effektiv zu funktionieren, weshalb jede Verschlechterung der Bedingungen, wie z. B. bei Nacht oder Regen, erhebliche Auswirkungen auf die Systemleistung hat (Tchir, 2019). 
+ 
+ 
+### Relevante Initiativen in Österreich {-}
+
+- [ertrac.org](https://www.ertrac.org/uploads/images/ERTRAC2019-Connected-Automated-Driving-Roadmap%20-2019-04-04.pdf)
+ 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table86, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Vermindertes Unfallrisiko; geringe Leistung bei suboptimalen Strassenverhaeltnissen|**~**|Gesundheit und Wohlbefinden (*3*)|Sterlund, 2018; Tchir, 2019|
+|Systemisch|Systeme werden kontinuierlich verbessert|**+**|Innovation und Infrastruktur (*9*) | Lawrence & Kareta, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table87, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|5-7|5-7|')
+```
+
+### Offene Fragen {-}
+
+1. Welche Auswirkungen haben Spurhaltesysteme auf die physische Infrastruktur (z. B. Kontrast und Farbe der Fahrbahnmarkierungen) und wie können diese verbessert werden, um die Wirksamkeit von Spurhaltesystemen zu erhöhen?
+2. Eine länderübergreifende Standardisierung von Straßenmarkierungen ist erforderlich, um ein gleiches Sicherheitsniveau zu gewährleisten.
+
+### Weitere links {-}
+
+- [mes-insights.com](https://www.mes-insights.com/automated-lane-keeping-systems-pave-the-autonomous-car-future-a-965712/)
+
+
+### Referenzen {-}
+-	Automotive World (2013) Latest Lane Keeping Assist technology from TRW goes into production. Available at: <https://www.automotiveworld.com/news-releases/latest-lane-keeping-assist-technology-from-trw-goes-into-production/> [Accessed: 7 April 2021].
+-	Autonationdrive (2019). Best Cars with Lane Assist. Available at: https://www.autonationdrive.com/research/best-cars-with-lane-assist.htm [Accessed: 7 April 2021]
+-	Lawrence, C. & Kareta, N. (2020). Automated Lane Keeping Systems pave the autonomous car future. Available at: < https://www.mes-insights.com/automated-lane-keeping-systems-pave-the-autonomous-car-future-a-965712/> [Accessed: 7 April 2021]
+-	Romano, R., Maggi, D., Hirose, T., Broadhead, Z., & Carsten, O. (2020). Impact of lane keeping assist system camera misalignment on driver behavior. Journal of Intelligent Transportation Systems, 1-13.
+-	Sternlund, S. (2018). The Safety Potential and Effectiveness of Lane Departure Warning Systems in Passenger Cars. Chalmers Tekniska Hogskola (Sweden).
+-	Tchir, J. (2019). The limitations of lane-keeping assist. Available at: https://www.theglobeandmail.com/drive/mobility/article-the-limitations-of-lane-keeping-assist/ [Accessed: 7 April 2021]
+-	Vda.de. 2021. VDA.  Available at: <https://www.vda.de/en/topics/safety-and-standards/lkas/lane-keeping-assist-systems.html> [Accessed: 30 March 2021].
+-	Wang, Q., Zhuang, W., Wang, L., & Ju, F. (2020). Lane Keeping Assist for an Autonomous Vehicle Based on Deep Reinforcement Learning (No. 2020-01-0728). SAE Technical Paper.
+-	Weaver, S., & Gonzalez, T. (2020). To Alert or Assist: Comparing Effects of Different Lateral Support Systems on Lane-Keeping (No. FHWA-HRT-20-068).
+-	Yusuf, M. M., Karim, T., & Saif, A. S. (2020, January). A robust method for lane detection under adverse weather and illumination conditions using convolutional neural network. In Proceedings of the International Conference on Computing Advancements (pp. 1-8).
+
+## Digitale Landkarten {#digital_maps} 
+
+### Synonyme {-}
+*Hochauflösende Karten (HD-Karten), Hochpräzisionskarten*
+
+### Definition {-}
+Digitale Karten sind elektronische Karten, die Daten von Global Positioning System (GPS), Light Detection and Ranging System (LiDAR), Radar und Fahrzeugsensoren sammeln und integrieren, um die Sicherheit von automatisierten und fahrerlosen Fahrzeugen durch die Implementierung von Künstlicher Intelligenz (KI) und Internet der Dinge (IoT) zu erhöhen (Kulkarni, 2021). Es handelt sich dabei um hochpräzise und detaillierte Karten auf Fahrspurebene, die das Ziel haben, virtuelle Assistenz für die extrem hohen Sicherheitsstandards während der Fahrt in AVs zu bieten (Zang et al., 2018). Insbesondere erhöhen sie die Informationen der Fahrzeugsensoren für die kontextbezogene Umgebungsanalyse, um die Durchführung von Manövern außerhalb des Erfassungsbereichs des Fahrzeugs zu unterstützen, indem sie eine sehr genaue Fahrzeugpositionierung und -orientierung in Kartenkoordinaten bieten. Die in AVs verwendeten digitalen Karten werden häufig als High-Definition-Karten (HD-Karten) bezeichnet, die eine extrem hohe (zentimetergenaue) Genauigkeit aufweisen und darauf ausgelegt sind, eines der größten Probleme des automatisierten Fahrens zu lösen, nämlich die Bestimmung der genauen Position eines Fahrzeugs in Echtzeit (Haydin, 2020). Derzeit wird geschätzt, dass der globale Markt für digitale Karten im Jahr 2023 eine jährliche Wachstumsrate (CAGR) von etwa 12,7 % erreichen wird, da die Nachfrage nach automatisierten Fahrzeugen steigt (Kulkarni, 2021). Die weltweite Entwicklung fahrerloser Autos und digitaler Karten birgt daher das Potenzial für die weitere Umsetzung und Entwicklung intelligenter Lösungen in der städtischen Infrastruktur.
+
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Nutzer:innen von AVs, Fahrer:innen von konventionellen Fahrzeugen, Fußgänger:innen, Radfahrer:innen
+- **Verantwortliche**: Nationale und lokale Regierungen, private Entwickler digitaler Kartensysteme, Automobilunternehmen, Automobilhersteller
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Der Haupttrend in der Forschung zu digitalen Karten für AV-Zwecke umfasst die Verbesserung ihrer Genauigkeit (vor allem in dichten städtischen Gebieten) und die Entwicklung von Ansätzen zur Aktualisierung der Änderungen der physischen Umgebung auf der Straße.<br/>
+
+In der Forschung von Jo et al. (2018) werden beispielsweise zwei Methoden zur Aktualisierung von HD-Karten mit aktuellen Änderungen der physischen Merkmale der realen Welt vorgeschlagen. Die erste Option beruht auf der Implementierung einer Ground-Mapping-Technologie, die alle Straßen in der Datenbank auf Merkmalsänderungen hin untersucht und diese dann erkennt. Diese Technologie ist jedoch nicht nur teuer, sondern funktioniert auch nur in einem begrenzten Gebiet. Die zweite Methode nutzt die Wahrnehmungs- und Lokalisierungsfunktionen von fahrerlosen Fahrzeugen, und zwar durch einen Algorithmus namens Simultaneous Localization and Map Change Update (SLAMCU). Folglich kann die Aktualisierung der Daten in vielen Fahrzeugen gleichzeitig durchgeführt werden, was ein erheblicher Vorteil dieser Methode ist. Außerdem wird keine zusätzliche Software benötigt, was diese Methode im Vergleich zur ersten Methode wesentlich kostengünstiger macht.<br/>
+
+Hartmann et al. (2018) befasst sich außerdem mit der Verbesserung der Genauigkeit digitaler Karten, wenn diese breiter eingesetzt werden sollen. Es wird ein Online-Verifizierungsansatz vorgeschlagen, der auf der Grundlage großer Datenbanken und Sensoren Veränderungen vor dem Auto erkennt. Die Datenbank sammelt Informationen über die Straßengeometrie und Geschwindigkeitsbegrenzungen in den Standardspezifikationen für die Schnittstelle von Fahrerassistenzsystemen (ADASIS - Advanced Driver Assistance Systems Interface Specifications). Dieser Ansatz bietet eine höhere Genauigkeit (96,64 %) im Vergleich zu den anderen Systemen. Die Autoren kamen zu dem Schluss, dass weitere Forschungsarbeiten erforderlich sind, um die Möglichkeiten und die Funktion dieses Systems vollständig zu untersuchen. 
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Derzeit gibt es eine Reihe von Navigationstechnologieunternehmen auf dem Markt, die HD-Karten für das automatisierte Fahren herstellen, wie [TomTom](https://www.tomtom.com/blog/automated-driving/how-we-make-our-hd-maps/), [Nvidia](https://www.nvidia.com/en-us/self-driving-cars/hd-mapping/), [DeepMap](https://www.deepmap.ai/), [Navinfo](https://www.navinfo.com/en), [Sanbord](https://www.sanborn.com/highly-automated-driving-maps-for-autonomous-vehicles/) und andere. 
+
+Dennoch stehen sie immer noch vor bestimmten Herausforderungen, darunter (Haydin, 2020):
+
+- **Verlust der Datenqualität**:  Geodaten haben oft proprietäre Formate, weshalb es für Automobilunternehmen schwierig ist, sie ohne Qualitätsverlust in ihrem ursprünglichen Format zu erfassen.
+- **Rechtliche Beschränkungen**: Es fehlt ein einheitliches, internationales Konzept für die Erhebung, Speicherung, gemeinsame Nutzung und Sicherung von Daten, was die Möglichkeiten zur weiteren Verbreitung und Nutzung der Daten untergräbt.
+- **Problem des Datenstroms**: Der Vorteil von HD-Karten liegt in der Bereitstellung der neuesten verfügbaren Informationen, wobei die Verzögerung zwischen dynamischen Straßenänderungen und dem Zeitpunkt ihres Erscheinens auf der Karte minimal sein sollte. Daher benötigen sie eine Hochgeschwindigkeitsbandbreite und Unterstützung für eine hohe Fahrzeugdichte, was die Möglichkeiten der derzeitigen[V2X-Technologie](#v2x) übersteigt. Es wird erwartet, dass die [5G-Technologie](#wireless_com) dieses Problem lösen wird.
+- **Fehlende Standardisierung**: Autohersteller (z. B. [BMW](https://www.bmw.com/en/automotive-life/autonomous-driving.html) oder [Ford](https://www.cnet.com/roadshow/news/argo-ai-argoverse-hd-maps-data-free-research/)) und Navigationstechnologieunternehmen produzieren ihre eigenen Karten mit ihren eigenen Datenformaten, was die Verbreitung von HD-Karten erheblich behindert.
+- **Hohe Kosten für die Kartierung**: Heutzutage sind die Kosten für die Herstellung von HD-Karten für die Automobilhersteller sehr hoch, vor allem aufgrund der Maschinenleistung und der Arbeitskosten. Es ist besonders schwierig, diese Kosten ohne Einbußen bei der technischen Qualität und Effizienz zu senken. 
+ 
+### Relevante Initiativen in Österreich {-}
+
+- [zf.com](https://www.zf.com/austria/de/home/home.html)
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r , echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Erhoehung der Verkehrssicherheit von AVs|**+**|Gesundheit und Wohlbefinden (*3*)|Infosysbpm.com, 2020|
+|Systemisch|Beitrag zur Entwicklung und Umsetzung von intelligenten Loesungen|**+**|Innovation und Infrastruktur (*9*) | Kulkarni, 2021|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r , echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|5-9|5-9|')
+```
+
+### Offene Fragen {-}
+1. Wie kann HD-Mapping in automatisierten Fahrzeugen die intelligente Infrastruktur in Städten beeinflussen?
+2. Wie und wann könnte HD-Kartenmaterial in öffentlichen Verkehrsmitteln eingesetzt werden, die für eine größere Zahl von Einwohner:innenn zugänglich sind?
+3. Wie lässt sich die Standardisierung von HD-Karten und Datenformaten zwischen Automobilherstellern und Navigationstechnologieunternehmen fördern?
+
+### Weitere links {-}
+
+- [Infosys](https://www.infosysbpm.com/offerings/functions/digital-business-services/insights/documents/mapping-autonomous-driving-future.pdf)
+- [Atlatec.de](https://atlatec.de/en/)
+
+
+### Referenzen {-}
+- Hartmann, O., Gabb, M., Schweiger, R., & Dietmayer, K. (2014, June). Towards autonomous self-assessment of digital maps. In 2014 IEEE Intelligent Vehicles Symposium Proceedings (pp. 89-95). IEEE.
+- Haydin, V. (2020). Solving the Challenges of HD Mapping for Smart Navigation in Autonomous Cars.  Available at: <https://www.intellias.com/solving-the-challenges-of-hd-mapping-for-smart-navigation-in-autonomous-cars/> [Accessed: 24 June 2021].
+- Infosysbpm.com (2020). Mapping the autonomous future. [pdf] Available at: <https://www.infosysbpm.com/offerings/functions/digital-business-services/insights/documents/mapping-autonomous-driving-future.pdf> [Accessed: 7 June 2021].
+- Jo, K., Kim, C., & Sunwoo, M. (2018). Simultaneous localization and map change update for the high definition map-based autonomous driving car. Sensors, 18(9), 3145.
+- Kulkarni, S., (2021). Digital Maps to hold the future of smart cities, autonomous cars, and much more.  Geospatial World. Available at: <https://www.geospatialworld.net/blogs/digital-maps-to-hold-the-future-of-smart-cities-autonomous-cars-and-much-more/> [Accessed: 7 July 2021].
+- Zang, A., Chen, X., & Trajcevski, G. (2018). High definition maps in urban context. Sigspatial Special, 10(1), 15-20.
+
+
+## Electronic horizon {#ehorizon}
+
+### Synonyme {-}
+*Connected horizon, e-horizon, EH*
+
+### Definition {-}
+Moderne Fahrzeuge sind heute mit verschiedenen Sensoren ausgestattet, um die Sicherheit und den Komfort beim Fahren zu erhöhen. Diese eingebauten Sensoren können jedoch in der Regel nur für eine kurze Strecke von einigen hundert Metern eingesetzt werden. Andererseits liefern die digitalen Karten im System Informationen über die Straße, wie z. B. ihre Geometrie, die Anzahl der Fahrspuren, Geschwindigkeitsbegrenzungen oder Verkehrszeichen. Durch die Verschmelzung der Funktionen der Sensoren und der von der Karte bereitgestellten Daten entstehen daher so genannte E-Horizon-Anwendungen, die Informationen von den Sensoren in einem erweiterten Bereich bereitstellen und eine frühere Vorbereitung auf eine bevorstehende Situation ermöglichen (Ress et al., 2008).<br/>
+
+Zu den Vorteilen des E-Horizonts gehören ein erhöhter Komfort durch teilautomatisierte Funktionen, ein verringertes Unfallrisiko durch mehr Informationen über vorausliegende Verkehrssituationen, ein geringerer Kraftstoffverbrauch durch vorausschauendes Fahren und eine höhere Reichweite bei Elektro- und Hybridfahrzeugen durch optimiertes Energiemanagement (Bosch-mobility-solutions.com, 2021). Nichtsdestotrotz steht der E-Horizont noch vor einigen Herausforderungen wie (Grewe et al., 2017):
+
+- *Geschwindigkeit der Daten*: in der Hochgeschwindigkeitsmobilität können Daten- oder Serviceanfragen nicht schnell genug beantwortet oder bereitgestellt werden, bevor das Fahrzeug eine neue Verbindung zu einem anderen Netzzugangspunkt herstellt;
+- *Datenmenge*: Es wird prognostiziert, dass beim vollautomatisierten Fahren täglich 4 TB an Daten anfallen (Nelson, 2016);
+- *Skalierbarkeit*: Das Systemdesign ist für eine kleine Anzahl von teilnehmenden Fahrzeugen relativ einfach, aber es kann zu Schwierigkeiten führen, sobald die Anzahl der Fahrzeuge und/oder Anwendungen steigt;
+- *Fragen der Sicherheit und des Datenschutzes*: Wie bei anderen vernetzten Systemen stellt sich die Frage des Datenschutzes, um Sicherheit und Qualität für die Kund:innen zu gewährleisten.
+ 
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Autofahrer:innen, Verkehrsteilnehmer:innen, Versicherungen
+- **Verantwortliche**: Automobilhersteller 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Software und Hardware werden unter verschiedenen Bedingungen wie unterschiedlichen Geschwindigkeiten und Fahrtunterbrechungen getestet, um Daten über die gesamte Informationskette von der GPS-Ortung bis zur e-Horizonterstellung zu sammeln. Auf der Grundlage der gesammelten Informationen optimieren die Ingenieure den Arbeitsablauf, bevor sie zu echten Testfahrten übergehen. Bei realen Testfahrten wird die Leistung der Anwendungen häufig in Grenzszenarien oder bei absichtlichen Fehlern überprüft (Ludwig, 2013). Darüber hinaus wird die Fahrsimulation genutzt, um die Auswirkungen von Sensorausfällen zu testen (Elgharbawy et al., 2019)
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Der elektronische Horizont ist eine relativ gut etablierte Technologie sowohl für Pkw als auch für Nutzfahrzeuge und wird von mehreren Herstellern angeboten, darunter [BOSCH](https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/connectivity-solutions/connected-horizon/), [TomTom]( https://www.tomtom.com/products/autostream/) in Zusammenarbeit mit [Electrobit]( https://www.elektrobit.com/products/automated-driving/eb-robinos/predictor/) und [Continental](https://www.continental.com/en/press/press-releases/continental-ehorizon-and-previewesc-systems-180356) in Zusammenarbeit mit dem Datentechnikunternehmen [IBM]( https://www.continental.com/en/press/press-releases/continental-and-ibm-enter-connected-vehicle-collaboration-8438) und [HERE]( https://360.here.com/2017/01/04/introducing-here-electronic-horizon/), einem Pionierunternehmen im Bereich der Ortungstechnologie (Continental, 2019). 
+ 
+### Relevante Initiativen in Österreich {-}
+
+- [gsv.co.at](https://gsv.co.at/wp-content/uploads/2015_05_06_Foersterling.pdf) 
+ 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table63, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Reduziertes Unfallrisiko|**+**|Gesundheit und Wohlbefinden (*3*)|Bosch-mobility-solutions.com, 2021; Continental, 2019|
+|Individuell|Geringerer Kraftstoffverbrauch|**+**|Nachhaltige wirtschaftliche Entwicklung (*7,12-13,15*)|Continental, 2019|
+|Systemisch|Groessere Reichweite fuer Hybrid- und Elektrofahrzeuge|**+**|Nachhaltige wirtschaftliche Entwicklung (*7,12-13,15*)|Bosch-mobility-solutions.com, 2021|
+|Systemisch|Innovative Forschung auf dem Weg zur vollstaendigen Automatisierung|**+**|Innovation und Infrastruktur (*9*) |Foersterling, 2015|
+|Systemisch|Kooperationen zwischen Automobil- und Technologieunternehmen|**+**|Partnerschaften und Kooperationen (*17*)|Continental, 2019; Foersterling, 2015|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table64, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|7-9|')
+```
+
+### Offene Fragen {-}
+
+1. Wie lässt sich die massive Mobilität von Fahrzeugen bewältigen?
+2. Wie skalieren die derzeitigen Ansätze, wenn die Zahl der Teilnehmer:innen und Dienste in diesem System steigt?
+3. Wie können anwendungs- oder nutzerspezifische Qualitätsanforderungen erfüllt werden?
+4. Wie lässt sich die Verfügbarkeit von Diensten und Daten sicherstellen, wenn diese außerhalb des Fahrzeugs bereitgestellt werden? (Grewe et al., 2017)
+
+
+### Weitere links {-}
+
+- [autotechreview.com](https://autotechreview.com/media/attachments/Technology_1_1.pdf)
+- [here.com](https://www.here.com/sites/g/files/odxslz166/files/2018-11/HERE_Electronic_Horizon_one_pager.pdf)
+- [scitepress.org](https://www.scitepress.org/Papers/2008/15080/15080.pdf)
+- [bosch-mobility-solutions.com](https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/connectivity-solutions/connected-horizon/)
+- [elektrobit.com](https://www.elektrobit.com/newsroom/tomtom-elektrobit-join-forces-electronic-horizon-automated-driving/)
+- [itsinternational.com](https://www.itsinternational.com/its10/products/continental-debuts-electronic-horizon)
+- [strategic-partnering.net](http://strategic-partnering.net/continental-ibm-enter-connected-vehicle-collaboration/)
+
+
+### Referenzen {-}
+- Bosch-mobility-solutions.com. (2021). Connected Horizon.  Available at: <https://www.bosch-mobility-solutions.com/en/products-and-services/passenger-cars-and-light-commercial-vehicles/connectivity-solutions/connected-horizon/> [Accessed: 1 March 2021].
+- Continental. (2019). Increased Safety Thanks to Anticipatory Technology: The Continental eHorizon and PreviewESC Systems.  Available at: <https://www.continental.com/en/press/press-releases/continental-ehorizon-and-previewesc-systems-180356> [Accessed: 1 March 2021].
+- Elgharbawy, M., Schwarzhaupt, A., Arenskrieger, R., Elsayed, H., Frey, M., & Gauterin, F. (2019). A testing framework for predictive driving features with an electronic Horizon. Transportation research part F: traffic psychology and behaviour, 61, 291-304.
+- Försterling, F. (2015) Electronic Horizon How the Cloud improves the connected vehicle.  Available at: https://gsv.co.at/wp-content/uploads/2015_05_06_Foersterling.pdf [Accessed: 1 March 2021].
+- Grewe, D., Wagner, M., Arumaithurai, M., Psaras, I., & Kutscher, D. (2017, August). Information-centric mobile edge computing for connected vehicle environments: Challenges and research directions. In Proceedings of the Workshop on Mobile Edge Communications (pp. 7-12).
+- Ludwig, J. (2013). Electronic Horizon—Forward-Looking Safety Systems. Auto Tech Review, 2(6), 44-48.
+- Nelson, P. (2016). Just one autonomous car will use 4,000 GB of data/day. (December 2016). http://www.networkworld.com/article/3147892/internet/ one-autonomous-car-will-use-4000-gb-of-dataday.html
+- Ress, C., Etemad, A., Kuck, D., & Requejo, J. (2008). Electronic horizon-providing digital map data for ADAS applications. In Proceedings of the 2nd International Workshop on Intelligent Vehicle Control Systems (IVCS) (pp. 40-49).
+
+
+## Automatischer Notruf {#ecall}
+
+### Synonyme {-}
+*Notrufzentrale für die öffentliche Sicherheit (Public-Safety Answering-Point - PSAP), E-call*
+
+### Definition {-}
+Der E-Call ist ein System, das nach einem Verkehrsunfall eine automatische Nachricht an die Rettungsdienste übermittelt, die den genauen Unfallort enthält. Der bordeigene e-Call ist ein Notruf, der entweder manuell von den Fahrzeuginsassen oder automatisch durch die Aktivierung der bordeigenen Sensoren nach einem Unfall ausgelöst wird. Sobald das bordeigene eCall-Gerät aktiviert wird, setzt es einen Notruf ab, der sowohl Sprache als auch Daten direkt an die nächstgelegene Notrufzentrale (in der Regel die nächstgelegene 112-Notrufzentrale) übermittelt. Über den Sprachanruf können die Fahrzeuginsassen mit den geschulten eCall-Mitarbeiter:innen kommunizieren. Gleichzeitig wird ein Mindestdatensatz an den eCall-Betreiber gesendet, der den Sprachanruf entgegennimmt (Europäische Kommission, 2020a). <br/>
+Die während eines eCalls übermittelten Mindestdaten sind (Kroher, 2020):
+
+- Zeitpunkt des Unfalls
+- die genauen Koordinaten des Unfallortes
+- die Fahrtrichtung (wichtig auf Autobahnen und in Tunneln)
+- die letzten beiden Fahrzeugpositionen
+- Fahrzeug-ID und Fahrzeugklasse
+- Art des Antriebs (z. B. Benzin, Elektro)
+- ID des Dienstanbieters
+- Anzahl der Insassen (anhand der angelegten Sicherheitsgurte)
+- ob der Notruf automatisch oder manuell ausgelöst wurde
+
+### Wichtige Interessensgruppen {-}
+- **Betroffene**: Autofahrer:innen, Rettungsdienste
+- **Verantwortliche**: Straßeninfrastruktur-Agenturen, lokale und nationale Regierungen, Automobilunternehmen, politische Entscheidungsträger:innen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung über Notrufe befasst sich mit ihrer Wirksamkeit bei der Verringerung der Zahl der Todesopfer bei Verkehrsunfällen. So kam eine schwedische Studie zu dem Schluss, dass 49 % der bei tödlichen Verkehrsunfällen ums Leben gekommenen Personen hätten überleben können. Insbesondere hätten 5 % von ihnen überlebt, wenn sie schneller gefunden worden wären, 12 %, wenn sie schneller in ein Krankenhaus gebracht worden wären, und 32 %, wenn sie schneller in ein modernes Traumazentrum gebracht worden wären (Henriksson et al., 2001). Die Erkenntnisse zeigen also, dass das Potenzial von eCalls, Leben zu retten, erheblich ist. Darüber hinaus schätzte eine Studie von Virtanen et al. (2006), dass durch die Verwendung eines e-Calls zwischen 4-8 % der Verkehrstoten und 5-10 % der Todesfälle unter den Fahrzeuginsassen in Finnland reduziert werden könnten. In anderen europäischen Ländern schwanken diese Schätzungen zwischen 2 % und 7 %, während die Schätzung für das gesamte EU-Gebiet mit 25 Mitgliedstaaten bis zu 15 % weniger Verkehrstote ergibt. Die Europäische Kommission schätzt, dass ein europaweites eCall-System das Potenzial hat, bei vollständiger Umsetzung bis zu 2500 Todesfälle pro Jahr in der EU-25 zu verhindern (Europäische Kommission, 2020a). Ein weiterer Forschungsstrang konzentriert sich auf die Erprobung verschiedener Designs von eCall-Systemen und zielt auf deren Standardisierung in den Mitgliedsländern der Europäischen Union ab. Einheitliche Rechtsvorschriften betreffen insbesondere das Kommunikationsprotokoll und die Datenmenge, die von einem e-Call bereitgestellt wird, sowie dessen Inhalt und Format (Europäische Kommission, 2020a).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Seit Ende März 2018 müssen die Hersteller in der EU alle neuen Modelle von Personenkraftwagen und leichten Nutzfahrzeugen mit E-Call ausstatten (Bundesministerium für Verkehr, ohne Datum). Doch auch wenn die Fahrzeuge mit einem E-Call-System ausgestattet sind, bauen einige Autohersteller zusätzlich eigene Notrufsysteme ein. Die Verwendung herstellerspezifischer e-Call-Systeme anstelle eines standardisierten Systems verschafft den Automobilherstellern einen Vorteil und schafft die Möglichkeit, die Daten an externe "unfallbezogene" Anbieter wie Abschleppdienste weiterzugeben oder Dienstleistungen im Bereich der Kundenbetreuung nach einem Unfall anzubieten, z. B. Fahrzeugreparaturen oder Ersatzfahrzeuge.<br/><br/>
+Ungeachtet der Vorteile für die Automobilhersteller sind die Ergebnisse der Crashtests des europäischen Neuwagenbewertungsprogramms *Euro NCAP* im *ADAC Technik Zentrum* alarmierend. Demnach wurden Herstellernotrufe teilweise erst 58 Sekunden nach Auslösung der Airbags von der Notrufzentrale beantwortet. Dies zeigt, dass die Nutzung des herstellerspezifischen e-Calls die medizinische Versorgung tatsächlich verzögert (im Vergleich zum 112 e-Call), bei dem aus den übermittelten Standortdaten zunächst die Position des Autos ermittelt werden muss, um sie dann an die eigentlich zuständige Rettungsleitstelle vor Ort weiterzuleiten. Jedoch kann nur die Rettungsleitstelle einen Rettungswagen losschicken. Im Falle eines Unfalls würde durch dieses indirekte Verfahren wertvolle Zeit verloren gehen.<br/><br/>
+Dennoch nutzen viele Fahrzeuge immer noch diesen von der EU zugelassenen herstellerspezifischen E-Call, der zunächst die Leitstelle des Autoherstellers oder dessen Dienstleister und nicht die 112 direkt informiert. Laut einer ADAC-Umfrage bevorzugen vor allem die deutschen Hersteller einen herstellerspezifischen Notruf anstelle des 112 e-Call, während andere Automobilhersteller, die an der Umfrage teilnahmen, nur auf den 112 e-Call zurückgreifen.<br/><br/>
+Andererseits wird das System aufgrund von Datenschutzbedenken von vielen Autofahrer:innen skeptisch gesehen. Nach Ansicht des ADAC gibt es dafür jedoch keinen Grund. Der 112 e-Call loggt sich nach einem schweren Unfall nur ins Mobilfunknetz ein und sendet dann Daten an die Rettungsleitstelle, nicht an den Hersteller. Der 112 e-Call zeichnet auch keine Daten im Auto auf. Für Gesetzgeber und Hersteller ergeben sich laut ADAC nun folgende Handlungsschritte (Kroher, 2020):
+
+- Der 112-eCall sollte für alle neuen Fahrzeuge verpflichtend sein, nicht nur für neue Typgenehmigungen.
+- Der in vielen Modellen bereits eingebaute herstellerspezifische Notruf sollte ohne großen Aufwand auf den 112-eCall umgestellt werden können.
+- Um Fahrer:innen besser über die Unterschiede zwischen dem 112-eCall und dem herstellerspezifischen Notruf zu informieren, sollte eine detaillierte Beschreibung der Funktion einschließlich des Inhalts des MSD (Minimum Set of Data, die übermittelten Daten) im Bordhandbuch und auch im Display des Fahrzeugs verfügbar sein.
+- Wenn der 112-eCall und der Herstellernotruf parallel im Fahrzeug verfügbar sind, sollten Fahrer:innen das Recht haben, seinen bevorzugten Dienstanbieter zu wählen. Da viele Verbraucher:innen diesbezüglich unsicher sind, wäre es ratsam, den 112-eCall standardmäßig im Fahrzeug voreinzustellen.
+- Bei Verwendung des Herstellernotrufs sollte der Unfall ohne Verzögerung an die Rettungsleitstelle gemeldet werden, um schnellstmögliche Hilfe zu ermöglichen.
+- Der im 112-eCall übermittelte Datensatz (MSD) sollte um Informationen (z. B. Beschleunigungswerte) erweitert werden, die es den Rettungsleitstellen ermöglichen, die Art und Schwere der Verletzungen automatisch vorherzusagen und so die Rettungskräfte angemessen zu alarmieren.
+- Um eine in der Fahrzeugflotte installierte eCall-Technologie über die gesamte Lebensdauer der Fahrzeuge im Notfall nutzen zu können, ist es notwendig, die 2G/3G-Netze aufrechtzuerhalten.
+ 
+### Relevante Initiativen in Österreich {-}
+In Austria, the handling of emergency calls falls under the responsibility of the Ministry of the Interior.
+In the project *E-Call Austria*, the E-Call system is to be implemented in Austria. The measures include the testing, implementation and certification of the emergency call answering points in Austria. The new Public-Safety Answering Points (PSAP) in all nine federal states will then be in line with the requirements of EU regulations (Regulation (EU) No 305/2013; provision of an EU-wide e-call service).
+
+- [bmi.gv.at](https://www.bmi.gv.at/209/start.aspx) 
+- [oeamtc.at](https://www.oeamtc.at/thema/ecall/) 
+- [austriatech.at](https://austriatech.at/de/wenn-es-schnell-gehen-muss-ecall-macht-die-strasse-sicherer/) 
+- [oe1.orf.at](https://oe1.orf.at/artikel/644731/eCall-der-automatische-Autonotruf-und-seine-Nachteile) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table34, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Weniger Todesopfer im Strassenverkehr|**+**|Gesundheit und Wohlbefinden (*3*)|European Commission, 2020a|
+|Systemisch|         Unverhaeltnismaessig hohe Anpassungskosten fuer e-Call|          **-**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|European Commission, 2020a|
+|Systemisch|Universelle Notrufnummer in der EU (112) |**+**|Partnerschaften und Kooperationen (*17*)|European Commission, 2020b|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table35, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|6-9|')
+```
+
+### Offene Fragen {-}
+1. Wie ist der aktuelle Stand der Umsetzung in den einzelnen EU-Mitgliedstaaten?
+2. Sind Autokäufer:innen ausreichend über den Unterschied zwischen herstellerspezifischem Notruf und 112 e-Call informiert? Und wenn nicht, wie lässt sich das Problem lösen?
+3. Wie lange dauert es, bis der e-Call seine volle Wirkung entfaltet, wenn man bedenkt, wie viele "ältere" Autos auf den Straßen unterwegs sind, die nicht mit e-Call ausgestattet sind?
+
+### Weitere links {-}
+
+- [ec.europa.eu](https://ec.europa.eu/transport/road_safety/specialist/knowledge/esave/esafety_measures_unknown_safety_effects/ecall_en) 
+
+### Referenzen {-}
+-	Bundesministerium für Verkehr, I. und T. (BMVIT). (n.d.). eCall Austria. Available at: https://www.bmi.gv.at/209/start.aspx [Accessed:10 February 2021]
+-	European Commission. (2020a). Air | Mobility and Transport. European Commission. https://ec.europa.eu/transport/road_safety/specialist/knowledge/esave/esafety_measures_unknown_safety_effects/ecall_en
+-	European Commission. (2020b, October 29). eCall – Kraftfahrzeugassistenzsystem für Notrufe an die europäische Notrufnummer 112 - Your Europe. https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency-assistance-vehicles-ecall/index_de.htm
+- Henriksson, E. M., Oström, M., & Eriksson, A. (2001). Preventability of vehicle-related fatalities. Accident Analysis and Prevention, 467-475
+-	Kroher, T. (2020, November 25). eCall: Probleme beim automatischen Notrufsystem | ADAC. https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/unfall/ecall-herstellernotruf/
+- Virtanen, N., Schirokoff, A., Luoma, J., & Kulmala, R. (2006). Impacts of an automatic emergency call system on accident consequences, Ministry of Transport and Communications Finland Finnish R&D Programme on Real-Time Transport Information AINO

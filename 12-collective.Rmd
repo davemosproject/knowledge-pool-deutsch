@@ -1,0 +1,527 @@
+# Fahrzeuge der kollektiven Mobilität {#collective}
+
+## Bedarfsgesteuerte Verkehrssysteme (DRT – Demand Responsive Transit) {#drt}
+
+### Synonyms {-}
+*Mikro-ÖPNV, Pläne für nachhaltige städtische Mobilität (SUMP - Sustainable Urban Mobility Plans), Europäische Struktur- und Investitionsfonds (ESIF), Informations- und Kommunikationstechnologie (IKT)*
+
+### Definition {-}
+Bedarfsgesteuerte Verkehrssysteme (DRT) erbringen Verkehrsdienste auf Anfrage eines Fahrgastes. Zur Entgegennahme von Anfragen werden moderne Telekommunikationstechnologien eingesetzt (über Websites, SMS, mobile Apps und seltener über Telefonanrufe). Diese Systeme sind ein Mittelding zwischen Routing-Systemen und Taxidiensten und unterscheiden sich in extremen Ausprägungen kaum von diesen. DRT-Systeme bieten durch den Einsatz unterschiedlicher Technologien und Organisationsprinzipien eine flexible, bedarfsgerechte Bereitstellung von Verkehrsdienstleistungen (Gorev et al., 2020). DRT wurde in erster Linie als Lösung für Menschen mit eingeschränkter Mobilität gesehen, aber die Ausrichtung auf neue Nutzergruppen und die Kombination mit neuen IKT-Systemen und Verkehrsmanagementinstrumenten ist ein innovativer und effektiver Ansatz. Diese neue Form der Mobilität kann den europäischen Regionen viele Vorteile bringen, z. B. Kosteneinsparungen, weniger Staus auf den Straßen und Emissionsreduzierungen, und gleichzeitig die Lebensqualität der Bürger:innen verbessern. DRT-Systeme sind an nahezu jede Region anpassbar, wobei zahlreiche Parameter geändert werden können, um verschiedenen regionalen Szenarien gerecht zu werden (Hunkin & Krell, 2018):
+
+-	DRT-Systeme müssen in der Regel von einer öffentlichen Behörde initiiert werden. Es liegt in der Natur der Sache, dass potenzielle Nutzergruppen oft verstreut und zersplittert sind, was es für private Betreiber schwierig macht, sie zu identifizieren. Die Regionen sollten eine Bestandsaufnahme der Leistungsfähigkeit ihrer Verkehrssysteme vornehmen und prüfen, wo öffentliche Verkehrsmittel zu welchen Kosten genutzt werden, um festzustellen, wo die Nutzung eines DRT-Systems kostengünstiger und umweltfreundlicher sein könnte.
+-	Pläne für nachhaltige urbane Mobilität sollten entwickelt oder modifiziert werden, um den ÖPNV einzubeziehen und dabei die Verknüpfung mit anderen Verkehrsträgern zu berücksichtigen. Der Prozess sollte von einer einzigen Verkehrsbehörde beaufsichtigt werden, die klare Ziele für einen kohlenstoffarmen Verkehr festlegt, um die langfristige Richtung vorzugeben.
+-	Der federführende Partner von DRT-Initiativen muss alle Interessengruppen zusammenbringen und den Prozess der Zusammenarbeit steuern. Es ist die Aufgabe der Behörde, die langfristigen Ziele zu berücksichtigen und Vorgaben zu machen, um umfassendere politische Ziele zu erreichen.
+-	DRT muss attraktiv und bequem gemacht werden, wenn es eine breite Wirkung haben soll. Die Kommunikation sollte sich auf die vielfältigen Vorteile des ÖPNV konzentrieren, und die IKT sollten so weit wie möglich genutzt werden, um die Dienste effektiv in die Informationssysteme des öffentlichen Verkehrs zu integrieren.
+-	Die Integration von [Chipkarten](#contactless_cards) und elektronischen Zahlungen kann dazu beitragen, die Bequemlichkeit der DRT-Lösung zu verbessern. Es sollten jedoch reine App- oder Handy-Dienste vermieden werden, damit Nutzer:innen die keinen Zugang zu diesen Technologien haben, nicht benachteiligt werden.
+-	Die Systeme sollten darauf abzielen, sowohl Sofort- als auch Vorbestellungsdienste anzubieten, um maximalen Komfort zu gewährleisten.
+-	Es gibt Unterstützung für die Entwicklung und Implementierung von DRT-Systemen, z.B. durch die ESIF (Europäische Struktur- und Investitionsfonds).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Benutzer:innen öffentlicher Verkehrsmittel
+- **Verantwortliche**: Nationale Regierungen, lokale Regierungen, öffentliche Verkehrsbehörden
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Es gibt viele Variablen, die einen direkten oder indirekten Einfluss auf die Leistung von DRT-Diensten haben. Diese Faktoren lassen sich in drei Gruppen einteilen: *Netz*, *Betrieb* und *Nachfragemerkmale*. Die meisten Forschungsarbeiten verwenden verschiedene Ansätze, um die Auswirkungen dieser Faktoren auf die Leistung des Dienstes zu untersuchen. Diese Ansätze lassen sich grob in zwei Gruppen einteilen: Simulationen und annähernde mathematische Methoden (Amirgholy & Gonzales, 2016). <br/><br/>
+Eine Studie über die Auswirkungen der Preisgestaltung und der Gestaltung des Bedienungsgebietes auf die Verkehrsverlagerung hin zum bedarfsgesteuerten Verkehr hat gezeigt, dass ein kleines Bedienungsgebiet und zu niedrige Preise zu einem unerwünschten Verlagerungseffekt vom Gehen und Radfahren zum DRT führen können. Um ein DRT-Konzept zu entwickeln, das zu einer Verringerung der Autofahrten führt, sollte das Bedienungsgebiet nicht auf das Stadtzentrum beschränkt sein, sondern ein typisches Pendlergebiet abdecken. Außerdem sollte das Preissystem eine relativ hohe Mindestgebühr vorsehen, um das DRT für Kurzstreckenreisende, die auch zu Fuß oder mit dem Fahrrad fahren können, weniger attraktiv zu machen. Die Simulationsexperimente haben auch gezeigt, dass selbst bei einem stadtweiten DRT-Versorgungsgebiet und einer Mindestgebühr von 3,00 EUR ohne Pkw-Maut nur 11 % der DRT-Nutzer:innen vom Pkw auf das DRT umsteigen. Mit Pkw-Maut ergibt sich in den Simulationsexperimenten ein größerer Anteil von Nutzer:innen, die vom Pkw auf das DRT umsteigen. Ähnlich wie bei Kaddoura et al. (2020a) zeigt dies, wie wichtig es ist, "*Pull*"-Maßnahmen (Einführung des DRT als neuen Verkehrsträger) mit "*Push*"-Maßnahmen zu kombinieren, wie z. B. die Einführung von Straßenbenutzungsgebühren, die Erhöhung von Parkgebühren oder das Verbot von Privatfahrzeugen in bestimmten Gebieten. Mehrere Simulationsexperimente zeigen, dass selbst bei einem stadtweiten DRT und einer Mindestgebühr ein erheblicher Anteil der DRT-Nutzer:innen aus dem öffentlichen Verkehr kommt. Aus Nutzersicht ist dies ein positiver Effekt, da Nutzer:innen, die vom ÖPNV auf das DRT umsteigen, z. B. von einer kürzeren Reisezeit profitieren (Kaddoura et al., 2020b). Bedarfsorientierte Verkehrsdienste (DRT) scheinen bei der Minimierung von Emissionen wirksamer zu sein als Linienverkehrsdienste, wenn die Nachfragedichte nicht zu hoch ist und ein gutes Dienstleistungsniveau angestrebt wird. Insbesondere schneiden bedarfsgesteuerte Dienste in einem Ringnetz besser ab, und die Möglichkeit, kleinere Fahrzeuge einzusetzen, führt dazu, dass sie in fast allen untersuchten Szenarien besser abschneiden als Liniendienste (Amirgholy & Gonzales, 2016). <br/><br/>
+Die Analyse zur Einführung flexibler ÖPNV-Verkehrsmittel empfiehlt die folgende Reihenfolge von Maßnahmen für die Einführung des DRT-Systems: 
+
+-	die Analyse des Bedienungsgebietes im Hinblick auf die Nachfrage nach öffentlichen Personenverkehrsdiensten (Bevölkerungs- und Arbeitsplatzdichte, Verkehrsanbindung, Zustand des Straßennetzes, Altersstruktur der Bevölkerung, Einkommensniveau, Motorisierungsgrad);
+-	die Prognose der Personenverkehrsintensität und die Ermittlung von Gebieten mit geringer Nachfrage;
+-	die Analyse der Nachfragestruktur, die Identifizierung von Faktoren, die das DRT-System negativ beeinflussen, wie z.B. die zeitabhängige Nachfrage (saisonale Nachfrage, etc.)
+-	die Entwicklung eines Organisationsplans und der DRT-Technologie, die Auswahl des Servicetyps;
+-	die Analyse der Möglichkeit, den Dienst mit sozialen Diensten für Menschen mit eingeschränkter Mobilität zu kombinieren;
+-	die Berechnung der Kosten;
+-	die Ermittlung der Möglichkeit, Zuschüsse von lokalen Behörden zu erhalten;
+-	die Entwicklung eines detaillierten Serviceplans, einschließlich eines Geschäftsplans und einer Marketingstrategie. 
+
+Da das DRT-System erhebliche Zuschüsse von den lokalen Behörden benötigt, um die beträchtliche Differenz zwischen den Kosten und den Einnahmen des Verkehrsunternehmens zu decken, ist es ratsam, kombinierte Lösungen für bestehende Strecken zu verwenden, welche die Nutzung des DRT in bestimmten Intervallen vorsehen, was für alle Beteiligten (Verkehrsunternehmen, lokale Behörden, Fahrgäste) von Vorteil sein kann (Gorev et al., 2020).  Quadrifoglio et al. (2008) untersuchen die Produktivität und die Kosten der DRT-Dienste von zwei Managementpraktiken (Festlegung der Größe des Zeitfensters und eine zentralisierte vs. dezentralisierte Strategie).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+In den letzten Jahrzehnten haben mehrere Unternehmen App-basierte Mobilitätsdienste auf Abruf eingeführt (z. B. [UBER](https://www.uber.com/at/en/), [Lyft]( https://www.lyft.com/), [BerlKönig]( https://www.berlkoenig.de/), [CleverShuttle]( https://www.clevershuttle.de/en), [MOIA]( https://www.moia.io/en)). Die meisten dieser Dienste kombinieren Fahrtwünsche von mehreren Fahrgästen, die sich dann eine Fahrt teilen (Pooling, Ridesharing). Diese Dienste bilden eine neue Kategorie innerhalb des öffentlichen Verkehrs und werden oft als Demand Responsive Transit (DRT) oder Ride-Hailing bezeichnet. Die meisten der bestehenden Dienste basieren noch auf konventionellen fahrergesteuerten Fahrzeugen; nur wenige Dienste experimentieren mit automatisierten Fahrzeugen (Harris, 2015; Hsu, 2016). Es wird erwartet, dass eine breite Markteinführung von (gemeinsam genutzten) automatisierten Fahrzeugen die Betriebskosten senken wird. Niedrigere Schätzungen liegen im Bereich von 0,30 bis 0,38 EUR pro Passagier-km (Bösch et al., 2018). Niedrigere Betriebskosten können sich in niedrigeren Nutzerpreisen niederschlagen, was die Nachfrage nach solchen innovativen Mobilitätsdienstleistungen auf Abruf ankurbeln kann (Kaddoura et al., 2020). Der globale Markt für bedarfsgesteuerten Transit lässt sich nach Verkehrsdienstleistung, Transitdienstart, Buchungsart und Region segmentieren. In Bezug auf den Transitdienst kann der Markt für bedarfsgesteuerten Verkehr in Bus und Taxi unterteilt werden. DRT-Dienste werden im Allgemeinen mit Bussen erbracht. Die Nachfrage nach DRT-Diensten für verschiedene Anwendungen wie Schulbusse, Paratransit, medizinische Fahrten und mehr nimmt zu. <br/><br/> Basierend auf der Buchungsart kann der Markt für bedarfsgesteuerten Transit in Online-Buchungen und Offline-Buchungen unterteilt werden. Der DRT-Service bietet mehrere Buchungsmodi wie Offline- und Online-Buchung. Die Mehrheit der Verbraucher:innen nutzt die Online-Buchung, da sie ein höheres Maß an Flexibilität und Echtzeitinformationen bietet. Es wird erwartet, dass das Online-Segment schnell wachsen wird. In Bezug auf die Regionen kann der globale Markt für bedarfsgesteuerten Verkehr in Nordamerika, Europa, Asien-Pazifik sowie den Nahen Osten und Afrika unterteilt werden. Der bedarfsgesteuerte Verkehr in Europa hat sich seit 1997 weitgehend auf die Bedürfnisse mobilitätseingeschränkter Fahrgäste eingestellt. Europa wird den weltweiten Markt für bedarfsgesteuerten Transit in den nächsten Jahren wahrscheinlich dominieren.<br/>
+
+Die Einführung von DRT wird durch Smart-City-Initiativen, Regierungs- und Mobilitätsmaßnahmen, einen geringeren Autobesitz und eine Verlagerung auf multimodale und intermodale Verkehrsmittel vorangetrieben. Ein Großteil dieses Wachstums wird in Europa, dem derzeit größten Markt für geteilte Mobilität, und in China stattfinden. Der asiatisch-pazifische Raum, wo Shuttles bereits den öffentlichen Verkehr ersetzen, ist einer der größten DRT-Märkte und wird für über 60 % des Flottenwachstums verantwortlich sein. Auch in den USA wird mit verschiedenen Modellen experimentiert und mittel- bis langfristig mit einem starken Wachstum gerechnet. In anderen Regionen, wie z. B. Lateinamerika, konkurrieren die Shuttles jedoch mit den bestehenden Shuttlebussen, und in Afrika ist der potenzielle Markt noch sehr klein. DRT-Shuttles verbinden die Erschwinglichkeit des öffentlichen Verkehrs mit dem Komfort von Einzelfahrten. Zugängliche Verkehrsmittel fördern die soziale Eingliederung, da Bürger:innen aller Einkommensschichten in der Lage sind, in einer angemessenen Zeit zur Arbeit zu pendeln.<br/><br/>
+Das ITF-Forum schlägt vor, alle Autofahrten durch bedarfsgesteuerte Shuttlebusse zu ersetzen. Da DRT-Shuttles im Allgemeinen den öffentlichen Verkehr ergänzen, empfehlen Frost & Sullivan öffentlich-private Partnerschaften, um den Markt zu erweitern und die Ressourcen effektiv einzusetzen. Sie schlagen vor, dass anlagenintensive Dienste in Zusammenarbeit zwischen verschiedenen Dienstleistern oder über speziell entwickelte Technologieplattformen betrieben werden könnten (Martret, 2019). Der Grad der Kostendeckung aus dem Fahrkartenverkauf flexibler öffentlicher Verkehrsdienste variiert laut einer Bewertung verschiedener Mobilitätsdienste in Deutschland zwischen 6 % und 41 % (BMVBS & BBSR, 2009). In ländlichen Gebieten in Österreich liegt der Kostendeckungsgrad aufgrund der geringen Auslastung bei etwa 15 % (VCÖ, 2011). Dieser Umstand erfordert erhöhte Subventionen, die aufgrund des Sparzwangs im öffentlichen Sektor nicht uneingeschränkt gewährt werden können (Sammer & Klementschitz, 2010).
+
+### Relevante Initiativen in Österreich {-}
+Der Begriff Mikro-ÖPNV findet sich in Österreich derzeit in keinem Rechtsdokument. Im Kraftfahrliniengesetz (KflG) wird der Begriff des Anrufsammeltaxis (§ 38 Abs. 3 Z 2 KflG) näher erläutert und viele Angebote des Mikro-ÖPNV entsprechen dieser gesetzlichen Definition. Darüber hinaus bedarf der gewerbliche Betrieb von Personenbeförderungen einer Konzession nach dem Gelegenheitsverkehrsgesetz (§ 3 Abs. 1 Z 3 GelverkG). Dennoch gibt es öffentliche Kleinstverkehrsdienste, die weder dem KflG noch dem GelverkG zuzuordnen sind. Für die zukünftige Entwicklung wird im Hinblick auf die Rechtssicherheit eine vertiefte Forschungsarbeit empfohlen (Brandl, 2020).
+
+- [bedarfsverkehr.at](https://www.bedarfsverkehr.at/content/Literatur)
+- [repositum.tuwien.at](https://repositum.tuwien.at/handle/20.500.12708/1312)
+- [projekte.ffg.at](https://projekte.ffg.at/projekt/2929323)
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table80, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Verbesserung der Erschwinglichkeit, der sozialen Eingliederung und der Zugaenglichkeit des Verkehrs.|**+**|Gleichheit (*5,10*)|Martret, 2019|
+|Systemisch|Potenzial fuer Kosteneinsparungen, Verkehrsstaus und Emissionsverringerungen|**+**|Gesundheit und Wohlbefinden (*3*)|Hunkin and Krell, 2018|
+|Systemisch|Nur 11 % der Autonutzer:innen werden voraussichtlich auf das DRT umsteigen|**~**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Kaddoura et al., 2020b|
+|Systemisch|Prognostiziertes Marktwachstum weltweit; geringe Nutzungsrate in den laendlichen Gebieten Oesterreichs|**~**|Nachhaltige wirtschaftliche Entwicklung (*8,11*))|VCOE, 2011; Martret, 2019|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table81, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|6-8|')
+```
+
+### Offene Fragen {-}
+1. Welche Dienstleistungskonzepte führen zu welchem Verlagerungseffekt?
+2. Wie geht man mit Freiwilligenarbeit im Rahmen des Mikro-ÖPNV (nachfrageorientiert) um? Welche Rahmenbedingungen (rechtliche Grundlagen) müssen geschaffen werden?
+3. Kann DRT in Österreich in das Klimaticket aufgenommen werden, und wie ist es zu operationalisieren?
+
+### Weitere links {-}
+
+- [maas-alliance.eu](https://maas-alliance.eu/)
+
+### Referenzen {-}
+- Amirgholy, M., & Gonzales, E. J. (2016). Demand responsive transit systems with time-dependent demand: User equilibrium, system optimum, and management strategy. Transportation Research Part B: Methodological, 92, 234–252. https://doi.org/10.1016/j.trb.2015.11.006
+-	BMVBS, & BBSR. (2009). Mobilitätskonzepte zur Sicherung der Daseinsvorsorge in nachfrageschwachen Räumen - Evaluationsreport. BBSR-Online-Publikation, 10, 47. http://www.bbsr.bund.de/BBSR/DE/Veroeffentlichungen/BBSROnline/2009/DL_ON102009.pdf?__blob=publicationFile&v=2
+-	Bösch, P. M., Becker, F., Becker, H., & Axhausen, K. W. (2018). Cost-based analysis of autonomous mobility services. Transport Policy, 64(August 2017), 76–91. https://doi.org/10.1016/j.tranpol.2017.09.005
+-	Brandl, H. (2020). Mobilität – Daseinsgrundfunktion in ländlichen Räumen? Erfolgsfaktoren für den idealtypischen Prozess zur Planung und Implementierung von Mikro-ÖV Angeboten.
+-	Gorev, A., Popova, O., & Solodkij, A. (2020). Demand-responsive transit systems in areas with low transport demand of “smart city”. Transportation Research Procedia, 50(2019), 160–166. https://doi.org/10.1016/j.trpro.2020.10.020
+-	Harris, M. (2015, September 14). Uber Could Be First to Test Completely Driverless Cars in Public - IEEE Spectrum. https://spectrum.ieee.org/cars-that-think/transportation/self-driving/uber-could-be-first-to-test-completely-driverless-cars-in-public
+-	Hsu, J. (2016, January 4). GM and Lyft Team Up for Robot Taxi Service - IEEE Spectrum. https://spectrum.ieee.org/cars-that-think/transportation/self-driving/gm-and-lyft-team-up-for-robot-taxi-service
+-	Hunkin, S., & Krell, K. (2018). Demand responsive transportation. Interreg Europe Policy Learning Platform on Low-Carbon Economy. https://doi.org/10.4324/9781315118321
+-	Kaddoura, I., Bischoff, J., & Nagel, K. (2020a). Towards welfare optimal operation of innovative mobility concepts: External cost pricing in a world of shared autonomous vehicles. Transportation Research Part A: Policy and Practice, 136(February), 48–63. https://doi.org/10.1016/j.tra.2020.03.032
+-	Kaddoura, I., Leich, G., & Nagel, K. (2020b). The impact of pricing and service area design on the modal shift towards demand responsive transit. Procedia Computer Science, 170, 807–812. https://doi.org/10.1016/j.procs.2020.03.152
+-	Martret, O. (2019, March 25). Demand-Responsive Transit Is the Future of the Mobility Market. https://shotl.com/news/responsive-transit-is-the-future-of-the-mobility-market
+-	Quadrifoglio, L., Dessouky, M. M., & Ordóñez, F. (2008). A simulation study of demand responsive transit system design. Transportation Research Part A: Policy and Practice, 42(4), 718–737. https://doi.org/10.1016/j.tra.2008.01.018
+-	Sammer, G., & Klementschitz, R. (2010). Finanzierung des öffentlichen Personennahverkehrs in Österreich. ÖGZ - Österreichische Gemeindezeitung, 26 – 28.
+-	VCÖ. (2011). Erfolgreicher Öffentlicher Verkehr. In VCÖ Schriftenreihe ‘Mobilität mit Zukunft’ (Issue 4).
+
+## Personenschnellverkehr (PRT - Personal Rapid Transit) {#prt}
+
+### Synonyme {-}
+*Automatisierte Nahverkehrsnetze, ATN, PRT, Podcars*
+
+### Definition {-}
+Personal Rapid Transit (PRT) ist eine Option für den öffentlichen Nahverkehr in städtischen Gebieten, bei der vollautomatische Fahrzeuge auf Abruf in einem flächendeckenden Netz vom Start- zum Zielort verkehren. Der PRT gehört zu einer größeren Familie des automatisierten Schienenverkehrs (Automatic Guideway Transit, AGT). Es handelt sich um einen einzigartigen Verkehrsträger, der folgende Merkmale aufweist (Furman et al., 2014; Juster & Schonfeld, 2013): 
+
+-	Direkter Service vom Start- zum Zielort
+-	Kleine Fahrzeuge, die ausschließlich von einer Einzelperson oder einer kleinen Gruppe genutzt werden können
+-	Service, der sich an den Bedürfnissen der Nutzer:innen orientiert (nach Bedarf und nicht nach festen Fahrplänen)
+-	Fahrgeschwindigkeit bis zu 48 km/h (30 mph)
+-	Vollständig automatisierte Fahrzeuge
+-	Fahrzeuge, die ausschließlich auf einer für sie reservierten Strecke entlang der Fahrwege fahren
+-	Kleine Fahrwege, die in der Regel ebenerdig oder in Bodennähe angelegt sind
+
+Die Komponenten des persönlichen Schnellverkehrssystems sind:
+
+-	**Software**: integriert alle Elemente des Systems und sorgt für sein einwandfreies Funktionieren 
+-	**Hardware**: umfasst elektrische und elektronische Komponenten entlang der Schienen und in den Bahnhöfen
+-	**Fahrzeuge**: Sie sind entscheidend für die Erfahrung der Fahrgäste. In einigen Ländern, z. B. den USA, müssen PRT-Fahrzeuge behindertengerecht sein
+-	**Bahnhöfe und Fahrwege**: Sie sind aus Sicht der Planer:innen die wichtigsten Elemente, da sie die städtische Architektur beeinflussen und einen erheblichen Einfluss auf die Ästhetik der städtischen Umgebung haben. Bei den Fahrwegen handelt es sich um physische Strukturen, die ein AGT-Fahrzeug tragen und führen und aus Schienen und Stützen bestehen. Dies ist das teuerste Element des PRT-Systems.
+-	**Stromquellen**: alle PRT werden elektrisch betrieben
+-	**Betriebs- und Wartungseinrichtungen**: sind für die Leitstelle, die Lagerung von Fahrzeugen und Ausrüstung sowie für Wartungsbereiche erforderlich
+
+PRT kann als umweltfreundlichere, leichtere und leisere Alternative zum [Stadtbahnverkehr ](#lrt) (LRT) oder [Busschnellverkehr](#brt) (BRT)betrachtet werden. Es fährt auch langsamer als typische LRT- oder BRT-Verkehrsmittel, gleicht diese Zeit jedoch aus, indem es nur an den gewünschten Haltestellen hält. Dies wiederum spart erhebliche Zeit beim Abbremsen und Beschleunigen. Die Kapazität von PRL erreicht 10 000 Fahrgäste pro Stunde und Richtung, was im Vergleich zu LRT und BRT etwas weniger ist. 
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Bürger:innen, Flughafenpassagiere
+- **Verantwortliche**: Stadtverwaltung, Privatunternehmen, Verkehrsplaner:innen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Neuere Forschungen zu PRT sind rar, die meisten Studien wurden um 2010 durchgeführt. Sie konzentrierten sich hauptsächlich auf die Kosten-Nutzen-Analyse und Vergleiche mit LRT und BRT (Juster & Schonfeld, 2013). Außerdem wurde das Potenzial verschiedener Integrationskonzepte untersucht, wie z. B. der Bau von Fahrbahnen über dem Gehsteig mit und ohne Bäume, über dem Parkstreifen, in der Mitte der Straße, neben oder in Gebäuden oder in Tunneln. Besondere Überlegungen sind aufgrund der Niveautrennung erforderlich, die mit Bäumen kollidieren oder zu Behinderungen auf den Gehwegen führen kann (Furman et al., 2014). Ein wichtiger Aspekt ist auch die ästhetische Seite von PRT, die aufgrund der hochgelegten Schienen erheblich in das Stadtbild eingreift. Daher gibt es Bedenken hinsichtlich der sozialen Akzeptanz von PRT, da erwartet wird, dass es sich negativ auf die Flächennutzung und die Immobilienwerte auswirkt, Licht und Luft behindert und ungenutzte Flächen unter den Fahrbahnen schafft (Staniscia, 2018). Die jüngsten Studien befassen sich mit PRT im Zusammenhang mit Flughafen-Shuttles, wo sich dieses Konzept bereits als funktional erwiesen hat. Die Studie von Mobolaji et al. (2021) beispielsweise untersuchte das Potenzial einer Erweiterung des PRT zur Verbindung von Parkplätzen und Terminal am Flughafen Budapest, wobei die Erwartungen der Nutzer:innen und die Systemarchitektur berücksichtigt wurden.  
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Das Konzept des PRT ist mehr als 50 Jahre alt, dennoch sind sie nur an wenigen Orten auf der Welt verfügbar. Etwa 30 % der PRT-Systeme befinden sich an Flughäfen, 30 % im institutionellen Kontext, z. B. auf Universitätsgeländen, und die letzten 30 % sind Massenverkehrsmittel. Beispiele für bestehende PRTs sind (Furman et al., 2014, S.12):
+-	Das Morgantown PRT an der West Virginia University
+-	Der Parkshuttle Rivium-Metro-Zubringer außerhalb von Rotterdam
+-	Der Terminal-5-Shuttle am Londoner Flughafen Heathrow
+-	Der Naturpark-Shuttle in Suncheon Bay, Südkorea
+-	Das Masdar City PRT in Abu Dhabi 
+
+```{r, echo = FALSE, out.width="40%", fig.cap = "PRT-Shuttle am Londoner Flughafen Heathrow (Kraft, 2012)"}
+knitr::include_graphics("image/PRT.jpg")
+```
+
+Die Gründe für dieses begrenzte Auftreten sind die geringen technischen Möglichkeiten und die Skalierbarkeit von PRT-Systemen sowie die hohen Kapital- und Betriebskosten (Furman et al., 2014, S. 36). 
+
+
+### Relevante Initiativen in Österreich {-}
+
+- [17th International Conference on Personal Rapid Transit and System Design in 2023](https://waset.org/personal-rapid-transit-and-system-design-conference-in-june-2023-in-vienna) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table67, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Beeintraechtigung des visuellen Aspekts des staedtischen Raums|**-**|Gesundheit und Wohlbefinden (*3*)|Staniscia, 2018|
+|Systemisch|Hoehenunterschiede erhoehen die Sicherheit|**+**|Gesundheit und Wohlbefinden (*3*)|Juster & Schonfeld, 2013; Furman et al., 2014|
+|Systemisch|Verwendet elektrische Energie|**+**|Oekologische Nachhaltigkeit  (*7,12,13,15*)|Juster & Schonfeld, 2013|
+|Systemisch|Begrenzte Einfuehrung weltweit|**-**|Innovation und Infrastruktur (*9*)|Furman et al., 2014|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table68, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|5-8|5-7|')
+```
+
+### Offene Fragen {-}
+1. Es sind weitere Untersuchungen zur tatsächlichen Analyse von Kosten und Nutzen im Zusammenhang mit dem Bau von PRT erforderlich.
+2. Kann die PRT-Infrastruktur als attraktives Stadtmobiliar betrachtet und genutzt werden? Wie kann die Kunstgemeinde in die Entwicklung einbezogen werden?
+3. Was sind die Haupthindernisse für eine breitere Einführung von PRT?
+
+### Weitere links {-}
+
+- [MIT Report](https://transweb.sjsu.edu/sites/default/files/1227-automated-transit-networks.pdf)
+
+### Referenzen {-}
+- Furman, B., Fabian, L., Ellis, S., Muller, P., & Swenson, R. (2014). Automated transit networks (ATN): A review of the state of the industry and prospects for the future.
+- Juster, R., & Schonfeld, P. (2013). Comparative analysis of personal rapid transit as an urban transportation mode. Transportation research record, 2350(1), 128-135.
+- Kraft, A. (2012). The beginning of personal rapid transit. Available at: https://www.zdnet.com/article/the-beginning-of-personal-rapid-transit/ [Accessed: 21 Oct 2021]
+- Mobolaji, K., Földes, D., & Csiszár, C. (2021). Concept of Advanced Personal Rapid Transit at Airports. Periodica Polytechnica Civil Engineering, 65(1), 320-334.
+- Staniscia, S. (2018). Aesthetic appreciation of Personal Rapid Transit: A new viewpoint. Cities, 79, 169-177.
+
+
+## Busschnellverkehr (BRT - Bus rapid transit) {#brt}
+### Synonyme {-}
+*Bus rapid transit (BRT), High-level bus transport (HLBT)*
+
+### Definition {-}
+Städte auf der ganzen Welt sind bestrebt, die Kapazität ihres öffentlichen Verkehrssystems unter Berücksichtigung von Budgetbeschränkungen zu erweitern (Ishaq & Cats, 2020). Bus-Rapid-Transit-Systeme (BRT) werden zunehmend als Alternativen für die Gestaltung des öffentlichen Massenverkehrs in mittelgroßen Städten in entwickelten Ländern in Betracht gezogen, um Verkehrsstaus mit ihren schädlichen Auswirkungen auf die öffentliche Gesundheit, die Wirtschaft und die Umwelt zu reduzieren. Bus Rapid Transit (BRT)-Systeme sind hochwertige busbasierte Verkehrssysteme, die einen schnellen und effizienten Service bieten (Abbasi et al., 2020). Erreicht wird dies durch die Bereitstellung eigener Fahrspuren, wobei die Busspuren und Haltestellen in der Regel auf die Straßenmitte ausgerichtet sind, durch die Möglichkeit der Fahrpreiserhebung außerhalb des Fahrzeugs sowie durch einen schnellen und häufigen Betrieb. Da BRT ähnliche Merkmale wie ein [Stadtbahn]( #lrt) - oder U-Bahnsystem aufweist, ist es viel zuverlässiger, bequemer und schneller als ein regulärer Busdienst. Mit den richtigen Merkmalen ist BRT in der Lage, die Ursachen für Verspätungen zu vermeiden, die den regulären Busverkehr in der Regel verlangsamen, wie z. B. im Verkehr stecken zu bleiben und in der Warteschlange zu stehen, um an Bord zu bezahlen (ITDP, 2021b).<br/>
+
+Der Begriff Bus Rapid Transit (BRT) hat seinen Ursprung in Nordamerika und wird zunehmend auch in anderen Ländern verwendet. Dasselbe Konzept wird an verschiedenen Orten mit unterschiedlichen Namen bezeichnet (Deng & Nelson, 2010):
+
+-	Hochkapazitäts-Bussysteme
+-	Hochwertige Bussysteme
+-	Metro-Bus
+-	Oberflächen-Metro
+-	Schnellbussysteme
+-	Busstraßen-Systeme
+-	Hochwertiger Busverkehr
+BRT-Systeme bieten eine leistungsfähige Alternative zu schienengebundenen Systemen, die wesentlich höhere Investitionen und eine längere Umsetzungszeit erfordern (Deng & Nelson, 2010; Fageda, 2021). In großen Städten in Schwellenländern, insbesondere in Lateinamerika und Südasien, ist BRT ein integraler Bestandteil des öffentlichen Nahverkehrsnetzes oder bildet den Hauptteil davon. Im Gegensatz dazu ist die Einführung von BRT in den entwickelten Volkswirtschaften hauptsächlich auf mittelgroße Städte beschränkt, in denen die Nachfrage keine großen Investitionen in die städtische Schieneninfrastruktur rechtfertigt. Im europäischen Kontext werden diese Projekte manchmal als Busse mit hohem Verkehrsaufkommen (BHLS) bezeichnet (Ishaq & Cats, 2020).
+
+**BRT-Grundlagen**<br/>
+Es gibt fünf wesentliche Merkmale, die BRT ausmachen. Diese Merkmale führen in erster Linie zu einer schnelleren Reise für die Fahrgäste und machen den Nahverkehr zuverlässiger und bequemer (ITDP, 2021b). Diese sind:
+
+-	Gewidmete Vorfahrt: Ausschließlich für Busse reservierte Fahrspuren sorgen für eine schnellere Fahrt und stellen sicher, dass die Busse nicht durch Staus im Mischverkehr aufgehalten werden.
+-	Ausrichtung der Busspur: Entweder in der Mitte der Fahrbahn oder als reiner Buskorridor hält Busse von belebten Straßenrändern fern, an denen Autos parken, stehen und wenden.
+-	Fahrpreiserhebung außerhalb des Busses: Durch die Bezahlung des Fahrpreises an der Haltestelle und nicht im Bus werden Verzögerungen durch wartende Fahrgäste im Bus vermieden.
+-	Behandlung von Kreuzungen: Durch das Verbot des Abbiegens über die Busspur werden die durch den abbiegenden Verkehr verursachten Verspätungen des Busses verringert. Das Verbot solcher Abbiegevorgänge ist die wichtigste Maßnahme, um Busse durch Kreuzungen zu bewegen - sogar wichtiger als [Signalpriorität](#public_trans_priority).
+-	Ebenerdiges Einsteigen: Die Bushaltestelle sollte in Höhe des Busses liegen, damit ein schneller und einfacher Einstieg möglich ist. Dadurch wird sie für Rollstuhlfahrer:innen, Behinderte, Kinderwagen und Fußgänger:innen mit minimalen Verzögerungen zugänglich.
+
+Um als BRT zu gelten, muss ein Korridor (ITDP, 2021b, 2021a):
+
+-	Mindestens 3 km lang sein;
+-	4 oder mehr Punkte im Element "Gewidmetes Wegerecht" erhalten;
+    - 8 Punkte: Physisch getrennte, eigene Fahrspuren (z. B. Zäune, Bordsteine, Bushaltestellen)
+    - 6 Punkte: Farblich getrennte, eigene Fahrspuren ohne physische Trennung
+    - 4 Punkte: Durch eine aufgemalte Linie abgetrennte getrennte Fahrspuren
+    - 0 Punkte: Keine separaten Fahrspuren
+-	Mindestens 4 oder mehr Punkte beim Element Busausrichtung erhalten;
+    - 8 Punkte: Zwei-Wege-Busspur mit Mittelstreifen auf dem Mittelstreifen einer zweispurigen Straße
+    - 8 Punkte: Ausschließlicher Buskorridor mit ausschließlicher Vorfahrt und ohne parallelen Mischverkehr oder umgewandelten Korridor
+    - 8 Punkte: Busstraße, die entlang einer Randbedingung wie einer Uferpromenade oder einem Park verläuft, wo es nur wenige Kreuzungen gibt, die Konflikte verursachen
+-	Mindestens 20 oder mehr Punkte in allen fünf grundlegenden BRT-Elementen erhalten
+    - Gewidmetes Wegerecht (bis zu 8 Punkte)
+        -	Bewährtes Verfahren: Der Rainbow BRT-Korridor Sangamwadi-Vishrantwadi (Pune/Pimpri-Chinchwad, Indien), bei dem Zäune zur Schaffung eigener, räumlich getrennter Busspuren verwendet werden.
+    - Ausrichtung der Busspuren (bis zu 8 Punkte)
+        -	Bewährtes Verfahren: Die Metrobus Green Line (Lahore, Pakistan), die eine in beide Richtungen ausgerichtete Busspur in der Mitte einer Fahrbahn umfasst.
+    - Fahrgeldeinzug außerhalb des Fahrzeugs (bis zu 8 Punkte)
+        -	Bewährtes Verfahren: Der TransJakarta Koridor 1 (Jakarta, Indonesien) bietet einen fahrerlosen Fahrscheinverkauf mit Zugang zu den Stationen über Drehkreuze.
+    - Behandlung von Kreuzungen (bis zu 7 Punkte)
+        -	Bewährtes Verfahren: Corredor Metropolitano ABD (São Paulo, Brasilien), der Fußgänger:innen Vorrang einräumt und das Linksabbiegen an Kreuzungen verbietet.
+    - Einsteigen auf Bahnsteigebene (bis zu 7 Punkte)
+        -	Bewährtes Verfahren: Ahmedabad BRTS (Ahmedabad, Indien), das durch eine gut durchdachte Infrastruktur und Fahrerschulung den Einstiegsabstand auf weniger als 10 Zentimeter reduzieren konnte.
+
+Weitere Informationen zum Punktesystem finden Sie unter [scorecard](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/the-scorecard/).
+
+**Offen vs. geschlossen**<br/>
+BRT kombiniert Bahnhöfe, Fahrzeuge und Technologie zu einem hochwertigen, schienenähnlichen System und kann zur Verbesserung der städtischen Mobilität beitragen. Das Wiederaufleben des Busverkehrs in den letzten Jahren ist bei Verkehrs- und Stadtplaner:innen auf großes Interesse gestoßen, da er flexible, hochwertige Dienstleistungen zu geringeren Kosten als ein schienengebundenes Verkehrssystem bietet. Angesichts vieler erfolgreicher Systeme in der ganzen Welt sind die Investitionen in BRT in die Höhe geschnellt. Einer der Vorteile von BRT ist die Flexibilität bei der Gestaltung von Korridoren und Stationen. BRT kann mit Bussen unter verschiedenen Verkehrsbedingungen betrieben werden, z. B. im Mischverkehr, auf eigenen Fahrspuren auf Landstraßen und auf Busways (Autobahnen oder Fahrspuren einer Autobahn, die ausschließlich für BRT reserviert sind). In Nordamerika nutzen die meisten BRT-Systeme separate oder getrennte Fahrspuren, während in Südamerika BRT-Systeme die mittleren Fahrspuren nutzen. Ein weiterer Vorteil von BRT ist die betriebliche Flexibilität bei der Integration mit bestehenden konventionellen Buslinien. <br/>
+
+BRT kann entweder als offenes oder geschlossenes System betrieben werden. Ein geschlossenes System bedeutet, dass BRT-Busse nur auf dem BRT-Korridor verkehren können und Nicht-BRT-Busse nicht auf dem BRT-Korridor fahren können (Zhang et al., 2020b). Die Nutzer:innen betrachten ein geschlossenes BRT-System in der Regel als einen häufigen und pünktlichen schienenähnlichen Dienst, der die meisten der typischen Verspätungsursachen beseitigt, die bei herkömmlichen Busdiensten auftreten (Zhang et al., 2020a). Einige neuere BRT-Systeme (Seoul in Südkorea, Guangzhou in China und Sydney, Adelaide und Brisbane in Australien) haben einen offenen Systemansatz gewählt, bei dem konventionelle Busse in den BRT-Korridor ein- und ausfahren. Diese offenen BRT-Dienste ermöglichen es den Fahrgästen, den BRT-Korridor zu erreichen, ohne den Bus wechseln zu müssen. In einem offenen BRT-System können sie die BRT-Zugänglichkeit für Fahrgäste abseits des BRT-Korridors wirksam verbessern, indem sie die mit dem Umsteigen verbundenen Nachteile sowie die zusätzliche Geh- und Wartezeit beseitigen (Yen et al., 2018). Allerdings können diese Zubringerdienste, die den BRT-Korridor für einen Teil ihrer Strecken nutzen, vom lokalen Verkehr betroffen sein, was die Gesamtleistung des BRT-Dienstes verringert. Da busbasierte Systeme jedoch flexibel sind, könnte manchmal auch eine hybride Betriebsart geeignet sein. Verkehrsplaner:innen können die Buslinien überprüfen, um Strecken mit hohem Fahrgastaufkommen zu ermitteln und auf diesen Strecken ein offenes BRT-System zu betreiben, während auf anderen Strecken mit geringem Fahrgastaufkommen zusätzliche Dienste als geschlossenes System betrieben werden und ein Netz von Zubringerbussen für diese Dienste eingerichtet wird. Dieses Konzept kann auf verschiedene Tageszeiten angewandt werden, wobei der BRT-Korridor außerhalb der Hauptverkehrszeiten ein offenes System ist, um Einzelfahrten zu ermöglichen, und während der Hauptverkehrszeiten geschlossen ist, um Überbelegung und Staus zu vermeiden (Zhang et al., 2020b).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Mobile Bürger:innen, Nutzer:innen öffentlicher Verkehrsmittel
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, Privatunternehmen, Verkehrsbetriebe, Infrastrukturanbieter, Bushersteller
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Viele Forscher:innen konzentrieren sich auf lokale BRT-Systeme mit unterschiedlichen Schwerpunkten wie Malik et al. (2021) untersucht das Reiseverhalten der Nutzer:innen in Lahore, Kiani. Mavi et al. (2018) evaluiert und optimiert eine BRT-Linie in Teheran (Iran) mit Hilfe eines Simulations- und multikriteriellen Entscheidungsfindungsansatzes. Ishaq & Cats (2020) berichten über empirische Erkenntnisse aus der Umsetzung eines BRT-Systems in Haifa (Israel). Mallqui & Pojani (2017) schließlich vergleichen Fragen des Bus Rapid Transit (BRT) in Brisbane (Australien) mit Lima (Peru). In beiden Städten hat eine Bürgerbeteiligung stattgefunden. Ungeachtet der Konkurrenz durch andere Verkehrsträger wurden beide BRT-Systeme von der lokalen Bevölkerung positiv aufgenommen. Insbesondere die Menschen, die in der Nähe der Bahnhöfe wohnen und die BRTs für ihren Arbeitsweg nutzen können, stehen diesem Verkehrsmittel sehr positiv gegenüber. <br/>
+Schwanen & Ferbrache (2017) von der Transport Studies Unit an der University of Oxford haben eine Liste mit Literatur zu den weiteren wirtschaftlichen und sozialen Auswirkungen von Bus Rapid Transit (BRT) zusammengestellt. Die folgenden Themen werden in der Literatur behandelt:
+
+-	BRT-Folgestudien, die die weitergehenden wirtschaftlichen und sozialen Auswirkungen von BRT untersuchen.
+-	Landentwicklung, Landnutzungsänderung und/oder verkehrsorientierte Entwicklung.
+-	Veränderung der Boden-/Grundstückswerte
+-	neue wirtschaftliche Entwicklung
+-	Zugänglichkeit von Arbeitsplätzen/Arbeitsplätzen
+-	Verbesserung der städtischen Umwelt
+-	Prestige/Reputation der Stadt
+-	physische Verdrängung ärmerer Haushalte 
+
+Mehrere Forscher:innen haben die Auswirkungen von Bus Rapid Transit (BRT) auf Immobilienwerte untersucht (Zhang et al., 2020a; Zhang & Yen, 2020)). Zhang & Yen (2020) verglichen 23 andere Studien zu diesem Thema und kamen zu folgenden zwei Hauptschlussfolgerungen:
+
+-	Der geschätzte Wertzuwachs für Grundstücke ist viel höher als für Immobilien (d. h. 27,5 % höher).
+-	Im Allgemeinen haben Grundstücke und Immobilien im Umkreis von 50 m von einer BRT-Station einen Preisaufschlag von 13,0 % gegenüber Grundstücken und Immobilien in 1,2 km Entfernung.
+
+Diese Ergebnisse können zu einem besseren Verständnis der Erreichbarkeitsvorteile von BRT-Systemen beitragen, insbesondere dort, wo es an empirischen Belegen mangelt. Allerdings fehlt es an Belegen für europäische BRT-Systeme, und nur wenige Studien haben untersucht, wie BRT-Systeme die Grundstücks- und Immobilienwerte im Laufe der Zeit beeinflussen.<br/>
+
+Basso et al. (2019) schlugen einen dynamischen Stauansatz vor, der Warteschlangen sowohl auf der Straße als auch an BRT-Stationen endogen modelliert. Einige der wichtigsten Ergebnisse sind:
+
+-	Das optimale BRT ist in Bezug auf die Gesamtkosten effizient, und selbst bei unvollkommen teilbarer Kapazität ist BRT für viele Nachfrageniveaus immer noch die bessere Wahl (beginnend mit einer Nachfrage zwischen 8000 und 8500 Pendler:innen).
+-	Ohne BRT gibt es ein großes Nachfrageschnittintervall, in dem es optimal ist, keinen öffentlichen Verkehr anzubieten (bis zu 10.000 Pendler:innen). Wenn jedoch ein Teil der Straßenkapazität ausschließlich für Busse reserviert wäre, müssten die Busse im Optimalfall sehr häufig fahren. Stadtplaner:innen sollten daher BRT-Systeme von Anfang an planen, anstatt den öffentlichen Verkehr schrittweise zu integrieren, bis die Nachfrage so groß wird, dass es zu Verkehrsüberlastungen kommt. Folglich die Busfrequenzen häufiger werden und dedizierte Busspuren notwendig werden.
+-	Die Betriebszeiten von Bussen und Autos sind bei BRT viel kürzer als bei Mischverkehr. Obwohl BRT dem Pkw-Verkehr Kapazitäten entzieht, wird die Spitzenzeit des Pkw-Verkehrs reduziert.
+
+Abbasi et al. (2020) haben verschiedene Aspekte von BRT in Teheran (Iran) untersucht. In ihren Simulationen hatten exklusive Busspuren gute Auswirkungen auf die Reduzierung der Schadstoffemissionen und des Kraftstoffverbrauchs. Im Durchschnitt würden die Szenarien mit exklusiven Busspuren die CO-Emissionen von Bussen um 40,6 % reduzieren und die CO-Emissionen von Pkw um 3,1 % erhöhen, ebenso wie die NOx-Emissionen (Busse um 15,1 % reduziert, Pkw um 6,7 % erhöht), die PM-Emissionen (Busse um 6,7 % reduziert, Pkw um 4,4 % erhöht) und den Kraftstoffverbrauch (Busse um 5,6 % reduziert, Pkw um 3,2 % erhöht). In den Szenarien der effizienten Nutzung und der Vereinheitlichung der Anzahl der Stationen werden nicht nur die Schadstoffemissionen der Busse, sondern auch die der Pkw reduziert. Ein möglicher Grund dafür ist die Verringerung von Konflikten zwischen Bussen und Pkw auf gemeinsamen Fahrspuren. Im Szenario mit geschalteten Ampeln und Busvorrang sinken die Schadstoffemissionen und der Kraftstoffverbrauch der Busse im Durchschnitt um 10,2 %, während sie bei den Pkw um 1,3 % steigen. Aus wirtschaftlicher Sicht wurden die jährlichen Kosten bei der vollständigen exklusiven Busspur am stärksten reduziert.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+BRT-Systeme gediehen zunächst in lateinamerikanischen Städten (Dario Hidalgo & Graftieaux, 2008), bevor sie sich in Süd- und Ostasien und dann in der ganzen Welt ausbreiteten (Darío Hidalgo & Gutiérrez, 2013). Doch obwohl die Zahl der BRT-Systeme weltweit zunimmt, befinden sich derzeit nur ~10 % der BRT-Systeme in Ländern mit niedrigem und mittlerem Einkommen (Malik et al., 2021). <br/>
+
+Laut (Global BRTData, 2021) ist die Verteilung der BRT-Systeme weltweit (Stand 2021) in Bezug auf die Fahrgastzahlen (weltweit täglich 33.684.575) aufgeteilt in Afrika mit 491.578 Fahrgästen (1. 45%), Asien 9.238.060 (27,42%), Europa 1.613.580 (4,79%), Lateinamerika 20.916.474 (62,09%), Nordamerika 988.683 (2,93%) und Ozeanien 436.200 (1,29%). <br/>
+
+Drei neue BRT-Systeme in Australien (Busway in Adelaide, Brisbane und Sydney) sind offene Systeme. Dies könnte auf die Merkmale der australischen Stadtgebiete zurückzuführen sein, die in der Regel eine geringe Bevölkerungsdichte und eine hohe Autonutzung aufweisen. Da die Fahrgäste umsteigen müssen, ist es für ein geschlossenes System schwieriger, die Vorteile des Netzeffekts zu nutzen, und ein offenes BRT-System könnte in diesem vom Auto dominierten Umfeld attraktiver sein. In Brisbane wird jedoch erwogen, auf ein geschlossenes BRT-Betriebssystem umzusteigen, da es vor allem zu den Stoßzeiten zu erheblichen Verkehrsstaus kommt (Zhang et al., 2020b).<br/>
+
+Laut Daimler erkennen immer mehr Europäer die Vorteile effektiver und attraktiver städtischer Busverkehrssysteme. Als Vorreiter wird Frankreich genannt, wo die Regierung den Ausbau von BRT-Systemen mit hohen Summen unterstützt (Daimler (EvoBus GmbH), n.d.). Dies wird durch das weltweit erste wasserstoffbetriebene Schnellbussystem umgesetzt, das unter dem Namen Fébus in der französischen Stadt Pau in Betrieb genommen wurde. Zum Einsatz kommen acht ExquiCity18-Brennstoffzellen-Van-Hool-Busse in Stadtbahnbauweise. Die 18 Meter langen Gelenkbusse bieten Platz für 125 Fahrgäste und können mehr als 300 Kilometer pro Wasserstofffüllung zurücklegen (Schaal, 2019). <br/>
+
+Darüber hinaus werden zwei BRT-Linien für das öffentliche Verkehrssystem in Florenz eingeführt. Die beiden Linien werden das Netz des öffentlichen Verkehrs auf der Straße vervollständigen, um die Busse zu entlasten, die derzeit auf diesen Strecken verkehren. Diese Innovation wird durch den Metrocittà-Plan für nachhaltige Mobilität ermöglicht (autobusweb.com, 2021).<br/>
+
+In Istanbul erstreckt sich das BRT-Netzwerk bereits über insgesamt 52 Kilometer und befördert täglich 750.000 Fahrgäste. Städte wie Amsterdam, Straßburg und Paris betreiben bereits ihr eigenes BRT-System. In Deutschland wurde das BRT-System noch nicht eingeführt, da die Bahn immer noch die erste Wahl ist. Laut Richard Mejía (Leiter des BRT-Teams bei Daimler Buses) sind die Investitions- und Betriebskosten im Vergleich zu Schienensystemen geringer. Zur zukünftigen Entwicklung von BRT wird erwähnt, dass das bisherige Konzept ständig weiterentwickelt und an neue Technologien oder aktuelle Stadtplanungen angepasst wird. Derzeit werden die Weichen für emissionsfreies Fahren mit Elektromobilität gestellt. Auch das teilautomatisierte Fahren von Bussen (z.B. der Future Bus von Mercedes-Benz, der Mitte 2016 vorgestellt wurde) könnte durch ein konstantes Beschleunigungs- und Bremsverhalten den Kraftstoffverbrauch senken. Auch eine erweiterte und intelligente Vernetzung, zum Beispiel zwischen Fahrzeugen, Signalanlagen und Fahrbahn, wird BRT-Systeme in Zukunft noch attraktiver machen (Daimler AG, n.d.).
+
+### Relevante Initiativen in Österreich {-}
+Kärnten könnte ein Schnellbussystem für den Nahverkehr bekommen.
+
+- [Kaernten.orf.at](https://kaernten.orf.at/stories/3029225/)
+
+Derzeit verbinden elf Schnellbuslinien, das so genannte Schnellbussystem (ohne eigene Fahrspuren), die Zentren der 3 umliegenden Bezirke mit der Landeshauptstadt St. Pölten. Der Fuhrpark besteht aus 47 Fahrzeugen in vier verschiedenen Größen im einheitlichen Wiesel-Design, die zusammen eine Sitzplatzkapazität für 2.449 Fahrgäste bieten.
+
+- [Meinbezirk.at](https://www.meinbezirk.at/st-poelten/c-lokales/wieselbus-erfolgsstory-feiert-20-jahre_a1863287)
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Verringerung der Schadstoffemissionen und des Kraftstoffverbrauchs|**+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Abbasi et al., 2020|
+|Systemisch|BRT erfordert wesentlich kuerzere Investitionen und Umsetzungszeiten| **+**|Innovation und Infrastruktur (*9*)|Deng & Nelson, 2010; Fageda, 2021|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r , echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|7-9|')
+```
+
+### Offene Fragen {-}
+1. Wie kann die Entwicklung von BRT-Systemen durch die nationale Politik besser unterstützt werden?
+
+### Weitere links {-}
+
+- [BRT data](http://brtdata.org/)
+- [What is BRT?](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/what-is-brt/)
+- [Scorecard](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/the-scorecard/)
+- [BRT issues](https://www.transit.dot.gov/sites/fta.dot.gov/files/issues.pdf)
+
+### Referenzen {-}
+-	Abbasi, M. H., Hadji Hosseinlou, M., & JafarzadehFadaki, S. M. (2020). An investigation of Bus Rapid Transit System (BRT) based on economic and air pollution analysis (Tehran, Iran). Case Studies on Transport Policy, 8(2), 553–563. https://doi.org/10.1016/j.cstp.2019.11.008
+-	autobusweb.com. (2021, March 2). Trasporto pubblico Firenze, in arrivo due linee Bus Rapid Transit. https://www.autobusweb.com/tpl-firenze-in-arrivo-due-linee-bus-rapid-transit/
+-	Basso, L. J., Feres, F., & Silva, H. E. (2019). The efficiency of bus rapid transit (BRT) systems: A dynamic congestion approach. Transportation Research Part B: Methodological, 127, 47–71. https://doi.org/10.1016/j.trb.2019.06.012
+-	Daimler (EvoBus GmbH). (n.d.). Bus Rapid Transit (BRT) in Europe – Impressions of a sustainable mobility concept in Strasbourg - EvoBus GmbH. Available at:  https://www.evobus.com/de-en/layer/bus-rapid-transit-brt-in-europe-impressions-of-a-sustainable-mobility-concept-in-strasbourg/ [Accessed: 24 June 2021]
+-	Daimler AG. (n.d.). Bus Rapid Transit – Neue Unabhängigkeit im Stadtverkehr | Daimler. Available at: https://www.daimler.com/nachhaltigkeit/staedte/bus-rapid-transit.html [Accessed: 24 June 2021]
+-	Deng, T., & Nelson, J. D. (2010). Transport Reviews Recent Developments in Bus Rapid Transit: A Review of the Literature. https://doi.org/10.1080/01441647.2010.492455
+-	Fageda, X. (2021). Do light rail systems reduce traffic externalities? Empirical evidence from mid-size european cities. Transportation Research Part D: Transport and Environment, 92, 102731. https://doi.org/10.1016/j.trd.2021.102731
+-	Global BRTData. (2021). Global BRTData. Brtdata.Org. http://brtdata.org/
+-	Hidalgo, Dario, & Graftieaux, P. (2008). Bus Rapid Transit Systems in Latin America and Asia: Results and Difficulties in 11 Cities. Transportation Research Record, 2072(1), 77–88. https://doi.org/10.3141/2072-09
+-	Hidalgo, Darío, & Gutiérrez, L. (2013). BRT and BHLS around the world: Explosive growth, large positive impacts and many issues outstanding. Research in Transportation Economics, 39(1), 8–13. https://doi.org/10.1016/j.retrec.2012.05.018
+-	Ishaq, R., & Cats, O. (2020). Designing bus rapid transit systems: Lessons on service reliability and operations. Case Studies on Transport Policy, 8(3), 946–953. https://doi.org/10.1016/j.cstp.2020.05.001
+-	ITDP. (2021a). The Scorecard - Institute for Transportation and Development Policy. https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/the-scorecard/
+-	ITDP. (2021b). What is BRT? - Institute for Transportation and Development Policy. https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/what-is-brt/
+-	Kiani Mavi, R., Zarbakhshnia, N., & Khazraei, A. (2018). Bus rapid transit (BRT): A simulation and multi criteria decision making (MCDM) approach. Transport Policy, 72, 187–197. https://doi.org/10.1016/j.tranpol.2018.03.010
+-	Malik, B. Z., Rehman, Z. ur, Khan, A. H., & Akram, W. (2021). Investigating users’ travel behaviours and perceptions of single-corridor BRT: Lessons from Lahore. Journal of Transport Geography, 91, 102942. https://doi.org/10.1016/j.jtrangeo.2020.102942
+-	Mallqui, Y. Y. C., & Pojani, D. (2017). Barriers to successful Bus Rapid Transit expansion: Developed cities versus developing megacities. Case Studies on Transport Policy, 5(2), 254–266. https://doi.org/10.1016/j.cstp.2017.01.004
+-	Schaal, S. (2019, December 18). Fébus: Erstes H2-Schnellbussystem in Betrieb - electrive.net. https://www.electrive.net/2019/12/18/febus-erstes-h2-schnellbussystem-in-betrieb/
+-	Schwanen, T., & Ferbrache, F. (2017). Bibliography of Research on Bus Rapid Transit. 1068. https://www.tsu.ox.ac.uk/pubs/1068-schwanen-ferbrache.pdf
+-	Yen, B. T. H., Mulley, C., Tseng, W. C., & Chiou, Y. C. (2018). Assessing interchange effects in public transport: A case study of South East Queensland, Australia. Case Studies on Transport Policy, 6(3), 364–375. https://doi.org/10.1016/j.cstp.2018.01.005
+-	Zhang, M., & Yen, B. T. H. (2020). The impact of Bus Rapid Transit (BRT) on land and property values: A meta-analysis. Land Use Policy, 96, 104684. https://doi.org/10.1016/j.landusepol.2020.104684
+-	Zhang, M., Yen, B. T. H., Mulley, C., & Sipe, N. (2020a). An investigation of the open-system Bus Rapid Transit (BRT) network and property values: The case of Brisbane, Australia. Transportation Research Part A: Policy and Practice, 134, 16–34. https://doi.org/10.1016/j.tra.2020.01.021
+-	Zhang, M., Yen, B. T. H., Mulley, C., & Sipe, N. (2020b). How does an open system bus rapid transit (BRT) facilitate inter and intra-modal mobility? A visual analytic analysis of Brisbane, Australia. Research in Transportation Economics, 83, 100906. https://doi.org/10.1016/j.retrec.2020.100906
+
+
+
+## Stadtbahnverkehr (LRT - Light Rail Transit) {#lrt}
+
+### Synonyme {-}
+*Light Rail Transit (LRT), Schnellbahn (HRT - Heavy Rail Transit)*
+
+### Definition {-}
+Stadtbahnen (auch als Straßenbahn bezeichnet) sind bei Stadtplaner:innen zu einer beliebten Maßnahme geworden, um die mit dem städtischen Wachstum verbundenen sozialen und wirtschaftlichen Probleme anzugehen (Baker & Lee, 2019). Stadtbahnentwicklungen gehen über die Verbesserung des Zugangs zu öffentlichen Verkehrsmitteln für die umliegenden Stadtteile hinaus. Die Auswirkungen können sich auch auf Immobilienwerte, die Demografie der Nachbarschaft, Beschäftigungsmöglichkeiten und den Zugang zu Dienstleistungen auswirken (Hess, 2020). <br/>
+
+Befürworter:innen argumentieren, dass die Einrichtung neuer Stadtbahnlinien die ökologische Nachhaltigkeit fördern kann, indem sie die Nutzung des privaten Pkw reduziert und die öffentliche Gesundheit verbessert, indem sie die Begehbarkeit der Nachbarschaft und die Luftqualität erhöht (D. Knowles & Ferbrache, 2016). Andere Argumente sind, dass LRTs die Einkommensungleichheit positiv beeinflussen, indem sie die Entwicklung von Unternehmen fördern und einen direkten Zugang zu Beschäftigungszentren in einer Stadt oder einem Vorort bieten (Hess, 2020). <br/>
+
+Viele dieser Auswirkungen haben Auswirkungen auf die Gesundheit und das Wohlbefinden der Bewohner:innen. Diese werden anhand der sozialen Determinanten der Gesundheit (SDOH) bewertet. Die Weltgesundheitsorganisation (WHO) definiert die sozialen Determinanten der Gesundheit (SDOH) als "*die Bedingungen, unter denen Menschen geboren werden, aufwachsen, leben, arbeiten und altern*" (z. B. Einkommen, Wohnen, Beschäftigung) und "*die diesen Bedingungen zugrunde liegenden Faktoren*" (z. B. Wirtschafts- und Sozialpolitik und politische Systeme) (Braveman & Gottlieb, 2014). Das SDOH-Rahmenwerk geht davon aus, dass die Art und Weise, wie politische, soziale und wirtschaftliche Ressourcen innerhalb von Gemeinschaften verteilt sind, Auswirkungen auf Gesundheit und Wohlbefinden haben kann (Solar & Irwin, 2010). <br/>
+
+Aufgrund der niedrigen Baukosten im Vergleich zu unterirdischen Systemen und der großen wahrgenommenen wirtschaftlichen Vorteile ist LRT zu einer beliebten Form des Transits geworden. LRT-Systeme werden in der Regel entlang bestehender Straßen gebaut, so dass keine teure Tunnel- oder Hochbahninfrastruktur erforderlich ist. LRT teilen sich zwar den Straßenraum mit Fahrzeugen und Fußgänger:innen, doch werden Teile der Strecken mit Vorrang befahren, was höhere Geschwindigkeiten und weniger Verspätungen als bei Bussen ermöglicht. Im Gegensatz zum Bustransit wird durch die Notwendigkeit von Schienen, einer oberirdischen Stromquelle und Bahnsteigen sichergestellt, dass LRT eine langfristige lokale Investition ist (Tyndall, 2021). <br/>
+
+Laird (2019) definiert die Unterschiede zwischen Stadtbahnsystemen und Nahverkehrsbahnsystemen. Sie funktionieren unterschiedlich, haben unterschiedliche Anforderungen und verwenden unterschiedliche Systeme für den Betrieb:
+
+**Nahverkehrsbahnsysteme (S-Bahnen)**<br/>
+Nahverkehrsbahnen sind Personenzüge, die mit diesel-elektrischen oder elektrischen Motoren betrieben werden. Sie verkehren auf bestehenden Gleisanlagen auf denselben Strecken, die auch von Güterzügen im Fernverkehr genutzt werden. Sie werden von staatlichen Behörden oder privaten Unternehmen auf eigenen oder fremden Gleisen betrieben. Sie haben in der Regel eine Geschwindigkeit von 80 bis 130 km/h, kürzere Strecken und sind meist nur in größeren Ballungsräumen zu finden. Nahverkehrssysteme haben weniger Haltestellen als Stadtbahnen und verkehren in der Regel durch Vororte und zentrale Städte. Da S-Bahn-Systeme für Pendler:innen konzipiert sind, kann die Fahrplanhäufigkeit anders sein als bei der Stadtbahn und über den Tag verteilt weniger häufig verkehren. Die meisten Pendlerzüge verkehren während der üblichen Pendlerzeiten an einem durchschnittlichen Arbeitstag. 
+
+**Stadtbahnsysteme (Straßenbahnen)**<br/>
+Stadtbahnsysteme sind Personenzüge, die durch elektrische Oberleitungen angetrieben werden. Sie haben leichtere Rahmen und kleinere Wagenkästen als andere Züge, da sie einen größeren Wendekreis benötigen. Da Stadtbahnen auf städtischen Straßen und in städtischen Korridoren mit häufigen Haltestellen verkehren, haben sie einen kleineren Wenderadius, um in verkehrsreiche Bereiche hinein- und wieder herauszufahren, und können schneller beschleunigen und abbremsen als Nahverkehrszüge. Während Nahverkehrsbahnsysteme über bestehende Güterzuggleise fahren können, benötigen Stadtbahnsysteme in der Regel eigene Gleise.
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Fußgänger:innen, Benutzer:innen öffentlicher Verkehrsmittel, Anwohner:innen, Autofahrer:innen
+- **Verantwortliche**: Stadtverwaltungen, private Verkehrsunternehmen, Verkehrsbehörden
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung untersucht hauptsächlich die sozialen Auswirkungen (Baker & Kim, 2020; Baker & Lee, 2019; Deyas & Woldeamanuel, 2020; Hess, 2020; Tyndall, 2021) und die wirtschaftlichen Auswirkungen (D. Knowles & Ferbrache, 2016) von Stadtbahnen. <br/>
+
+Knowles & Ferbrache (2016) bewerten die weitergehenden wirtschaftlichen Auswirkungen von Stadtbahninvestitionen auf Städte. Sie konzentrierten sich dabei auf Erkenntnisse aus britischen, europäischen und nordamerikanischen Fallstudien, da es noch immer an Stadtbahnforschung in weniger entwickelten Städten auf der ganzen Welt mangelt. Sie stellten fest, dass Investitionen in Stadtbahnsysteme positive wirtschaftliche Auswirkungen auf die Städte haben können. Allerdings haben ähnliche Stadtbahninvestitionen an verschiedenen Standorten nicht unbedingt die gleichen Auswirkungen, weshalb die geografische Lage eine Rolle spielt. Ähnlich wie bei anderen Formen der Verkehrsinfrastruktur ist es unwahrscheinlich, dass Stadtbahninvestitionen allein ein ausreichender Katalysator für wirtschaftliche Veränderungen sind, wenn nicht zusätzliche unterstützende Maßnahmen ergriffen werden. <br/>
+
+Die Stadtbahn kann das Wirtschaftswachstum ankurbeln, indem sie die Erreichbarkeit bisher unzugänglicher Gebiete verbessert, ausländische Investitionen anregt, neues Wachstum auslöst, die Einzugsgebiete des Arbeitsmarktes erweitert und die Immobilienpreise beeinflusst. Zwar kommt es in vielen Gebieten nach dem Bau von Stadtbahnen zu Preissteigerungen, doch werden diese oft nicht absorbiert, und das Kapital zur Finanzierung der Infrastruktur muss anderweitig beschafft werden. Wie bei anderen Formen des öffentlichen Verkehrs werden die wirtschaftlichen Auswirkungen der Stadtbahn daher verstärkt, wenn Flächennutzungs- und Verkehrsplanungspolitik koordiniert werden, und dies hängt in hohem Maße von anderen Kontextfaktoren ab. <br/>
+
+Tyndall (2021) stellt fest, dass die Stadtbahn die Nutzung des öffentlichen Verkehrs insgesamt erhöht, weil sie höher qualifizierte Arbeitnehmer:innen anzieht, die andere Formen des öffentlichen Verkehrs wahrscheinlich nicht nutzen würden, während gering qualifizierte Arbeitnehmer:innen weiterhin den öffentlichen Verkehr nutzen. <br/>
+
+**Automatisierung von LRT**
+
+- Die Automatisierungsstufe 2 bezieht sich auf ein System, bei dem die Züge automatisch von Bahnhof zu Bahnhof fahren, aber Fahrer:innen im Führerstand sitzen und für das Schließen der Türen, das Erkennen von Hindernissen auf dem Gleis vor dem Zug und die Bewältigung von Notsituationen verantwortlich sind.
+- In der Automatisierungsstufe 3 fahren die Züge automatisch von Bahnhof zu Bahnhof, aber es befindet sich immer Personal in der Bahn, das für die Bewältigung von Notsituationen verantwortlich ist.
+- In der Automatisierungsstufe 4 können die Züge jederzeit automatisch fahren, einschließlich Türschließung, Hinderniserkennung und Bewältigung von Notfallsituationen. Das Zugpersonal kann für andere Zwecke eingesetzt werden, z. B. für den Kundendienst, ist aber für den sicheren Betrieb nicht erforderlich. Für den Fall, dass der Computer ausfällt, sind häufig Bedienelemente vorgesehen, mit denen der Zug manuell gesteuert werden kann. Beispiele sind bisher nur die Metros in Paris, Barcelona, Sydney und Kopenhagen (UITP, n.d.). Stadtbahnen werden erst seit 2018 auf automatisiertes Fahren getestet.
+
+### Aktueller Stand der praktischen Umsetzung {-}
+
+Straßen- und Stadtbahnsysteme gibt es weltweit in 389 Städten, mehr als die Hälfte (204) davon in Europa. Zwischen 2015 und 2018 wuchs die Stadtbahninfrastruktur in Europa um 3,9 % von 8943 km auf 9296 km, und die Fahrgastzahlen stiegen um 6,9 % von 9740 Millionen auf 10.422 Millionen Fahrgäste. Stadtbahnen befördern heute genauso viele Fahrgäste wie U-Bahnen und Regional-/Suburbanbahnen und zehnmal mehr Fahrgäste als der Flugverkehr in Europa. Die durchschnittliche Länge einer Stadtbahnfahrt in Europa beträgt 3,27 km. Das verkehrsreichste Stadtbahnnetz in Europa befindet sich in Budapest, Ungarn, mit 411 Millionen Fahrgästen, während Berlin mit 193 km das längste Stadtbahnnetz in Europa hat. Das Fahrgastwachstum variiert von Region zu Region und reicht von 17,5 % auf den Britischen Inseln bis zu 1,5 % in Polen. <br/>
+
+Während die durchschnittliche europäische Strecke 7,3 km lang ist, ist sie in Ländern mit neueren Systemen und einer begrenzten Anzahl von Strecken im Durchschnitt länger, während ältere, komplexere Systeme eine geringere durchschnittliche Streckenlänge aufweisen. Die europäische Flotte besteht aus 20.750 Straßen- und Stadtbahnen, wobei 51 % dieser Flotte aus Teil- oder Vollniederflurfahrzeugen bestehen, wobei die Spanne von Ländern mit einem Anteil von fast 100 % wie Frankreich, Spanien, Irland, dem Vereinigten Königreich und Norwegen bis hin zu Ländern mit einem wesentlich geringeren Anteil reicht. Die durchschnittliche jährliche Fahrleistung pro Fahrzeug in Europa beträgt 52.000 km, wobei die Spanne von 38.700 km bis 77.500 km reicht (dieser Wert ist theoretisch und beruht auf der Annahme, dass alle Fahrzeuge gleichmäßig genutzt werden). Laut UITP wird die Stadtbahn angesichts des anhaltenden Drucks zur Verringerung der Verkehrsüberlastung, zur Bekämpfung der schlechten Luftqualität in den Städten und zur Reduzierung der Treibhausgasemissionen, die zum Klimawandel beitragen, weiterhin von Entscheidungsträger:innen und der Öffentlichkeit in Europa unterstützt werden. Viel Aufmerksamkeit und Ressourcen werden jedoch in die Instandhaltung, Modernisierung und den Ersatz von Anlagen fließen, um alternde Systeme attraktiv und funktionsfähig zu halten. Aus diesem Grund wird sich das Wachstum von Greenfield-Projekten in Europa weiter verlangsamen (Burroughs, 2020; UITP, 2019).
+
+**Beispiele für aktuelle Investitionen 2021**
+
+- Das Jerusalemer Stadtbahnprojekt, das den Bau von 27 km neuen Stadtbahnlinien, 53 Stationen und einige Betriebshöfen umfasst (Railway-News, 2019).
+
+- Die Lissabonner Verkehrsbetriebe und CAF unterzeichneten einen Vertrag für eine neue LRT-Linie. Die NiederflurStadtbahn wird eine Länge von 28,5 Metern haben und mit einer Geschwindigkeit von 70 km/h fahren können (Railwaypro, 2021b).
+
+-	Paris eröffnet die neue LRT-Linie T9 zwischen Paris und der Stadt Orly. Die 40 km lange Strecke hat 19 Stationen und soll 70.000 bis 80.000 Fahrgäste pro Tag befördern. Die Stadtbahnwagen haben acht Doppeltüren pro Seite und breitere Gänge, um den Fahrgastfluss zu verbessern und die Einstiegszeiten zu verkürzen (Burroughs, 2021). Die europäischen Städte werden weiterhin in umweltfreundlichere Verkehrsmittel und Logistik investieren, einschließlich einer Förderung des Schienenverkehrs und einer sauberen Mobilität in Städten und Regionen (Europäische Kommission, 2020). Auch die Weltbank (2020) stellt fest, dass Investitionen in zuverlässige Nahverkehrssysteme wie U-Bahnen, LRT und Bus Rapid Transit dazu beitragen können, die Städte in Bewegung zu halten und gleichzeitig den Kohlenstoff-Fußabdruck des städtischen Verkehrs zu verringern. <br/>
+
+- Auch US-Städte haben in den letzten Jahren erhebliche Investitionen in Light Rail Transit (LRT) getätigt. Eine gängige Rechtfertigung für LRT ist, dass die Transitinfrastruktur die städtischen Pendlernetze verbessert, indem sie räumliche Verbindungen zwischen Arbeitnehmer:innen und Arbeitsplätzen schafft. Zwischen 2000 und 2015 ist die Zahl der LRT-Stationen in vier Metropolregionen in den USA um 56 % gestiegen (Tyndall, 2021). <br/>
+
+- Moskau hat angekündigt, dass das Stadtbahnnetz von der Moskauer Metro verwaltet werden soll. Es wird erwartet, dass die zentrale Verwaltung und die konsequente Modernisierung die Geschwindigkeit der Stadtbahn erhöhen, die Wartung der Gleise verbessern, die Zahl der Reparaturen halbieren und die Wartungskosten senken wird. Im Jahr 2019 beförderte das Stadtbahnnetz 212 Millionen Fahrgäste, das ist zwölfmal mehr als die Einwohnerzahl Moskaus. Bis 2023 plant Moskau, seine gesamte alte Stadtbahnflotte durch NiederflurStadtbahnen zu ersetzen. Es wird erwartet, dass bis 2024 auf allen Moskauer Strecken nur noch NiederflurStadtbahnen verkehren werden (Railwaypro, 2021a). <br/>
+
+Darüber hinaus wird auch in Stadtbahnzüge (tramtrains) investiert. Eine Kombination aus Stadtbahn und Zug. Während sie als Zug die Reisevorteile einer Eisenbahn im Umland hat, wie Geschwindigkeiten, Sicherheitsstandards, Fahrkomfort, sanitäre Einrichtungen, funktioniert sie im Stadtzentrum als Stadtbahn. Diese Mehrsystemfahrzeuge sind mit ihrer Ausstattung und ihren Betriebseigenschaften sowohl für Fahrgäste, die längere Strecken mit dem Zug zurücklegen, als auch für Fahrgäste, die nur wenige Haltestellen in der Innenstadt anfahren, bestens geeignet. Vor allem ermöglichen die Tramtrain-Fahrzeuge auch direkte Verbindungen aus dem Umland in die Stadt ohne Umsteigen. Von der Region bis zur Stadtgrenze haben die Fahrgäste somit den Vorteil einer schnellen Fahrzeit und eines hohen Fahrgastkomforts (Seyringer, 2020). In Karlsruhe gibt es einige Beispiele für Stadtbahnzüge, die seit 1992 existieren (Stadtwiki Karlsruhe, 2016). Sie haben bereits durchgehende Bahnverbindungen zwischen den Innenstädten und den Regionen (Stadtwiki Karlsruhe, 2020). Auch die Badner Bahn ist ein bekanntes Beispiel für Stadtbahnzüge. Das 30,4 km lange Stadtbahnzugsystem der Badner Bahn verkehrt zwischen Wien und Baden. Jährlich befördern die Wiener Lokalbahnen rund 12 Millionen Fahrgäste zwischen Wien und Baden. Vor allem Pendler:innen aus dem Süden Wiens nutzen täglich die Badner Bahn (RailwayPro, 2020). <br/>
+
+**Automatisierung**
+
+Seit einigen Jahrzehnten erlebt die Stadtbahn weltweit eine Renaissance. Autos und Busse werden dank fortschrittlicher Sensor- und Automatisierungstechnik immer intelligenter und unabhängiger. Wenn die Stadtbahn mithalten und ihre Attraktivität und Wettbewerbsfähigkeit langfristig sichern will, muss sie sich zu einem intelligenten und automatisierten Verkehrsmittel entwickeln. Die Automatisierungstechnik funktioniert mit Hilfe von Lidar, Radar und Kameras (Siemens Mobility, 2019):
+
+*Lidar (Light detection and ranging)*
+
+-	Ermöglicht 3D-Umgebungserfassung und Positionierung
+-	Scannt Objekte vertikal und horizontal mit Laserstrahlen ab; nutzt die reflektierten Wellen, um die Umgebung wahrzunehmen
+-	Ermöglicht der Stadtbahn, in einem Winkel von bis zu 270&deg; zu "sehen".
+
+*Radar (Radio Detection and Ranging)*
+
+-	Misst Entfernung und Geschwindigkeit mit hoher Genauigkeit - insbesondere von metallischen Objekten
+-	Sendet Radiowellen aus und nutzt die reflektierten Wellen zur Lokalisierung von Objekten
+-	Erfasst einen großen Bereich vor der Stadtbahn
+
+*Kameras*
+
+-	Sind in intelligenter Objekt- und Signalerkennung geschult
+-	Können Objekte in Tausenden von Konturen und Positionen erkennen und klassifizieren - z. B. als Personen, Signale oder Infrastrukturelemente
+-	Decken einen großen optischen Bereich um das Fahrzeug ab
+
+Wenige Jahre vor 2020 hat Siemens Mobility das Fahrerassistenzsystem "Siemens Tram Assistant" auf den Markt gebracht - ein Kollisionswarn- und Schutzsystem zur Unterstützung der Fahrer:innen. Das System wird bereits erfolgreich in Siemens-Stadtbahnen in Den Haag (Niederlande) und Ulm (Deutschland) eingesetzt. Als nächster wirtschaftlich sinnvoller Schritt ist die Automatisierung von Betriebshöfen auf der Basis einer automatisierten Stadtbahn geplant. Damit können zeitaufwändige Rangiervorgänge im Betriebshof, wie z.B. Servicefahrten durch eine Waschanlage zu einem Anschlussgleis, automatisiert werden. Die weitgehende Abschottung vom öffentlichen Verkehr vereinfacht die technische Kontrolle und Zulassung (Hofmann, 2020; Zasiadko, 2019b).<br/>
+
+Die drei führenden Länder bei der Entwicklung von automatisierten Stadtbahnen sind Deutschland, Russland und China (Intelligenter Verkehr, 2019). Siemens Mobility testet seit 2018 die erste vollständig automatisierte Stadtbahn in einem automatisierten Betriebshof in Deutschland (Hofmann, 2020). PC Transport Systems und Cognitive Technologies haben ein gemeinsames Projekt angekündigt, das bis 2022 eine vollständig automatisierte Stadtbahn für den russischen und ausländischen Markt entwickeln soll (Intelligent Transport, 2019; Zasiadko, 2019a). Nach den erfolgreichen Tests der automatisierten Stadtbahn in Moskau plant das russische Unternehmen Cognitive Technologies gemeinsam mit Fuxin Intelligent Transportation Solutions (FITSCO), einem der größten Anbieter von Signal- und Kommunikationslösungen in China, die Entwicklung eines KI-basierten Computersichtsystems für den chinesischen Markt. Dieses wird für die Erprobung und Einführung der selbstfahrenden Stadtbahnen in Shanghai benötigt. Das Projekt soll im Jahr 2021 umgesetzt werden (Zasiadko, 2020).<br/>
+
+Im Gegensatz zu ähnlichen Lösungen für selbstfahrende Autos weist das System für die Schiene eine Reihe von Vereinfachungen auf, die es den Stadtbahnen ermöglichen werden, früher auf öffentlichen Straßen zu fahren. Doch trotz dieser Vereinfachungen gibt es weltweit nur wenige Länder, die für den tatsächlichen Einsatz von automatisierten Stadtbahnen bereit sind. Das entwickelte automatisierte Fahrsystem erkennt Fahrzeuge und andere Stadtbahnen, Ampeln, Fußgänger:innen, Stadtbahn- und Bushaltestellen, Weichen und verschiedene Hindernisse. Die Stadtbahn ist auch in der Lage, vor den Hindernissen anzuhalten, einen sicheren Abstand zu den vorausfahrenden Fahrzeugen einzuhalten, zu beschleunigen und anzuhalten (Intelligenter Verkehr, 2019).
+
+### Relevante Initiativen in Österreich {-}
+Für das kommende Jahrzehnt gibt es in Wien eine Reihe von Ausbauplänen für das Stadtbahnnetz, darunter die Anbindung des niederösterreichischen Umlandes mit drei Linien. Solche Strecken werden nun realistischer. Denn beide Bundesländer prüfen die Möglichkeiten und Rahmenbedingungen für eine Umsetzung im Frühjahr 2020 (Wiener Linien, 2020).
+
+- [Ausbau des Stadtbahnnetzes geplant](https://wien.orf.at/stories/3068577/)
+
+"*Neben dem 1-2-3-Klimaticket selbst bekommen die Oberösterreicherinnen und Oberösterreicher in den kommenden Jahren mit der Regionalstadtbahn Linz-Gallneukirchen-Pregarten eine verbesserte, innovative ÖPNV-Infrastruktur und damit weitere Anreize für Pendler:innen, mit der 'Stadtbahn' nach Linz zu fahren, statt auf der S10 und A7 im Stau zu stehen*", erklärt Weratschnig (Verkehrssprecher der Grünen) (Grüner Klub im Parlament, 2021). Weiters soll die Badner Bahn neue Stadtbahnen erhalten. Diese werden ab der zweiten Jahreshälfte 2021 schrittweise die alten Hochflurfahrzeuge ersetzen (RailwayPro, 2020).
+
+- [Badner Bahn](https://www.railwaypro.com/wp/interior-design-for-wiener-lokalbahnen-new-tram-unveiled/)
+
+TramTrains für Linz (Oberösterreich) werden im Juli 2026 erwartet. Die Fahrzeuge werden im Mittelteil über Regionalbahnsitze, Sitzgruppen und Gepäckablagen verfügen, während im vorderen und hinteren Teil Mehrzweckabteile für den Rollstuhl-, Kinderwagen- und Fahrradtransport vorgesehen sind. Die für den Einsatz auf den längeren Stadtbahn vorgesehenen Fahrzeuge werden mit Toiletten ausgestattet (Seyringer, 2020). Auch in Salzburg sind bis 2026 mindestens 20 neue Stadtbahnzüge geplant (SALZBURG24, 2020). 
+
+- [Salzburger Stadtbahn](https://www.salzburg24.at/news/salzburg/salzburger-lokalbahn-bekommt-neue-tram-trains-91192069)
+- [Linzer Stadtbahn](https://www.ots.at/presseaussendung/OTS_20210312_OTS0128/grueneweratschnig-vom-muehlkreis-aus-bald-per-tram-train-nach-linz-statt-im-stau-auf-der-a7)
+- [Stadtbahn in Österreich](https://kommunal.at/eisenbahn-und-stadtbahn-einem)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table104, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Systemisch|Verbesserung der Fussgaengerfreundlichkeit in der Nachbarschaft und der Luftqualitaet|**+**|Gesundheit und Wohlbefinden (*3*)|D. Knowles & Ferbrache, 2016|
+|Systemisch|Foerderung der Unternehmensentwicklung und Bereitstellung eines direkten Zugangs zu den Beschaeftigungszentren |**+**|Gleichheit (*5,10*)|Hess, 2020|
+|Systemisch|Geringere Autonutzung|**+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|D. Knowles & Ferbrache, 2016|
+|Systemisch|Niedrige Baukosten im Vergleich zu unterirdischen Systemen und grosse wirtschaftliche Vorteile|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Tyndall, 2021|
+|Systemisch|Unterstuetzung von Entscheidungstraeger:innen in Europa, aber immer noch kein nennenswerter Einsatz von LRT in weniger entwickelten Staedten auf der ganzen Welt| **~**|Partnerschaften und Kooperationen (*17*)|Burroughs, 2020; D. Knowles & Ferbrache, 2016; UITP, 2019|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table105, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|6-9|')
+```
+
+### Offene Fragen {-}
+1. Was sind die sozialen Auswirkungen der Stadtbahn?
+2. Welches Potenzial hat die Stadtbahn, die Wahl des Wohnorts zu beeinflussen?
+
+### Weitere links {-}
+
+- [railjournal.com](https://www.railjournal.com/category/passenger/light-rail/)
+- [uitp.org](https://www.uitp.org/topics/light-rail/)
+- [railwaypro.com](https://www.railwaypro.com/wp/)
+- [railway-news.com](https://railway-news.com/)
+- [CO~2~-emmisions](https://ourworldindata.org/CO~2~-emissions-from-transport)
+- [lrta.org](http://www.lrta.org/) 
+- [mobility.siemens.com](https://www.mobility.siemens.com/global/en/portfolio/rail/rolling-stock/trams-and-light-rail/autonomous-tram.html)
+- [metroautomation.org](https://metroautomation.org/what-makes-automation-possible/)
+
+
+### Referenzen {-}
+- Baker, D. M., & Kim, S. (2020). What remains? The influence of light rail transit on discretionary income. Journal of Transport Geography, 85, 102709. https://doi.org/10.1016/j.jtrangeo.2020.102709
+-	Baker, D. M., & Lee, B. (2019). How Does Light Rail Transit (LRT) Impact Gentrification? Evidence from Fourteen US Urbanized Areas. Journal of Planning Education and Research, 39(1), 35–49. https://doi.org/10.1177/0739456X17713619
+-	Braveman, P., & Gottlieb, L. (2014). The social determinants of health: It’s time to consider the causes of the causes. Public Health Reports, 129(SUPPL. 2), 19–31. https://doi.org/10.1177/00333549141291s206
+-	Burroughs, D. (2020, January 16). Light rail growth strong in Europe, UITP says | International Railway Journal. Railjournal. https://www.railjournal.com/passenger/light-rail/light-rail-sees-strong-growth-in-europe-uitp-says/
+-	Burroughs, D. (2021, April 24). Paris T9 light rail line opens | International Railway Journal. https://www.railjournal.com/passenger/light-rail/paris-t9-light-rail-line-opens/
+-	D. Knowles, R., & Ferbrache, F. (2016). Evaluation of wider economic impacts of light rail investment on cities. Journal of Transport Geography, 54, 430–439. https://doi.org/10.1016/j.jtrangeo.2015.09.002
+-	Deyas, G. T., & Woldeamanuel, M. G. (2020). Social and economic impacts of public transportation on adjacent communities: The case of the Addis Ababa light rail transit. Research in Transportation Economics, 84, 100970. https://doi.org/10.1016/j.retrec.2020.100970
+-	European Commission. (2020, May 26). Europe’s moment: Repair and prepare for the next generation. https://ec.europa.eu/commission/presscorner/detail/en/ip_20_940
+-	Grüner Klub im Parlament. (2021, March 12). Grüne/Weratschnig: Vom Mühlkreis aus bald per Tram-Train nach Linz, statt im Stau auf der A7 | Grüner Klub im Parlament, 12.03.2021. https://www.ots.at/presseaussendung/OTS_20210312_OTS0128/grueneweratschnig-vom-muehlkreis-aus-bald-per-tram-train-nach-linz-statt-im-stau-auf-der-a7
+-	Hess, C. L. (2020). Light-Rail Investment in Seattle: Gentrification Pressures and Trends in Neighborhood Ethnoracial Composition. In Urban Affairs Review (Vol. 56, Issue 1). https://doi.org/10.1177/1078087418758959
+-	Hofmann, M. (2020). Siemens Mobility und VIP Potsdam auf dem Weg zur autonomen Tram. „bahn Manager Magazin“, Edition 02/2020.
+-	Intelligent Transport. (2019, February 13). Russia’s first autonomous tram will be launched in Moscow. https://www.intelligenttransport.com/transport-news/75915/autonomous-tram-development-russia/
+-	Laird, K. (2019, August 28). Spot the Difference: Commuter vs. Light Rail. https://hoponboardblog.com/2019/08/spot-the-difference-commuter-vs-light-rail/
+-	Railway-News. (2019, August 9). CAF Group Consortium Wins Jerusalem Tram Contract | Railway-News. https://railway-news.com/caf-group-consortium-wins-jerusalem-tram-contract/
+-	Railwaypro. (2021a, April 8). Additional Vityaz-M trams expected to enter operation in Moscow. https://www.railwaypro.com/wp/moscow-to-receive-100-low-floor-trams/
+-	Railwaypro. (2021b, April 22). Urbos tram contract signed by Lisbon transport company. https://www.railwaypro.com/wp/lisbon-signs-tram-contract/
+-	RailwayPro. (2020, May 20). The new trams for Badner Bahn have a comfort-oriented design. https://www.railwaypro.com/wp/interior-design-for-wiener-lokalbahnen-new-tram-unveiled/
+-	SALZBURG24. (2020, August 7). Salzburger Lokalbahn bekommt neue Tram-Trains - SALZBURG24. https://www.salzburg24.at/news/salzburg/salzburger-lokalbahn-bekommt-neue-tram-trains-91192069
+-	Seyringer, K. (2020, August 12). Das ist ein nie dagewesenes Projekt, von dem wir sehr profitieren werden. https://www.tips.at/nachrichten/linz/wirtschaft-politik/513716-das-ist-ein-nie-dagewesenes-projekt-von-dem-wir-sehr-profitieren-werden
+-	Siemens Mobility. (2019). Teaching trams to drive . Der Trend : Städte fahren autonom.
+-	Solar, O., & Irwin, A. (2010). A conceptual framework for action on the social determinants of health. 79. http://www.who.int/sdhconference/resources/ConceptualframeworkforactiononSDH_eng.pdf
+-	Stadtwiki Karlsruhe. (2016). Karlsruher Modell – Stadtwiki Karlsruhe. https://ka.stadtwiki.net/Karlsruher_Modell
+-	Stadtwiki Karlsruhe. (2020, December 21). Stadtbahn – Stadtwiki Karlsruhe. https://ka.stadtwiki.net/Stadtbahn
+-	The World Bank. (2020, April 23). Earth Day 2020: Could COVID-19 Be the Tipping Point for Transport Emissions? https://www.worldbank.org/en/news/feature/2020/04/22/earth-day-2020-could-covid-19-be-the-tipping-point-for-transport-emissions
+-	Tyndall, J. (2021). The local labour market effects of light rail transit. Journal of Urban Economics, 124, 103350. https://doi.org/10.1016/j.jue.2021.103350
+-	UITP. (n.d.). Automation Essentials | Automated Metros Observatory. Available at: https://metroautomation.org/automation-essentials/ [Accessed: 3 May 2021]
+-	UITP. (2019). Light Rail and Tram : the European Outlook. Available at:  https://www.uitp.org/publications/light-rail-and-tram-the-european-outlook/ [Accessed: 3 May 2021]
+-	Wiener Linien. (2020, September 25). Pläne für Straßenbahn nach Niederösterreich - wien.ORF.at. https://wien.orf.at/stories/3068577/
+-	Zasiadko, M. (2019a, February 13). Russia tests its first self-driving tram | RailTech.com. RailTech.Com. https://www.railtech.com/digitalisation/2019/02/13/russia-tests-its-first-self-driving-tram/
+-	Zasiadko, M. (2019b, October 9). Germany will test first autonomous tram in automated depot | RailTech.com. RailTech.Com. https://www.railtech.com/rolling-stock/2019/10/09/germany-will-test-first-autonomous-tram-in-automated-depot/
+-	Zasiadko, M. (2020, April 23). Computer vision for self-driving trams in Shanghai | RailTech.com. RailTech.Com. https://www.railtech.com/digitalisation/2020/04/23/computer-vision-for-self-driving-trams-in-shanghai/
