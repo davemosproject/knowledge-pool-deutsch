@@ -1,0 +1,291 @@
+# Alternative Energieträger {#alternative}
+
+## Wasserstoff-Brennstoffzelle {#FCEV}
+
+### Synonyme {-}
+*Wasserstoff-Brennstoffzellen-Elektrofahrzeuge (FCEV - fuel cell electric vehicles)*
+
+### Definition {-}
+
+Wasserstoff-Brennstoffzellen sind Systeme, die Wasserstoff als Kraftstoff verwenden, um in einer Brennstoffzelle elektrische Energie zu erzeugen und das Fahrzeug mit dieser anzutreiben. In technischer Hinsicht weisen sie Ähnlichkeiten mit Elektrofahrzeugen auf. Die Vorteile von Brennstoffzellen-Elektrofahrzeugen (FCEV) sind Emissionsfreiheit (nur Wasser), schnelle Betankung, geräuschloses Fahren, sparsamerer Kraftstoffverbrauch und Effizienz sowie einfache Wartung. Unabhängig von diesen Vorteilen haben FCEV einige Nachteile, wie z. B. begrenzte Reichweite, Mangel an Wasserstofftankstellen, Sicherheitsprobleme, geringe Rentabilität für die Automobilhersteller, hohe Preise und geringes Bewusstsein und Akzeptanz (Tanç et al., 2019; Borgstedt et al., 2017; Iribarren et al., 2016). FCEVs haben jedoch eine höhere Energiedichte als Elektrobatterien, so dass sie auch mit schwereren Lasten fahren können. Gleichzeitig ergeben sich dadurch Einschränkungen in Bezug auf Gewicht und Größe der Energiespeicher in den Fahrzeugen. Folglich eignen sich FCEVs besser für den Güterverkehr, Nutzfahrzeuge, Busse, Züge, Schiffe und Flugzeuge, wo die Leistungsanforderungen höher sind. Von allen genannten Beispielen gibt es bereits Prototypen (Eichlseder et al, 2018). Bei Privatfahrzeugen dürften die FCEVs bei Langstreckenfahrten Vorteile bieten (Roadmap Europe, 2019).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Fahrer:innen von konventionellen Autos, Bürger:innen
+- **Verantwortliche**: Nationale Regierungen, Autohersteller, internationale Lobbyisten, Privatunternehmen 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Das Ziel alternativer Antriebssysteme ist es, die klimaschädlichen CO~2~-Emissionen zu minimieren oder ganz zu eliminieren, weshalb das Forschungsprogramm der Europäischen Gemeinschaft die Elektromobilität als vorrangigen Forschungsbereich vorschlägt. Die Methoden der Wasserstofferzeugung durch biologische und photochemische Verfahren werden jedoch auch intensiv erforscht, denn 95 % des derzeit industriell erzeugten Wasserstoffs stammen aus fossilen Kohlenwasserstoffen und nur 5 % aus Wasser durch Elektrolyse. Das einzige emissionsfreie Verfahren zur Herstellung von Wasserstoff ist die elektrochemische Wasserspaltung in der Elektrolyse, bei der der benötigte Strom aus Wind-, Wasser- oder Sonnenenergie gewonnen wird. Dieses Verfahren führt zu hohen Reinheitsgraden und erreicht in der Regel Wirkungsgrade von bis zu 85 % (Eichlseder et al., 2018). Darüber hinaus zielt die Politik für Elektrofahrzeuge auf die Optimierung von Technologie, Marktentwicklung, Haltbarkeit und Kapazität der Batterien und Ladestationen ab (Alvarez-Meaza et al., 2020). 
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Wasserstoff im Verkehr steht erst am Anfang seiner Entwicklung (2013 wurden die ersten leichten FCEVs nur zum Leasing eingeführt). Im Vergleich zu anderen alternativen Antriebssystemen wie batteriebetriebenen Elektrofahrzeugen (BEVs), die bereits früher auf dem Fahrzeugmarkt eingeführt wurden, weisen FCEVs einen ähnlichen Aufwärtstrend auf. Ende 2017 belief sich die Gesamtzahl der FCEVs in Europa auf 799 Fahrzeuge, davon 602 Pkw und 197 leichte Nutzfahrzeuge, während die Gesamtzahl der BEVs 447.150 Fahrzeuge erreichte. Ende 2018 stieg die Zahl der FCEVs in Europa auf etwa 1.110 (Apostolou und Xydis, 2019). Weltweit waren Ende 2018 rund 12.900 Brennstoffzellenfahrzeuge in Betrieb, davon 11.200 Pkw. 46 Prozent der Fahrzeuge sind in den USA unterwegs, 43 Prozent in Asien und 11 Prozent in der EU (1.110 Autos). Bei den Nutzfahrzeugen dominiert China mit über 400 Bussen, gefolgt von den USA mit 55 und der EU mit rund 80 (Eichlseder et al., 2018). Was die Anzahl der Wasserstofftankstellen (HRS) weltweit betrifft, so sind 2018 nur etwa 375 Stationen in Betrieb, im Vergleich zu 320 im Jahr 2017. Die meisten davon sind öffentlich zugänglich, der Rest sind Demonstrations-/Forschungsprojekte und dienen der Versorgung von Privatflotten mit Wasserstoff. Ende 2018 war Europa mit mehr als 170 HRS die Region mit den meisten in Betrieb befindlichen HRS, während Asien (vor allem Japan) mit rund 130 HRS an zweiter und Amerika (vor allem die USA) mit mehr als 70 installierten Stationen an dritter Stelle lag. Die folgende Abbildung zeigt die Anzahl der HRS nach Ländern Ende 2018 (Apostolou und Xydis, 2019):
+
+```{r ,echo=FALSE, out.width="60%", fig.cap="Anzahl der Wasserstofftankstellen weltweit (Apostolou und Xydis, 2019)"}
+knitr::include_graphics("image/hydrogen_refuel.png")
+```
+Im Europäischen Strategieplan für Energietechnologie werden Wasserstoff- und Brennstoffzellentechnologien als entscheidend für die Erreichung der Ziele zur Reduzierung der Treibhausgase bis 2050 vorgeschlagen (Roadmap Europe H., 2019; Alvarez-Meaza et al., 2020). 
+
+### Relevante Initiativen in Österreich {-}
+
+- [hydrogen train](https://fuelcellsworks.com/news/alstoms-hydrogen-train-successfully-completes-three-months-of-testing-in-austria/#:~:text=Alstom's%20Hydrogen%20Train%20Successfully%20Completes%20Three%20Months%20of%20Testing%20in%20Austria,-By%20FuelCellsWorksDecember&text=Alstom's%20Coradia%20iLint%2C%20the%20world's,Austrian%20Federal%20Railways) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table7, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Verbesserte Luftqualitaet|**+**|Gesundheit und Wohlbefinden (*3*)|Colella, Jacobson & Golden, 2005|
+|Individuell|Hohe Preise fuer Wasserstoffautos und Wasserstoffkraftstoff|**-**|Gleichheit (*5,10*)|Kanna & Paturu, 2020|
+|Individuell|Hoehere Anschaffungskosten aber niedrigere Betriebskosten fuer Privatpersonen|**~**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Apostolou & Xydis, 2019|
+|Systemisch|Reduzierte Emissionen, verbesserte Luftqualitaet|**+**|Gesundheit und Wohlbefinden (*3*)|Colella, Jacobson & Golden, 2005|
+|Systemisch|Verteilung und Zuweisung von Guetern verschlechtert sich|**-**|Gleichheit (*5,10*)|Kanna & Paturu, 2020|
+|Systemisch|Geringere Emissionen, Ersatz von fossilen Brennstoffen, Energiewende|**+**|Oekologische Nachhaltigkeit (*7,12-13,15*)|Colella, Jacobson & Golden, 2005|
+|Systemisch|Noch nicht profitabel fuer Hersteller|**-**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Roadmap Europe, 2019|
+|Systemisch|Zahl der Wasserstofftankstellen steigt|**+**|Innovation und Infrastruktur (*9*)|Apostolou & Xydis, 2019|
+|Systemisch|Internationaler Austausch von Technologien|**+**|Partnerschaften und Kooperationen (*17*)|International Partnership for Hydrogen and Fuel Cells in the Economy, n.d.|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table8, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-8|6-8|')
+```
+
+### Offene Fragen {-}
+
+1.	Wer wird den Fortschritt der Wasserstofftechnologie in der Schwerlastmobilität in Zukunft vorantreiben?
+2.	Wie lassen sich große Energiemengen bei geringem Gewicht und auf kleinem Raum im Fahrzeug speichern? (Roadmap Europa, 2019)
+
+### Weitere links {-}
+
+-	[europarlament](https://www.europarl.europa.eu/news/nl/press-room/20180911IPR13114/more-electric-cars-on-eu-roads-by-2030) 
+-	[ec.europa](https://ec.europa.eu/transport/themes/urban/vehicles/road/hydrogen_en) 
+-	[fch.europa](https://www.fch.europa.eu/news/hydrogen-roadmap-europe-sustainable-pathway-european-energy-transition) 
+
+### Referenzen {-}
+- Alvarez-Meaza, I., Zarrabeitia-Bilbao, E., Rio-Belver, R. M., & Garechana-Anacabe, G. (2020). Fuel-Cell Electric Vehicles: Plotting a Scientific and Technological Knowledge Map. Sustainability, 12(6), 2334.
+-	Apostolou, D., & Xydis, G. (2019). A literature review on hydrogen refuelling stations and infrastructure. Current status and future prospects. Renewable and Sustainable Energy Reviews, 113(May), 109292. https://doi.org/10.1016/j.rser.2019.109292
+- Borgstedt, P., Neyer, B., & Schewe, G. (2017). Paving the road to electric vehicles–A patent analysis of the automotive supply industry. Journal of cleaner production, 167, 75-87.
+-	Colella, W. G., Jacobson, M. Z., & Golden, D. M. (2005). Switching to a U.S. hydrogen fuel cell vehicle fleet: The resultant change in emissions, energy use, and greenhouse gases. Journal of Power Sources, 150, 150–181. https://doi.org/https://doi.org/10.1016/j.jpowsour.2005.05.092
+-	Doppelbauer, M. (2020). Grundlagen der Elektromobilität. In Grundlagen der Elektromobilität. https://doi.org/10.1007/978-3-658-29730-5
+-	Eichlseder, H., Klell, M., & Trattner, A. (2018). Wasserstoff in der Fahrzeugtechnik. In Wasserstoff in der Fahrzeugtechnik. https://doi.org/10.1007/978-3-8348-9674-2
+-	International Partnership for Hydrogen and Fuel Cells in the Economy. (n.d.). No Title. https://www.iphe.net/
+- Iribarren, D., Martín-Gamboa, M., Manzano, J., & Dufour, J. (2016). Assessing the social acceptance of hydrogen for transportation in Spain: an unintentional focus on target population for a potential hydrogen economy. International journal of hydrogen energy, 41(10), 5203-5208.
+-	Kanna, I. V., & Paturu, P. (2020). A study of hydrogen as an alternative fuel. International Journal of Ambient Energy, 41(12), 1433–1436. https://doi.org/10.1080/01430750.2018.1484803
+-	Lehmann, J., & Luschtinetz, T. (2014). Wasserstoff und Brennstoffzellen.
+- Roadmap Europe (2019). A sustainable pathway for the European energy transition. Luxembourg: Publications Office of the European Union.
+-	Pötscher, F., Winter, R., Lichtblau, G., Schreiber, H., & Kutschera, U. (2014). Ökobilanz alternativer Antriebe – Elektrofahrzeuge im Vergleich.
+-	Schabbach, T., & Wesselak, V. (2020). Energie - Den Erneuerbaren gehört die Zukunft.
+-	Tanç, B., Arat, H. T., Baltacıoğlu, E., & Kadir, A. (2019). Overview of the next quarter century vision of hydrogen fuel cell electric vehicles. In International Journal of Hydrogen Energy, Volume 44, Issue 20, (pp. 10120–10128).
+-	Töpler, J., & Lehmann, J. (2017). Wasserstoff und Brennstoffzelle - Technologien und Marktkonzepte. In Springer Vieweg.
+
+## Batterieelektrisch {#bev}
+
+### Synonyme {-}
+*Batteriebetriebenes Elektrofahrzeug (BEV- battery electric vehicle)*
+
+### Definition {-}
+Der Verkehr trägt mit bis zu 30% zu den klimarelevanten Treibhausgasemissionen in Österreich bei, wobei CO~2~ die größte Rolle spielt (Bundesministerium für Umwelt, 2019). Während die durchschnittliche Motorleistung der jährlich verkauften Fahrzeuge steigt (Kreuzer, 2020), steigen auch die Gesamtemissionen des Verkehrssektors (Bundesministerium für Umwelt, 2019). Ohne eine Änderung des Mobilitätsverhaltens kann nur ein Umstieg auf lokal emissionsfreie Antriebstechnologien, wie BEVs, Abhilfe schaffen. BEVs sind im Betrieb emissionsfrei (abgesehen von Reifenverschleiß und minimalem Bremsstaub) und haben einen Batteriespeicher/Akkumulator eingebaut, der an einer externen Ladestation aufgeladen wird. Die Energieumwandlung erfolgt in einem Elektromotor. Die Vor- und Nachteile von BEVs sind in der folgenden Tabelle dargestellt.
+
+```{r table52, echo=FALSE, results='asis'}
+cat('|Vorteile|Nachteile|
+|:----:|:----:|
+**Weniger Laerm**: Elektromotoren arbeiten wesentlich leiser als Verbrennungsmotoren. Im Autoverkehr wird der meiste Laerm jedoch nicht vom Motor erzeugt, sondern durch das Zusammenspiel von Reifen und Fahrbahn oder - bei hohen Geschwindigkeiten - durch aerodynamische Geraeusche. In diesen Faellen gibt es keinen Unterschied zwischen einem Elektroauto und einem herkoemmlichen Fahrzeug. Schon ab etwa 25 Stundenkilometern sind die Abrollgeraeusche beim Autofahren entscheidend. Unterhalb dieser Geschwindigkeit ist das Motorgeraeusch die entscheidende Geraeuschquelle. Daher sind Elektroautos in Gebieten mit niedriger Geschwindigkeit, wie etwa in Wohngebieten oder beim Anfahren an Kreuzungen und Ampeln, leiser.|Die **Reichweite** variiert derzeit von ca. 120 bis ~ 600 km. Das Tesla Model S kann nach Angaben des Herstellers bis zu 610 km weit fahren und hat damit die groesstmoegliche Reichweite unter den E-Autos, das Auto kostet knapp 80.000 Euro. Die Reichweite haengt von vielen Faktoren ab, wie z.B. von der unterschiedlichen Fahrweise, den Witterungsbedingungen (er erreicht seine volle Kapazitaet nur in einem Temperaturbereich zwischen 20 und 40 Grad Celsius), der Nutzung der Klimaanlage. Dennoch sind 94% aller Autofahrten der oesterreichischen Bevoelkerung kuerzer als 50 km.|
+|**Lokal emissionsfrei**: BEVs emittieren keine Luftschadstoffe, wenn sie in Betrieb sind. Die Reduktion von Treibhausgasen ist stark abhaengig von den Energietraegern, mit denen der Strom zuvor erzeugt wurde und den daraus resultierenden Emissionen. Der oesterreichische Strommix hat bereits einen hohen Anteil an erneuerbarer Energie. Der zusaaetzliche Strombedarf, der durch die Elektromobilitaet entsteht, wird durch die Ausbauplaene bis 2020 fuer die Stromerzeugung aus erneuerbaren Energietraegern um ein Vielfaches gedeckt. Dies stellt eine hervorragende Situation fuer die Elektromobilitaet in Oesterreich dar.|**Elektrizitaetsbedarf**: Mit zunehmender Anzahl von Elektrofahrzeugen auf Oesterreichs Strassen kann es zu unterschiedlichen Belastungen des Niederspannungsnetzes kommen, was zu Spannungsschwankungen und Unterbrechungen fuehren kann. Wenn daher mittel- bis langfristig ein gesteuertes Laden notwendig ist, sollte dies bei der Planung und Errichtung von Ladepunkten beruecksichtigt werden. Es muss jedoch darauf geachtet werden, dass die Steuerung den Kundeninteressen entspricht.|
+**Anschaffungskosten**: Die guenstigsten Elektroautos sind bereits ab 16.000 Euro erhaeltlich. |Das **System des Schnellladens** ist kostenintensiv sowie sicherheitstechnisch anspruchsvoll und stellt aufgrund des hohen Leistungsbedarfs (> 20 kW pro Anschluss) besondere Anforderungen an das Stromnetz. Solche Ladestationen sollten vor allem dort installiert werden, wo sie mit dem Netz kompatibel und wirtschaftlich sind. Daher ist vor der Installation von Schnellladestationen eine Kosten-Nutzen-Bewertung ratsam.|
+|**Kosten fuer das Aufladen**: Wird das Elektroauto mit Haushaltsstrom geladen, liegen die Kosten bei knapp 28 Cent/kWh, an oeffentlichen Ladestationen schwanken sie zwischen 30-60 Cent. Fuer 100 km im E-Auto kostet der Strom zum Laden etwa 4,50. Die entsprechenden Kosten fuer Benzin und Diesel im Vergleich: bei einem Verbrauch von 6 Litern Benzin bzw. 5 Litern Diesel derzeit 8,40 Euro und 6,70 Euro (Michael, 2020).|Die **Ladedauer** haengt von der Batteriekapazitaet und der Ladeleistung ab. An oeffentlichen Schnellladestationen betraegt die Dauer etwa eine halbe Stunde bis eine Stunde. An einer Haushaltssteckdose 8-14 Stunden.|
+|**Ladestationen**: Die Zahl der Ladestationen und Ladepunkte nimmt in Oesterreich stetig zu und liegt derzeit bei 5.000 oeffentlich zugaenglichen Ladepunkten. Zum Vergleich: In Oesterreich gibt es knapp 2800 Tankstellen (Sitte, 2019). |-|')
+```
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Fahrer:innen konventioneller Autos, Autohersteller, Versicherungen
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, Privatunternehmen, internationale Lobbyisten
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung zu diesem Thema konzentriert sich hauptsächlich auf die Leistung der Technologie, die Dimensionierung der Komponenten, die Ladestationen und die Ökobilanz (LCA). Die Ökobilanz ist ein Instrument zur Bewertung des ökologischen Fußabdrucks eines Produkts, eines Prozesses oder einer Tätigkeit während seines/ihres gesamten Lebenszyklus (Roy et al., 2009). Die wichtigsten Faktoren, die die Ökobilanz von BEVs beeinflussen, sind die Herstellung des Fahrzeugs und die Bereitstellung von Strom für seinen Betrieb. Während des Betriebs fallen keine direkten Emissionen an, aber die Quelle der Stromversorgung beeinflusst die Menge der indirekten Emissionen. Alte Batterien können als stationäre Stromspeicher wiederverwendet werden. Durch das Recycling der Batterien können diese wieder als Rohstoffquelle genutzt werden. Für die Herstellung von batterieelektrischen Antrieben werden folgende Rohstoffe benötigt: Lithium für die Lithium-Ionen-Batterie, Kobalt ebenfalls für die Batterie, wobei der Bedarf rückläufig ist, und Kupfer als Leitermaterial. Außerdem werden Seltene Erden benötigt, insbesondere Neodym und Dysprosium für Permanentmagnete; diese werden nicht mehr benötigt, wenn sie durch eine andere Motortechnologie ersetzt werden (Doppelbauer, 2020).<br/><br/>
+
+In der nachstehenden Tabelle werden die CO2-Emissionen (in Tonnen) bei der Herstellung von Fahrzeugen mit Verbrennungsmotor (ICE - internal combustion engine) und batteriebetriebenen Fahrzeugen verglichen, wobei die Größe des Fahrzeugs berücksichtigt wird. Es wird deutlich, dass BEV während des Produktionsprozesses zwischen 3 und 9 Tonnen CO2 mehr erzeugen als ICE (Doppelbauer, 2020).
+
+```{r table50, echo=FALSE, results='asis'}
+cat('|||ICE|||BEV||
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+||Klein|Mittel|Gross|Klein (30 kWh)|Mittel (60 kWh)|Gross (90 kWh)|
+|Karosserie des Fahrzeugs|2.5|3.8|5.0|2.5|3.8|5.0|
+|Zusaetzliche Komponenten|0.5|0.65|0.8|0.5|0.65|0.8|
+|HV-System|-|-|-|0.3|0.55|0.7|
+|Antrieb|0.4|0.6|0.8|0.2|0.25|0.3|
+|Produktion|1.5|1.5|1.5|1.5|1.5|1.5|
+|Batterie|-|-|-|3|6|9|
+|**Gesamt**|**4.9**|**6.6**|**8.1**|**8**|**12.8**|**17.3**|')
+```
+
+In dieser Ökobilanz werden auch aktuelle Daten zur Produktion von Batteriesystemen für Elektrofahrzeuge berücksichtigt. Zwar ist die Herstellung von Batterien mit einem erheblichen Energieaufwand und damit mit hohen Emissionen verbunden, jedoch entfallen bei Elektrofahrzeugen Komponenten wie Getriebe und Abgasnachbehandlung und deren produktionsbedingte Emissionen.<br/>
+
+Entscheidend für die Treibhausgasbilanz von Fahrzeugen ist vor allem die Energie, die für den Betrieb des Fahrzeugs eingesetzt wird. Während der Einsatz fossiler Energie bei Benzin- und Dieselfahrzeugen zu hohen Treibhausgasemissionen führt, haben Elektrofahrzeuge keine direkten Treibhausgasemissionen in ihrer Bilanz. Unter Berücksichtigung der direkten und indirekten Emissionen kann die Nutzung eines Elektroautos, das mit Strom aus erneuerbaren Quellen betrieben wird, 80 % der Treibhausgasemissionen im Vergleich zu einem mit fossilen Brennstoffen betriebenen Fahrzeug einsparen. Darüber hinaus werden durch die Nutzung von Strom aus erneuerbaren Energien auch die Stickoxidemissionen erheblich reduziert. Die Partikelemissionen hingegen steigen je nach Stromquelle leicht an.<br/>
+
+Die Vorteile des Elektroantriebs zeigen sich auch im kumulierten Energieverbrauch, abhängig von der Qualität des Stroms. Hervorzuheben ist der geringere spezifische Verbrauch im Vergleich zu fossil befeuerten Fahrzeugen. Dies ist auf den hohen Wirkungsgrad des Elektromotors zurückzuführen (Fritz et al., 2018). Die negativen ökologischen und sozialen Auswirkungen der Gewinnung der seltenen Rohstoffe, die zur Herstellung der Batterie benötigt werden, werden bereits reduziert. Die Bundesregierung fördert die Forschung zur wirtschaftlichen Nutzung und Rückgewinnung von Rohstoffen und zur Wiederverwendung von Batterien (Second Life). Inzwischen gibt es auch Batterien, die deutlich weniger Kobalt benötigen. Auch die Industrie engagiert sich zunehmend in Initiativen zur nachhaltigen Versorgung mit dem Rohstoff (Responsible Mining) (Kurzempa, 2018).<br/><br/>
+Was die Effizienz dieser Technologie betrifft, so liegt der Well-to-Wheel-Wirkungsgrad in Österreich bei etwa 69%. Dies ist ein erheblicher Effizienzgewinn im Vergleich zu einem Brennstoffzellenauto mit einem durchschnittlichen Well-to-Wheel-Wirkungsgrad von etwa 27 % und einem benzinbetriebenen Auto mit etwa 20 % (Bundesministerium für Umwelt Naturschutz und nukleare Sicherheit, n.d.). Die Verluste im Stromnetz in Österreich sind sehr gering und können im Bereich von 5 % angesetzt werden, woraus sich bei 100 % Ökostrom ein Quelle-Tank-Wirkungsgrad (well-to-tank) von 95 % ergibt. Im Zuge des Ladevorgangs entstehen durch Widerstände im Ladekabel und in der Batterie Ladeverluste von 10%. Der Traktionsbatterie ist jedoch ein AC/DC-Spannungswandler (Gleichrichter) vorgeschaltet, der weitere 5% Energieverluste verursacht. Um die gespeicherte Energie auf die Straße zu bringen, fließt sie nun durch einen Gleich-/Wechselspannungswandler (Inverter) mit 5% Energieverlust und kann schließlich von einem Elektromotor mit 90% Wirkungsgrad auf das Rad übertragen werden. Der Tank-zu-Rad-Wirkungsgrad (tank-to-wheel) beträgt somit 73 %. Der Gesamtwirkungsgrad eines BEV vom Tank zum Rad liegt bei 69 %.
+
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Die Zahl der weltweit zugelassenen E-Autos hat einen neuen Rekordstand erreicht. Gleichzeitig hat sich aber das Wachstum der Neuzulassungen abgeschwächt. Im Jahr 2019 waren weltweit rund 7,9 Millionen E-Autos zugelassen. Die Zahl der Neuzulassungen hingegen hatte im Jahr 2018 noch ein plus von 74% gegenüber dem Jahr 2017 (1,3 Millionen zu 2,2 Millionen), im Jahr 2019 blieben die Neuzulassungen jedoch fast auf der gleichen Höhe wie im Jahr 2018 mit einem plus von 4% (2,3 Millionen im Jahr 2019) (Prack, 2020). <br/><br/> 
+Laut dem Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg (ZSW) ist diese Entwicklung vor allem auf die Kürzung der E-Auto-Förderung in China und den USA zurückzuführen. Dennoch wurde in diesen Ländern fast das Neuzulassungsniveau des Vorjahres erreicht: In China wurden 1.204.000 Neuzulassungen registriert (52.000 weniger), in den USA 329.500 (31.800 weniger). Deutschland liegt mit rund 230.000 zugelassenen Fahrzeugen an siebter Stelle bei der Gesamtzahl der E-Autos nach China, den USA, Norwegen, Japan, Frankreich und Großbritannien (Prack, 2020).  <br/><br/> 
+Doch nicht nur für den Individualverkehr ist der Elektroantrieb eine Alternative. Auch im gewerblichen und öffentlichen Verkehr werden immer mehr Fahrzeuge elektrisch angetrieben. Je größer und schwerer ein Fahrzeug ist, desto schwieriger ist es, es aufgrund der enormen Masse der großen Batterien zu elektrifizieren. Die Batterietechnologie entwickelt sich jedoch ständig weiter, und die Reichweiten werden immer größer. Selbst schwere Sattelschlepper könnten in naher Zukunft elektrifiziert werden. Sie bräuchten allerdings Batterien und Oberleitungen auf den Autobahnen, damit sie auf ihren Strecken schnell aufgeladen werden können. Das wird jetzt in Deutschland getestet. Drei Strecken in Hessen, Schleswig-Holstein und Baden-Württemberg werden derzeit mit Oberleitungen ausgestattet (mehr dazu im Abschnitt über [Electric Road Systems](#ers)). In vielen Städten, wie Köln, Berlin und Hamburg, gehören Elektrobusse bereits zum Linienverkehr. Ihr Strombedarf wird durch schnelles, gelegentliches Aufladen an Haltestellen und durch nächtliches Aufladen in Betriebshöfen gedeckt. Viele deutsche Städte planen, in naher Zukunft vollelektrische Busse einzusetzen (Kurzempa, 2018).
+
+
+### Relevante Initiativen in Österreich {-}
+
+- [oeamtc.at](https://www.oeamtc.at/thema/elektromobilitaet/alles-ueber-elektroautos-35420295) 
+- [beoe.at](https://www.beoe.at/statistik/) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table51, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Weniger Laerm|**+**|Gesundheit und Wohlbefinden (*3*)|Bundesministerium fuer Umwelt, 2019|
+|Individuell|Lokal emissionsfrei|**+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Bundesministerium fuer Umwelt, 2019|
+|Individuell|Geringere Reisekosten|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Michael, 2020|
+|Systemisch|Emissionsfrei, aber hohe Emissionen in der Produktion|**~**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Fritz et al., 2018|
+|Systemisch|Zunehmende Anzahl von Ladestationen und Weiterentwicklung der Batterietechnologie|**+**|Innovation und Infrastruktur (*9*)|Sitte, 2019; Kurzempa, 2018|
+|Systemisch|Initiative fuer Elektrofahrzeuge zur Beschleunigung der Einfuehrung und Uebernahme von Elektrofahrzeugen weltweit |**+**|Partnerschaften und Kooperationen  (*17*)|IEA, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table53, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|7-9|')
+```
+
+### Offene Fragen {-}
+1. Wie können Versorgungsengpässe entlang der Wertschöpfungskette behoben werden?
+2. Wie groß ist die potenzielle Verlagerung der Abhängigkeit von ölproduzierenden auf lithiumproduzierende Länder? Was ist der erwartete Zeitrahmen?
+3. Welche Rolle spielt die Sekundärnutzung von Fahrzeugbatterien?
+4. Wie können lokale Regierungen das Bewusstsein der Verbraucher:innen für BEVs stärken?
+
+### Weitere links {-}
+-	[bmu.de](https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektromobilitaet_broschuere_en_bf.pdf)
+- [publik.tuwien.ac.at](https://publik.tuwien.ac.at/files/publik_272020.pdf)
+- [isi.fraunhofer.de](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cct/2020/Fact_check_Batteries_for_electric_cars.pdf)
+-	[kleinezeitung.at](https://www.kleinezeitung.at/auto/elektroauto/5479610/Jaenner-bis-Dezember-2020_Das-sind-die-meistverkauften#image-01_Volkswagen-e-Golf-2017-1600-01_1534157268197687_v0_h)
+-	[volkswagen.at](https://www.volkswagen.at/elektroauto/id-magazin/mobilitaet/elektromobilitaet-europa)
+-	[adac.de](https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/kaufen/elektroautos-uebersicht/)
+-	[ec.europa.eu](https://ec.europa.eu/eurostat/databrowser/view/ROAD_EQR_CARPDA__custom_91702/bookmark/table?lang=de&bookmarkId=7e47ef9d-b80b-4bd6-a35b-046cb5af4500)
+
+### Referenzen {-}
+- Bundesministerium für Umwelt, N. und nukleare S. (BMU). (2019). Wie umweltfreundlich sind Elektroautos? 1–20. www.bmu.de
+-	Bundesministerium für Umwelt Naturschutz und nukleare Sicherheit. (n.d.). Effizienz und Kosten: Lohnt sich der Betrieb eines Elektroautos? | BMU. Available at:  https://www.bmu.de/themen/luft-laerm-verkehr/verkehr/elektromobilitaet/effizienz-und-kosten/ [Accessed: 19 February 2021]
+-	Doppelbauer, M. (2020). Grundlagen der Elektromobilität. In Grundlagen der Elektromobilität. https://doi.org/10.1007/978-3-658-29730-5
+-	Eichlseder, H., Klell, M., & Trattner, A. (2018). Wasserstoff in der Fahrzeugtechnik. In Wasserstoff in der Fahrzeugtechnik. https://doi.org/10.1007/978-3-8348-9674-2
+-	Fritz, D., Heinfellner, H., Lichtblau, G., Pölz, W., & Stranner, G. (2018). Update: Ökobilanz alternativer Antriebe. 1–16. https://umweltbundesamt.at/fileadmin/site/publikationen/DP152.pdf
+-	IEA. (2020, October 26). Electric Vehicles Initiative – Programmes and partnerships - IEA. https://www.iea.org/areas-of-work/programmes-and-partnerships/electric-vehicles-initiative
+-	Kreuzer, C. (2020, September 8). Österreicher fahren auf immer PS-stärkere Autos ab | Wiener Städtische. https://www.wienerstaedtische.at/unternehmen/presse/pressemeldungen/detail/oesterreicher-fahren-auf-immer-ps-staerkere-autos-ab.html
+-	Kurzempa, A. (2018). Electromobility – what does it mean? AUTOBUSY – Technika, Eksploatacja, Systemy Transportowe, 19(6), 894–897. https://doi.org/10.24136/atest.2018.197
+-	Lehmann, J., & Luschtinetz, T. (2014). Wasserstoff und Brennstoffzellen.
+-	Michael. (2020, January 26). Wasserstoff, E-Auto, E-Fuels: Warum das E-Auto die beste Alternative ist | Elektroauto-News.net. https://www.elektroauto-news.net/2020/wasserstoff-e-auto-e-fuels-batterieauto-beste-alternative
+-	Pötscher, F., Winter, R., Lichtblau, G., Schreiber, H., & Kutschera, U. (2014). Ökobilanz alternativer Antriebe – Elektrofahrzeuge im Vergleich.
+-	Prack, N. (2020, February 27). Anzahl der Elektroautos: Deutschland & Ausland | ADAC. https://www.adac.de/news/statistik-e-autos/
+-	Roy, P., Nei, D., Orikasa, T., Xu, Q., Okadome, H., Nakamura, N., & Shiina, T. (2009). A review of life cycle assessment (LCA) on some food products. Journal of Food Engineering, 90(1), 1–10. https://doi.org/https://doi.org/10.1016/j.jfoodeng.2008.06.016
+-	Schabbach, T., & Wesselak, V. (2020). Energie - Den Erneuerbaren gehört die Zukunft.
+-	Sitte, P. (2019, January 21). E-Mobilität: Zahl der Ladestationen für Elektroautos steigt weiter an | Bundesverband Elektromobilität Österreich (BEÖ), 21.01.2019. https://www.ots.at/presseaussendung/OTS_20190121_OTS0048/e-mobilitaet-zahl-der-ladestationen-fuer-elektroautos-steigt-weiter-an-bild
+-	Töpler, J., & Lehmann, J. (2017). Wasserstoff und Brennstoffzelle - Technologien und Marktkonzepte. In Springer Vieweg.
+
+## Plugin-Hybridfahrzeuge {#plugin_hybrid}
+
+### Synonyme {-}
+
+*Hybrid, Hybrid-Elektrofahrzeuge (HEV - hybrid eletric vehicles), Plug-in-Hybrid-Elektrofahrzeuge (PHEV - Plug-in hybrid electric vehicles)*
+
+### Definition {-}
+Plug-in-Hybridfahrzeuge kombinieren den Elektroantrieb entweder mit einem herkömmlichen Verbrennungsmotor oder mit anderen Motoren, die alternative Kraftstoffe verwenden. Das hat den Vorteil, dass die Fahrzeuge lange Strecken zurücklegen können, aber Verbrauch und Emissionen sinken. Ein Energiemanagementsystem sorgt dafür, dass während der Fahrt die optimale Menge an Energie aus den beiden Energiequellen bezogen wird. Das Verhältnis des Energieverbrauchs wird durch den Fahrzyklus beeinflusst. Je schneller das Fahrzeug fährt, desto mehr Energie wird benötigt (Aswin und Senthilmurugan, 2018).<br/>
+
+Die Vorteile eines Hybridfahrzeugs liegen in der geringeren CO2-Bilanz, der höheren Kilometerleistung im Vergleich zu herkömmlichen Fahrzeugen, der finanziellen Unterstützung beim Kauf, den niedrigeren jährlichen Kosten und dem regenerativen Bremssystem. Zu den Nachteilen gehören hohe Anschaffungskosten, eine geringere Kraftstoffeffizienz, da die zusätzlich eingebauten Teile mehr Platz beanspruchen und zusätzliches Gewicht verursachen, sowie höhere Wartungskosten aufgrund des Doppelmotors. Außerdem wurden Bedenken geäußert, dass die Batterie im Falle eines Unfalls explodieren könnte (Aswin und Senthilmurugan, 2018). <br/>
+
+Der oben erwähnte Sicherheitsaspekt kann jedoch vernachlässigt werden, da die Ergebnisse des EuroNCAP-Crashtests zeigen, dass Hybridfahrzeuge genauso sicher sind wie Fahrzeuge mit konventionellem Antriebssystem. Als Beispiel dient auch die Hybrid-Synergy-Drive-Technologie (HSD) von Toyota, bei der das Hybridsystem - basierend auf dem Airbag-Auslösesignal - im Falle eines Unfalls sofort alle elektrischen Systeme abschaltet und den Batteriekontakt unterbricht (ADAC, 2019). <br/>
+
+Derzeit gibt es mehrere Arten von Hybridfahrzeugen auf dem Markt:
+
+- Serieller Hybrid
+
+Das serielle Hybridmodell besteht aus einem Verbrennungsmotor, der einen Generator antreibt, anstatt die Räder direkt anzutreiben. Die Räder des Fahrzeugs erhalten ihre Kraft von den Elektromotoren. Der Generator treibt sowohl die Ladebatterie als auch die Räder des Fahrzeugs an. Serienhybride erzeugen die maximale Energie bei der Beschleunigung und geben die Energie beim regenerativen Bremsen zurück. Die Elektrofahrzeuge sind so konzipiert, dass an jedes Rad ein Motor angeschlossen ist. Die Kombination von Motor und Rad hat den Nachteil, dass sich die Masse erhöht und damit das Fahrverhalten betroffen ist, aber den Vorteil einer verbesserten Traktionskontrolle.
+
+- Paralleler Hybrid 
+
+Der Parallelhybrid ist eine Kombination aus einem Elektromotor und einem Verbrennungsmotor, die parallel zum mechanischen Getriebe geschaltet sind. Bei der Parallelhybrid-Architektur sind sowohl der Motor als auch der elektrische Generator in einer Einheit zwischen dem Getriebe und dem Verbrennungsmotor untergebracht. Die Batterie wird durch regeneratives Bremsen wieder aufgeladen. Es besteht eine mechanische Verbindung zwischen dem Motor und dem Rad, so dass die Batterie nicht aufgeladen werden kann, wenn das Fahrzeug in Bewegung ist.
+
+- Kombinierter Hybrid
+
+Das kombinierte Hybridfahrzeug ist eine Verschmelzung von parallelem und seriellem Hybrid (seriell-paralleler Hybrid). Es besteht eine doppelte Verbindung (elektrisch und mechanisch) zwischen der Antriebsachse und dem Motor. Die Kraftübertragung auf die Räder kann entweder elektrisch oder mechanisch erfolgen. Bei niedrigen Geschwindigkeiten verhält es sich wie ein serielles Hybrid-Elektrofahrzeug, aber bei höheren Geschwindigkeiten ist der serielle Antriebsstrang weniger geeignet und der Fahrzeugmotor übernimmt die Aufgabe. Dieses Modell ist deutlich teurer als parallele Modelle, da sie ein mechanisch geteiltes Antriebssystem, einen zusätzlichen Generator und eine hohe Rechenleistung für die Doppelsteuerung erfordern (Aswin und Senthilmurugan, 2018).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Fahrer:innen von konventionellen Autos
+- **Verantwortliche**: Nationale Regierungen, Autohersteller, internationale Lobbyisten, Privatunternehmen 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Aktuelle Forschungsbemühungen konzentrieren sich auf die Verringerung der Batteriegröße unter Beibehaltung der elektrischen Fahrleistung. Daher schlägt die Studie von Song et al. (2018) 30,4 kWh als optimale Batteriekapazität vor. Ein weiterer Schwerpunkt der Forschung liegt auf der Reduzierung der Emissionen und der kontinuierlichen Prüfung der Umwelteffizienz im Vergleich zu konventionellen Fahrzeugen. In einem ADAC-Test von Plug-in-Hybriden schnitten im Ökotest nur zwei Autos gut ab, nämlich Hyundai Ioniq und Volvo V60. Der Hyundai war sehr energieeffizient, während der Volvo mehr Energie verbrauchte und mehr Kohlendioxid ausstieß, aber seine Abgase waren sauberer. Dadurch konnte er bei den Schadstoffemissionen gut abschneiden. Die Testergebnisse lassen jedoch keinen Zweifel daran, dass große und schwere Autos wie der BMW X5 und der Mercedes GLE, selbst als Plug-in-Hybride, viel Energie verbrauchen und daher nicht als Öko-Mobile gelten können (Kroher, 2020). Interessanterweise haben kürzlich durchgeführte Tests der neuesten PHEV-Modelle gezeigt, dass sie die Umwelt zwei- bis viermal stärker belasten als von den Herstellern angegeben, was die öffentliche Meinung über die Umweltvorteile von PHEV untergräbt (Plötz et al., 2020; Bannon, 2020).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Die Entwicklung des Hybrid-Elektrofahrzeugs entwickelt sich zur nächsten Generation des Verkehrsträgers und steht im Einklang mit den politischen Zielen der EU zur Reduzierung der Treibhausgasemissionen. Dennoch ist die derzeitige Marktdurchdringung mit einem Anteil von 1 % an den gesamten Pkw-Zulassungen (ab 2019) noch relativ gering. In Europa sind Finnland und Schweden führend bei der Einführung von Plug-in-Hybridfahrzeugen, gefolgt vom Vereinigten Königreich (Europäische Umweltagentur, 2020).<br/>
+
+In Österreich hat sich die Zahl der Plug-in-Hybridfahrzeuge im Jahr 2020 von Januar bis Oktober im Vergleich zum Vorjahreszeitraum vervierfacht. Bis Ende Oktober wurden rund 5.500 neue Fahrzeuge dieses Typs zugelassen. Von den bisher rund 14.700 Anträgen auf E-Auto-Förderung in diesem Jahr sind 90 Prozent reine Elektrofahrzeuge, zehn Prozent sind Plug-in-Hybride und Range Extender (Ortner, 2020). Die Ergebnisse einer Studie des Frauenhofer-Instituts zeigen, dass die tatsächliche Klimabilanz von Plug-in-Hybrid-Pkw schlecht ist, die realen CO~2~-Emissionen sind doppelt so hoch wie die im Testzyklus ermittelten Werte, bei Firmenwagen sind die realen CO~2~-Emissionen sogar drei- bis viermal so hoch. Der VCÖ fordert eine rasche Änderung der Förderung von Plug-in-Hybrid-Pkw in Österreich (VCÖ, 2020).<br/>
+
+Bis 2020 gibt es in Wien bereits 800 öffentliche E-Ladepunkte, mit knapp tausend ist Wien eine der führenden E-Mobilitäts-Städte in Europa (Fischer, 2020). Die österreichischen Energieunternehmen - Mitglieder des BEÖ - haben den Ausbau der öffentlichen Ladeinfrastruktur in den letzten Jahren vorangetrieben. Mit über 5.000 Ladepunkten zwischen Wien und Bregenz verfügt Österreich über eines der dichtesten Ladenetze in Europa (Sitte, 2020b). Bislang mussten alle Gebäudeeigentümer:innen der Installation einer E-Ladestation zustimmen. Diese Einstimmigkeit soll bald fallen. So soll ab Herbst die Installation von Ladestationen in Mehrfamilienhäusern erleichtert werden (Sitte, 2020a).
+
+
+### Relevante Initiativen in Österreich {-}
+
+- [oesterreich.gv](https://www.oesterreich.gv.at/themen/bauen_wohnen_und_umwelt/elektroautos_und_e_mobilitaet/Seite.4320010.html) 
+- [vcoe.at](https://www.vcoe.at/presse/presseaussendungen/detail/vcoe-neue-studie-zeigt-schlechte-klimabilanz-von-plug-in-hybrid-pkw)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table11, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Verringerung der Kohlendioxidemissionen|**+**|Gesundheit und Wohlbefinden (*3*)|Koellner, 2020|
+|Individuell|Anzahl der E-Ladestationen steigt|**+**|Innovation und Infrastruktur (*9*)|Sitte, 2020a|
+|Systemisch|Emissionsminderung nur fuer kleine und leichte Fahrzeuge|**~**|Oekologische Nachhaltigkeit (*7,12-13,15*)|Kroher, 2020; VCOE, 2020|
+|Systemisch|Strategien zur Abgasbehandlung werden entwickelt|**+**|Innovation und Infrastruktur (*9*)|Schaefer, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table12, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|8-9|7-9|')
+```
+
+### Offene Fragen {-}
+
+1. Wie wird sich die verstärkte Nutzung von PHEV auf den Markt für Gebrauchtwagen auswirken?
+2. Welchen Einfluss haben die Batterien auf den Lebenszyklus des Fahrzeugs?
+
+### Weitere links {-}
+
+- [Tagesschau.de](https://www.tagesschau.de/wirtschaft/technologie/methanol-brennstoffzelle-antrieb-auto-101.html)
+-	[Europarlament](https://www.europarl.europa.eu/news/nl/press-room/20180911IPR13114/more-electric-cars-on-eu-roads-by-2030) 
+-	[Ec.europa](https://ec.europa.eu/transport/themes/urban/vehicles/road/hydrogen_en) 
+-	[Fch.europa](https://www.fch.europa.eu/news/hydrogen-roadmap-europe-sustainable-pathway-european-energy-transition) 
+
+### Referenzen {-}
+-	ADAC. (2019). Hybridantrieb: Funktionsweise sowie Vor- und Nachteile. https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/alternative-antriebe/hybridantrieb/
+-	Aswin, A., & Senthilmurugan, S. (2018). A survey on power levels of battery charging and infrastructure for plug-in electric and hybrid vehicles. IOP Conference Series: Materials Science and Engineering, 402(1). https://doi.org/10.1088/1757-899X/402/1/012154
+- Bannon, E., (2020). Plug-In Hybrids In New Emissions Scandal As Tests Show Higher Pollution Than Claimed | Transport & Environment.  Transportenvironment.org. Available at: <https://www.transportenvironment.org/press/plug-hybrids-new-emissions-scandal-tests-show-higher-pollution-claimed> [Accessed: 19 January 2021].
+- European Environment Agency. (2020). INDICATOR ASSESSMENT New Registrations Of Electric Vehicles In Europe.  Available at: <https://www.eea.europa.eu/data-and-maps/indicators/proportion-of-vehicle-fleet-meeting-5/assessment> [Accessed: 19 January 2021]
+-	Fischer, S. M. (2020, September 2). Ökostrom an jeder Ecke: Ladestellen-Ausbau auf Zielgeraden | Wien Energie GmbH, 02.09.2020. https://www.ots.at/presseaussendung/OTS_20200902_OTS0138/oekostrom-an-jeder-ecke-ladestellen-ausbau-auf-zielgeraden
+-	Köllner, C. (2020). Das sollten Sie über Plug-in-Hybride wissen. https://www.springerprofessional.de/plug-in-hybrid/antriebsstrang/das-sollten-sie-ueber-plug-in-hybride-wissen/18235362
+-	Kroher, T. (2020). Plug-in-Hybrid: Modelle, Verbrauch, Technik, Kosten, Ökobilanz. https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/auto/plug-in-hybrid/
+-	Ortner, M. (2020, December 9). Plug-in-Hybride sind nur so umweltfreundlich wie ihre Fahrer - Wiener Zeitung Online. https://www.wienerzeitung.at/nachrichten/wirtschaft/oesterreich/2084730-Plug-In-Hybride-nur-so-umweltfreundlich-wie-ihre-Fahrer.html
+- Plötz, P., Moll, C., Biecker, G., Mock, P., & Li, Y. (2020). Real-World Usage of Plug-in Hybrid Electric Vehicles: Fuel Consumption, Electric Driving, and CO₂ Emissions.
+-	Schäfer, P. (2020). Empa errechnet beste Kaltstart-Strategie für Hybridfahrzeuge. https://www.springerprofessional.de/hybridtechnik/abgasnachbehandlung/empa-errechnet-beste-kaltstart-strategie-fuer-hybridfahrzeuge/17751190
+-	Sitte, P. (2020a, June 29). BEÖ begrüßt E-Mobilitätsförderung 2020 | Bundesverband Elektromobilität Österreich (BEÖ), 29.06.2020. https://www.ots.at/presseaussendung/OTS_20200629_OTS0144/beoe-begruesst-e-mobilitaetsfoerderung-2020
+-	Sitte, P. (2020b, July 15). BEÖ: Strom laden in eigener Garage wird einfacher. Wichtiger Schritt für E-Mobilität. | Bundesverband Elektromobilität Österreich (BEÖ), 15.07.2020. https://www.ots.at/presseaussendung/OTS_20200715_OTS0148/beoe-strom-laden-in-eigener-garage-wird-einfacher-wichtiger-schritt-fuer-e-mobilitaet
+-	Song, Z., Zhang, X., Li, J., Hofmann, H., Ouyang, M., & Du, J. (2018). Component sizing optimization of plug-in hybrid electric vehicles with the hybrid energy storage system. Energy, 144, 393–403. https://doi.org/10.1016/j.energy.2017.12.009
+-	VCÖ. (2020). VCÖ: Neue Studie zeigt schlechte Klimabilanz von Plug-In-Hybrid Pkw - Mobilität mit Zukunft. https://www.vcoe.at/presse/presseaussendungen/detail/vcoe-neue-studie-zeigt-schlechte-klimabilanz-von-plug-in-hybrid-pkw

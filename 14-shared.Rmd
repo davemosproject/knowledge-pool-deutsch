@@ -1,0 +1,477 @@
+# Gemeinschaftliche Mobilität - Shared mobility {#shared}
+
+## Car sharing {#car_sharing}
+
+### Synonyme {-}
+*Car-Sharing-System, CSS*
+
+### Definition {-}
+In den letzten Jahren hat das Wachstum von Carsharing-Diensten als neue und nachhaltigere Art des Reisens zu einer Verlagerung der privaten Mobilität vom Besitz hin zur Nutzung von Dienstleistungen geführt. Die Grundidee des Carsharings ist recht einfach: die gemeinsame Nutzung einer Fahrzeugflotte durch die Mitglieder, um Fahrten auf Fahrtenbasis durchzuführen. Obwohl das erste Carsharing-System aus wirtschaftlichen Gründen auf das Jahr 1948 in der Stadt Zürich, Schweiz, zurückgeht, waren andere Versuche mit öffentlichen Carsharing-Systemen in den folgenden Jahren nicht erfolgreich. Mehrere erfolgreiche Carsharing-Systeme wurden in den 1980er Jahren eingeführt und konsolidierten sich Anfang der 1990er Jahre dank der zunehmenden Sensibilisierung der Bürger:innen und eines regelrechten Booms aufgrund der stärkeren Verbreitung von IKT und mobilen Diensten in den 2000er Jahren. Carsharing erhöht die Mobilität von Gemeindemitgliedern, um Ziele zu erreichen, die mit öffentlichen Verkehrsmitteln, zu Fuß oder mit dem Fahrrad nicht erreichbar sind, und schärft gleichzeitig das Bewusstsein der Bürger:innen für die sozialen und ökologischen Auswirkungen der Nutzung von Privatfahrzeugen. Es fördert und unterstützt multimodale Gemeinschaften, indem es eine zusätzliche Transportmöglichkeit bietet. Unter dem Gesichtspunkt des Aufbaus einer nachhaltigen Stadt sind die im Carsharing eingesetzten Fahrzeuge in der Regel kraftstoffeffizient und führen zu positiven Effekten bei der Reduzierung von städtischen Emissionen und Verkehrsstaus (Martin & Shaheen, 2011). <br/>
+
+Heutzutage gibt es verschiedene Varianten des Carsharings auf dem Markt. Dazu gehören (Bundesverband CarSharing e.V., 2020):
+
+- Stationsbasiert
+
+Beim stationsbasierten CarSharing werden die Autos auf festen Parkplätzen so nah wie möglich am Wohnort abgestellt. Die Kund:innen holen das Auto dort ab und geben es nach der Fahrt wieder dort zurück. Bei dieser Variante sind Reservierungen mehrere Tage oder Wochen im Voraus möglich, aber auch der Endzeitpunkt der Buchung muss meist im Voraus geplant werden. Dies gewährleistet ein hohes Maß an Vorhersehbarkeit der Fahrzeugverfügbarkeit. Das stationsbasierte CarSharing ist auch die günstigste CarSharing-Variante. Die größten Anbieter in Deutschland (nach Flottengröße) sind *stadtmobil, cambio, teilAuto* und *book-n-drive*.<br/>
+
+- Free-floating
+
+Beim free-floating CarSharing werden die Autos innerhalb eines definierten Geschäftsgebietes zufällig verteilt. Die Nutzer:innen finden und buchen sie per Smartphone. Die Buchung ist erst kurz vor Fahrtantritt möglich und bis zur Buchung sind Verfügbarkeit und genauer Standort des Fahrzeugs ungewiss. Nach der Fahrt können die Fahrzeuge innerhalb des Geschäftsgebietes abgestellt werden. Alle Buchungen sind unbefristet. Eine Reservierung im Voraus ist bei dieser Variante nicht möglich. Sowohl die Verfügbarkeit als auch der Standort des Fahrzeugs sind daher schwer vorhersehbar. Free-floating erlaubt dagegen Einwegfahrten innerhalb des Geschäftsgebiets. Die Preise sind höher als beim stationsbasierten CarSharing. Die größten Anbieter in Deutschland sind *ShareNow*, *Sixt share* und *We share*.<br/>
+
+- Kombiniertes CarSharing
+
+Seit 2011 haben sich kombinierte CarSharing-Angebote etabliert, die stationsgebundene und free-floating Fahrzeuge aus einer Hand anbieten. Kombinierte Angebote gibt es in Deutschland zum Beispiel von stadtmobil, book-n-drive, teilAuto und cambio. Die Preise orientieren sich in der Regel an den günstigeren Preisen des stationsbasierten CarSharings. Free-Floating-Nutzer:innen hingegen behalten ihr Auto weitgehend. Ihr Motorisierungsgrad lag zum Zeitpunkt der Studie bei 485 privaten Pkw pro 1.000 Nutzer:innen (Bundesverband CarSharing e.V., 2020).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Bürger:innen
+- **Verantwortliche**: Behörden, Kommunen, internationale Lobbyisten, private Unternehmen 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die CarSharing-Varianten haben unterschiedliche verkehrsentlastende Wirkungen. Das EU-Forschungsprojekt STARS untersuchte die verkehrsentlastende Wirkung verschiedener CarSharing-Varianten unter einheitlichen Rahmenbedingungen. Die Studie zeigt, dass viele Nutzer:innen des stationsbasierten und des kombinierten CarSharings kurz vor oder während der CarSharing-Teilnahme den privaten Pkw abschaffen. Zum Zeitpunkt der Studie hatten die Haushalte daher nur einen Motorisierungsgrad von 108 bzw. 104 Pkw pro 1.000 Personen in den befragten Haushalten. Diese Werte liegen bereits unter dem vom Umweltbundesamt empfohlenen Zielwert von 150 Pkw pro 1.000 Einwohner:innen für einen klima- und umweltfreundlichen Stadtverkehr der Zukunft.<br/>
+
+Die Ersatzraten in verschiedenen CarSharing-Studien aus Deutschland variieren. Das liegt zum einen an unterschiedlichen Erhebungsmethoden. Erst in den Studien seit 2018 wird in Deutschland eine weitgehend einheitliche Erhebungsmethode verwendet. Zum anderen hat die aktuelle Forschung gezeigt, dass die Ersatzrate stark von der untersuchten CarSharing-Variante abhängt. Für stationsbasiertes CarSharing und kombiniertes CarSharing gibt es ausschließlich positive Ersatzraten. Beim reinen Free-Floating CarSharing sind sowohl positive als auch negative Ersatzraten zu beobachten. In einigen Fällen wurden durch das Free-Floating CarSharing weniger private Pkw abgebaut als durch das CarSharing-Angebot auf die Straße gebracht wurden. <br/>
+
+Nach Berechnungen, die Finanztip gemeinsam mit dem ADAC durchgeführt hat, ist CarSharing bereits bei einer Fahrleistung von weniger als 10.000 Kilometern pro Jahr bzw. weniger als 800 Kilometern pro Monat rentabel. Die Kosten für ein privates Fahrzeug mit 10.000 Jahreskilometern sind identisch mit den Kosten, die beim Carsharing anfallen würden. Andere Studien sehen die Grenze erst bei 11.250 Kilometern (Hoyer, 2013) oder 15.600 Kilometern (Seipp, 2014). Bei 5.000 Kilometern pro Jahr mit dem eigenen Mittelklassewagen würde man bei einem Carsharing-Anbieter im Schnitt zwischen 900 und 1.500 Euro pro Jahr sparen. Zusammenfassend lässt sich sagen, dass sich Carsharing laut Evers (2018) lohnt, wenn man: <br/>
+
+-	nicht jeden Tag auf ein Auto angewiesen ist
+-	nicht regelmäßig längere Strecken als 100 Kilometer fährt
+-	insgesamt weniger als 10.000 Kilometer im Jahr fährt
+
+### Aktueller Stand der praktischen Umsetzung {-}
+
+Europa ist derzeit der wichtigste Markt für Carsharing-Anbieter. Im Jahr 2016 nutzten hier 5,8 Millionen Menschen die 68.000 Carsharing-Fahrzeuge. In jüngster Zeit sind auch Automobilhersteller wie Daimler, BMW und die FCA-Gruppe, die direkt in Carsharing-Aktivitäten involviert sind, direkt in den Markt eingestiegen, um neue Kanäle für die Vermarktung der von ihnen produzierten Fahrzeuge zu finden. Der Markt wächst schnell, und mit der steigenden Nachfrage steigt auch der Bedarf an einem besseren Verständnis und einer besseren Kontrolle des Systems. In der Tat ist Carsharing nicht nur eine Frage des Geschäfts oder der Flottenoptimierung, sondern bildet ein komplexes System, das aus verschiedenen Akteuren besteht, darunter Bürger:innen, Behörden und Kommunen sowie Unternehmen. Das System wird komplex aufgrund der starken Verbindungen zwischen den Akteuren sowie der Auswirkungen auf die Verwaltung einer Stadt, wenn ein großes Carsharing-Angebot eingeführt wird, wie z. B. die Integration in das bestehende öffentliche Verkehrsnetz und die Politik, die es verschiedenen Unternehmen ermöglicht, im selben Stadtgebiet zu konkurrieren (Ferrero et al., 2018).
+
+
+### Relevante Initiativen in Österreich {-}
+
+- [VCÃ–](https://www.vcoe.at/presse/presseaussendungen/detail/carsharing-haushalte-potential-2018)
+- [Ã–BB](https://www.carsharing-wien.com/anbieter/oebb-rail-and-drive)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table9, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Einheitlicher Zugang zum Auto in der Bevoelkerung|**+**|Gleichheit (*5,10*)|VCOE - Mobilitaet mit Zukunft, 2018|
+|Individuell|Geringere Kosten (bei weniger als 10.000 km pro Jahr)|**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Evers, 2018|
+|Systemisch|Geringeres Verkehrsaufkommen und bessere Luftqualitaet|**+**|Gesundheit und Wohlbefinden (*3*)|Martin & Shaheen, 2011|
+|Systemisch|Autofreie Haushalte sind nicht mehr benachteiligt|         **+**|Gleichheit (*5,10*)|VCOE - Mobiliteat mit Zukunft, 2018|
+|Systemisch|Geringere Emissionen|          **+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Martin & Shaheen, 2011|
+|Systemisch|Carsharing-Flotte waechst stetig|    **+** |Innovation und Infrastruktur (*9*)|Stadt Wien, n.d.|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table10, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|5-7|')
+```
+
+### Offene Fragen {-}
+1. Welche Rolle spielen politische Entscheidungsträger:innen und Kommunen bei der Unterstützung von Carsharing, wenn es darum geht, Herausforderungen im Zusammenhang mit langfristigen strategischen Entscheidungen zu bewältigen, z. B. in Bezug auf das Einsatzgebiet, den Standort von Parkplätzen oder die Größe und Art der Flotte unter Berücksichtigung der spezifischen Merkmale einer bestimmten Stadt?
+
+### Weitere links {-}
+
+- [Share-now](https://www.share-now.com/at/en/faq/)
+
+### Referenzen {-}
+-	Bundesverband CarSharing. (2020). CarSharing in Deutschland 2020.
+-	Bundesverband CarSharing e.V. (2020). Verkehrsentlastung durch CarSharing - Factsheet.
+-	Evers, H. (2018, March 20). Carsharing günstiger als eigenes Auto? Available at: https://www.computerbild.de/artikel/cb-Tipps-Connected-Car-Kostenvergleich-Ab-wann-lohnt-sich-Carsharing-20041131.html [Accessed: 17 January 2021]
+-	Ferrero, F., Perboli, G., Rosano, M., & Vesco, A. (2018). Car-sharing services: An annotated review. Sustainable Cities and Society, 37, 501–518. https://doi.org/https://doi.org/10.1016/j.scs.2017.09.020
+-	Hoyer, N. (2013, August 29). Mobilität: Lohnt sich Ihr Auto? Available at: https://www.wiwo.de/technologie/mobilitaet/mobilitaet-lohnt-sich-ihr-auto/8681062-all.html [Accessed: 17 January 2021]
+-	Martin, E. W., & Shaheen, S. A. (2011). Greenhouse Gas Emission Impacts of Carsharing in North America. IEEE Transactions on Intelligent Transportation Systems, 12(4), 1074–1086. https://doi.org/10.1109/TITS.2011.2158539
+-	ÖBB Rail & Drive. (n.d.). ÖBB Rail & Drive - Tarife, Vor- und Nachteile, die erste Fahrt. Available at: https://www.carsharing-wien.com/anbieter/oebb-rail-and-drive [Accessed: 17 January 2021]
+-	Seipp, B. (2014, May 22). Carsharing: Für wen sich das geteilte Auto wirklich lohnt - WELT. Available at: https://www.welt.de/motor/article128304929/Fuer-wen-sich-das-geteilte-Auto-wirklich-lohnt.html [Accessed: 17 January 2021]
+-	Stadt Wien | Straßenverwaltung und Straßenbau. (n.d.). Carsharing in Wien: Nutzung nimmt zu. Available at: https://www.wien.gv.at/verkehr/kfz/carsharing/evaluierung.html [Accessed: 17 January 2021]
+-	VCÖ - Mobilität mit Zukunft. (2018). Mehr als 100.000 Carsharing-Haushalte in Österreich – Potenzial um ein Vielfaches höher - Mobilität mit Zukunft. Available at:  https://www.vcoe.at/presse/presseaussendungen/detail/carsharing-haushalte-potential-2018 [Accessed: 17 January 2021]
+
+
+## (E)-Fahrrad-Sharing {#bike_sharing}
+
+### Synonyme {-}
+*Fahrrad-Verleih-Systeme (FVS), Bike-Sharing-Systeme (BSS), stationsbasierte Bike-Sharing-Systeme (SBBSS), Free-Floating-Bike-Sharing-Systeme (FFBSS)*
+
+### Definition {-}
+Bike-Sharing-Systeme sind in den letzten zehn Jahren zu einem wichtigen Bestandteil der städtischen Verkehrspolitik geworden, wie der Anstieg der Zahl der Fahrräder in den Großstädten der Welt zeigt. Das Konzept des Bike-Sharings ist ein Service, der es Einzelpersonen ermöglicht, sich bequem mit dem Fahrrad fortzubewegen, ohne ein eigenes Fahrrad zu besitzen. Das Fahrrad ist ein energieeffizientes, sicheres, CO~2~-neutrales und platzsparendes Verkehrsmittel. Es hat einen geringen ökologischen Fußabdruck (wenn es benutzt wird). In städtischen Gebieten ist es für kurze Strecken eine gute Alternative zum Auto. Für längere Fahrten oder für den Weg zur Arbeit in der Stadt ist es eine hervorragende Ergänzung zu den öffentlichen Verkehrsmitteln. Obwohl zu Beginn des 21. Jahrhunderts die meisten FVS angedockt waren, bestehen die heutigen FVS sowohl aus stationsbasierten als auch aus stationslosen FVS, die in letzter Zeit in mehreren Städten wie London, New York, San Francisco, Peking und vielen anderen entstanden sind (El Arbi und Stephane, 2020).<br/><br/>
+Moderne städtische Kurzzeit-Fahrradverleihsysteme oder öffentliche FVS bieten 24 Stunden lang Zugang zu Fahrrädern, können an Selbstbedienungs-Dockingstationen abgeholt und zurückgegeben werden und sind über die ganze Stadt verteilt (Midgley, 2011). Im Zuge des technologischen Fortschritts ermöglichen globale Ortungssysteme (GPS) den Betreibern, die Fahrräder zu verfolgen und bei Bedarf neu zu positionieren, während die Registrierung der Nutzer:innen und die Identifizierung per Kreditkarte Anonymität und Diebstahl verringern.<br/><br/>
+Die Entwicklung der hauptsächlich europäischen FVS wurde in der Regel in vier verschiedene Generationen eingeteilt, die bei einigen Eigenschaften ineinander übergehen. Die Nutzung der "Weißen Fahrräder" von 1965 in Amsterdam war ohne persönliche Registrierung möglich, und die Fahrräder waren überall in der Stadt ohne feste Stationen zu finden. Das Modell brach innerhalb weniger Tage aufgrund von Vandalismus und Diebstahl zusammen. Bei der zweiten Generation wurden Schlösser und schwere Fahrräder verwendet. Die Vandalismusrate ging zurück, aber die Fahrräder wurden aufgrund der Anonymität der Kund:innen immer noch gestohlen (DeMaio, 2009). Die dritte Generation wurde durch technische Verbesserungen wie automatisierte Smartcards, elektronische Fahrradschlösser und Bezahlsysteme intelligenter und attraktiver. Die Nutzer:innen erhielten einen Code per SMS, um die Fahrräder zu entsperren. Die aktuelle vierte Generation könnte mobile solarbetriebene Andockstationen, GPS-basierte Echtzeit-Verfügbarkeits-Apps auf Mobiltelefonen und mehr Elektrofahrräder umfassen (Zademach und Musch, 2018).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Mobile Bürger:innen, Fußgänger:innen 
+- **Verantwortliche**: Nationale Regierungen, Internationale Lobbyisten, (Öffentliche) Verkehrsbetriebe, Non-Profit-Organisationen, private Profit-Unternehmen, Private Unternehmen (z. B. Außenwerbefirmen)
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Die Forschung konzentriert sich meist auf das Kundenverhalten, wie z. B. die Länge der Fahrt oder die Fahrzeit, und auf verhaltensbedingte Einflüsse auf die Nutzung von Bike-Sharing-Systemen, z. B. die Straßendichte, die Verkehrsdichte oder die Fahrradinfrastruktur.
+
+Die Studie von Ma et al. (2020) zeigt beispielsweise, dass Pendler:innen in Vorstädten SBBSS sehr wahrscheinlich nutzen, um schnell zum nächsten ÖPNV-Knotenpunkt zu gelangen und lange Fußwege oder Wartezeiten auf Busse zu vermeiden. Darüber hinaus hat die Studie von Li et al. (2019) gezeigt, dass die Einführung von Leihfahrrädern in der Nähe von Sehenswürdigkeiten und Touristenattraktionen deren Nutzung in städtischen Gebieten erheblich steigern kann, während sie in Vororten davon abhält. Außerdem wurde gezeigt, dass Rabattprogramme wie Ermäßigungen für regelmäßige Nutzer:innen, Kompensationsanreize oder ermäßigte Preise für ältere Menschen die Attraktivität dieses Verkehrsmittels in verschiedenen Bevölkerungsgruppen erhöhen.
+
+In Bezug auf die allgemeine Funktionsweise des Systems zeigt eine Studie von Fishman et al. (2014), dass eine der größten Unannehmlichkeiten von Bike-Sharing-Systemen die festen, angedockten Stationen sind. Um die Flexibilität zu verbessern, wird daher versucht, gemeinsam genutzte Fahrräder mit Schlössern einzuführen. Darüber hinaus ist auch die Wartung des docklosen Systems problematisch, da einerseits die hohen Wartungskosten die Gewinnspanne der Unternehmen schmälern und andererseits defekte Fahrräder die Zufriedenheit der Kund:innen und die Akzeptanz verringern können (Zhang et al., 2019). Daher konzentriert sich die aktuelle Forschung auf die Entwicklung von Mechanismen zur Überwachung des Zustands der Fahrräder bei gleichzeitiger Wahrung der Kosteneffizienz. 
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Öffentliche Bike-Sharing-Systeme gehören zu den weltweit am schnellsten wachsenden öffentlichen Verkehrsmitteln, mit einem durchschnittlichen jährlichen Wachstum von 37 % seit 2009. Das schnellste Wachstum findet in China statt, einem Land, das eine rasche Verbreitung von Elektrofahrrädern (E-Bikes) erlebt. Der Absatz von E-Bikes übertrifft alle anderen motorisierten Verkehrsmittel. Abbildung 14.1 zeigt das schnelle Wachstum der beiden aufkommenden Technologien, E-Bikes und Bike-Sharing-Systeme (Campbell et al., 2016).
+ 
+```{r, echo=FALSE, , out.width="60%", fig.cap="Wachstum bei persoenlichen E-Bike- und oeffentlichen Bikeshare-Systemen (Campbell et al., 2016)"}
+knitr::include_graphics("image/bike_sharing.png")
+```
+
+Private FVS-Betreiber aus China (*Mobike, Ofo*) und Shanghai (*oBike*) führen derzeit große Flotten von stationslosen Leihfahrrädern in Städten weltweit ein. Die Einführung, insbesondere in europäischen Städten, ist auf Probleme gestoßen, da die Stadtverwaltungen nicht in der Lage waren, die Einführung zu koordinieren (Zademach und Musch, 2018). Viele Fahrräder wurden in den Städten verlassen aufgefunden. Darüber hinaus wird in einigen Fällen befürchtet, dass die privaten Unternehmen das FVS nur deshalb eingeführt haben, um private Nutzerdaten abzugreifen (Schöffel et al., 2017).<br/><br/>
+Das Unternehmen Montreal "BIXI" hat feste, tragbare, solarbetriebene und modulare Stationen eingeführt. Sie sind in sich geschlossen, und die Stationen können innerhalb von 20 Minuten an den gewünschten Orten aufgestellt, bewegt und verlegt werden. Für besondere Veranstaltungen sind "Mega"-Dockingstationen erhältlich (Midgley, 2011). Die Zahl der FVS ist auf über 800 Einheiten weltweit angewachsen (Fishman, 2016). Das Modell der öffentlich-privaten Partnerschaft ist am weitesten verbreitet, und die Einführung von FVS war in Städten mit begrenzten öffentlichen Mitteln möglich (Zademach und Musch, 2018).<br/><br/>
+In Österreich gibt es derzeit mehrere Unternehmen, die Fahrrad- oder E-Bike-Sharing-Dienste anbieten, wie *Citybike, Ofo oder oBike*. Allerdings haben sich die asiatischen Anbieter von stationslosen Leihfahrrädern in Wien (Start-ups *Ofo* und *oBike*) etwa ein Jahr nach ihrem Start aus der Bundeshauptstadt zurückgezogen (Rachbauer, 2018b). Grund dafür sind die strengen Regeln für stationslose Leihfahrräder in Wien, die am 1. August 2018 verkündet wurden. Bei Nichteinhaltung der Regeln wurden die Räder kostenpflichtig entfernt. Bisher erlaubte die Straßenverkehrsordnung (*StVO*) das Aufstellen von Leihfahrrädern im öffentlichen Raum und der Stadt fehlten die Mittel, gegen die Anbieter vorzugehen. Mit Hilfe einer so genannten Ortspolizeiverordnung verlangte das Rathaus von den Bikesharing-Unternehmen, dass sie beanstandete Fahrräder werktags innerhalb von vier Stunden und nachts und am Wochenende innerhalb von zwölf Stunden nach der Benachrichtigung abholen. Wenn sie dem nicht nachkamen, wurden die Fahrräder gegen eine Gebühr entfernt. Darüber hinaus waren Bußgelder von bis zu 700 Euro möglich. Außerdem wurde eine Obergrenze von maximal 1500 Fahrrädern pro Anbieter festgelegt. Jetzt werden die Fahrräder mit einer Nummer versehen und jedes einzelne muss bei der Stadt registriert werden. Die Gründung mehrerer Unternehmen, um die Obergrenze zu umgehen, ist laut Blum nicht erlaubt. Auch die Verleiher selbst müssen bestimmte Kriterien erfüllen, so muss es etwa einen Firmensitz in Wien und eine Service-Hotline geben. Ofo und oBike erfüllen diese Anforderungen bereits (Rachbauer, 2018d). <br/><br/>
+Österreichweit ist die Situation bei den Leihfahrrädern sehr unterschiedlich, in Innsbruck zum Beispiel wurden 2014 erstmals Leihfahrräder eingeführt und sind erfolgreich in Betrieb. In Linz wurde das Leihradsystem 2017 genehmigt und die Docking-Stationen sind derzeit im Bau. Auch in Salzburg ist das S-Bike Verleihsystem in Betrieb und an eine Bundesförderung gekoppelt (Affenzeller, 2020, Citybike Salzburg, n.d.). In Graz gibt es kein Fahrradverleihsystem. Stattdessen bieten Geschäfte und Hotels einen Verleih an (Rachbauer, 2016).
+
+### Relevante Initiativen in Österreich {-}
+
+- [firmenradl.at](https://firmenradl.at/cms/)
+- [citybikewien](https://www.citybikewien.at/de)
+- [citybikesalzburg](http://www.citybikesalzburg.at/)
+- [nextbike](https://www.nextbike.at/de/niederoesterreich/)
+- [tpis.at](https://www.tips.at/nachrichten/linz/land-leute/523512-linzer-radverleih-startet-im-fruehjahr-an-40-standorten)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+```{r table23, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Erhoehte koerperliche Aktivitaet und verbesserte Gesundheit|**+**|Gesundheit und Wohlbefinden (*3*)|Andersen et al., 2009|
+|Individuell|Oft sind die ersten 30-60 Minuten kostenlos|**+**|Gleichheit (*5,10*)|Citybike Salzburg, n.d. b; Citybike Wien, n.d.; Nextbike Niederoesterreich, n.d.|
+|Individuell|Kontinuierliche Weiterentwicklung der Fahrradfunktionen|**+**|Innovation und Infrastruktur (*9*)|Zademach & Musch, 2018 |
+|Systemisch|Breiterer Zugang zu dieser preiswerten oder kostenlosen Mobilitaetsdienstleistung|**+**|Gleichheit (*5,10*) |El Arbi & Stephane, 2020|
+|Systemisch|Verringerung von Luftverschmutzung, Laermbelaestigung und Verkehrsstaus|**+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|El Arbi & Stephane, 2020|
+|Systemisch|Investitionen in die Bike-Sharing-Infrastruktur|**+**|Innovation und Infrastruktur (*9*)|der Grazer, 2019; Hillebrand, 2019; Affenzeller, 2020; Tech & Nature, 2020|
+|Systemisch|48% aller Systeme werden in oeffentlich-privaten Partnerschaften betrieben|**+**|Partnerschaften und Kooperationen (*17*)|Midgley, 2011|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table24, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|5-7|')
+```
+
+
+### Offene Fragen {-}
+1.	Welche Maßnahmen können ergriffen werden, um den Vandalismus an den Verleih-Fahrrädern zu bekämpfen?
+2.	Welches Fahrradsystem (stationsbasiert vs. stationslos) ist langfristig nachhaltiger?
+
+### Weitere links {-}
+- [cyclocity.com](http://en.cyclocity.com/)
+
+### Referenzen {-}
+-	Affenzeller, J. (2020, December 17). Linzer Radverleih startet im Frühjahr an 40 Standorten. https://www.tips.at/nachrichten/linz/land-leute/523512-linzer-radverleih-startet-im-fruehjahr-an-40-standorten
+- Andersen, L. B., Lawlor, D. A., Cooper, A. R., Froberg, K., and Anderssen, S. A. (2009). Physical fitness in relation to transport to school in adolescents: the Danish youth and sports study. Scandinavian Journal of Medicine & Science in Sports, 19(3):406-411.
+-	Campbell, A. A., Cherry, C. R., Ryerson, M. S., & Yang, X. (2016). Factors influencing the choice of shared bicycles and shared electric bikes in Beijing. Transportation Research Part C: Emerging Technologies, 67, 399–414. https://doi.org/10.1016/j.trc.2016.03.004
+-	Cheng, L., Yang, J., Chen, X., Cao, M., Zhou, H., & Sun, Y. (2020). How could the station-based bike sharing system and the free-floating bike sharing system be coordinated? Journal of Transport Geography, 89(March 2019), 102896. https://doi.org/10.1016/j.jtrangeo.2020.102896
+-	Cheng, X., & Gao, Y. (2018). The Optimal Monthly Strategy Pricing of Free-Floating Bike Sharing Platform. Modern Economy, 09(02), 318–338. https://doi.org/10.4236/me.2018.92021
+-	Citybike Salzburg. (n.d.-a). Citybike Salzburg. Available at: http://www.citybikesalzburg.at/hanuschplatz.php [Accessed: 12 January 2021]
+-	Citybike Salzburg. (n.d.-b). Citybike Salzburg - Tarife. Available at: http://www.citybikesalzburg.at/tarife.php [Accessed: 18 January 2021]
+-	Citybike Wien. (n.d.). Tarife - Citybike Wien. Available at: https://www.citybikewien.at/de/tarife [Accessed: 18 January 2021]
+-	Citybike Wien. (2019). 10 Millionen Fahrten bei Citybike Wien! Available at: https://www.citybikewien.at/de/news/595-neuer-meilenstein-bei-citybike-wien-erreicht [Accessed: 17 January 2021]
+-	DeMaio, P. (2009). Bike-sharing: History, Impacts, Models of Provision, and Future. Journal of Public Transportation, 12(4), 41–56. https://doi.org/10.5038/2375-0901.12.4.3
+-	der Grazer. (2019, October 21). 100 Millionen Euro für Fahrrad-Offensive im Großraum Graz – Der Grazer. Available at: https://grazer.at/de/uHAnk5t2/100-millionen-euro-fuer-fahrrad-offensive-im-graz/ [Accessed: 17 January 2021]
+-	Eillie, A. (2016). Oxford Test Drives Peer-to-Peer Bike Sharing. https://www.bloomberg.com/news/articles/2016-09-13/cycle-land-is-a-new-peer-to-peer-bike-sharing-platform
+-	El Arbi, A. A., & Stephane, C. K. T. (2020). Intelligent Management of Bike Sharing in Smart Cities using Machine Learning and Internet of Things. Sustainable Cities and Society, 135907. https://doi.org/10.1016/j.scs.2020.102702
+-	Fishman, E. (2016). Bikeshare: A Review of Recent Literature. Transport Reviews, 36(1), 92–113. https://doi.org/10.1080/01441647.2015.1033036
+-	Fishman, E., Washington, S., Haworth, N., & Mazzei, A. (2014). Barriers to bikesharing: An analysis from Melbourne and Brisbane. Journal of Transport Geography, 41, 325–337. https://doi.org/10.1016/j.jtrangeo.2014.08.005
+-	Gu, T., Kim, I., & Currie, G. (2019). To be or not to be dockless: Empirical analysis of dockless bikeshare development in China. Transportation Research Part A: Policy and Practice, 119, 122–147. https://doi.org/10.1016/j.tra.2018.11.007
+-	Hillebrand, T. (2019). Mietradsystem ‘Stadtrad Innsbruck’ - VCÖ Vorbildhafte Mobilitätsprojekte. Available at: https://mobilitaetsprojekte.vcoe.at/mietradsystem-stadtrad-innsbruck-2019 [Accessed: 17 January 2021]
+-	Li, H., Zhang, Y., Ding, H., & Ren, G. (2019). Effects of dockless bike-sharing systems on the usage of the London Cycle Hire. Transportation Research Part A: Policy and Practice, 130, 398–411. https://doi.org/10.1016/j.tra.2019.09.050
+-	Ma, X., Ji, Y., Yuan, Y., Van Oort, N., Jin, Y., & Hoogendoorn, S. (2020). A comparison in travel patterns and determinants of user demand between docked and dockless bike-sharing systems using multi-sourced data. Transportation Research Part A: Policy and Practice, 139(June), 148–173. https://doi.org/10.1016/j.tra.2020.06.022
+-	Midgley, P. (2011). Bicycle-Sharing Schemes: Enhancing Sustainable Mobility in Urban Areas. Commission on Sustainable Development, Nine teent(8), 24. http://www.un.org/esa/dsd/resources/res_pdfs/csd-19/Background-Paper8-P.Midgley-Bicycle.pdf
+-	Nextbike Niederösterreich. (n.d.). Nextbike Niederösterreich - Tarife. Available at: https://www.nextbike.at/de/niederoesterreich/preise/ [Accessed: 18 January 2021]
+-	Rachbauer, S. (2016, July). Bikesharing in Österreich: Leihräder auf der Überholspur | kurier.at. https://kurier.at/chronik/oesterreich/bikesharing-in-oesterreich-leihraeder-auf-der-ueberholspur/400067369
+-	Rachbauer, S. (2018a). Bikesharing in Österreich: Leihräder auf der Überholspur. https://kurier.at/chronik/oesterreich/bikesharing-in-oesterreich-leihraeder-auf-der-ueberholspur/400067369
+-	Rachbauer, S. (2018b). Leihräder: Wiener wollen es aufgeräumt. https://kurier.at/chronik/wien/leihraeder-wiener-wollen-es-aufgeraeumt/400067357
+-	Rachbauer, S. (2018c, March). Wien führt strenge Regeln für stationslose Leihräder ein. https://kurier.at/chronik/wien/wien-fuehrt-strenge-regeln-fuer-stationslose-leihraeder-ein/312.944.617
+-	Rachbauer, S. (2018d, July 17). Leihräder: Wiener wollen es aufgeräumt. https://kurier.at/chronik/wien/leihraeder-wiener-wollen-es-aufgeraeumt/400067357
+-	Schöffel, R., Zierer, M., & Kühne, S. (2017). Nutzerdaten offen im Netz: BR deckt Datenleck beim Fahrradverleiher Obike auf. https://www.br.de/nachricht/datenleck-obike-100.html
+-	Sun, S., & Ertz, M. (2021). Contribution of bike-sharing to urban resource conservation: The case of free-floating bike-sharing. Journal of Cleaner Production, 280, 124416. https://doi.org/10.1016/j.jclepro.2020.124416
+-	Tech & Nature. (2020, April 28). Niederösterreich modernisiert Sharing-Bike-Flotte ‘nextbike’ - Tech & Nature. https://www.techandnature.com/niederosterreich-modernisiert-sharing-bike-flotte-nextbike/
+-	Zademach, H. M., & Musch, A. K. (2018). Bicycle-sharing systems in an alternative/diverse economy perspective: a sympathetic critique. Local Environment, 23(7), 734–746. https://doi.org/10.1080/13549839.2018.1434494
+-	Zhang, Y., Lin, D., & Mi, Z. (2019). Electric fence planning for dockless bike-sharing services. Journal of Cleaner Production, 206, 383–393. https://doi.org/10.1016/j.jclepro.2018.09.215
+
+## E-Kick-Scooter {#scooters}
+
+### Synonyme {-}
+*Elektroroller*
+
+### Definition {-}
+E-Kick-Scooter sind elektrisch betriebene Roller, die sich, nach einem ersten Abstoßen mit einem Druckhebel beschleunigen lassen und sich danach mit einer ähnlichen Geschwindigkeit wie Fahrräder fortbewegen. Sie sind eine der Lösungen für die Mikromobilität, die in der städtischen Mobilität einen wachsenden Trend darstellt. Sie umfassen alle von Menschen angetriebenen Mikrofahrzeuge wie Fahrräder und Roller, aber auch neue Mikrofahrzeuge wie E-Scooter, E-Bikes und einige andere kleine, elektrisch betriebene Fahrzeuge (Oeschger, Carroll und Caulfield, 2020). Die meisten der modernen Fahrzeuge dieser Art sind sowohl für die gemeinsame als auch für die private Nutzung verfügbar und erfreuen sich einer breiten Akzeptanz. E-Scooter versprechen seit ihrer Einführung im Jahr 2017 eine Lösung für das Problem der letzten Meile (Siegfried et al., 2021). Sie werden als Alternative zum Auto gesehen und bieten das Potenzial, Verkehrsstaus, Lärm und Umweltverschmutzung zu reduzieren. Erste Ergebnisse deuten darauf hin, dass E-Scooter hauptsächlich für Strecken zwischen 1 und 6 km genutzt werden. Empirische Belege zeigen, dass E-Scooter für diese kurzen Strecken eher das Gehen als das Autofahren ersetzen können (James et al., 2019; Portland Bureau of Transportation, 2019). Neben den potenziellen positiven Umweltauswirkungen von E-Scootern auf das Verkehrssystem wurden auch einige Sicherheitsbedenken geäußert. Die meisten E-Scooter-Nutzer, die einen Unfall hatten, fuhren ohne Helm (Liew et al., 2020). Im Allgemeinen werden E-Scooter fast ausschließlich ohne Schutzausrüstung ausgegeben (Allem und Majmundar, 2019). Die Sicherheitsprobleme betreffen nicht nur die Fahrer:innen selbst, sondern haben auch Auswirkungen auf andere Verkehrsteilnehmer:innen, insbesondere Fußgänger:innen (Sikka et al., 2019). Es wurde sogar kritisiert, dass die Technologie dem Konzept "zuerst verkaufen, dann Sicherheit" folgt (Choron und Sakran, 2019).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Mobile Bürger:innen, Fußgänger:innen, Versicherungen
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, private Unternehmen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Da es sich bei E-Scootern bereits um eine etablierte Technologie handelt, konzentrieren sich die meisten Forschungsarbeiten auf Sicherheit und Unfälle, das Nutzerverhalten und die potenziellen Umweltauswirkungen der Einführung dieser Mikromobilitätsoption. Einige Studien befürworten E-Scooter als umweltfreundliche Lösung für überfüllte Städte, andere berichten über widersprüchliche Ergebnisse und weisen auf Sicherheitsprobleme hin. Darüber hinaus wird in der Forschung auch untersucht, ob die Präsenz von E-Scootern Fahrraddiebstähle verringert (Gössling, 2020). In Göteborg, Schweden, berichtete die Polizei, dass sich die Zahl der Fahrraddiebstähle nach der Einführung von E-Scootern und Leihfahrrädern halbiert hat (Sydsvenskan, 2019).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+E-Scooter-Anbieter wie Lime und Bird, die 2017 in Kalifornien den Betrieb aufnahmen, sind inzwischen in über 100 Städten weltweit vertreten und haben seitdem Millionen von Fahrten verzeichnet. Der E-Scooter-Anbieter VOI hat in Europa ein ähnliches Wachstum erlebt und ist nur ein Jahr nach dem Start in Schweden in 10 Ländern auf den Markt gekommen und hat über 16 Millionen Fahrten verzeichnet (Oeschger et al., 2020). Die Ergebnisse einer Umfrage deuten darauf hin, dass E-Scooter in erster Linie als Unterhaltungsgerät und nicht als Transportmittel angesehen werden (Siegfried et al., 2021). <br/><br/>
+Höchstgeschwindigkeitsbegrenzungen sind ein wichtiges Thema, und international gibt es unterschiedliche Ansätze. In Los Angeles und Dallas gibt es zum Beispiel kein Tempolimit, soweit man das aus den Nachrichten entnehmen kann, während in Wien das Limit bei 25 km/h liegt (Schwarz, 2019). In Paris wird eine Reduzierung der Höchstgeschwindigkeit auf 20 km/h auf Radwegen und 8 km/h in Parks und Fußgängerzonen diskutiert (Négroni, 2019). Ein Problem bei den Höchstgeschwindigkeiten ist, dass einige der E-Scooter-Modelle viel schneller als 25 km/h fahren können (Le Figaro, 2018). Um den negativen Folgen der Einführung von E-Scootern entgegenzuwirken, haben die Städte verschiedene Regeln und Richtlinien evaluiert und umgesetzt. Die Medienanalyse schlägt vor, dass die Stadtverwaltungen folgende Regeln als Mindestanforderung einführen sollten: Geschwindigkeitsbegrenzungen, Beschränkungen für die ausschließliche Nutzung der Fahrradinfrastruktur und eine Ausweisung von Abstellplätzen. Verhaltenskampagnen und Bußgelder sind erforderlich, um die negativen Folgen der E-Scooter-Nutzung zu begrenzen (Gössling, 2020). <br/><br/>
+In Wien werden nur sehr wenige E-Scooter auf Radwegen benutzt (zwischen 4,9 % und 7,1 % im Vergleich zu anderen Radwegbenutzer:innen). In Anbetracht des Modalsplits in Wien (7 % Radverkehr) kann der Schluss gezogen werden, dass E-Scooter noch keine bedeutende Rolle im Wiener Verkehrssystem spielen (Laa und Leth, 2020).
+
+### Relevante Initiativen in Österreich {-}
+- [autorevue.at](https://autorevue.at/ratgeber/e-scooter-wien-vergleich)
+- [stadt-wien.at](https://www.stadt-wien.at/wien/news/e-scooter-sharing-system-in-wien.html)
+- [wien.gv.at](https://www.wien.gv.at/verkehr/scooter-roller/index.html)
+- [oeamtc.at](https://www.oeamtc.at/thema/fahrrad/e-kleintretroller-e-scooter-in-oesterreich-31721872)
+- [oesterreich.gv.at](https://www.oesterreich.gv.at/themen/freizeit_und_strassenverkehr/Elektro-Scooter,-Quads-und-Co/Seite.610110.html)
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table15, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|E-Scooter-Fahrten ersetzen hauptsaechlich Fusswege|**-**|Gesundheit und Wohlbefinden (*3*)|Laa & Leth, 2020|
+|Individuell|Teurer im Vergleich zu oeffentlichen Verkehrsmitteln|**-**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Widholm, 2021; Wiener Linien, 2021|
+|Individuell|Zunahme der Teilnehmer:innen an der bestehenden Fahrradinfrastruktur|**~**|Innovation und Infrastruktur (*9*)|Laa & Leth, 2020|
+|Systemisch|Hoechster Nutzeranteil sind junge Maenner|**-**|Gleichheit (*5,10*)|Laa & Leth, 2020|
+|Systemisch|E-Scooter-Fahrten ersetzen nachhaltigere Verkehrsmittel|**-**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Laa & Leth, 2020|
+|Systemisch|Wachstum im Bereich der Mikromobilitaet |**+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Goessling, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+  ```{r table16, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|7-9|')
+```
+
+### Offene Fragen {-}
+
+1. Erfordert die zunehmende Präsenz von E-Scootern auf der Fahrradinfrastruktur oder in Fußgängerzonen separate Lösungen für die städtische Straßeninfrastruktur?
+
+### Referenzen {-}
+-	Allem, J. P., & Majmundar, A. (2019). Are electric scooters promoted on social media with safety in mind? A case study on Bird’s Instagram. In Preventive Medicine Reports (Vol. 13, pp. 62–63). Elsevier Inc. https://doi.org/10.1016/j.pmedr.2018.11.013
+-	Choron, R. L., & Sakran, J. V. (2019). The Integration of Electric Scooters: Useful Technology or Public Health Problem? American Journal of Public Health, 109(4), 555–556. https://doi.org/10.2105/AJPH.2019.304955
+-	Gössling, S. (2020). Integrating e-scooters in urban transportation: Problems, policies, and the prospect of system change. Transportation Research Part D: Transport and Environment, 79(January), 102230. https://doi.org/10.1016/j.trd.2020.102230
+-	James, O., Swiderski, J., Hicks, J., Teoman, D., & Buehler, R. (2019). Pedestrians and E-Scooters: An Initial Look at E-Scooter Parking and Perceptions by Riders and Non-Riders. Sustainability, 11(20), 5591. https://doi.org/10.3390/su11205591
+-	Laa, B., & Leth, U. (2020). Survey of E-scooter users in Vienna: Who they are and how they ride. Journal of Transport Geography, 89(October), 102874. https://doi.org/10.1016/j.jtrangeo.2020.102874
+-	Le Figaro. (2018, September 9). Trottinettes: la mairie de Paris veut une réglementation nationale. https://www.lefigaro.fr/flash-eco/2018/09/09/97002-20180909FILWWW00064-trottinettes-la-mairie-de-paris-veut-une-reglementation-nationale.php
+-	Liew, Y. K., Wee, C. P. J., & Pek, J. H. (2020). New peril on our roads: A retrospective study of electric scooter-related injuries. Singapore Medical Journal, 61(2), 92–95. https://doi.org/10.11622/smedj.2019083
+-	Négroni, A. (2019, June 6). Paris: Hidalgo prend des mesures contre les trottinettes électriques. https://www.lefigaro.fr/actualite-france/trottinettes-paris-prend-des-mesures-20190606
+-	OECD/ITF. (2020). Safe Micromobility. 98. https://www.itf-oecd.org/safe-micromobility
+-	Oeschger, G., Carroll, P., & Caulfield, B. (2020). Micromobility and public transport integration: The current state of knowledge. Transportation Research Part D: Transport and Environment, 89, 102628. https://doi.org/10.1016/j.trd.2020.102628
+-	Portland Bureau of Transportation. (2019). 2018 E-Scooter Findings Report. https://www.portlandoregon.gov/transportation/article/709719%0Ahttps://trid.trb.org/view/1607260
+-	Schwarz, R. (2019, July 27). E-Bikes und E-Scooter sind viel zu schnell! - Ideen-Blog - derStandard.at › Diskurs. https://www.derstandard.at/story/2000106514149/e-bikes-und-e-scooter-sind-viel-zu-schnell
+-	Siegfried, C., Martin, B., & Reichenberger, Y. (2021). Consumer acceptance of shared e-scooters for urban and short-distance mobility. Transportation Research Part D, 91(January), 102680. https://doi.org/10.1016/j.trd.2020.102680
+-	Sikka, N., Vila, C., Stratton, M., Ghassemi, M., & Pourmand, A. (2019). Sharing the sidewalk: A case of E-scooter related pedestrian injury. American Journal of Emergency Medicine, 37(9), 1807.e5-1807.e7. https://doi.org/10.1016/j.ajem.2019.06.017
+-	Sydsvenskan. (2019, August 30). Elsparkcyklarna minskar cykelstölderna - Sydsvenskan. Available at: https://www.sydsvenskan.se/2019-08-30/elsparkcyklarna-minskar-cykelstolderna [Accessed: 20 January 2021]
+-	Widholm, K. (n.d.). E-Scooter Sharing-System: Roller von Lime, Tier, Bird und Co. Available at: https://www.stadt-wien.at/wien/news/e-scooter-sharing-system-in-wien.html [Accessed: 20 January 2021]
+-	Wiener Linien. (n.d.). Übersicht Tickets | Tickets | Fahrgastinfo | Wiener Linien. Available at: https://www.wienerlinien.at/eportal3/ep/channelView.do/pageTypeId/66526/channelId/-46648 [Accessed: 20 January 2021]
+-	Zagorskas, J., & Burinskiene, M. (2020). Challenges caused by increased use of E-powered personal mobility vehicles in European cities. Sustainability (Switzerland), 12(1), 273. https://doi.org/10.3390/su12010273
+
+## Fahrgemeinschaften (Ride-sharing) {#ride_hailing}
+
+### Synonyme {-}
+
+- Ride hailing: *Fahrtenvermittlung, App-basierte Fahrdienste, Fahrtenbuchung, Fahrdienste auf Abruf, Transportnetzwerkunternehmen (TNCs), Mobilitätsdienstleister (MSPs - mobility service providers)*
+- Ride sharing: *Bildung von Fahrgemeinschaften*
+
+### Definition {-}
+Ride-Sharing und Ride-Hailing sind beide aus der "geteilten Wirtschaft" oder "kollaborativen Wirtschaft" hervorgegangen, die darauf abzielt, nicht ausgelastete Ressourcen gemeinsam zu nutzen, um die Effizienz zu steigern, die Umwelt zu schützen und das Wirtschaftswachstum zu fördern (Tirachini, 2019). <br/>
+
+Ride Hailing (RH) ermöglicht die Buchung einer Fahrt über eine Online-Plattform - in der Regel eine App. Die Plattformen bringen Reisende, die eine bestimmte Fahrt buchen möchten, mit anderen Fahrer:innen zusammen, die bereit sind, diese Fahrt im privaten Auto zu übernehmen, basierend auf ihrem Standort. Fahrdienstplattformen machen den Austausch von Bargeld weitgehend überflüssig und wenden grundlegende wirtschaftliche Prinzipien an, um Angebot und Nachfrage durch dynamische Preisanpassungen in Einklang zu bringen. Dieses ursprüngliche Modell ist jedoch nicht in allen Ländern zulässig. In Österreich beispielsweise ist es nicht erlaubt, Ride Hailing mit dem eigenen Auto anzubieten, sondern nur mit Mietwagen. Seit 2021 müssen die Fahrer:innen außerdem einen Wiener Taxiführerschein besitzen (Uber Technologies Inc., n.d.).<br/>
+
+Ride-Sharing hingegen beschreibt den Vorgang, bei dem sich ein:e Fahrer:in ein Fahrzeug mit mehreren anderen Fahrern teilt, die in dieselbe Richtung fahren wollen. Einige Unternehmen, die Ride Hailing anbieten, bieten auch Ride-Sharing-Dienste an, wie *UberPool* oder *Lyft Shared*, die in der Regel günstiger und aufgrund der höheren Auslastung auch umweltfreundlicher sind (Herzog, 2018). Dynamische Ridesharing-Systeme verwenden Algorithmen, um Fahrer:innen, die in eine ähnliche Richtung fahren wollen, zusammenzubringen und eine gemeinsame Fahrt zu organisieren (Lokhandwala & Cai, 2018).  
+
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Mobile Bürger:innen, Taxifahrer:innen 
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, Privatunternehmen, Verkehrsnetzbetreiber, Softwareanbieter 
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Obwohl das Ride Hailing aus der Sharing Economy hervorgegangen ist, ist es umstritten, ob es sich letztlich positiv auf die Umwelt ausgewirkt hat (Herzog, 2018).<br/>
+
+Jan et al. (2018) argumentieren, dass Ride Hailing einen positiven Einfluss auf die wirtschaftliche Effizienz hat. Da es den öffentlichen Verkehr sowohl ergänzt als auch mit ihm konkurriert, sind seine Auswirkungen auf die Verkehrsüberlastung in der Nähe von Stadtzentren noch unklar. In Bezug auf die Gleichberechtigung verstärkt das Ride Hailing das Problem der digitalen Kluft und wirft Bedenken hinsichtlich Diskriminierung, Datenschutz und Sicherheit auf. Es ist auch umstritten, ob Prosumenten (Produzenten/Konsumenten) von Sharing-Economy-Plattformen ausgebeutet werden, ob Ride-Hailing-Fahrer angemessen entlohnt werden und wie die Rechte von Arbeitnehmern, die auf Abruf arbeiten, besser geschützt werden können. Auch wenn sich Ride Hailing gerne mit einem grünen Image präsentiert, sind die tatsächlichen Umweltauswirkungen noch nicht gründlich untersucht worden. Jin et al. (2018) wiesen zudem auf die Gefahr einer begrifflichen Verwirrung in der Ride-Hailing-Forschung hin. Auf der Grundlage der in der Literatur berichteten Belege argumentieren sie, dass es unwahrscheinlich ist, dass Menschen aufgrund von Ride Hailing aufhören, ein Auto zu besitzen. <br/>
+
+Alisoltani et al. (2012) argumentieren, dass Ridesharing die Verkehrsüberlastung reduzieren kann, allerdings nur, wenn die Fahrtendichte hoch ist, was in der Regel in großräumigen Netzwerken der Fall ist. In kleineren Städten mit einem kleinen oder mittelgroßen Netz ist die Fahrtendichte nicht hoch genug. Wichtig ist, dass die Fahrtendichte als die Gesamtzahl der Fahrten (Ausgangs- und Zielorte) innerhalb von 24 Stunden in einem bestimmten Gebiet definiert ist (Miller & Soberman, 2003).<br/>
+
+Lokhandwala & Cai (2018) verglichen in einer Fallstudie in New York City geteilte automatisierte Fahrzeuge (SAVs) mit traditionellen Taxis und fanden heraus, dass SAVs das Potenzial haben, die Flottengröße in NYC um mehr als 50 % zu reduzieren und die täglichen Treibhausgasemissionen um bis zu 866 MT CO~2~ eq zu verringern.<br/>
+
+Die Studie von Martin et al. (2021) bietet einen aktuellen Überblick über Studien zur Optimierung von Ridesharing. Sie vergleichen verschiedene analytische Ansätze in diesem Forschungsbereich und erörtern das aufkommende Konzept "agiler" Algorithmen, die dazu beitragen könnten, die Anforderungen groß angelegter und dynamischer Optimierungsprobleme für Ridesharing zu bewältigen.<br/>
+
+Die Nichtregierungsorganisation Mothers Against Drunk Driving (MADD) und Uber - eine der bekanntesten Ride-Hailing-Plattformen - veröffentlichten 2015 einen Bericht, in dem sie auf der Grundlage von Studien in Kalifornien argumentieren, dass das Vorhandensein von Uber-Diensten in einer Stadt die Zahl der Unfälle unter Alkoholeinfluss, an denen jüngere Menschen beteiligt sind, verringern kann. Auf der Grundlage einer Studie über die Daten von Seattle argumentieren sie, dass der Markteintritt von Uber in Seattle mit einem Rückgang der Festnahmen wegen Trunkenheit am Steuer um 10 % verbunden war.  
+
+### Aktueller Stand der praktischen Umsetzung {-}
+Die beiden bekanntesten Unternehmen, die in den USA Ride Hailing anbieten, sind *Uber* und *Lyft*. Uber zum Beispiel bietet wiederum verschiedene Dienste an, wie zum Beispiel:
+ 
+-	UberX - erschwingliche Fahrten, von Tür zu Tür, ganz für Sie allein
+-	UberPool - gemeinsame Fahrten, von Tür zu Tür oder mit einem kurzen Fußweg
+-	UberGreen - nachhaltige Fahrten in Elektrofahrzeugen - und viele mehr.
+
+Aufgrund von Vorschriften und Aufständen der lokalen Taxiunternehmen musste Uber sein Geschäftsmodell für europäische Städte anpassen. Andere in West- und Mitteleuropa tätige Ride-Hailing-Plattformen sind *Gett, Bolt, Hailo* oder *Taxilo*. Sie alle unterscheiden sich nur geringfügig und hängen von der Provision ab, die die Fahrer:innen an die jeweilige Plattform zahlen (Khatri, 2020a). <br/>
+
+Vor der Covid-19-Pandemie wuchs der Markt für Ride Hailing schnell. Wie andere Branchen auch, brach der Ride-Hailing-Markt im Jahr 2020 aufgrund der Krise und der damit verbundenen Maßnahmen wie Fahrverbote, soziale Distanzierung usw. weltweit ein. Um zu überleben, begannen einige der größeren Unternehmen, wie z. B. Uber, in die On-Demand-Lebensmittel- und Paketzustellung einzusteigen. Es wird erwartet, dass sich die Branche erholen wird, je nachdem, wie schnell sich die allgemeine Wirtschaft von der Krise erholt. Allerdings wird die Geschwindigkeit je nach Land, Region und sozialer Gruppe unterschiedlich sein. Mit Blick auf die Zeit nach der Krise werden die Fahrer:innen von Ride-Hailing-Fahrzeugen verschiedene Sicherheitsmaßnahmen ergreifen müssen, wie z. B. häufige Hygiene, das Tragen von Masken und die Gewährleistung der Rückverfolgbarkeit, um das Vertrauen der Kund:innen zurückzugewinnen. Mushahid Khatri (2021), Chief Executive Officer von [Yelowsoft]( https://www.yelowsoft.com/) erwartet, "dass sich Ride-Hailing-Unternehmen in Richtung Verkehrsbehörden bewegen werden, um Shuttle- und Busdienste auf Abruf anzubieten". Zweitens ist er der Meinung, dass Ride-Hailing-Unternehmen sicherstellen sollten, dass sie Teil von [MaaS](#maas)) sind (siehe Abschnitt über MaaS) und künstliche Intelligenz (KI) nutzen, um ihre Dienste zu verbessern (Khatri, 2020b).<br/>
+
+Die weltweit größte App für Mitfahrgelegenheiten im Fernverkehr ist *BlaBlaCar*, die 90 Millionen Mitglieder hat. Jedes Quartal nutzen 25 Millionen Reisende weltweit BlaBlaCar, um ihre Autofahrt zu organisieren und so die Reisekosten zu teilen (BlaBlaCar, 2021). Ähnlich wie bei anderen Plattformen, die auf der Sharing Economy basieren, wird die Sicherheit durch ein Bewertungssystem gewährleistet, bei dem die Mitfahrer andere Fahrgäste bewerten können und umgekehrt. <br/>
+
+Die österreichischen Plattformen *GREENDRIVE* und *Carployee* verbinden Fahrer:innen, die für dieselben Unternehmen oder Institutionen arbeiten, mit dem Ziel, durch gemeinsame Fahrten Firmenparkplätze zu sparen und gleichzeitig die Umwelt zu schützen (GREENDRIVE MOBILITY GMBH, 2020; Carployee, 2020). 
+
+
+### Relevante Initiativen in Österreich {-}
+-	[ots.at](https://www.ots.at/presseaussendung/OTS_20210113_OTS0026/free-now-will-als-erste-mobilitaetsplattform-in-europa-bis-2030-null-emissionen-erreichen)
+-	[umweltberatung.a](https://www.umweltberatung.at/carsharing-mitfahrboersen) 
+-	[greendrive.a](https://greendrive.at/premium/#benefits) 
+-	[carployee.com](https://www.carployee.com/#start-section) 
+-	[ummadum.com](https://ummadum.com/) 
+
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table88, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|Verbesserte Zugaenglichkeit|**+**|Gleichheit (*5,10*)|Abdelwahab, 2020; Tirachini, 2019|
+|Systemisch|Weniger Unfaelle durch betrunkene Fahrer:innen|**+**|Gesundheit und Wohlbefinden (*3*)|Uber & MADD, 2015|
+|Systemisch|geringere Emissionen pro Kopf|**+**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Tirachini, 2019|
+|Systemisch|Zunahme des motorisierten Verkehrs und der Verkehrsueberlastung; positive Auswirkungen auf die wirtschaftliche Effizienz |**~**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Tirachini, 2019; Jin et al., 2018 |')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+  ```{r table89, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|7-9|6-9|')
+```
+
+### Offene Fragen {-}
+
+1. Wie können die zunehmenden Bedenken hinsichtlich Diskriminierung, Datenschutz und Sicherheit ausgeräumt werden?
+2. Welche Auswirkungen des Ride-Hailing auf die Verkehrsüberlastung überwiegen die anderen?
+3. Wie können die Umweltauswirkungen von Ride-Hailing zuverlässig und ganzheitlich analysiert werden?
+4. Wie können Ride-Hailing und Ride-Sharing vom privaten Autobesitz abhalten?
+
+### Weitere links {-}
+-	[ots.at](https://www.ots.at/presseaussendung/OTS_20210113_OTS0026/free-now-will-als-erste-mobilitaetsplattform-in-europa-bis-2030-null-emissionen-erreichen)
+-	[umweltberatung.at](https://www.umweltberatung.at/carsharing-mitfahrboersen) 
+-	[greendrive](https://greendrive.at/premium/#benefits)
+-	[carployee](https://www.carployee.com/#start-section)
+-	[ummadum.com](https://ummadum.com/) 
+-	[blablacar](https://www.blablacar.de/)
+-	[uber](https://www.uber.com/at/de/) 
+
+
+### Referenzen {-}
+
+-	Abdelwahab, B. (2020). Ridesharing and Social Inclusion: The Role of Ridesharing in Improving Job Access for Disadvantaged Populations (Doctoral dissertation). 
+-	Alisoltani, N., Leclercq, L., & Zargayouna, M. (2021). Can dynamic ride-sharing reduce traffic congestion?. Transportation research part B: methodological, 145, 212-246.
+-	BlaBlaCar. (2021). Über uns - BlaBlaCar. https://blog.blablacar.de/about-us 
+-	Carployee. (2020). Carployee | Für Unternehmen. https://www.carployee.com/
+-	GREENDRIVE MOBILITY GMBH. (2020). Greendrive - Premiumpaket für Firmen - Fahrgemeinschaften und Mitfahrgelegenheiten. https://greendrive.at/premium/
+-	Herzog, W. (2018, October 18). Ecolane Blog: Ride-hailing vs. ride-sharing: The key difference and why it matters. https://www.ecolane.com/blog/ride-hailing-vs.-ride-sharing-the-key-difference-and-why-it-matters
+-	Jin, S. T., Kong, H., Wu, R., & Sui, D. Z. (2018). Ridesourcing, the sharing economy, and the future of cities. Cities, 76, 96-104.
+-	Khatri, M. (2020a). A closer look at the ride-hailing landscape of the Western and Central Europe. https://www.yelowsoft.com/blog/ride-hailing-landscape-of-western-and-central-europe/
+-	Khatri, M. (2020b). Ride-hailing in 2021: A glimpse into the future. Available at: https://www.yelowsoft.com/blog/ride-hailing-a-glimpse-into-the-future/ [Accessed: 30 March 2021]
+-	Lokhandwala, M., & Cai, H. (2018). Dynamic ride sharing using traditional taxis and shared autonomous taxis: A case study of NYC. Transportation Research Part C: Emerging Technologies, 97, 45-60.
+-	Martins, L. D. C., de la Torre, R., Corlu, C. G., Juan, A. A., & Masmoudi, M. A. (2021). Optimizing ride-sharing operations in smart sustainable cities: Challenges and the need for agile algorithms. Computers & Industrial Engineering, 153, 107080.
+-	Miller, E., & Soberman, R. (2003). Travel Demand.
+-	Tirachini, A. (2019). Ride-hailing, travel behaviour and sustainable mobility: an international review. Transportation, 1-37.
+-	Uber Technologies Inc. (n.d.). Erhalte eine Konzession in Österreich. Available at: https://www.uber.com/at/de/drive/requirements/get-a-license/ [Accessed: 30 March 2021]
+-	Uber, & Mothers Against Drunk Driving (MADD). (2015). MORE OPTIONS. SHIFTING MINDSETS. DRIVING BETTER CHOICES. #ThinkandRide.
+
+
+
+## Passagierdrohnen {#passenger_drones}
+
+### Synonyme {-}
+*urbane Luftmobilität (UAM- urban air mobility), vertikale Starts und Landungen (VTOL - vertical take-off and landing), unbemannte Luftfahrzeuge (UAVs - unmanned aerial vehicles)*
+
+### Definition {-}
+Drohnen oder unbemannte Luftfahrzeuge (UAVs) könnten die ikonischste Technologie des 21. Jahrhunderts werden. Drohnen vereinen drei Schlüsselprinzipien der technologischen Moderne: Datenverarbeitung, Automatisierung und grenzenlose Mobilität. Fähigkeiten, die bisher nur vom Militär genutzt werden konnten, werden nun für den größten Teil der Bevölkerung zugänglich. Die potenziellen Anwendungsfälle für Drohnen reichen von Überwachungs- und Aufklärungsmissionen bis hin zu neuartigen Formen der Logistik und des Personentransports. Die kommerzielle Nutzung von Drohnen ist mit enormen wirtschaftlichen Chancen verbunden. Doch auch wenn Drohnen als Überwachungs- und Erfassungsgeräte in Sicherheitsdiensten, in der Geodäsie oder in der Landwirtschaft bereits weit verbreitet sind, steht ihre Nutzung als Transportmittel noch am Anfang (Kellermann et al., 2020). <br/><br/>
+Lieferdrohnen sind derzeit in der Lage, Gewichte von bis zu 2-3 kg zu heben und Flugmissionen im städtischen Raum durchzuführen (Kellermann et al., 2020). Auch Passagierdrohnen haben bereits die technische Fähigkeit bewiesen, Passagiere innerhalb oder zwischen Städten zu transportieren (LeBeau, 2016; Holt, 2018; Hawkins, 2018). Dies ist nicht nur ein historischer Wendepunkt in der Luftfahrt, sondern auch der Beginn einer neuen Ära, in der sich der flache Luftraum zur "dritten Dimension" des Verkehrs entwickeln könnte (Kellermann et al., 2020).<br/><br/>
+Der Name des neuen Fahrzeugtyps ist noch weit davon entfernt, international vereinbart zu werden. Zur Auswahl stehen mehrere Namen wie Passagierdrohne, bemannter Multikopter, Passenger Air Vehicle (PAV), Electric Vertical Take-off and Landing Aircraft (EVTOL), automatisierte Lufttaxis, unbemannte Lufttaxis, fliegende Autos oder auch noch weitere neue Begriffe (Pramer & Sommavilla, 2020). <br/><br/>
+Die automatisierten Lufttaxis werden eine Mischung aus Hubschrauber und Drohne sein. Das bedeutet aber auch, dass es sich um senkrecht startende und landende (VTOL) Fahrzeuge handeln wird. Es gibt mehrere Gründe, warum die Drohnenindustrie stark gefördert wird. Einer der Gründe ist, dass der Luftraum noch relativ frei von Verkehr ist. Die Gefahr von Kollisionen ist (relativ) gering und Autopiloten für Flugzeuge haben sich längst etabliert. Branchenexperten vermuten daher, dass wir selbstfliegende Lufttaxis noch vor selbstfahrenden Autos sehen könnten. Der Verzicht auf Piloten würde einen Lufttaxidienst noch billiger machen und es mehr Menschen ermöglichen, ihn sich zu leisten (UNIQA, 2019).<br/><br/>
+Die Europäische Kommission schätzt die wirtschaftlichen Auswirkungen bis 2035 auf jährlich 10 Milliarden Euro und rechnet mit der Schaffung von mehr als 100.000 direkten Arbeitsplätzen. Unter Berücksichtigung der indirekten makroökonomischen Auswirkungen in den mit Drohnen verbundenen Branchen rechnet die Kommission sogar mit 250.000 bis 400.000 zusätzlichen Arbeitsplätzen (SESAR, 2016).
+
+### Wichtige Interessensgruppen {-}
+
+- **Betroffene**: Bürger:innen, Versicherungen
+- **Verantwortliche**: Nationale Regierungen, Stadtverwaltungen, Privatunternehmen
+
+### Aktueller Stand der Wissenschaft und Forschung {-}
+Da alle Prototypen im Besitz privater Unternehmen sind und die Technologie aufgrund des Wettbewerbs nicht wirklich geteilt wird, gibt es nur wenige technische Forschungsarbeiten. Die Medienanalyse über Drohnen für den Paket- und Personentransport zeigt, dass sich die Forschung derzeit auf die folgenden Bereiche konzentriert (siehe Tabelle unten):  
+
+```{r table17, echo=FALSE, results='asis'}
+cat('| Themen| Prozentsatz|Anzahl der Studien|
+|:------------:|:-----------:|:------------:|
+|Allgemeine Erhebungen    |   18.9%  |  21   |
+|Logistik (allgemein)  |  18.0%   |  20   |
+|Einstellungs- und Akzeptanzforschung    | 13.5%    |  15   |
+|Recht und Vorschriften    | 11.7%    |   13  |
+|Ethik und Technikfolgenabschaetzung    | 10.8%    |  12   |
+|Bewertung der Nachhaltigkeit    | 8.1%    |  9   |
+|Stadt- und Verkehrsplanung    |  7.2%   |  8   |
+|Politische Agenda/Strategien    |  6.3%   |   7  |
+|Personenbefoerderung   |  2.7%   |  3   |
+|Humanitaere Logistik    |2.7%     |   3  |') 
+```
+
+Und obwohl es derzeit noch keine automatisierten Lufttaxis gibt, gibt es eine erste Studie, die die Faktoren für die Bereitschaft der Nutzer:innen untersucht, mit automatisierten Lufttaxis zu fliegen. In dieser Studie wurden vier Faktoren ermittelt, die sich als signifikant positiv erwiesen: Vertrautheit, Nutzen, Spaßfaktor, Glücksgefühl und zwei als signifikant negativ: Abneigung gegen neue Technologien und Angst (Winter et al., 2020). <br/><br/>
+Vergleicht man die THG-Emissionen herkömmlicher Autos mit denen von VTOL-Passagierdrohnen, so schneidet die Passagierdrohne ab 35 km tatsächlich etwas besser ab als ein normales Auto. Die Gründe für diesen Break-even-Punkt sind einerseits der energieintensive Start- und Landemodus im Schwebeflug und andererseits die enorme Effizienz des Fluges von Punkt A nach Punkt B. Angesichts der erwarteten erheblichen Zeitersparnis gegenüber dem Auto fahren könnten Passagiere einen Anreiz haben, VTOL-Reisen zu teilen. Daher scheint es wahrscheinlich, dass die durchschnittliche Auslastung von VTOLs größer sein wird als die von herkömmlichen Pkw (Kasliwal et al., 2019).
+
+### Aktueller Stand der praktischen Umsetzung {-}
+An der Entwicklung der unbemannten Lufttaxis arbeiten bereits mehrere Anbieter Das Münchner Start-up *Lilium* hat Anfang Mai 2019 einen anderthalb Tonnen schweren Prototyp erfolgreich vertikal in die Luft steigen lassen und in der Schwebe gehalten. Er klingt wie ein Hubschrauber, sieht aber nicht so aus: Der Lilium Jet hat Tragflächen und 36 vollelektrische Düsenmotoren. Dadurch ist er leiser und energieeffizienter (und sieht futuristischer aus) als ein Hubschrauber. Lilium geht davon aus, dass der kommerzielle Alltagsbetrieb nicht vor 2025 aufgenommen werden kann.<br/><br/>
+Aber *Lilium* ist bei weitem nicht der einzige Hersteller. *Joby Aviation, Volocopter, AeroMobil, Kittyhawk* und *Zee.Aero* sind nur einige der Unternehmen, die darauf hoffen, das erfolgreichste Modell auf den Markt zu bringen. Auch bereits etablierte Unternehmen nehmen das Konzept sehr ernst. Das Mobilitätsunternehmen Uber, die Flugzeughersteller *Airbus* und *Boeing* sowie Autofirmen wie *Daimler* und *Porsche* sind im Rennen (UNIQA, 2019). Einige Hersteller wie Boeing (LeBeau, 2016), Airbus (Hawkins, 2018) und Volocopter (Holt, 2018) haben bereits die ersten Flugtests ihrer Prototypen durchgeführt.<br/><br/>
+Die Europäische Union schlägt vor, dass Unterstützungsdienste wie Flugplanung, Fluggenehmigungen und -freigaben sowie dynamische Luftrauminformationen ab 2022 für den Drohnenflug zur Verfügung stehen sollen. Ab 2027 werden Dienste wie Kollisionsvermeidung und Kapazitätsmanagement in überlasteten Gebieten folgen. Ab 2035, so der Zeitplan der Europäischen Kommission, soll die vollständige Integration von unbemannten Luftfahrzeugen in den kontrollierten Luftraum mit der bemannten Luftfahrt abgeschlossen sein (Wiener Zeitung, 2019).<br/><br/>
+Das Lufttaxi wird in den nächsten zehn Jahren keine Touristenmassen befördern, aber dank des sinkenden Geräuschpegels der Rotoren, die im "normalen Stadtlärm", wie Volocopter behauptet, nicht mehr wahrnehmbar sind, werden sie in der einen oder anderen Millionenmetropole immer öfter zum Einsatz kommen (Pramer & Sommavilla, 2020).
+
+Die erste genehmigte Teststrecke in Österreich für ein unbemanntes Lufttaxi befindet sich in Linz. In Österreich gibt es bereits einen funktionierenden Prototyp, der von *Ehang* in China entwickelt und von *FACC* im Innviertel gebaut wurde. Das Flugzeug kostet rund 300.000 Euro, wiegt 360 Kilo, ist mit 16 Elektromotoren und 16 Rotoren ausgestattet und soll zwei Personen vollständig automatisiert transportieren. Die Batterien der achtarmigen Drohne reichen für rund 50 Kilometer. In einer eigenen Produktionslinie in Ried sollen bis Ende nächsten Jahres 300 Stück ausgeliefert werden. Damit sie in Europa und auch für die Linz AG abheben können, arbeitet man mit der Austro Control an den "Zulassungsbestimmungen", erklärt FACC-Vorstand Robert Machtlinger. In Linz wurde noch einmal betont, dass diese Art der Personenbeförderung als Ergänzung zu Bus und Bahn gesehen wird. Die Luft ermöglicht in Ballungsräumen die schnellste Verbindung von A nach B. Bevor jedoch in der oberösterreichischen Landeshauptstadt die erste Teststrecke für diesen automatisierten Verkehr eingerichtet wird, muss zunächst der 5G-Mobilfunk installiert werden, was für das Frühjahr 2020 geplant war (DerStandard, 2019).
+
+### Relevante Initiativen in Österreich {-}
+
+- [derbrutkasten.com](https://www.derbrutkasten.com/autonome-lufttaxis-linz-ag-facc-ehang/) 
+- [derstandard.at-1](https://www.derstandard.at/story/2000103120464/erste-teststrecke-fuer-e-lufttaxis-2020-in-linz) 
+- [derstandard.at-2](https://www.derstandard.at/story/2000122402408/flugtaxis-wann-kommt-der-tesla-der-luefte) 
+
+### Auswirkungen in Bezug auf die Ziele für nachhaltige Entwicklung (SDGs) {-}
+
+```{r table18, echo=FALSE, results='asis'}
+cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung des Ziels & SDG|Quelle|
+|:------------:|:-----------:|:------------:|:------------:|:------------:|
+|Individuell|erhebliche Zeitersparnis|**+**|Gesundheit und Wohlbefinden (*3*)|Kasliwal et al., 2019|
+|Individuell|Fuer den allgemeinen Gebrauch duerfte es zu kostspielig sein|**-**|Gleichheit (*5,10*)|Pramer & Sommavilla, 2020|
+|Individuell|Der Flugpreis wird sich voraussichtlich im Bereich eines sehr teuren Taxis einpendeln|          **-**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|Pramer & Sommavilla, 2020|
+|Systemisch|Leicht verringerte Treibhausgasemissionen im Vergleich zu herkoemmlichen Autos ab 35 km|**~**|Oekologische Nachhaltigkeit (*7,12,13,15*)|Kasliwal et al., 2019|
+|Systemisch|Hoehere Investitionen bis 2035 und Schaffung von Arbeitsplaetzen|          **+**|Nachhaltige wirtschaftliche Entwicklung (*8,11*)|SESAR, 2016|
+|Systemisch|Stationaere Bereiche fuer Sicherheitskontrollen|          **~**|Innovation und Infrastruktur (*9*)|Pramer & Sommavilla, 2020|')
+```
+
+### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
+
+```{r table19, echo=FALSE, results='asis'}
+cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
+|:----:|:----:|
+|5-6|1-3|')
+```
+
+### Offene Fragen {-}
+
+1. Wer wird die Vorschriften für Passagierdrohnen entwickeln?
+2. Wie viel Platz wird zum Starten und Landen benötigt, und wird sich dieser zwischen den verschiedenen Anbietern unterscheiden?
+3. Welche Arten von Strecken werden durch fliegende Taxis ersetzt werden?
+4. Werden einige Unternehmen zusammenarbeiten und ihre Technologien gemeinsam nutzen?
+5. Welche weiteren Anwendungsbereiche wird es geben?
+6. Welches sind die thematischen Entwicklungsschwerpunkte der nächsten Jahre?
+7. Auf welchen Namen wird man sich international für diese Art von Fahrzeugen einigen?
+
+
+### Referenzen {-}
+-	DerStandard. (2019, May 14). Teststrecke: Erstes unbemanntes Lufttaxi hebt 2020 in Linz ab - Unternehmen - derStandard.at › Wirtschaft. https://www.derstandard.at/story/2000103120464/erste-teststrecke-fuer-e-lufttaxis-2020-in-linz
+-	Holt, K. (2018, October 24). Volocopter will test its autonomous air taxis in Singapore next year | Engadget. https://www.engadget.com/2018-10-24-volocopter-air-taxi-test-singapore-autonomous-drone-helicopter.html
+-	J. Hawkins, A. (2018, February 1). Airbus’ autonomous ‘air taxi’ Vahana completes its first test flight - The Verge. https://www.theverge.com/2018/2/1/16961688/airbus-vahana-evtol-first-test-flight
+-	Kasliwal, A., Furbush, N. J., Gawron, J. H., McBride, J. R., Wallington, T. J., De Kleine, R. D., Kim, H. C., & Keoleian, G. A. (2019). Role of flying cars in sustainable mobility. Nature Communications, 10(1). https://doi.org/10.1038/s41467-019-09426-0
+-	Kellermann, R., Biehle, T., & Fischer, L. (2020). Drones for parcel and passenger transportation: A literature review. Transportation Research Interdisciplinary Perspectives, 4, 100088. https://doi.org/10.1016/j.trip.2019.100088
+-	LeBeau, P. (2016, January 23). Boeing’s first test flight of air taxi a success as it works on Uber Air. https://www.cnbc.com/2019/01/23/boeing-takes-step-in-developing-uber-air--with-successful-test-flight.html
+-	Pramer, P., & Sommavilla, F. (2020, December 11). Flugtaxis: Wann kommt der Tesla der Lüfte? - PodcastEditionZukunft - derStandard.at › EditionZukunft. https://www.derstandard.at/story/2000122402408/flugtaxis-wann-kommt-der-tesla-der-luefte
+-	SESAR. (2016). European Drones Outlook Study. In Single European Sky ATM Research (Issue November). https://doi.org/10.2829/219851
+-	UNIQA. (2019, October 24). Lufttaxis: Die Überflieger im Verkehr | UNIQA Österreich | UNIQA Österreich. https://www.uniqa.at/versicherung/mobilitaet/lufttaxis.html
+-	Wiener Zeitung. (2019, September 20). Regelwerk für autonome Lufttaxis noch offen - Wiener Zeitung Online. https://www.wienerzeitung.at/nachrichten/wirtschaft/oesterreich/2030182-Fliegen-statt-fahren.html
+-	Winter, S. R., Rice, S., & Lamb, T. L. (2020). A prediction model of Consumer’s willingness to fly in autonomous air taxis. Journal of Air Transport Management, 89(August), 101926. https://doi.org/10.1016/j.jairtraman.2020.101926
