@@ -487,7 +487,6 @@ cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 - [uitp.org](https://www.uitp.org/topics/light-rail/)
 - [railwaypro.com](https://www.railwaypro.com/wp/)
 - [railway-news.com](https://railway-news.com/)
-- [CO~2~-emmisions](https://ourworldindata.org/CO~2~-emissions-from-transport)
 - [lrta.org](http://www.lrta.org/) 
 - [mobility.siemens.com](https://www.mobility.siemens.com/global/en/portfolio/rail/rolling-stock/trams-and-light-rail/autonomous-tram.html)
 - [metroautomation.org](https://metroautomation.org/what-makes-automation-possible/)
