@@ -3,7 +3,7 @@
 ## Car sharing {#car_sharing}
 
 ### Synonyme {-}
-*Car-Sharing-System, CSS*
+*Car-Sharing-System, CSS, [car-sharing projects](http://changemobility.at/wiki/index.php?title=Mobilit%C3%A4t_im_l%C3%A4ndlichen_Raum#Projekte)*
 
 ### Definition {-}
 In den letzten Jahren hat das Wachstum von Carsharing-Diensten als neue und nachhaltigere Art des Reisens zu einer Verlagerung der privaten Mobilität vom Besitz hin zur Nutzung von Dienstleistungen geführt. Die Grundidee des Carsharings ist recht einfach: die gemeinsame Nutzung einer Fahrzeugflotte durch die Mitglieder, um Fahrten auf Fahrtenbasis durchzuführen. Obwohl das erste Carsharing-System aus wirtschaftlichen Gründen auf das Jahr 1948 in der Stadt Zürich, Schweiz, zurückgeht, waren andere Versuche mit öffentlichen Carsharing-Systemen in den folgenden Jahren nicht erfolgreich. Mehrere erfolgreiche Carsharing-Systeme wurden in den 1980er Jahren eingeführt und konsolidierten sich Anfang der 1990er Jahre dank der zunehmenden Sensibilisierung der Bürger:innen und eines regelrechten Booms aufgrund der stärkeren Verbreitung von IKT und mobilen Diensten in den 2000er Jahren. Carsharing erhöht die Mobilität von Gemeindemitgliedern, um Ziele zu erreichen, die mit öffentlichen Verkehrsmitteln, zu Fuß oder mit dem Fahrrad nicht erreichbar sind, und schärft gleichzeitig das Bewusstsein der Bürger:innen für die sozialen und ökologischen Auswirkungen der Nutzung von Privatfahrzeugen. Es fördert und unterstützt multimodale Gemeinschaften, indem es eine zusätzliche Transportmöglichkeit bietet. Unter dem Gesichtspunkt des Aufbaus einer nachhaltigen Stadt sind die im Carsharing eingesetzten Fahrzeuge in der Regel kraftstoffeffizient und führen zu positiven Effekten bei der Reduzierung von städtischen Emissionen und Verkehrsstaus (Martin & Shaheen, 2011). <br/>
@@ -92,7 +92,7 @@ cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 ## (E)-Fahrrad-Sharing {#bike_sharing}
 
 ### Synonyme {-}
-*Fahrrad-Verleih-Systeme (FVS), Bike-Sharing-Systeme (BSS), stationsbasierte Bike-Sharing-Systeme (SBBSS), Free-Floating-Bike-Sharing-Systeme (FFBSS)*
+*Fahrrad-Verleih-Systeme (FVS), Bike-Sharing-Systeme (BSS), stationsbasierte Bike-Sharing-Systeme (SBBSS), Free-Floating-Bike-Sharing-Systeme (FFBSS), [Pop-up-Rad](http://changemobility.at/wiki/index.php?title=Gestaltung_%C3%B6ffentlicher_R%C3%A4ume#Pop-up-Rad-_und_-Fu.C3.9Fwege), [Aktive Mobilität](http://changemobility.at/wiki/index.php?title=Aktive_Mobilit%C3%A4t)*
 
 ### Definition {-}
 Bike-Sharing-Systeme sind in den letzten zehn Jahren zu einem wichtigen Bestandteil der städtischen Verkehrspolitik geworden, wie der Anstieg der Zahl der Fahrräder in den Großstädten der Welt zeigt. Das Konzept des Bike-Sharings ist ein Service, der es Einzelpersonen ermöglicht, sich bequem mit dem Fahrrad fortzubewegen, ohne ein eigenes Fahrrad zu besitzen. Das Fahrrad ist ein energieeffizientes, sicheres, CO~2~-neutrales und platzsparendes Verkehrsmittel. Es hat einen geringen ökologischen Fußabdruck (wenn es benutzt wird). In städtischen Gebieten ist es für kurze Strecken eine gute Alternative zum Auto. Für längere Fahrten oder für den Weg zur Arbeit in der Stadt ist es eine hervorragende Ergänzung zu den öffentlichen Verkehrsmitteln. Obwohl zu Beginn des 21. Jahrhunderts die meisten FVS angedockt waren, bestehen die heutigen FVS sowohl aus stationsbasierten als auch aus stationslosen FVS, die in letzter Zeit in mehreren Städten wie London, New York, San Francisco, Peking und vielen anderen entstanden sind (El Arbi und Stephane, 2020).<br/><br/>
@@ -236,7 +236,7 @@ cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung
 
 ### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
 
-  ```{r table16, echo=FALSE, results='asis'}
+```{r table16, echo=FALSE, results='asis'}
 cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 |:----:|:----:|
 |7-9|7-9|')
@@ -336,7 +336,7 @@ cat('| Ebene der Auswirkungen| Indikator|Richtung der Auswirkungen| Beschreibung
 
 ### Technologie- und gesellschaftlicher Bereitschaftsgrad {-}
 
-  ```{r table89, echo=FALSE, results='asis'}
+```{r table89, echo=FALSE, results='asis'}
 cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 |:----:|:----:|
 |7-9|6-9|')

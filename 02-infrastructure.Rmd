@@ -435,7 +435,7 @@ cat('|Stand der Technologiebereitschaft| Stand der Technologiebereitschaft|
 ## Fahrspuren für Fahrzeuge mit hohem Besetzungsgrad (high-occupancy vehicle - HOV) {#high_occupancy}
 
 ### Synonyme {-}
-*Fahrzeug mit hohem Besetzungsgrad (HOV - high-occupancy vehicle), Fahrspur für Fahrgemeinschaften, Pendlerspur, Diamantspur, Expressspur, Transitspur*
+*Fahrzeug mit hohem Besetzungsgrad (HOV - high-occupancy vehicle), Fahrspur für Fahrgemeinschaften, Pendlerspur, Diamantspur, Expressspur, Transitspur, [Maut & Vignette](http://changemobility.at/wiki/index.php?title=Regularien#Maut.26Vignette)*
 
 ### Definition {-}
 High-Occupancy-Vehicle-Spuren (HOV) sind besondere Fahrspuren auf Autobahnen, die Fahrzeugen mit zwei oder mehreren Passagieren vorbehalten sind. Sie existieren seit den späten 1960er Jahren, hauptsächlich in den USA und Kanada, und sind in der Regel durch Rautensymbole auf der Fahrbahn und entsprechende Verkehrsschilder gekennzeichnet. In einigen Fällen sind auch andere Sonderfahrzeuge wie Motorräder, Transit- und Charterbusse, Not- und Polizeifahrzeuge, schadstoffarme Fahrzeuge, Hybridfahrzeuge oder Fahrzeuge mit alternativen Kraftstoffen und/oder Einzelfahrzeuge (SOV) auf den HOV-Spuren zugelassen. Diese Fahrspuren sollen die Bildung von Fahrgemeinschaften fördern (siehe [ride hailing & ride sharing]( #ride_hailing)) und so die Auslastung der Fahrzeuge erhöhen, was zu einer höheren Verkehrseffizienz und gleichzeitig zu geringeren Emissionen führt. Die Nutzung der HOV-Spuren sollte zu einer Fahrzeitersparnis führen, die als Anreiz für Fahrgemeinschaften dient (United States Department of Transportation - Federal Highway Administration, 2008).<br/>

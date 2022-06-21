@@ -3,7 +3,7 @@
 ## Lösungen für die erste und letzte Meile {#flms}
 
 ### Synonyme {-}
-*first/last/only mile (F/L/O mile), first-last mile (FLM)*
+*first/last/only mile (F/L/O mile), first-last mile (FLM), [FLMS](http://changemobility.at/wiki/index.php?title=First/Last_Mile_Services)*
 
 ### Definition {-}
 Die in den letzten Jahren ständig steigende Nachfrage nach Güter- und Personenverkehr hat die negativen Auswirkungen der Mobilität (Staus, Verkehrsunfälle, Luftverschmutzung, Lärm und Kosten des Klimawandels) noch verschärft. Städtische Siedlungen sind aufgrund der höheren Bevölkerungsdichte besonders betroffen. Der Begriff "erste-letzte-Meile" (FLM) bezieht sich auf die erste und letzte Etappe jeder Verkehrsbewegung, sowohl im Personen- als auch im Güterverkehr, die die meisten negativen Auswirkungen und die höchsten Kosten verursachen. Aus planerischer Sicht ist es jedoch nicht einfach, die FLM zu identifizieren, da nicht klar ist, wo die FLM physisch beginnt und wo sie endet. Das FLM-Problem hat seinen Ursprung im Bereich der Telekommunikation, die als erste und letzte Stufe zu Verbraucher:innen definiert ist. In den 1970er und 1980er Jahren mussten die Kabelfernsehunternehmen jeden Haushalt einzeln anschließen und verkabeln, als die Technologie in Nordamerika und Europa eingeführt wurde (Nocera et al., 2020).<br/>
@@ -380,6 +380,10 @@ cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 
 ## Mobilität als Dienstleistung - Mobility as a service (Maas) {#maas}
 
+### Synonyme {-}
+*[MaaS](http://changemobility.at/wiki/index.php?title=MaaS_-_Mobility_as_a_Service)*
+
+
 ### Definition {-}
 Nach dem Prinzip "Nutzen statt Besitzen" ist ein Ziel von MaaS, Mobilität als Dienstleistung jederzeit und überall mit einem Klick auf einer oder mehreren Online-Plattformen oder Apps verfügbar zu machen. Diese digitalen MaaS-Plattformen oder -Apps sollen Information, Buchung und Bezahlung von Mobilitätsangeboten verschiedener Dienstleister miteinander verknüpfen und so das Angebot von integrierten Mobilitätspaketen ermöglichen. Die Nutzer:innen sollten die Freiheit haben, zwischen verschiedenen physischen Mobilitätsformen zu wählen (Neumann & Rauch, 2021):
 - öffentliche Verkehrsmittel wie Zug, Bus, S-Bahn, Stadtbahn und U-Bahn
@@ -661,7 +665,7 @@ cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 ## Informationen und Unterstützung für Menschen mit besonderen Bedürfnissen {#special_needs}
 ### Synonyme {-}
 
-*Assistierende Technologie*
+*Assistierende Technologie, [Barrieren & Disparitäten](http://changemobility.at/wiki/index.php?title=Barrieren_%26_Disparit%C3%A4ten)*
 
 ### Definition {-}
 Vehmas (2010: 92) definiert, dass ein besonderer Bedarf *"...bedeutet, dass eine Person Merkmale aufweist, bei denen es unwahrscheinlich oder zumindest ungewiss ist, ob sie das Ziel, das den betreffenden Bedarf definiert, ohne besondere Anleitung, ohne ungewöhnliche Verfahren erreichen würde."* Besondere Bedürfnisse können also eine altersbedingte Mobilitätseinschränkung oder jede Art von Behinderung bedeuten.
@@ -756,7 +760,7 @@ cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 ## Mobilitätszentren - Mobility hubs {#mobility_hubs} 
 
 ### Synonyme {-}
-*Mobilitätsstation oder -punkt, Mobihub, (öffentlicher) Ride Point, Smart Station, Sharing Zone, Verkehrszentrum, ÖPNV, Verkehrsknotenpunkt, Ride Port, Share Point, intermodale Knotenpunkte*
+*Mobilitätsstation oder -punkt, Mobihub, (öffentlicher) Ride Point, Smart Station, Sharing Zone, Verkehrszentrum, ÖPNV, Verkehrsknotenpunkt, Ride Port, Share Point, intermodale Knotenpunkte, [Multimodale Mobilität](http://changemobility.at/wiki/index.php?title=Multimodale_Mobilit%C3%A4t)*
 
 ### Definition {-}
 Es gibt viele verschiedene Definitionen von Mobilitätsknotenpunkten. Im Allgemeinen sind Mobilitätsknotenpunkte Orte, an denen man das Verkehrsmittel wechseln kann. Sie können aber auch viel mehr als das sein und sind für das Funktionieren von Mobility as a Service unerlässlich (siehe [Abschnitt Mobilität als Dienstleistung](#maas)). Von Mobilitätsknotenpunkten wird erwartet, dass sie einen bequemen und sicheren Wechsel des Verkehrsträgers ermöglichen, aber sie könnten auch Versorgungslücken schließen, die Erfahrungen der Reisenden verbessern und die Lebensqualität in einem bestimmten Gebiet erhöhen (Clemens, 2020). Flughäfen, Bahnhöfe und U-Bahn-Stationen umfassen in der Regel Parkplätze und Autovermietungen, Bushaltestellen und Taxistände sowie Restaurants, Geschäfte, Hotels oder sogar Konferenzzentren, die von der Erreichbarkeit durch Handel und Waren profitieren. Sie stellen sogenannte *"natürlich"* gewachsene Megahubs dar (Clemens, 2020). Darüber hinaus planen und realisieren Kommunen weltweit systematisch weitere Mobilitätsknotenpunkte unterschiedlicher Größe - von einer kleinen Bushaltestelle mit angeschlossener Bike-Sharing-Station bis hin zu einem Mega-Hub wie oben beschrieben. Sie sollen die intermodale Mobilität verbessern und sozioökonomische Vorteile bringen (Clemens, 2020). Spezifische Namen und ein starkes visuelles Branding sollen den Fahrgästen helfen, sie schnell zu erkennen.<br/>

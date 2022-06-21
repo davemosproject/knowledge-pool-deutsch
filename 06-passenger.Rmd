@@ -73,7 +73,7 @@ cat('|Stand der Technologiebereitschaft| Gesellschaftlicher Bereitschaftsgrad|
 ## Multimodale Informationen und Routenplanung {#info_and_route_planning}
 
 ### Synonyms {-}
-*Multi-Modal Transport Information Services (MMTIS)*
+*Multi-Modal Transport Information Services (MMTIS), [Mobilitätsinformationen](http://changemobility.at/wiki/index.php?title=Mobilit%C3%A4tsinformationen)*
 
 ### Definition {-}
 Informationssysteme, die einen zuverlässigen, effizienten Betrieb und weithin zugängliche, genaue Fahrgastinformationen gewährleisten, sind für die Nutzung öffentlicher Verkehrsmittel unerlässlich. Diese Systeme werden für eine Reihe spezifischer Zwecke eingesetzt, z. B. für die Erstellung von Fahrplänen, die Verwaltung des Fuhrparks, die Ausstellung von Fahrscheinen und Quittungen und die Bereitstellung von Echtzeitinformationen über den Betrieb der Dienste (Europäische Kommission, n.d. b). Besonders wichtig ist dies für den multimodalen Verkehr, bei dem die Fahrgäste während einer einzigen Fahrt mehrere Verkehrsträger oder Systembetreiber nutzen. Daher ist es wichtig, genaue Informationen bereitzustellen, um ein reibungsloses Umsteigen zu gewährleisten und die Wartezeiten zu minimieren.<br/>

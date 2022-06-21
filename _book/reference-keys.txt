@@ -59,7 +59,7 @@ automated_road_freight
 automatic_train
 onboard
 adas
-synonyme-28
+synonyme-29
 weitere-links-28
 parking_assistance
 lane_keeping
